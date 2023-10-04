@@ -1,0 +1,3899 @@
+>Cluster 0
+0	15455nt, >chromosome_5_(dbseq-nr_4)_[5479277,5494731]... *
+>Cluster 1
+0	15287nt, >chromosome_4_(dbseq-nr_3)_[1130943,1146229]... *
+>Cluster 2
+0	15258nt, >chromosome_8_(dbseq-nr_7)_[2046357,2061614]... *
+>Cluster 3
+0	15231nt, >chromosome_6_(dbseq-nr_5)_[4158233,4173463]... *
+>Cluster 4
+0	15218nt, >chromosome_2_(dbseq-nr_1)_[6630492,6645709]... *
+>Cluster 5
+0	15211nt, >chromosome_6_(dbseq-nr_5)_[6233655,6248865]... *
+>Cluster 6
+0	15151nt, >chromosome_10_(dbseq-nr_9)_[2262752,2277902]... *
+>Cluster 7
+0	15151nt, >chromosome_10_(dbseq-nr_9)_[4118710,4133860]... *
+>Cluster 8
+0	15132nt, >chromosome_5_(dbseq-nr_4)_[6404395,6419526]... *
+>Cluster 9
+0	15101nt, >chromosome_5_(dbseq-nr_4)_[2514558,2529658]... *
+>Cluster 10
+0	15078nt, >chromosome_6_(dbseq-nr_5)_[4246258,4261335]... *
+>Cluster 11
+0	15066nt, >chromosome_4_(dbseq-nr_3)_[4439598,4454663]... *
+>Cluster 12
+0	15060nt, >chromosome_7_(dbseq-nr_6)_[1609324,1624383]... *
+>Cluster 13
+0	15000nt, >chromosome_2_(dbseq-nr_1)_[7411118,7426117]... *
+>Cluster 14
+0	14948nt, >chromosome_3_(dbseq-nr_2)_[5081942,5096889]... *
+>Cluster 15
+0	14934nt, >chromosome_7_(dbseq-nr_6)_[4179850,4194783]... *
+>Cluster 16
+0	14923nt, >chromosome_9_(dbseq-nr_8)_[4407464,4422386]... *
+>Cluster 17
+0	14909nt, >chromosome_9_(dbseq-nr_8)_[8779575,8794483]... *
+>Cluster 18
+0	14861nt, >chromosome_5_(dbseq-nr_4)_[5399335,5414195]... *
+>Cluster 19
+0	14800nt, >chromosome_4_(dbseq-nr_3)_[8174749,8189548]... *
+>Cluster 20
+0	14797nt, >chromosome_12_(dbseq-nr_11)_[130131,144927]... *
+>Cluster 21
+0	14774nt, >chromosome_10_(dbseq-nr_9)_[374195,388968]... *
+>Cluster 22
+0	14713nt, >chromosome_7_(dbseq-nr_6)_[6110198,6124910]... *
+>Cluster 23
+0	14712nt, >chromosome_8_(dbseq-nr_7)_[3614928,3629639]... *
+>Cluster 24
+0	14620nt, >chromosome_6_(dbseq-nr_5)_[4181367,4195986]... *
+>Cluster 25
+0	14619nt, >chromosome_6_(dbseq-nr_5)_[3496222,3510840]... *
+>Cluster 26
+0	14618nt, >chromosome_1_(dbseq-nr_0)_[3838870,3853487]... *
+>Cluster 27
+0	14593nt, >chromosome_12_(dbseq-nr_11)_[4497230,4511822]... *
+>Cluster 28
+0	14576nt, >chromosome_4_(dbseq-nr_3)_[6802256,6816831]... *
+>Cluster 29
+0	14551nt, >chromosome_5_(dbseq-nr_4)_[649532,664082]... *
+>Cluster 30
+0	14551nt, >chromosome_8_(dbseq-nr_7)_[1150633,1165183]... *
+>Cluster 31
+0	14545nt, >chromosome_7_(dbseq-nr_6)_[4270606,4285150]... *
+>Cluster 32
+0	14536nt, >chromosome_7_(dbseq-nr_6)_[4760800,4775335]... *
+>Cluster 33
+0	14513nt, >chromosome_4_(dbseq-nr_3)_[9703619,9718131]... *
+>Cluster 34
+0	14511nt, >chromosome_7_(dbseq-nr_6)_[5971624,5986134]... *
+>Cluster 35
+0	14489nt, >chromosome_10_(dbseq-nr_9)_[2498529,2513017]... *
+>Cluster 36
+0	14474nt, >chromosome_8_(dbseq-nr_7)_[1892304,1906777]... *
+>Cluster 37
+0	14447nt, >chromosome_6_(dbseq-nr_5)_[4985875,5000321]... *
+>Cluster 38
+0	14415nt, >chromosome_3_(dbseq-nr_2)_[1940011,1954425]... *
+>Cluster 39
+0	14411nt, >chromosome_8_(dbseq-nr_7)_[934995,949405]... *
+>Cluster 40
+0	14384nt, >chromosome_10_(dbseq-nr_9)_[4617715,4632098]... *
+>Cluster 41
+0	14367nt, >scaffold_35_(dbseq-nr_34)_[8899,23265]... *
+>Cluster 42
+0	14289nt, >chromosome_9_(dbseq-nr_8)_[1917132,1931420]... *
+>Cluster 43
+0	14259nt, >chromosome_8_(dbseq-nr_7)_[3572080,3586338]... *
+>Cluster 44
+0	14254nt, >chromosome_10_(dbseq-nr_9)_[1075209,1089462]... *
+>Cluster 45
+0	14253nt, >chromosome_4_(dbseq-nr_3)_[8665298,8679550]... *
+>Cluster 46
+0	14226nt, >chromosome_6_(dbseq-nr_5)_[793853,808078]... *
+>Cluster 47
+0	14222nt, >chromosome_10_(dbseq-nr_9)_[239657,253878]... *
+>Cluster 48
+0	14191nt, >chromosome_6_(dbseq-nr_5)_[1355373,1369563]... *
+>Cluster 49
+0	14139nt, >chromosome_12_(dbseq-nr_11)_[4471101,4485239]... *
+>Cluster 50
+0	14122nt, >chromosome_1_(dbseq-nr_0)_[3700802,3714923]... *
+>Cluster 51
+0	14107nt, >chromosome_2_(dbseq-nr_1)_[3461431,3475537]... *
+>Cluster 52
+0	14074nt, >chromosome_9_(dbseq-nr_8)_[4726995,4741068]... *
+>Cluster 53
+0	14023nt, >chromosome_2_(dbseq-nr_1)_[1533200,1547222]... *
+>Cluster 54
+0	14022nt, >chromosome_10_(dbseq-nr_9)_[1606484,1620505]... *
+>Cluster 55
+0	14015nt, >chromosome_5_(dbseq-nr_4)_[4766407,4780421]... *
+>Cluster 56
+0	13972nt, >chromosome_7_(dbseq-nr_6)_[6301017,6314988]... *
+>Cluster 57
+0	13965nt, >chromosome_10_(dbseq-nr_9)_[1284784,1298748]... *
+>Cluster 58
+0	13959nt, >chromosome_4_(dbseq-nr_3)_[3163502,3177460]... *
+>Cluster 59
+0	13948nt, >chromosome_5_(dbseq-nr_4)_[5731796,5745743]... *
+>Cluster 60
+0	13917nt, >chromosome_7_(dbseq-nr_6)_[5029920,5043836]... *
+>Cluster 61
+0	13912nt, >chromosome_3_(dbseq-nr_2)_[1112366,1126277]... *
+>Cluster 62
+0	13902nt, >chromosome_8_(dbseq-nr_7)_[3991261,4005162]... *
+>Cluster 63
+0	13895nt, >chromosome_12_(dbseq-nr_11)_[2194053,2207947]... *
+>Cluster 64
+0	13856nt, >chromosome_9_(dbseq-nr_8)_[1410451,1424306]... *
+>Cluster 65
+0	13826nt, >chromosome_4_(dbseq-nr_3)_[2880722,2894547]... *
+>Cluster 66
+0	13789nt, >chromosome_2_(dbseq-nr_1)_[2529831,2543619]... *
+>Cluster 67
+0	13778nt, >chromosome_5_(dbseq-nr_4)_[5772140,5785917]... *
+>Cluster 68
+0	13778nt, >chromosome_7_(dbseq-nr_6)_[4880429,4894206]... *
+>Cluster 69
+0	13761nt, >chromosome_6_(dbseq-nr_5)_[2776568,2790328]... *
+>Cluster 70
+0	13750nt, >chromosome_5_(dbseq-nr_4)_[3657013,3670762]... *
+>Cluster 71
+0	13720nt, >chromosome_6_(dbseq-nr_5)_[6491466,6505185]... *
+>Cluster 72
+0	13718nt, >chromosome_6_(dbseq-nr_5)_[424737,438454]... *
+>Cluster 73
+0	13709nt, >chromosome_12_(dbseq-nr_11)_[3781245,3794953]... *
+>Cluster 74
+0	13682nt, >chromosome_6_(dbseq-nr_5)_[998112,1011793]... *
+>Cluster 75
+0	13643nt, >chromosome_11_(dbseq-nr_10)_[3051726,3065368]... *
+>Cluster 76
+0	13638nt, >chromosome_5_(dbseq-nr_4)_[5022696,5036333]... *
+>Cluster 77
+0	13632nt, >chromosome_9_(dbseq-nr_8)_[4032847,4046478]... *
+>Cluster 78
+0	13616nt, >chromosome_8_(dbseq-nr_7)_[417868,431483]... *
+>Cluster 79
+0	13602nt, >chromosome_5_(dbseq-nr_4)_[6663320,6676921]... *
+>Cluster 80
+0	13527nt, >chromosome_7_(dbseq-nr_6)_[6360363,6373889]... *
+>Cluster 81
+0	13517nt, >chromosome_3_(dbseq-nr_2)_[1139498,1153014]... *
+>Cluster 82
+0	13511nt, >chromosome_10_(dbseq-nr_9)_[3639437,3652947]... *
+>Cluster 83
+0	13501nt, >chromosome_11_(dbseq-nr_10)_[36840,50340]... *
+>Cluster 84
+0	13473nt, >chromosome_2_(dbseq-nr_1)_[290740,304212]... *
+>Cluster 85
+0	13468nt, >chromosome_3_(dbseq-nr_2)_[5125733,5139200]... *
+>Cluster 86
+0	13452nt, >chromosome_10_(dbseq-nr_9)_[508014,521465]... *
+>Cluster 87
+0	13450nt, >chromosome_3_(dbseq-nr_2)_[2324705,2338154]... *
+>Cluster 88
+0	13449nt, >chromosome_10_(dbseq-nr_9)_[2031712,2045160]... *
+>Cluster 89
+0	13443nt, >chromosome_6_(dbseq-nr_5)_[5832186,5845628]... *
+>Cluster 90
+0	13442nt, >chromosome_12_(dbseq-nr_11)_[1043098,1056539]... *
+>Cluster 91
+0	13429nt, >chromosome_12_(dbseq-nr_11)_[1771919,1785347]... *
+>Cluster 92
+0	13427nt, >chromosome_5_(dbseq-nr_4)_[3682943,3696369]... *
+>Cluster 93
+0	13405nt, >chromosome_11_(dbseq-nr_10)_[910601,924005]... *
+>Cluster 94
+0	13402nt, >chromosome_2_(dbseq-nr_1)_[7959416,7972817]... *
+>Cluster 95
+0	13353nt, >chromosome_9_(dbseq-nr_8)_[4959103,4972455]... *
+>Cluster 96
+0	13351nt, >chromosome_8_(dbseq-nr_7)_[2070789,2084139]... *
+>Cluster 97
+0	13310nt, >chromosome_1_(dbseq-nr_0)_[1743405,1756714]... *
+>Cluster 98
+0	13273nt, >chromosome_9_(dbseq-nr_8)_[7829320,7842592]... *
+>Cluster 99
+0	13253nt, >chromosome_1_(dbseq-nr_0)_[3036933,3050185]... *
+>Cluster 100
+0	13251nt, >chromosome_9_(dbseq-nr_8)_[1621484,1634734]... *
+>Cluster 101
+0	13249nt, >chromosome_4_(dbseq-nr_3)_[3968277,3981525]... *
+>Cluster 102
+0	13246nt, >chromosome_9_(dbseq-nr_8)_[4088166,4101411]... *
+>Cluster 103
+0	13211nt, >chromosome_12_(dbseq-nr_11)_[1585769,1598979]... *
+>Cluster 104
+0	13180nt, >chromosome_2_(dbseq-nr_1)_[4381467,4394646]... *
+>Cluster 105
+0	13177nt, >chromosome_5_(dbseq-nr_4)_[1745047,1758223]... *
+>Cluster 106
+0	13159nt, >chromosome_6_(dbseq-nr_5)_[6623229,6636387]... *
+>Cluster 107
+0	13147nt, >chromosome_7_(dbseq-nr_6)_[2215925,2229071]... *
+>Cluster 108
+0	13145nt, >chromosome_2_(dbseq-nr_1)_[7308107,7321251]... *
+>Cluster 109
+0	13132nt, >chromosome_7_(dbseq-nr_6)_[6183498,6196629]... *
+>Cluster 110
+0	13131nt, >chromosome_11_(dbseq-nr_10)_[2610390,2623520]... *
+>Cluster 111
+0	13130nt, >chromosome_2_(dbseq-nr_1)_[105736,118865]... *
+>Cluster 112
+0	13095nt, >chromosome_5_(dbseq-nr_4)_[2606079,2619173]... *
+>Cluster 113
+0	13072nt, >chromosome_7_(dbseq-nr_6)_[1058142,1071213]... *
+>Cluster 114
+0	13061nt, >chromosome_1_(dbseq-nr_0)_[2907238,2920298]... *
+>Cluster 115
+0	13054nt, >chromosome_9_(dbseq-nr_8)_[10705744,10718797]... *
+>Cluster 116
+0	13043nt, >chromosome_4_(dbseq-nr_3)_[6361870,6374912]... *
+>Cluster 117
+0	13030nt, >chromosome_6_(dbseq-nr_5)_[4790032,4803061]... *
+>Cluster 118
+0	13014nt, >chromosome_10_(dbseq-nr_9)_[1745218,1758231]... *
+>Cluster 119
+0	13006nt, >chromosome_2_(dbseq-nr_1)_[7649631,7662636]... *
+>Cluster 120
+0	12990nt, >chromosome_6_(dbseq-nr_5)_[3260233,3273222]... *
+>Cluster 121
+0	12963nt, >chromosome_4_(dbseq-nr_3)_[9050498,9063460]... *
+>Cluster 122
+0	12951nt, >chromosome_2_(dbseq-nr_1)_[2396546,2409496]... *
+>Cluster 123
+0	12928nt, >chromosome_2_(dbseq-nr_1)_[5393913,5406840]... *
+>Cluster 124
+0	12926nt, >chromosome_3_(dbseq-nr_2)_[3935243,3948168]... *
+>Cluster 125
+0	12897nt, >chromosome_8_(dbseq-nr_7)_[2843998,2856894]... *
+>Cluster 126
+0	12892nt, >chromosome_9_(dbseq-nr_8)_[1691214,1704105]... *
+>Cluster 127
+0	12888nt, >chromosome_4_(dbseq-nr_3)_[1416408,1429295]... *
+>Cluster 128
+0	12886nt, >chromosome_10_(dbseq-nr_9)_[3827498,3840383]... *
+>Cluster 129
+0	12752nt, >chromosome_5_(dbseq-nr_4)_[1487464,1500215]... *
+>Cluster 130
+0	12726nt, >chromosome_3_(dbseq-nr_2)_[1254150,1266875]... *
+>Cluster 131
+0	12712nt, >chromosome_12_(dbseq-nr_11)_[2642612,2655323]... *
+>Cluster 132
+0	12690nt, >chromosome_4_(dbseq-nr_3)_[5641129,5653818]... *
+>Cluster 133
+0	12685nt, >chromosome_4_(dbseq-nr_3)_[8150178,8162862]... *
+>Cluster 134
+0	12644nt, >chromosome_3_(dbseq-nr_2)_[2811842,2824485]... *
+>Cluster 135
+0	12628nt, >chromosome_2_(dbseq-nr_1)_[6945642,6958269]... *
+>Cluster 136
+0	12626nt, >chromosome_7_(dbseq-nr_6)_[3752341,3764966]... *
+>Cluster 137
+0	12621nt, >chromosome_6_(dbseq-nr_5)_[3428113,3440733]... *
+>Cluster 138
+0	12583nt, >chromosome_8_(dbseq-nr_7)_[2201045,2213627]... *
+>Cluster 139
+0	12578nt, >chromosome_3_(dbseq-nr_2)_[5495136,5507713]... *
+>Cluster 140
+0	12547nt, >chromosome_6_(dbseq-nr_5)_[2131606,2144152]... *
+>Cluster 141
+0	12533nt, >chromosome_8_(dbseq-nr_7)_[2825593,2838125]... *
+>Cluster 142
+0	12527nt, >chromosome_7_(dbseq-nr_6)_[1910761,1923287]... *
+>Cluster 143
+0	12493nt, >chromosome_4_(dbseq-nr_3)_[6681519,6694011]... *
+>Cluster 144
+0	12493nt, >chromosome_7_(dbseq-nr_6)_[917098,929590]... *
+>Cluster 145
+0	12478nt, >chromosome_7_(dbseq-nr_6)_[3179061,3191538]... *
+>Cluster 146
+0	12478nt, >chromosome_10_(dbseq-nr_9)_[1231731,1244208]... *
+>Cluster 147
+0	12451nt, >chromosome_2_(dbseq-nr_1)_[2495202,2507652]... *
+>Cluster 148
+0	12440nt, >chromosome_5_(dbseq-nr_4)_[2065154,2077593]... *
+>Cluster 149
+0	12423nt, >chromosome_6_(dbseq-nr_5)_[3675688,3688110]... *
+>Cluster 150
+0	12400nt, >chromosome_10_(dbseq-nr_9)_[4680571,4692970]... *
+>Cluster 151
+0	12399nt, >chromosome_3_(dbseq-nr_2)_[6997558,7009956]... *
+>Cluster 152
+0	12376nt, >chromosome_3_(dbseq-nr_2)_[6569115,6581490]... *
+>Cluster 153
+0	12361nt, >chromosome_10_(dbseq-nr_9)_[623568,635928]... *
+>Cluster 154
+0	12320nt, >chromosome_2_(dbseq-nr_1)_[342828,355147]... *
+>Cluster 155
+0	12307nt, >chromosome_12_(dbseq-nr_11)_[3166237,3178543]... *
+>Cluster 156
+0	12263nt, >chromosome_6_(dbseq-nr_5)_[3579419,3591681]... *
+>Cluster 157
+0	12258nt, >chromosome_2_(dbseq-nr_1)_[5526051,5538308]... *
+>Cluster 158
+0	12226nt, >chromosome_9_(dbseq-nr_8)_[10855935,10868160]... *
+>Cluster 159
+0	12216nt, >chromosome_1_(dbseq-nr_0)_[3595748,3607963]... *
+>Cluster 160
+0	12210nt, >chromosome_10_(dbseq-nr_9)_[5107432,5119641]... *
+>Cluster 161
+0	12186nt, >chromosome_6_(dbseq-nr_5)_[1643077,1655262]... *
+>Cluster 162
+0	12182nt, >chromosome_11_(dbseq-nr_10)_[668686,680867]... *
+>Cluster 163
+0	12172nt, >chromosome_9_(dbseq-nr_8)_[552120,564291]... *
+>Cluster 164
+0	12154nt, >chromosome_4_(dbseq-nr_3)_[3036763,3048916]... *
+>Cluster 165
+0	12139nt, >chromosome_7_(dbseq-nr_6)_[5772412,5784550]... *
+>Cluster 166
+0	12132nt, >chromosome_10_(dbseq-nr_9)_[2840806,2852937]... *
+>Cluster 167
+0	12123nt, >chromosome_2_(dbseq-nr_1)_[2917592,2929714]... *
+>Cluster 168
+0	12119nt, >chromosome_11_(dbseq-nr_10)_[1032854,1044972]... *
+>Cluster 169
+0	12115nt, >chromosome_10_(dbseq-nr_9)_[4026381,4038495]... *
+>Cluster 170
+0	12082nt, >chromosome_9_(dbseq-nr_8)_[4984783,4996864]... *
+>Cluster 171
+0	12078nt, >chromosome_3_(dbseq-nr_2)_[4170863,4182940]... *
+>Cluster 172
+0	12075nt, >chromosome_5_(dbseq-nr_4)_[1102680,1114754]... *
+>Cluster 173
+0	12052nt, >chromosome_3_(dbseq-nr_2)_[1923919,1935970]... *
+>Cluster 174
+0	12048nt, >chromosome_4_(dbseq-nr_3)_[5554280,5566327]... *
+>Cluster 175
+0	12040nt, >chromosome_9_(dbseq-nr_8)_[5992201,6004240]... *
+>Cluster 176
+0	12036nt, >chromosome_6_(dbseq-nr_5)_[2257948,2269983]... *
+>Cluster 177
+0	12020nt, >chromosome_7_(dbseq-nr_6)_[3452035,3464054]... *
+>Cluster 178
+0	11985nt, >chromosome_8_(dbseq-nr_7)_[3466343,3478327]... *
+>Cluster 179
+0	11970nt, >chromosome_8_(dbseq-nr_7)_[3162014,3173983]... *
+>Cluster 180
+0	11967nt, >chromosome_3_(dbseq-nr_2)_[5035687,5047653]... *
+>Cluster 181
+0	11948nt, >chromosome_9_(dbseq-nr_8)_[10264408,10276355]... *
+>Cluster 182
+0	11931nt, >chromosome_4_(dbseq-nr_3)_[1440068,1451998]... *
+>Cluster 183
+0	11928nt, >chromosome_4_(dbseq-nr_3)_[626346,638273]... *
+>Cluster 184
+0	11898nt, >chromosome_9_(dbseq-nr_8)_[2844672,2856569]... *
+>Cluster 185
+0	11890nt, >chromosome_11_(dbseq-nr_10)_[2955812,2967701]... *
+>Cluster 186
+0	11823nt, >chromosome_2_(dbseq-nr_1)_[7977623,7989445]... *
+>Cluster 187
+0	11823nt, >chromosome_8_(dbseq-nr_7)_[451451,463273]... *
+>Cluster 188
+0	11817nt, >chromosome_4_(dbseq-nr_3)_[9364577,9376393]... *
+>Cluster 189
+0	11806nt, >chromosome_3_(dbseq-nr_2)_[1327668,1339473]... *
+>Cluster 190
+0	11776nt, >chromosome_2_(dbseq-nr_1)_[5231870,5243645]... *
+>Cluster 191
+0	11768nt, >chromosome_4_(dbseq-nr_3)_[3061676,3073443]... *
+>Cluster 192
+0	11763nt, >chromosome_1_(dbseq-nr_0)_[1510210,1521972]... *
+>Cluster 193
+0	11758nt, >chromosome_1_(dbseq-nr_0)_[3620374,3632131]... *
+>Cluster 194
+0	11756nt, >chromosome_2_(dbseq-nr_1)_[2431859,2443614]... *
+>Cluster 195
+0	11752nt, >chromosome_3_(dbseq-nr_2)_[1007249,1019000]... *
+>Cluster 196
+0	11733nt, >chromosome_4_(dbseq-nr_3)_[10742324,10754056]... *
+>Cluster 197
+0	11679nt, >chromosome_7_(dbseq-nr_6)_[2008627,2020305]... *
+>Cluster 198
+0	11633nt, >chromosome_12_(dbseq-nr_11)_[1103985,1115617]... *
+>Cluster 199
+0	11623nt, >chromosome_1_(dbseq-nr_0)_[2424319,2435941]... *
+>Cluster 200
+0	11610nt, >chromosome_11_(dbseq-nr_10)_[1892087,1903696]... *
+>Cluster 201
+0	11589nt, >chromosome_5_(dbseq-nr_4)_[440689,452277]... *
+>Cluster 202
+0	11556nt, >chromosome_8_(dbseq-nr_7)_[3756680,3768235]... *
+>Cluster 203
+0	11537nt, >chromosome_7_(dbseq-nr_6)_[4732853,4744389]... *
+>Cluster 204
+0	11508nt, >chromosome_4_(dbseq-nr_3)_[33722,45229]... *
+>Cluster 205
+0	11498nt, >chromosome_3_(dbseq-nr_2)_[7593933,7605430]... *
+>Cluster 206
+0	11441nt, >chromosome_9_(dbseq-nr_8)_[4671447,4682887]... *
+>Cluster 207
+0	11401nt, >chromosome_2_(dbseq-nr_1)_[8017974,8029374]... *
+>Cluster 208
+0	11396nt, >chromosome_6_(dbseq-nr_5)_[2100670,2112065]... *
+>Cluster 209
+0	11360nt, >chromosome_10_(dbseq-nr_9)_[491245,502604]... *
+>Cluster 210
+0	11343nt, >chromosome_1_(dbseq-nr_0)_[2113619,2124961]... *
+>Cluster 211
+0	11330nt, >chromosome_4_(dbseq-nr_3)_[808127,819456]... *
+>Cluster 212
+0	11306nt, >chromosome_2_(dbseq-nr_1)_[1195004,1206309]... *
+>Cluster 213
+0	11297nt, >chromosome_5_(dbseq-nr_4)_[6605368,6616664]... *
+>Cluster 214
+0	11269nt, >chromosome_9_(dbseq-nr_8)_[6949935,6961203]... *
+>Cluster 215
+0	11255nt, >chromosome_9_(dbseq-nr_8)_[10683033,10694287]... *
+>Cluster 216
+0	11239nt, >chromosome_11_(dbseq-nr_10)_[347247,358485]... *
+>Cluster 217
+0	11227nt, >chromosome_7_(dbseq-nr_6)_[3851757,3862983]... *
+>Cluster 218
+0	11197nt, >chromosome_11_(dbseq-nr_10)_[1291123,1302319]... *
+>Cluster 219
+0	11191nt, >chromosome_5_(dbseq-nr_4)_[6637771,6648961]... *
+>Cluster 220
+0	11188nt, >chromosome_11_(dbseq-nr_10)_[4660495,4671682]... *
+>Cluster 221
+0	11185nt, >chromosome_11_(dbseq-nr_10)_[882692,893876]... *
+>Cluster 222
+0	11151nt, >chromosome_7_(dbseq-nr_6)_[4660101,4671251]... *
+>Cluster 223
+0	11148nt, >chromosome_10_(dbseq-nr_9)_[5193132,5204279]... *
+>Cluster 224
+0	11145nt, >chromosome_5_(dbseq-nr_4)_[2715230,2726374]... *
+>Cluster 225
+0	11122nt, >chromosome_6_(dbseq-nr_5)_[5936138,5947259]... *
+>Cluster 226
+0	11116nt, >chromosome_9_(dbseq-nr_8)_[4377734,4388849]... *
+>Cluster 227
+0	11086nt, >chromosome_6_(dbseq-nr_5)_[6752801,6763886]... *
+>Cluster 228
+0	11076nt, >chromosome_4_(dbseq-nr_3)_[10104418,10115493]... *
+>Cluster 229
+0	11066nt, >chromosome_5_(dbseq-nr_4)_[87844,98909]... *
+>Cluster 230
+0	11060nt, >chromosome_9_(dbseq-nr_8)_[2020242,2031301]... *
+>Cluster 231
+0	11054nt, >chromosome_6_(dbseq-nr_5)_[4684180,4695233]... *
+>Cluster 232
+0	11048nt, >chromosome_1_(dbseq-nr_0)_[2844736,2855783]... *
+>Cluster 233
+0	11032nt, >chromosome_9_(dbseq-nr_8)_[3714919,3725950]... *
+>Cluster 234
+0	10999nt, >chromosome_6_(dbseq-nr_5)_[6963313,6974311]... *
+>Cluster 235
+0	10983nt, >chromosome_9_(dbseq-nr_8)_[1994889,2005871]... *
+>Cluster 236
+0	10950nt, >chromosome_9_(dbseq-nr_8)_[2943162,2954111]... *
+>Cluster 237
+0	10934nt, >chromosome_6_(dbseq-nr_5)_[6299003,6309936]... *
+>Cluster 238
+0	10933nt, >chromosome_1_(dbseq-nr_0)_[3821463,3832395]... *
+>Cluster 239
+0	10933nt, >chromosome_10_(dbseq-nr_9)_[953882,964814]... *
+>Cluster 240
+0	10928nt, >chromosome_3_(dbseq-nr_2)_[4679531,4690458]... *
+>Cluster 241
+0	10919nt, >chromosome_2_(dbseq-nr_1)_[501354,512272]... *
+>Cluster 242
+0	10899nt, >chromosome_3_(dbseq-nr_2)_[148049,158947]... *
+>Cluster 243
+0	10879nt, >chromosome_1_(dbseq-nr_0)_[5006477,5017355]... *
+>Cluster 244
+0	10864nt, >chromosome_2_(dbseq-nr_1)_[7047403,7058266]... *
+>Cluster 245
+0	10843nt, >chromosome_4_(dbseq-nr_3)_[5200157,5210999]... *
+>Cluster 246
+0	10821nt, >chromosome_5_(dbseq-nr_4)_[6242300,6253120]... *
+>Cluster 247
+0	10783nt, >chromosome_9_(dbseq-nr_8)_[8165095,8175877]... *
+>Cluster 248
+0	10781nt, >chromosome_9_(dbseq-nr_8)_[9908025,9918805]... *
+>Cluster 249
+0	10753nt, >chromosome_8_(dbseq-nr_7)_[2258296,2269048]... *
+>Cluster 250
+0	10719nt, >chromosome_9_(dbseq-nr_8)_[9734384,9745102]... *
+>Cluster 251
+0	10702nt, >chromosome_11_(dbseq-nr_10)_[2593990,2604691]... *
+>Cluster 252
+0	10671nt, >chromosome_10_(dbseq-nr_9)_[278687,289357]... *
+>Cluster 253
+0	10586nt, >chromosome_8_(dbseq-nr_7)_[899756,910341]... *
+>Cluster 254
+0	10558nt, >chromosome_4_(dbseq-nr_3)_[1784755,1795312]... *
+>Cluster 255
+0	10550nt, >chromosome_6_(dbseq-nr_5)_[3815063,3825612]... *
+>Cluster 256
+0	10533nt, >chromosome_12_(dbseq-nr_11)_[2413421,2423953]... *
+>Cluster 257
+0	10527nt, >chromosome_9_(dbseq-nr_8)_[1728435,1738961]... *
+>Cluster 258
+0	10514nt, >chromosome_8_(dbseq-nr_7)_[2363609,2374122]... *
+>Cluster 259
+0	10497nt, >chromosome_1_(dbseq-nr_0)_[3485697,3496193]... *
+>Cluster 260
+0	10461nt, >chromosome_7_(dbseq-nr_6)_[2164202,2174662]... *
+>Cluster 261
+0	10423nt, >chromosome_2_(dbseq-nr_1)_[1500433,1510855]... *
+>Cluster 262
+0	10412nt, >chromosome_5_(dbseq-nr_4)_[4687869,4698280]... *
+>Cluster 263
+0	10383nt, >chromosome_1_(dbseq-nr_0)_[1598609,1608991]... *
+>Cluster 264
+0	10381nt, >chromosome_4_(dbseq-nr_3)_[2251913,2262293]... *
+>Cluster 265
+0	10381nt, >chromosome_7_(dbseq-nr_6)_[2286541,2296921]... *
+>Cluster 266
+0	10372nt, >chromosome_10_(dbseq-nr_9)_[3881202,3891573]... *
+>Cluster 267
+0	10361nt, >chromosome_3_(dbseq-nr_2)_[8003195,8013555]... *
+>Cluster 268
+0	10347nt, >chromosome_9_(dbseq-nr_8)_[9360952,9371298]... *
+>Cluster 269
+0	10344nt, >chromosome_9_(dbseq-nr_8)_[5073378,5083721]... *
+>Cluster 270
+0	10317nt, >chromosome_9_(dbseq-nr_8)_[5176131,5186447]... *
+>Cluster 271
+0	10289nt, >chromosome_4_(dbseq-nr_3)_[10330298,10340586]... *
+>Cluster 272
+0	10284nt, >chromosome_7_(dbseq-nr_6)_[2661933,2672216]... *
+>Cluster 273
+0	10279nt, >chromosome_2_(dbseq-nr_1)_[6283604,6293882]... *
+>Cluster 274
+0	10276nt, >chromosome_9_(dbseq-nr_8)_[8665098,8675373]... *
+>Cluster 275
+0	10260nt, >chromosome_8_(dbseq-nr_7)_[3232909,3243168]... *
+>Cluster 276
+0	10254nt, >chromosome_4_(dbseq-nr_3)_[2783760,2794013]... *
+>Cluster 277
+0	10246nt, >chromosome_4_(dbseq-nr_3)_[10510158,10520403]... *
+>Cluster 278
+0	10177nt, >chromosome_8_(dbseq-nr_7)_[1538850,1549026]... *
+>Cluster 279
+0	10171nt, >chromosome_10_(dbseq-nr_9)_[664777,674947]... *
+>Cluster 280
+0	10165nt, >chromosome_4_(dbseq-nr_3)_[4882751,4892915]... *
+>Cluster 281
+0	10162nt, >chromosome_4_(dbseq-nr_3)_[2105482,2115643]... *
+>Cluster 282
+0	10161nt, >chromosome_4_(dbseq-nr_3)_[578120,588280]... *
+>Cluster 283
+0	10129nt, >chromosome_6_(dbseq-nr_5)_[4217298,4227426]... *
+>Cluster 284
+0	10104nt, >chromosome_8_(dbseq-nr_7)_[2925417,2935520]... *
+>Cluster 285
+0	10083nt, >scaffold_65_(dbseq-nr_64)_[14475,24557]... *
+>Cluster 286
+0	10053nt, >chromosome_11_(dbseq-nr_10)_[414383,424435]... *
+>Cluster 287
+0	10023nt, >chromosome_12_(dbseq-nr_11)_[3616427,3626449]... *
+>Cluster 288
+0	10018nt, >chromosome_1_(dbseq-nr_0)_[1264322,1274339]... *
+>Cluster 289
+0	10016nt, >chromosome_1_(dbseq-nr_0)_[1488476,1498491]... *
+>Cluster 290
+0	9969nt, >chromosome_11_(dbseq-nr_10)_[483525,493493]... *
+>Cluster 291
+0	9934nt, >chromosome_8_(dbseq-nr_7)_[686682,696615]... *
+>Cluster 292
+0	9933nt, >chromosome_9_(dbseq-nr_8)_[4310270,4320202]... *
+>Cluster 293
+0	9915nt, >chromosome_10_(dbseq-nr_9)_[2406098,2416012]... *
+>Cluster 294
+0	9911nt, >chromosome_11_(dbseq-nr_10)_[770550,780460]... *
+>Cluster 295
+0	9873nt, >chromosome_9_(dbseq-nr_8)_[1205829,1215701]... *
+>Cluster 296
+0	9862nt, >chromosome_12_(dbseq-nr_11)_[2161857,2171718]... *
+>Cluster 297
+0	9838nt, >chromosome_6_(dbseq-nr_5)_[3883419,3893256]... *
+>Cluster 298
+0	9800nt, >chromosome_7_(dbseq-nr_6)_[719869,729668]... *
+>Cluster 299
+0	9777nt, >chromosome_3_(dbseq-nr_2)_[8316197,8325973]... *
+>Cluster 300
+0	9755nt, >chromosome_5_(dbseq-nr_4)_[6448827,6458581]... *
+>Cluster 301
+0	9728nt, >chromosome_12_(dbseq-nr_11)_[3154080,3163807]... *
+>Cluster 302
+0	9718nt, >chromosome_3_(dbseq-nr_2)_[1862378,1872095]... *
+>Cluster 303
+0	9690nt, >chromosome_4_(dbseq-nr_3)_[10775340,10785029]... *
+>Cluster 304
+0	9684nt, >chromosome_9_(dbseq-nr_8)_[1531212,1540895]... *
+>Cluster 305
+0	9665nt, >chromosome_7_(dbseq-nr_6)_[5944381,5954045]... *
+>Cluster 306
+0	9662nt, >chromosome_12_(dbseq-nr_11)_[2220441,2230102]... *
+>Cluster 307
+0	9654nt, >chromosome_4_(dbseq-nr_3)_[1292628,1302281]... *
+>Cluster 308
+0	9634nt, >chromosome_7_(dbseq-nr_6)_[2121925,2131558]... *
+>Cluster 309
+0	9613nt, >chromosome_5_(dbseq-nr_4)_[6503955,6513567]... *
+>Cluster 310
+0	9606nt, >chromosome_8_(dbseq-nr_7)_[1369850,1379455]... *
+>Cluster 311
+0	9586nt, >chromosome_4_(dbseq-nr_3)_[2161953,2171538]... *
+>Cluster 312
+0	9557nt, >chromosome_8_(dbseq-nr_7)_[1944061,1953617]... *
+>Cluster 313
+0	9510nt, >chromosome_4_(dbseq-nr_3)_[8409053,8418562]... *
+>Cluster 314
+0	9481nt, >chromosome_2_(dbseq-nr_1)_[3495495,3504975]... *
+>Cluster 315
+0	9481nt, >chromosome_10_(dbseq-nr_9)_[559699,569179]... *
+>Cluster 316
+0	9481nt, >chromosome_10_(dbseq-nr_9)_[1378956,1388436]... *
+>Cluster 317
+0	9458nt, >chromosome_7_(dbseq-nr_6)_[1771694,1781151]... *
+>Cluster 318
+0	9451nt, >chromosome_6_(dbseq-nr_5)_[3091803,3101253]... *
+>Cluster 319
+0	9423nt, >chromosome_2_(dbseq-nr_1)_[1330152,1339574]... *
+>Cluster 320
+0	9409nt, >chromosome_9_(dbseq-nr_8)_[9121058,9130466]... *
+>Cluster 321
+0	9356nt, >chromosome_8_(dbseq-nr_7)_[2497684,2507039]... *
+>Cluster 322
+0	9352nt, >chromosome_7_(dbseq-nr_6)_[3007356,3016707]... *
+>Cluster 323
+0	9351nt, >chromosome_4_(dbseq-nr_3)_[8303153,8312503]... *
+>Cluster 324
+0	9348nt, >chromosome_9_(dbseq-nr_8)_[10361243,10370590]... *
+>Cluster 325
+0	9342nt, >chromosome_4_(dbseq-nr_3)_[985970,995311]... *
+>Cluster 326
+0	9313nt, >chromosome_7_(dbseq-nr_6)_[2368391,2377703]... *
+>Cluster 327
+0	9300nt, >chromosome_12_(dbseq-nr_11)_[2629505,2638804]... *
+>Cluster 328
+0	9280nt, >chromosome_7_(dbseq-nr_6)_[5325680,5334959]... *
+>Cluster 329
+0	9257nt, >chromosome_12_(dbseq-nr_11)_[442476,451732]... *
+>Cluster 330
+0	9246nt, >chromosome_9_(dbseq-nr_8)_[6464381,6473626]... *
+>Cluster 331
+0	9233nt, >chromosome_7_(dbseq-nr_6)_[2708987,2718219]... *
+>Cluster 332
+0	9218nt, >chromosome_4_(dbseq-nr_3)_[1757891,1767108]... *
+>Cluster 333
+0	9200nt, >chromosome_3_(dbseq-nr_2)_[2466855,2476054]... *
+>Cluster 334
+0	9183nt, >chromosome_4_(dbseq-nr_3)_[694984,704166]... *
+>Cluster 335
+0	9171nt, >chromosome_1_(dbseq-nr_0)_[427244,436414]... *
+>Cluster 336
+0	9162nt, >chromosome_1_(dbseq-nr_0)_[4209303,4218464]... *
+>Cluster 337
+0	9139nt, >chromosome_4_(dbseq-nr_3)_[9856028,9865166]... *
+>Cluster 338
+0	9113nt, >chromosome_9_(dbseq-nr_8)_[5792402,5801514]... *
+>Cluster 339
+0	9111nt, >chromosome_9_(dbseq-nr_8)_[4778847,4787957]... *
+>Cluster 340
+0	9085nt, >chromosome_7_(dbseq-nr_6)_[6008929,6018013]... *
+>Cluster 341
+0	9027nt, >chromosome_2_(dbseq-nr_1)_[62937,71963]... *
+>Cluster 342
+0	8999nt, >chromosome_1_(dbseq-nr_0)_[4291848,4300846]... *
+>Cluster 343
+0	8999nt, >chromosome_5_(dbseq-nr_4)_[5271714,5280712]... *
+>Cluster 344
+0	8985nt, >chromosome_3_(dbseq-nr_2)_[1267119,1276103]... *
+>Cluster 345
+0	8968nt, >chromosome_4_(dbseq-nr_3)_[1087987,1096954]... *
+>Cluster 346
+0	8964nt, >chromosome_5_(dbseq-nr_4)_[4987670,4996633]... *
+>Cluster 347
+0	8947nt, >chromosome_3_(dbseq-nr_2)_[2192455,2201401]... *
+>Cluster 348
+0	8941nt, >chromosome_1_(dbseq-nr_0)_[3122412,3131352]... *
+>Cluster 349
+0	8928nt, >chromosome_6_(dbseq-nr_5)_[1863320,1872247]... *
+>Cluster 350
+0	8928nt, >scaffold_38_(dbseq-nr_37)_[16670,25597]... *
+>Cluster 351
+0	8890nt, >chromosome_10_(dbseq-nr_9)_[2900766,2909655]... *
+>Cluster 352
+0	8848nt, >chromosome_4_(dbseq-nr_3)_[7959676,7968523]... *
+>Cluster 353
+0	8832nt, >chromosome_3_(dbseq-nr_2)_[7400366,7409197]... *
+>Cluster 354
+0	8830nt, >chromosome_9_(dbseq-nr_8)_[3063165,3071994]... *
+>Cluster 355
+0	8825nt, >chromosome_2_(dbseq-nr_1)_[2329300,2338124]... *
+1	7955nt, >scaffold_57_(dbseq-nr_56)_[3170,11124]... at +/97.88%
+>Cluster 356
+0	8789nt, >chromosome_7_(dbseq-nr_6)_[2758397,2767185]... *
+>Cluster 357
+0	8787nt, >chromosome_10_(dbseq-nr_9)_[1709824,1718610]... *
+>Cluster 358
+0	8771nt, >chromosome_10_(dbseq-nr_9)_[1360185,1368955]... *
+>Cluster 359
+0	8764nt, >chromosome_8_(dbseq-nr_7)_[2941935,2950698]... *
+>Cluster 360
+0	8736nt, >chromosome_5_(dbseq-nr_4)_[5200702,5209437]... *
+>Cluster 361
+0	8729nt, >chromosome_12_(dbseq-nr_11)_[4079903,4088631]... *
+>Cluster 362
+0	8728nt, >chromosome_2_(dbseq-nr_1)_[2373142,2381869]... *
+>Cluster 363
+0	8727nt, >chromosome_12_(dbseq-nr_11)_[1421159,1429885]... *
+>Cluster 364
+0	8711nt, >chromosome_6_(dbseq-nr_5)_[3568587,3577297]... *
+>Cluster 365
+0	8697nt, >chromosome_7_(dbseq-nr_6)_[4924008,4932704]... *
+>Cluster 366
+0	8692nt, >chromosome_3_(dbseq-nr_2)_[188971,197662]... *
+>Cluster 367
+0	8686nt, >chromosome_6_(dbseq-nr_5)_[5134649,5143334]... *
+>Cluster 368
+0	8683nt, >chromosome_3_(dbseq-nr_2)_[8118593,8127275]... *
+>Cluster 369
+0	8674nt, >chromosome_3_(dbseq-nr_2)_[2427684,2436357]... *
+>Cluster 370
+0	8669nt, >chromosome_9_(dbseq-nr_8)_[3892495,3901163]... *
+>Cluster 371
+0	8665nt, >chromosome_9_(dbseq-nr_8)_[8451344,8460008]... *
+>Cluster 372
+0	8662nt, >chromosome_4_(dbseq-nr_3)_[5242347,5251008]... *
+>Cluster 373
+0	8659nt, >chromosome_6_(dbseq-nr_5)_[4720392,4729050]... *
+>Cluster 374
+0	8635nt, >chromosome_9_(dbseq-nr_8)_[3640984,3649618]... *
+>Cluster 375
+0	8625nt, >chromosome_10_(dbseq-nr_9)_[879449,888073]... *
+>Cluster 376
+0	8613nt, >chromosome_9_(dbseq-nr_8)_[10002454,10011066]... *
+>Cluster 377
+0	8612nt, >chromosome_9_(dbseq-nr_8)_[7429092,7437703]... *
+>Cluster 378
+0	8610nt, >chromosome_4_(dbseq-nr_3)_[3182790,3191399]... *
+>Cluster 379
+0	8585nt, >chromosome_9_(dbseq-nr_8)_[9985628,9994212]... *
+>Cluster 380
+0	8575nt, >chromosome_1_(dbseq-nr_0)_[2643306,2651880]... *
+>Cluster 381
+0	8557nt, >chromosome_3_(dbseq-nr_2)_[301314,309870]... *
+>Cluster 382
+0	8517nt, >chromosome_1_(dbseq-nr_0)_[808235,816751]... *
+>Cluster 383
+0	8515nt, >chromosome_9_(dbseq-nr_8)_[4230744,4239258]... *
+>Cluster 384
+0	8510nt, >chromosome_11_(dbseq-nr_10)_[2020550,2029059]... *
+>Cluster 385
+0	8496nt, >chromosome_2_(dbseq-nr_1)_[2932060,2940555]... *
+>Cluster 386
+0	8487nt, >chromosome_11_(dbseq-nr_10)_[2788928,2797414]... *
+>Cluster 387
+0	6782nt, >chromosome_1_(dbseq-nr_0)_[445451,452232]... at -/99.68%
+1	8479nt, >chromosome_1_(dbseq-nr_0)_[3257812,3266290]... *
+2	6784nt, >chromosome_1_(dbseq-nr_0)_[4166494,4173277]... at +/99.53%
+3	6780nt, >chromosome_5_(dbseq-nr_4)_[6378569,6385348]... at -/99.72%
+>Cluster 388
+0	8473nt, >chromosome_7_(dbseq-nr_6)_[6200439,6208911]... *
+>Cluster 389
+0	8470nt, >chromosome_9_(dbseq-nr_8)_[3338098,3346567]... *
+>Cluster 390
+0	8470nt, >scaffold_80_(dbseq-nr_79)_[1372,9841]... *
+>Cluster 391
+0	8460nt, >chromosome_7_(dbseq-nr_6)_[6219448,6227907]... *
+>Cluster 392
+0	8452nt, >chromosome_1_(dbseq-nr_0)_[12538,20989]... *
+>Cluster 393
+0	8444nt, >chromosome_7_(dbseq-nr_6)_[3338003,3346446]... *
+>Cluster 394
+0	8427nt, >chromosome_4_(dbseq-nr_3)_[4222437,4230863]... *
+>Cluster 395
+0	8422nt, >chromosome_4_(dbseq-nr_3)_[5621823,5630244]... *
+>Cluster 396
+0	8420nt, >chromosome_1_(dbseq-nr_0)_[2381525,2389944]... *
+>Cluster 397
+0	8418nt, >chromosome_3_(dbseq-nr_2)_[7730667,7739084]... *
+>Cluster 398
+0	8413nt, >chromosome_5_(dbseq-nr_4)_[407543,415955]... *
+>Cluster 399
+0	8407nt, >chromosome_9_(dbseq-nr_8)_[4277323,4285729]... *
+>Cluster 400
+0	8397nt, >chromosome_10_(dbseq-nr_9)_[3000919,3009315]... *
+>Cluster 401
+0	8386nt, >scaffold_32_(dbseq-nr_31)_[10850,19235]... *
+>Cluster 402
+0	8385nt, >chromosome_9_(dbseq-nr_8)_[8353824,8362208]... *
+>Cluster 403
+0	8383nt, >chromosome_2_(dbseq-nr_1)_[3107787,3116169]... *
+>Cluster 404
+0	8383nt, >chromosome_11_(dbseq-nr_10)_[471693,480075]... *
+>Cluster 405
+0	8372nt, >chromosome_2_(dbseq-nr_1)_[77887,86258]... *
+>Cluster 406
+0	8366nt, >chromosome_3_(dbseq-nr_2)_[278684,287049]... *
+>Cluster 407
+0	8363nt, >chromosome_2_(dbseq-nr_1)_[7444527,7452889]... *
+>Cluster 408
+0	8353nt, >chromosome_9_(dbseq-nr_8)_[5931309,5939661]... *
+>Cluster 409
+0	8349nt, >chromosome_8_(dbseq-nr_7)_[1935360,1943708]... *
+>Cluster 410
+0	8349nt, >chromosome_10_(dbseq-nr_9)_[4067788,4076136]... *
+>Cluster 411
+0	8334nt, >chromosome_2_(dbseq-nr_1)_[1586786,1595119]... *
+>Cluster 412
+0	8321nt, >chromosome_4_(dbseq-nr_3)_[5984897,5993217]... *
+>Cluster 413
+0	8309nt, >chromosome_4_(dbseq-nr_3)_[728876,737184]... *
+>Cluster 414
+0	8279nt, >chromosome_3_(dbseq-nr_2)_[3250517,3258795]... *
+>Cluster 415
+0	8272nt, >chromosome_1_(dbseq-nr_0)_[1302799,1311070]... *
+>Cluster 416
+0	8258nt, >chromosome_3_(dbseq-nr_2)_[1437137,1445394]... *
+>Cluster 417
+0	8253nt, >chromosome_10_(dbseq-nr_9)_[4586073,4594325]... *
+>Cluster 418
+0	8248nt, >chromosome_4_(dbseq-nr_3)_[1230442,1238689]... *
+>Cluster 419
+0	8232nt, >chromosome_7_(dbseq-nr_6)_[3882111,3890342]... *
+>Cluster 420
+0	8207nt, >chromosome_9_(dbseq-nr_8)_[3514102,3522308]... *
+>Cluster 421
+0	8203nt, >chromosome_2_(dbseq-nr_1)_[8115772,8123974]... *
+>Cluster 422
+0	8189nt, >chromosome_5_(dbseq-nr_4)_[690080,698268]... *
+>Cluster 423
+0	8189nt, >chromosome_10_(dbseq-nr_9)_[870234,878422]... *
+>Cluster 424
+0	8187nt, >chromosome_1_(dbseq-nr_0)_[3464595,3472781]... *
+>Cluster 425
+0	8177nt, >chromosome_11_(dbseq-nr_10)_[1521797,1529973]... *
+>Cluster 426
+0	8171nt, >chromosome_4_(dbseq-nr_3)_[7298586,7306756]... *
+>Cluster 427
+0	8167nt, >chromosome_3_(dbseq-nr_2)_[5616078,5624244]... *
+>Cluster 428
+0	8156nt, >chromosome_9_(dbseq-nr_8)_[10782857,10791012]... *
+>Cluster 429
+0	8103nt, >chromosome_2_(dbseq-nr_1)_[7386446,7394548]... *
+>Cluster 430
+0	8098nt, >chromosome_1_(dbseq-nr_0)_[4744803,4752900]... *
+>Cluster 431
+0	8088nt, >chromosome_2_(dbseq-nr_1)_[1935648,1943735]... *
+>Cluster 432
+0	8077nt, >chromosome_1_(dbseq-nr_0)_[2686589,2694665]... *
+>Cluster 433
+0	8072nt, >chromosome_11_(dbseq-nr_10)_[4406431,4414502]... *
+>Cluster 434
+0	8070nt, >chromosome_8_(dbseq-nr_7)_[338495,346564]... *
+>Cluster 435
+0	8069nt, >chromosome_10_(dbseq-nr_9)_[453751,461819]... *
+>Cluster 436
+0	8067nt, >chromosome_4_(dbseq-nr_3)_[7823583,7831649]... *
+>Cluster 437
+0	8057nt, >chromosome_9_(dbseq-nr_8)_[991835,999891]... *
+>Cluster 438
+0	8051nt, >chromosome_1_(dbseq-nr_0)_[843262,851312]... *
+>Cluster 439
+0	8049nt, >chromosome_6_(dbseq-nr_5)_[2461331,2469379]... *
+>Cluster 440
+0	8043nt, >chromosome_5_(dbseq-nr_4)_[61545,69587]... *
+>Cluster 441
+0	8026nt, >chromosome_9_(dbseq-nr_8)_[7986436,7994461]... *
+>Cluster 442
+0	8025nt, >chromosome_9_(dbseq-nr_8)_[5776916,5784940]... *
+>Cluster 443
+0	8006nt, >chromosome_6_(dbseq-nr_5)_[5882419,5890424]... *
+>Cluster 444
+0	8003nt, >chromosome_7_(dbseq-nr_6)_[169013,177015]... *
+>Cluster 445
+0	8000nt, >chromosome_9_(dbseq-nr_8)_[362340,370339]... *
+>Cluster 446
+0	7994nt, >chromosome_9_(dbseq-nr_8)_[10154018,10162011]... *
+>Cluster 447
+0	7989nt, >chromosome_9_(dbseq-nr_8)_[7393950,7401938]... *
+>Cluster 448
+0	7984nt, >chromosome_11_(dbseq-nr_10)_[248936,256919]... *
+>Cluster 449
+0	6515nt, >chromosome_4_(dbseq-nr_3)_[5221071,5227585]... at +/96.65%
+1	7963nt, >chromosome_7_(dbseq-nr_6)_[2641630,2649592]... *
+2	6451nt, >chromosome_7_(dbseq-nr_6)_[3378357,3384807]... at +/98.68%
+>Cluster 450
+0	7955nt, >chromosome_5_(dbseq-nr_4)_[5509760,5517714]... *
+>Cluster 451
+0	7943nt, >chromosome_8_(dbseq-nr_7)_[3355389,3363331]... *
+>Cluster 452
+0	7924nt, >chromosome_2_(dbseq-nr_1)_[430212,438135]... *
+>Cluster 453
+0	7920nt, >chromosome_4_(dbseq-nr_3)_[4039041,4046960]... *
+>Cluster 454
+0	7910nt, >chromosome_6_(dbseq-nr_5)_[706090,713999]... *
+>Cluster 455
+0	7902nt, >chromosome_9_(dbseq-nr_8)_[3151854,3159755]... *
+>Cluster 456
+0	7900nt, >chromosome_9_(dbseq-nr_8)_[7453813,7461712]... *
+>Cluster 457
+0	7887nt, >chromosome_9_(dbseq-nr_8)_[4184421,4192307]... *
+>Cluster 458
+0	7886nt, >chromosome_3_(dbseq-nr_2)_[789661,797546]... *
+>Cluster 459
+0	7886nt, >chromosome_9_(dbseq-nr_8)_[8372558,8380443]... *
+>Cluster 460
+0	7877nt, >chromosome_2_(dbseq-nr_1)_[4765123,4772999]... *
+>Cluster 461
+0	7874nt, >chromosome_3_(dbseq-nr_2)_[373317,381190]... *
+>Cluster 462
+0	7839nt, >scaffold_27_(dbseq-nr_26)_[12314,20152]... *
+>Cluster 463
+0	7830nt, >chromosome_9_(dbseq-nr_8)_[5488465,5496294]... *
+>Cluster 464
+0	7822nt, >chromosome_5_(dbseq-nr_4)_[5452823,5460644]... *
+>Cluster 465
+0	7819nt, >chromosome_6_(dbseq-nr_5)_[4545069,4552887]... *
+>Cluster 466
+0	7814nt, >chromosome_4_(dbseq-nr_3)_[4248414,4256227]... *
+>Cluster 467
+0	7801nt, >chromosome_7_(dbseq-nr_6)_[2264777,2272577]... *
+>Cluster 468
+0	7798nt, >chromosome_2_(dbseq-nr_1)_[6404838,6412635]... *
+>Cluster 469
+0	7792nt, >chromosome_2_(dbseq-nr_1)_[1878706,1886497]... *
+>Cluster 470
+0	7788nt, >chromosome_6_(dbseq-nr_5)_[3213906,3221693]... *
+>Cluster 471
+0	7781nt, >chromosome_9_(dbseq-nr_8)_[9745989,9753769]... *
+>Cluster 472
+0	7780nt, >chromosome_10_(dbseq-nr_9)_[2912050,2919829]... *
+>Cluster 473
+0	7775nt, >chromosome_4_(dbseq-nr_3)_[9169752,9177526]... *
+>Cluster 474
+0	7771nt, >chromosome_3_(dbseq-nr_2)_[3493957,3501727]... *
+>Cluster 475
+0	7767nt, >chromosome_9_(dbseq-nr_8)_[3583641,3591407]... *
+>Cluster 476
+0	7762nt, >chromosome_4_(dbseq-nr_3)_[1326880,1334641]... *
+>Cluster 477
+0	7747nt, >chromosome_11_(dbseq-nr_10)_[4446324,4454070]... *
+>Cluster 478
+0	7746nt, >chromosome_2_(dbseq-nr_1)_[235078,242823]... *
+>Cluster 479
+0	7741nt, >chromosome_1_(dbseq-nr_0)_[3854704,3862444]... *
+>Cluster 480
+0	7740nt, >chromosome_7_(dbseq-nr_6)_[390957,398696]... *
+>Cluster 481
+0	7732nt, >chromosome_4_(dbseq-nr_3)_[5079982,5087713]... *
+>Cluster 482
+0	7729nt, >chromosome_1_(dbseq-nr_0)_[3584869,3592597]... *
+>Cluster 483
+0	7721nt, >chromosome_9_(dbseq-nr_8)_[8031136,8038856]... *
+>Cluster 484
+0	7711nt, >chromosome_2_(dbseq-nr_1)_[7584100,7591810]... *
+>Cluster 485
+0	7710nt, >chromosome_7_(dbseq-nr_6)_[4618177,4625886]... *
+>Cluster 486
+0	7693nt, >chromosome_5_(dbseq-nr_4)_[3931482,3939174]... *
+>Cluster 487
+0	7687nt, >chromosome_9_(dbseq-nr_8)_[130635,138321]... *
+>Cluster 488
+0	7684nt, >chromosome_9_(dbseq-nr_8)_[10744009,10751692]... *
+>Cluster 489
+0	7677nt, >chromosome_8_(dbseq-nr_7)_[3297312,3304988]... *
+>Cluster 490
+0	7675nt, >chromosome_6_(dbseq-nr_5)_[232995,240669]... *
+>Cluster 491
+0	7675nt, >chromosome_9_(dbseq-nr_8)_[8968462,8976136]... *
+>Cluster 492
+0	7645nt, >chromosome_12_(dbseq-nr_11)_[1442579,1450223]... *
+>Cluster 493
+0	7629nt, >chromosome_2_(dbseq-nr_1)_[808994,816622]... *
+>Cluster 494
+0	7628nt, >chromosome_5_(dbseq-nr_4)_[5547975,5555602]... *
+>Cluster 495
+0	7626nt, >chromosome_9_(dbseq-nr_8)_[5050057,5057682]... *
+>Cluster 496
+0	7603nt, >chromosome_12_(dbseq-nr_11)_[1910590,1918192]... *
+>Cluster 497
+0	7594nt, >chromosome_2_(dbseq-nr_1)_[2839974,2847567]... *
+>Cluster 498
+0	7593nt, >chromosome_2_(dbseq-nr_1)_[7866588,7874180]... *
+>Cluster 499
+0	7592nt, >chromosome_6_(dbseq-nr_5)_[187712,195303]... *
+>Cluster 500
+0	7592nt, >chromosome_7_(dbseq-nr_6)_[3401720,3409311]... *
+>Cluster 501
+0	7577nt, >chromosome_7_(dbseq-nr_6)_[2819052,2826628]... *
+>Cluster 502
+0	7571nt, >chromosome_4_(dbseq-nr_3)_[10800185,10807755]... *
+>Cluster 503
+0	7571nt, >chromosome_7_(dbseq-nr_6)_[1468252,1475822]... *
+>Cluster 504
+0	7561nt, >chromosome_10_(dbseq-nr_9)_[4882865,4890425]... *
+>Cluster 505
+0	7545nt, >chromosome_7_(dbseq-nr_6)_[3066375,3073919]... *
+>Cluster 506
+0	7543nt, >chromosome_9_(dbseq-nr_8)_[3475801,3483343]... *
+>Cluster 507
+0	7540nt, >chromosome_6_(dbseq-nr_5)_[6405684,6413223]... *
+>Cluster 508
+0	7532nt, >chromosome_1_(dbseq-nr_0)_[83197,90728]... *
+>Cluster 509
+0	7531nt, >chromosome_1_(dbseq-nr_0)_[3158335,3165865]... *
+>Cluster 510
+0	7411nt, >chromosome_5_(dbseq-nr_4)_[7063744,7071154]... at +/95.75%
+1	7529nt, >scaffold_41_(dbseq-nr_40)_[11939,19467]... *
+>Cluster 511
+0	7524nt, >chromosome_10_(dbseq-nr_9)_[1097672,1105195]... *
+>Cluster 512
+0	7513nt, >chromosome_9_(dbseq-nr_8)_[522987,530499]... *
+>Cluster 513
+0	7509nt, >chromosome_9_(dbseq-nr_8)_[4346842,4354350]... *
+>Cluster 514
+0	7498nt, >chromosome_9_(dbseq-nr_8)_[7199097,7206594]... *
+>Cluster 515
+0	7495nt, >chromosome_6_(dbseq-nr_5)_[1041658,1049152]... *
+>Cluster 516
+0	7494nt, >chromosome_12_(dbseq-nr_11)_[4812617,4820110]... *
+>Cluster 517
+0	7491nt, >chromosome_8_(dbseq-nr_7)_[3656645,3664135]... *
+>Cluster 518
+0	7490nt, >chromosome_9_(dbseq-nr_8)_[5390168,5397657]... *
+>Cluster 519
+0	7485nt, >chromosome_2_(dbseq-nr_1)_[2311378,2318862]... *
+1	7468nt, >chromosome_9_(dbseq-nr_8)_[3197679,3205146]... at -/95.02%
+2	7470nt, >scaffold_42_(dbseq-nr_41)_[5464,12933]... at +/99.67%
+>Cluster 520
+0	7461nt, >chromosome_1_(dbseq-nr_0)_[2623794,2631254]... *
+>Cluster 521
+0	7456nt, >chromosome_8_(dbseq-nr_7)_[2861294,2868749]... *
+>Cluster 522
+0	7447nt, >chromosome_4_(dbseq-nr_3)_[10698788,10706234]... *
+>Cluster 523
+0	7443nt, >chromosome_1_(dbseq-nr_0)_[3141291,3148733]... *
+>Cluster 524
+0	7441nt, >chromosome_5_(dbseq-nr_4)_[7116324,7123764]... *
+>Cluster 525
+0	7439nt, >chromosome_4_(dbseq-nr_3)_[7941511,7948949]... *
+>Cluster 526
+0	7436nt, >chromosome_3_(dbseq-nr_2)_[1043146,1050581]... *
+>Cluster 527
+0	7431nt, >chromosome_8_(dbseq-nr_7)_[3031493,3038923]... *
+>Cluster 528
+0	7420nt, >chromosome_8_(dbseq-nr_7)_[1011553,1018972]... *
+>Cluster 529
+0	7410nt, >chromosome_10_(dbseq-nr_9)_[122928,130337]... *
+>Cluster 530
+0	7405nt, >chromosome_12_(dbseq-nr_11)_[3207731,3215135]... *
+>Cluster 531
+0	7393nt, >chromosome_4_(dbseq-nr_3)_[4783971,4791363]... *
+>Cluster 532
+0	7390nt, >chromosome_12_(dbseq-nr_11)_[3378356,3385745]... *
+>Cluster 533
+0	7379nt, >chromosome_2_(dbseq-nr_1)_[4113975,4121353]... *
+>Cluster 534
+0	7379nt, >chromosome_6_(dbseq-nr_5)_[5740207,5747585]... *
+>Cluster 535
+0	7374nt, >chromosome_3_(dbseq-nr_2)_[4919312,4926685]... *
+>Cluster 536
+0	7371nt, >chromosome_5_(dbseq-nr_4)_[6465246,6472616]... *
+>Cluster 537
+0	7368nt, >chromosome_12_(dbseq-nr_11)_[267482,274849]... *
+>Cluster 538
+0	7361nt, >chromosome_7_(dbseq-nr_6)_[1648635,1655995]... *
+>Cluster 539
+0	7335nt, >chromosome_12_(dbseq-nr_11)_[321578,328912]... *
+>Cluster 540
+0	7333nt, >chromosome_1_(dbseq-nr_0)_[3543604,3550936]... *
+>Cluster 541
+0	7333nt, >chromosome_7_(dbseq-nr_6)_[4705780,4713112]... *
+>Cluster 542
+0	7332nt, >chromosome_2_(dbseq-nr_1)_[7285661,7292992]... *
+>Cluster 543
+0	7327nt, >chromosome_11_(dbseq-nr_10)_[2919463,2926789]... *
+>Cluster 544
+0	7317nt, >chromosome_12_(dbseq-nr_11)_[1294583,1301899]... *
+>Cluster 545
+0	7312nt, >chromosome_4_(dbseq-nr_3)_[9865267,9872578]... *
+>Cluster 546
+0	7310nt, >scaffold_38_(dbseq-nr_37)_[9350,16659]... *
+>Cluster 547
+0	7294nt, >chromosome_10_(dbseq-nr_9)_[594316,601609]... *
+>Cluster 548
+0	7279nt, >chromosome_2_(dbseq-nr_1)_[2871825,2879103]... *
+>Cluster 549
+0	7276nt, >chromosome_6_(dbseq-nr_5)_[2003024,2010299]... *
+>Cluster 550
+0	7262nt, >chromosome_12_(dbseq-nr_11)_[840079,847340]... *
+>Cluster 551
+0	7249nt, >chromosome_1_(dbseq-nr_0)_[4391178,4398426]... *
+>Cluster 552
+0	7237nt, >chromosome_7_(dbseq-nr_6)_[2141761,2148997]... *
+>Cluster 553
+0	7229nt, >chromosome_4_(dbseq-nr_3)_[7599529,7606757]... *
+>Cluster 554
+0	7220nt, >chromosome_3_(dbseq-nr_2)_[5173022,5180241]... *
+>Cluster 555
+0	7216nt, >chromosome_1_(dbseq-nr_0)_[4180607,4187822]... *
+>Cluster 556
+0	7163nt, >chromosome_1_(dbseq-nr_0)_[3940919,3948081]... at +/95.48%
+1	7157nt, >chromosome_2_(dbseq-nr_1)_[3402522,3409678]... at -/99.87%
+2	7215nt, >chromosome_3_(dbseq-nr_2)_[6906688,6913902]... *
+3	7168nt, >chromosome_4_(dbseq-nr_3)_[1729957,1737124]... at +/96.62%
+4	7187nt, >chromosome_6_(dbseq-nr_5)_[769908,777094]... at -/96.72%
+5	7142nt, >chromosome_8_(dbseq-nr_7)_[3632380,3639521]... at -/95.42%
+6	7194nt, >chromosome_9_(dbseq-nr_8)_[17333,24526]... at -/96.72%
+7	7189nt, >chromosome_9_(dbseq-nr_8)_[4832226,4839414]... at -/96.61%
+8	7190nt, >chromosome_10_(dbseq-nr_9)_[4175785,4182974]... at +/96.87%
+9	7200nt, >scaffold_38_(dbseq-nr_37)_[826,8025]... at +/99.96%
+>Cluster 557
+0	7213nt, >chromosome_7_(dbseq-nr_6)_[2351638,2358850]... *
+>Cluster 558
+0	7207nt, >chromosome_8_(dbseq-nr_7)_[2980595,2987801]... *
+>Cluster 559
+0	7203nt, >chromosome_12_(dbseq-nr_11)_[2790028,2797230]... *
+>Cluster 560
+0	7201nt, >chromosome_8_(dbseq-nr_7)_[3509204,3516404]... *
+>Cluster 561
+0	7197nt, >chromosome_7_(dbseq-nr_6)_[1114368,1121564]... *
+>Cluster 562
+0	7193nt, >chromosome_11_(dbseq-nr_10)_[3872581,3879773]... *
+>Cluster 563
+0	7189nt, >chromosome_5_(dbseq-nr_4)_[3899684,3906872]... *
+>Cluster 564
+0	7188nt, >chromosome_12_(dbseq-nr_11)_[2478126,2485313]... *
+>Cluster 565
+0	7187nt, >chromosome_10_(dbseq-nr_9)_[401373,408559]... *
+>Cluster 566
+0	7186nt, >chromosome_1_(dbseq-nr_0)_[2339271,2346456]... *
+>Cluster 567
+0	7186nt, >chromosome_3_(dbseq-nr_2)_[2120167,2127352]... *
+>Cluster 568
+0	7181nt, >chromosome_8_(dbseq-nr_7)_[485049,492229]... *
+>Cluster 569
+0	7160nt, >chromosome_8_(dbseq-nr_7)_[1584719,1591878]... *
+>Cluster 570
+0	7157nt, >chromosome_5_(dbseq-nr_4)_[4849813,4856969]... *
+>Cluster 571
+0	7149nt, >chromosome_9_(dbseq-nr_8)_[10793741,10800889]... *
+>Cluster 572
+0	7143nt, >chromosome_7_(dbseq-nr_6)_[4132007,4139149]... *
+>Cluster 573
+0	7142nt, >chromosome_4_(dbseq-nr_3)_[1838500,1845641]... *
+>Cluster 574
+0	7139nt, >chromosome_3_(dbseq-nr_2)_[5069145,5076283]... *
+>Cluster 575
+0	7123nt, >chromosome_4_(dbseq-nr_3)_[1113501,1120623]... at -/99.66%
+1	6951nt, >chromosome_4_(dbseq-nr_3)_[9875112,9882062]... at +/99.90%
+2	7137nt, >chromosome_7_(dbseq-nr_6)_[6128471,6135607]... at +/99.85%
+3	7139nt, >chromosome_9_(dbseq-nr_8)_[6898665,6905803]... *
+>Cluster 576
+0	7137nt, >chromosome_9_(dbseq-nr_8)_[8102122,8109258]... *
+>Cluster 577
+0	7136nt, >chromosome_6_(dbseq-nr_5)_[5595574,5602709]... *
+>Cluster 578
+0	7128nt, >chromosome_9_(dbseq-nr_8)_[10724299,10731426]... *
+>Cluster 579
+0	7120nt, >chromosome_7_(dbseq-nr_6)_[3930822,3937941]... *
+>Cluster 580
+0	7104nt, >chromosome_1_(dbseq-nr_0)_[1965774,1972877]... at +/99.09%
+1	7076nt, >chromosome_4_(dbseq-nr_3)_[3987839,3994914]... at -/96.69%
+2	7115nt, >chromosome_4_(dbseq-nr_3)_[7151727,7158841]... *
+3	7071nt, >chromosome_9_(dbseq-nr_8)_[6796883,6803953]... at +/99.51%
+>Cluster 581
+0	7113nt, >chromosome_9_(dbseq-nr_8)_[2886654,2893766]... *
+>Cluster 582
+0	7108nt, >chromosome_1_(dbseq-nr_0)_[3133382,3140489]... *
+>Cluster 583
+0	7106nt, >chromosome_7_(dbseq-nr_6)_[3103261,3110366]... *
+>Cluster 584
+0	7100nt, >chromosome_2_(dbseq-nr_1)_[1271562,1278661]... *
+>Cluster 585
+0	7093nt, >chromosome_11_(dbseq-nr_10)_[977157,984249]... *
+>Cluster 586
+0	7088nt, >chromosome_6_(dbseq-nr_5)_[6803712,6810799]... *
+>Cluster 587
+0	7076nt, >chromosome_9_(dbseq-nr_8)_[3116706,3123781]... *
+>Cluster 588
+0	7064nt, >chromosome_3_(dbseq-nr_2)_[209306,216369]... at -/99.80%
+1	7073nt, >chromosome_4_(dbseq-nr_3)_[10935718,10942790]... *
+>Cluster 589
+0	7072nt, >chromosome_3_(dbseq-nr_2)_[667499,674570]... *
+>Cluster 590
+0	7069nt, >chromosome_12_(dbseq-nr_11)_[4292295,4299363]... *
+>Cluster 591
+0	7068nt, >chromosome_9_(dbseq-nr_8)_[10087,17154]... *
+1	7056nt, >chromosome_9_(dbseq-nr_8)_[5465824,5472879]... at +/99.66%
+2	7062nt, >chromosome_9_(dbseq-nr_8)_[5897813,5904874]... at +/99.73%
+>Cluster 592
+0	7068nt, >chromosome_9_(dbseq-nr_8)_[4195164,4202231]... *
+>Cluster 593
+0	7060nt, >chromosome_6_(dbseq-nr_5)_[1049872,1056931]... at +/96.16%
+1	7067nt, >chromosome_9_(dbseq-nr_8)_[4752045,4759111]... *
+>Cluster 594
+0	7061nt, >chromosome_9_(dbseq-nr_8)_[8853148,8860208]... *
+>Cluster 595
+0	7054nt, >chromosome_7_(dbseq-nr_6)_[5167812,5174865]... *
+>Cluster 596
+0	7048nt, >chromosome_6_(dbseq-nr_5)_[2857377,2864424]... *
+>Cluster 597
+0	7039nt, >chromosome_1_(dbseq-nr_0)_[352108,359146]... *
+>Cluster 598
+0	7039nt, >chromosome_9_(dbseq-nr_8)_[7948081,7955119]... *
+>Cluster 599
+0	7033nt, >chromosome_3_(dbseq-nr_2)_[5460187,5467219]... *
+>Cluster 600
+0	7032nt, >chromosome_12_(dbseq-nr_11)_[2589963,2596994]... *
+>Cluster 601
+0	7022nt, >chromosome_9_(dbseq-nr_8)_[5717252,5724273]... *
+>Cluster 602
+0	7004nt, >chromosome_11_(dbseq-nr_10)_[1058357,1065360]... *
+>Cluster 603
+0	6987nt, >chromosome_9_(dbseq-nr_8)_[10057640,10064626]... *
+>Cluster 604
+0	6956nt, >chromosome_7_(dbseq-nr_6)_[73978,80933]... *
+>Cluster 605
+0	6939nt, >chromosome_11_(dbseq-nr_10)_[1009647,1016585]... *
+>Cluster 606
+0	6932nt, >chromosome_4_(dbseq-nr_3)_[5726424,5733355]... *
+>Cluster 607
+0	6924nt, >chromosome_7_(dbseq-nr_6)_[484472,491395]... *
+>Cluster 608
+0	6905nt, >chromosome_2_(dbseq-nr_1)_[3554319,3561223]... *
+>Cluster 609
+0	6904nt, >chromosome_4_(dbseq-nr_3)_[10584070,10590973]... *
+>Cluster 610
+0	6901nt, >chromosome_4_(dbseq-nr_3)_[2203903,2210803]... *
+>Cluster 611
+0	6898nt, >chromosome_4_(dbseq-nr_3)_[958625,965522]... *
+>Cluster 612
+0	6834nt, >chromosome_6_(dbseq-nr_5)_[7034295,7041128]... at -/99.85%
+1	6889nt, >chromosome_12_(dbseq-nr_11)_[294060,300948]... *
+>Cluster 613
+0	6877nt, >chromosome_1_(dbseq-nr_0)_[1939397,1946273]... at -/99.84%
+1	6878nt, >chromosome_3_(dbseq-nr_2)_[7859977,7866854]... *
+2	6877nt, >chromosome_10_(dbseq-nr_9)_[1142749,1149625]... at +/99.97%
+>Cluster 614
+0	6877nt, >chromosome_2_(dbseq-nr_1)_[358106,364982]... *
+>Cluster 615
+0	6874nt, >chromosome_12_(dbseq-nr_11)_[3833810,3840683]... *
+>Cluster 616
+0	6871nt, >chromosome_2_(dbseq-nr_1)_[1237146,1244016]... *
+>Cluster 617
+0	6868nt, >chromosome_12_(dbseq-nr_11)_[3556567,3563434]... *
+>Cluster 618
+0	6854nt, >chromosome_7_(dbseq-nr_6)_[2793860,2800713]... *
+>Cluster 619
+0	6851nt, >chromosome_11_(dbseq-nr_10)_[1818514,1825364]... *
+>Cluster 620
+0	6850nt, >chromosome_9_(dbseq-nr_8)_[3553424,3560273]... *
+>Cluster 621
+0	6849nt, >chromosome_4_(dbseq-nr_3)_[8686180,8693028]... *
+>Cluster 622
+0	6839nt, >chromosome_4_(dbseq-nr_3)_[426840,433678]... *
+>Cluster 623
+0	6836nt, >chromosome_9_(dbseq-nr_8)_[8730149,8736984]... *
+>Cluster 624
+0	6835nt, >chromosome_1_(dbseq-nr_0)_[2771296,2778130]... *
+>Cluster 625
+0	6826nt, >chromosome_1_(dbseq-nr_0)_[1117417,1124242]... *
+>Cluster 626
+0	6826nt, >chromosome_10_(dbseq-nr_9)_[1769303,1776128]... *
+>Cluster 627
+0	6825nt, >chromosome_5_(dbseq-nr_4)_[6394116,6400940]... *
+>Cluster 628
+0	6825nt, >chromosome_7_(dbseq-nr_6)_[1336554,1343378]... *
+>Cluster 629
+0	6825nt, >chromosome_10_(dbseq-nr_9)_[16918,23742]... *
+>Cluster 630
+0	6822nt, >chromosome_4_(dbseq-nr_3)_[2545464,2552285]... *
+>Cluster 631
+0	6806nt, >chromosome_3_(dbseq-nr_2)_[8286240,8293045]... *
+>Cluster 632
+0	6802nt, >chromosome_10_(dbseq-nr_9)_[2652115,2658916]... *
+>Cluster 633
+0	6787nt, >chromosome_7_(dbseq-nr_6)_[2696695,2703481]... *
+>Cluster 634
+0	6787nt, >chromosome_10_(dbseq-nr_9)_[4156020,4162806]... *
+>Cluster 635
+0	6781nt, >chromosome_4_(dbseq-nr_3)_[877992,884772]... *
+1	6761nt, >chromosome_4_(dbseq-nr_3)_[10927900,10934660]... at -/98.46%
+2	6760nt, >chromosome_4_(dbseq-nr_3)_[10958265,10965024]... at -/98.48%
+3	6764nt, >chromosome_6_(dbseq-nr_5)_[3867950,3874713]... at +/99.36%
+4	6671nt, >chromosome_9_(dbseq-nr_8)_[4823689,4830359]... at -/95.20%
+5	6752nt, >chromosome_11_(dbseq-nr_10)_[4307706,4314457]... at +/99.79%
+>Cluster 636
+0	6551nt, >chromosome_1_(dbseq-nr_0)_[3095971,3102521]... at +/96.32%
+1	6710nt, >chromosome_1_(dbseq-nr_0)_[3290270,3296979]... at -/96.63%
+2	6716nt, >chromosome_2_(dbseq-nr_1)_[46081,52796]... at -/97.05%
+3	6771nt, >chromosome_9_(dbseq-nr_8)_[3484526,3491296]... *
+>Cluster 637
+0	6757nt, >chromosome_6_(dbseq-nr_5)_[1061521,1068277]... at -/99.90%
+1	6771nt, >chromosome_9_(dbseq-nr_8)_[5644772,5651542]... *
+2	6704nt, >chromosome_11_(dbseq-nr_10)_[213351,220054]... at -/97.39%
+3	6720nt, >chromosome_11_(dbseq-nr_10)_[360187,366906]... at -/97.22%
+>Cluster 638
+0	6757nt, >chromosome_7_(dbseq-nr_6)_[5571976,5578732]... *
+>Cluster 639
+0	6756nt, >chromosome_8_(dbseq-nr_7)_[3813214,3819969]... *
+>Cluster 640
+0	6736nt, >chromosome_2_(dbseq-nr_1)_[2353366,2360101]... *
+>Cluster 641
+0	6735nt, >chromosome_7_(dbseq-nr_6)_[4396726,4403460]... *
+>Cluster 642
+0	6734nt, >chromosome_7_(dbseq-nr_6)_[115139,121872]... *
+>Cluster 643
+0	6703nt, >chromosome_10_(dbseq-nr_9)_[4643916,4650618]... *
+>Cluster 644
+0	6702nt, >chromosome_2_(dbseq-nr_1)_[7616234,7622935]... *
+>Cluster 645
+0	6696nt, >chromosome_1_(dbseq-nr_0)_[4381370,4388065]... *
+>Cluster 646
+0	6695nt, >chromosome_6_(dbseq-nr_5)_[5231902,5238596]... *
+>Cluster 647
+0	6683nt, >chromosome_2_(dbseq-nr_1)_[7322855,7329537]... *
+1	5754nt, >chromosome_6_(dbseq-nr_5)_[973430,979183]... at +/95.59%
+>Cluster 648
+0	6677nt, >chromosome_9_(dbseq-nr_8)_[3215467,3222143]... *
+>Cluster 649
+0	6675nt, >chromosome_7_(dbseq-nr_6)_[1812924,1819598]... *
+>Cluster 650
+0	6671nt, >chromosome_3_(dbseq-nr_2)_[5420453,5427123]... *
+>Cluster 651
+0	6626nt, >chromosome_6_(dbseq-nr_5)_[851603,858228]... at -/99.34%
+1	6649nt, >chromosome_8_(dbseq-nr_7)_[881943,888591]... *
+>Cluster 652
+0	6643nt, >chromosome_4_(dbseq-nr_3)_[2118917,2125559]... *
+>Cluster 653
+0	6642nt, >chromosome_1_(dbseq-nr_0)_[493090,499731]... *
+>Cluster 654
+0	6640nt, >chromosome_3_(dbseq-nr_2)_[411799,418438]... *
+>Cluster 655
+0	6640nt, >chromosome_8_(dbseq-nr_7)_[2396133,2402772]... *
+>Cluster 656
+0	6639nt, >chromosome_8_(dbseq-nr_7)_[2440299,2446937]... *
+>Cluster 657
+0	6637nt, >chromosome_3_(dbseq-nr_2)_[266163,272799]... *
+1	6038nt, >chromosome_10_(dbseq-nr_9)_[2023314,2029351]... at +/95.81%
+>Cluster 658
+0	6633nt, >chromosome_1_(dbseq-nr_0)_[4426669,4433301]... *
+1	6250nt, >chromosome_9_(dbseq-nr_8)_[1885899,1892148]... at +/99.02%
+>Cluster 659
+0	6631nt, >chromosome_3_(dbseq-nr_2)_[256469,263099]... *
+>Cluster 660
+0	6629nt, >chromosome_9_(dbseq-nr_8)_[4051036,4057664]... *
+>Cluster 661
+0	6623nt, >chromosome_5_(dbseq-nr_4)_[1351801,1358423]... *
+>Cluster 662
+0	6621nt, >chromosome_7_(dbseq-nr_6)_[3080319,3086939]... *
+1	6432nt, >chromosome_8_(dbseq-nr_7)_[1988872,1995303]... at +/96.36%
+>Cluster 663
+0	6618nt, >chromosome_7_(dbseq-nr_6)_[3284487,3291104]... *
+>Cluster 664
+0	6618nt, >chromosome_7_(dbseq-nr_6)_[5527361,5533978]... *
+>Cluster 665
+0	6610nt, >chromosome_8_(dbseq-nr_7)_[2112752,2119361]... *
+>Cluster 666
+0	6596nt, >chromosome_9_(dbseq-nr_8)_[2722558,2729153]... *
+>Cluster 667
+0	6592nt, >chromosome_3_(dbseq-nr_2)_[3779173,3785764]... *
+>Cluster 668
+0	6577nt, >chromosome_12_(dbseq-nr_11)_[710618,717194]... *
+>Cluster 669
+0	6571nt, >chromosome_9_(dbseq-nr_8)_[10388650,10395220]... *
+>Cluster 670
+0	6533nt, >chromosome_2_(dbseq-nr_1)_[7639834,7646366]... at -/96.86%
+1	6570nt, >chromosome_3_(dbseq-nr_2)_[469054,475623]... *
+>Cluster 671
+0	6511nt, >chromosome_7_(dbseq-nr_6)_[3767419,3773929]... at +/96.39%
+1	6568nt, >chromosome_8_(dbseq-nr_7)_[2955445,2962012]... *
+2	6339nt, >chromosome_8_(dbseq-nr_7)_[3061242,3067580]... at -/97.30%
+3	6376nt, >chromosome_9_(dbseq-nr_8)_[9522348,9528723]... at +/95.83%
+4	6403nt, >chromosome_9_(dbseq-nr_8)_[10435929,10442331]... at +/95.49%
+>Cluster 672
+0	6558nt, >chromosome_6_(dbseq-nr_5)_[4602131,4608688]... *
+>Cluster 673
+0	6555nt, >chromosome_7_(dbseq-nr_6)_[5745612,5752166]... *
+>Cluster 674
+0	6554nt, >chromosome_7_(dbseq-nr_6)_[5592179,5598732]... *
+>Cluster 675
+0	6553nt, >chromosome_4_(dbseq-nr_3)_[9814032,9820584]... *
+>Cluster 676
+0	6553nt, >chromosome_9_(dbseq-nr_8)_[4697043,4703595]... *
+>Cluster 677
+0	6548nt, >chromosome_3_(dbseq-nr_2)_[396728,403275]... *
+>Cluster 678
+0	6546nt, >chromosome_10_(dbseq-nr_9)_[1914649,1921194]... *
+>Cluster 679
+0	6542nt, >chromosome_11_(dbseq-nr_10)_[1119385,1125926]... *
+>Cluster 680
+0	6536nt, >chromosome_7_(dbseq-nr_6)_[5697780,5704315]... *
+>Cluster 681
+0	6532nt, >chromosome_9_(dbseq-nr_8)_[5006074,5012605]... *
+>Cluster 682
+0	6518nt, >chromosome_1_(dbseq-nr_0)_[3611781,3618298]... *
+>Cluster 683
+0	6516nt, >chromosome_5_(dbseq-nr_4)_[7209281,7215796]... *
+>Cluster 684
+0	6515nt, >chromosome_5_(dbseq-nr_4)_[5971069,5977583]... *
+>Cluster 685
+0	6509nt, >chromosome_4_(dbseq-nr_3)_[6441453,6447961]... *
+>Cluster 686
+0	6497nt, >chromosome_3_(dbseq-nr_2)_[639231,645727]... *
+>Cluster 687
+0	6496nt, >chromosome_11_(dbseq-nr_10)_[2867209,2873704]... *
+>Cluster 688
+0	6493nt, >chromosome_3_(dbseq-nr_2)_[5298031,5304523]... *
+>Cluster 689
+0	6477nt, >chromosome_12_(dbseq-nr_11)_[3797840,3804316]... *
+>Cluster 690
+0	6475nt, >chromosome_9_(dbseq-nr_8)_[7627570,7634044]... *
+>Cluster 691
+0	6474nt, >chromosome_6_(dbseq-nr_5)_[3832965,3839438]... *
+>Cluster 692
+0	6473nt, >chromosome_1_(dbseq-nr_0)_[4071941,4078413]... *
+>Cluster 693
+0	6466nt, >chromosome_6_(dbseq-nr_5)_[5665037,5671502]... *
+>Cluster 694
+0	6461nt, >chromosome_8_(dbseq-nr_7)_[1257860,1264320]... *
+1	6458nt, >chromosome_8_(dbseq-nr_7)_[3786676,3793133]... at -/98.53%
+2	6460nt, >chromosome_12_(dbseq-nr_11)_[220382,226841]... at +/99.95%
+>Cluster 695
+0	6460nt, >chromosome_4_(dbseq-nr_3)_[1550215,1556674]... *
+>Cluster 696
+0	6458nt, >chromosome_4_(dbseq-nr_3)_[1607270,1613727]... *
+>Cluster 697
+0	6436nt, >chromosome_3_(dbseq-nr_2)_[4809092,4815527]... *
+>Cluster 698
+0	6436nt, >chromosome_5_(dbseq-nr_4)_[867490,873925]... *
+>Cluster 699
+0	6433nt, >chromosome_9_(dbseq-nr_8)_[1906164,1912596]... *
+>Cluster 700
+0	6428nt, >chromosome_6_(dbseq-nr_5)_[103508,109935]... *
+>Cluster 701
+0	6422nt, >chromosome_1_(dbseq-nr_0)_[2835017,2841438]... *
+>Cluster 702
+0	6419nt, >chromosome_9_(dbseq-nr_8)_[9317112,9323530]... *
+>Cluster 703
+0	6417nt, >chromosome_1_(dbseq-nr_0)_[1381178,1387594]... *
+>Cluster 704
+0	6416nt, >chromosome_4_(dbseq-nr_3)_[2243983,2250398]... *
+>Cluster 705
+0	6414nt, >chromosome_10_(dbseq-nr_9)_[2514760,2521173]... *
+>Cluster 706
+0	6410nt, >chromosome_9_(dbseq-nr_8)_[182573,188982]... *
+>Cluster 707
+0	6409nt, >chromosome_11_(dbseq-nr_10)_[2322692,2329100]... *
+>Cluster 708
+0	6396nt, >chromosome_8_(dbseq-nr_7)_[433005,439400]... *
+>Cluster 709
+0	6391nt, >chromosome_4_(dbseq-nr_3)_[8365863,8372253]... *
+>Cluster 710
+0	6384nt, >chromosome_6_(dbseq-nr_5)_[276281,282664]... *
+>Cluster 711
+0	6369nt, >chromosome_12_(dbseq-nr_11)_[563279,569647]... *
+>Cluster 712
+0	6366nt, >chromosome_8_(dbseq-nr_7)_[1845310,1851675]... *
+>Cluster 713
+0	6365nt, >chromosome_10_(dbseq-nr_9)_[4528772,4535136]... *
+>Cluster 714
+0	6364nt, >chromosome_3_(dbseq-nr_2)_[3008609,3014972]... *
+>Cluster 715
+0	6364nt, >chromosome_3_(dbseq-nr_2)_[3210015,3216378]... *
+>Cluster 716
+0	6363nt, >chromosome_9_(dbseq-nr_8)_[9611482,9617844]... *
+>Cluster 717
+0	6358nt, >chromosome_12_(dbseq-nr_11)_[1996323,2002680]... *
+>Cluster 718
+0	6354nt, >chromosome_9_(dbseq-nr_8)_[1951349,1957702]... *
+>Cluster 719
+0	6352nt, >chromosome_7_(dbseq-nr_6)_[4985607,4991958]... *
+>Cluster 720
+0	6338nt, >chromosome_7_(dbseq-nr_6)_[3478485,3484822]... at +/98.22%
+1	6348nt, >chromosome_8_(dbseq-nr_7)_[3079034,3085381]... *
+>Cluster 721
+0	6345nt, >chromosome_9_(dbseq-nr_8)_[4847071,4853415]... *
+>Cluster 722
+0	6337nt, >chromosome_4_(dbseq-nr_3)_[10448932,10455268]... *
+>Cluster 723
+0	6311nt, >chromosome_3_(dbseq-nr_2)_[539142,545452]... at +/99.27%
+1	6330nt, >chromosome_4_(dbseq-nr_3)_[1914309,1920638]... *
+>Cluster 724
+0	6322nt, >chromosome_3_(dbseq-nr_2)_[5557364,5563685]... *
+>Cluster 725
+0	6320nt, >chromosome_5_(dbseq-nr_4)_[6089100,6095419]... *
+1	5699nt, >chromosome_7_(dbseq-nr_6)_[3565954,3571652]... at +/95.95%
+>Cluster 726
+0	6317nt, >chromosome_12_(dbseq-nr_11)_[2884066,2890382]... *
+>Cluster 727
+0	6316nt, >chromosome_6_(dbseq-nr_5)_[1770741,1777056]... *
+>Cluster 728
+0	6301nt, >chromosome_3_(dbseq-nr_2)_[1243100,1249400]... *
+>Cluster 729
+0	6301nt, >chromosome_6_(dbseq-nr_5)_[6598793,6605093]... *
+>Cluster 730
+0	6297nt, >chromosome_4_(dbseq-nr_3)_[1198485,1204781]... *
+>Cluster 731
+0	6297nt, >chromosome_6_(dbseq-nr_5)_[4057378,4063674]... *
+>Cluster 732
+0	6283nt, >chromosome_8_(dbseq-nr_7)_[1736740,1743022]... *
+>Cluster 733
+0	6279nt, >chromosome_6_(dbseq-nr_5)_[3844456,3850734]... *
+>Cluster 734
+0	6272nt, >chromosome_2_(dbseq-nr_1)_[2362471,2368742]... *
+>Cluster 735
+0	6272nt, >chromosome_9_(dbseq-nr_8)_[2907326,2913597]... *
+>Cluster 736
+0	6271nt, >chromosome_2_(dbseq-nr_1)_[1227219,1233489]... *
+>Cluster 737
+0	6262nt, >chromosome_6_(dbseq-nr_5)_[573870,580131]... *
+>Cluster 738
+0	6236nt, >chromosome_9_(dbseq-nr_8)_[10830291,10836526]... *
+>Cluster 739
+0	6236nt, >chromosome_11_(dbseq-nr_10)_[125251,131486]... *
+>Cluster 740
+0	6233nt, >chromosome_5_(dbseq-nr_4)_[5386290,5392522]... *
+>Cluster 741
+0	6230nt, >chromosome_4_(dbseq-nr_3)_[6151542,6157771]... *
+>Cluster 742
+0	6227nt, >chromosome_2_(dbseq-nr_1)_[6706127,6712353]... *
+>Cluster 743
+0	6224nt, >chromosome_3_(dbseq-nr_2)_[2958265,2964488]... *
+>Cluster 744
+0	6219nt, >chromosome_9_(dbseq-nr_8)_[4856623,4862841]... *
+>Cluster 745
+0	6217nt, >chromosome_6_(dbseq-nr_5)_[4729820,4736036]... *
+>Cluster 746
+0	6206nt, >chromosome_4_(dbseq-nr_3)_[1344438,1350643]... *
+>Cluster 747
+0	6197nt, >chromosome_9_(dbseq-nr_8)_[6171881,6178077]... *
+>Cluster 748
+0	6194nt, >chromosome_12_(dbseq-nr_11)_[2065720,2071913]... *
+>Cluster 749
+0	6191nt, >chromosome_8_(dbseq-nr_7)_[3152763,3158953]... *
+>Cluster 750
+0	6188nt, >chromosome_9_(dbseq-nr_8)_[2554483,2560670]... *
+>Cluster 751
+0	6186nt, >chromosome_11_(dbseq-nr_10)_[2719422,2725607]... *
+>Cluster 752
+0	6182nt, >chromosome_2_(dbseq-nr_1)_[6683349,6689530]... *
+>Cluster 753
+0	6180nt, >chromosome_7_(dbseq-nr_6)_[5224573,5230752]... *
+>Cluster 754
+0	6171nt, >chromosome_2_(dbseq-nr_1)_[5020509,5026679]... *
+>Cluster 755
+0	6166nt, >chromosome_3_(dbseq-nr_2)_[292751,298916]... *
+>Cluster 756
+0	6166nt, >chromosome_4_(dbseq-nr_3)_[9599048,9605213]... *
+>Cluster 757
+0	6166nt, >chromosome_8_(dbseq-nr_7)_[146936,153101]... *
+>Cluster 758
+0	6162nt, >chromosome_9_(dbseq-nr_8)_[1654896,1661057]... *
+>Cluster 759
+0	6155nt, >chromosome_5_(dbseq-nr_4)_[1935429,1941583]... *
+>Cluster 760
+0	6146nt, >chromosome_8_(dbseq-nr_7)_[575121,581266]... *
+>Cluster 761
+0	6140nt, >chromosome_7_(dbseq-nr_6)_[473392,479531]... *
+>Cluster 762
+0	6111nt, >chromosome_6_(dbseq-nr_5)_[3958139,3964249]... *
+>Cluster 763
+0	6105nt, >chromosome_3_(dbseq-nr_2)_[8027609,8033713]... *
+>Cluster 764
+0	6105nt, >chromosome_9_(dbseq-nr_8)_[8899222,8905326]... *
+1	6061nt, >chromosome_10_(dbseq-nr_9)_[177631,183691]... at -/96.75%
+2	6088nt, >chromosome_11_(dbseq-nr_10)_[826063,832150]... at -/99.95%
+>Cluster 765
+0	6101nt, >chromosome_5_(dbseq-nr_4)_[5569298,5575398]... *
+>Cluster 766
+0	6100nt, >chromosome_10_(dbseq-nr_9)_[1333636,1339735]... *
+>Cluster 767
+0	6094nt, >chromosome_5_(dbseq-nr_4)_[123469,129562]... *
+1	6086nt, >chromosome_7_(dbseq-nr_6)_[3245308,3251393]... at +/99.77%
+>Cluster 768
+0	5646nt, >chromosome_4_(dbseq-nr_3)_[6978223,6983868]... at +/97.08%
+1	6094nt, >chromosome_5_(dbseq-nr_4)_[1341572,1347665]... *
+>Cluster 769
+0	6094nt, >chromosome_12_(dbseq-nr_11)_[2839961,2846054]... *
+>Cluster 770
+0	6091nt, >chromosome_5_(dbseq-nr_4)_[4876041,4882131]... *
+>Cluster 771
+0	6084nt, >chromosome_2_(dbseq-nr_1)_[1835752,1841835]... *
+>Cluster 772
+0	6075nt, >chromosome_10_(dbseq-nr_9)_[4755850,4761924]... *
+>Cluster 773
+0	6072nt, >chromosome_6_(dbseq-nr_5)_[4666217,4672288]... *
+>Cluster 774
+0	6067nt, >chromosome_5_(dbseq-nr_4)_[6298489,6304555]... *
+>Cluster 775
+0	6066nt, >chromosome_6_(dbseq-nr_5)_[4342765,4348830]... *
+>Cluster 776
+0	6063nt, >chromosome_4_(dbseq-nr_3)_[9829642,9835704]... *
+>Cluster 777
+0	6055nt, >chromosome_2_(dbseq-nr_1)_[7726644,7732698]... *
+>Cluster 778
+0	6055nt, >chromosome_10_(dbseq-nr_9)_[3558569,3564623]... *
+>Cluster 779
+0	6050nt, >chromosome_8_(dbseq-nr_7)_[408164,414213]... *
+>Cluster 780
+0	6040nt, >chromosome_11_(dbseq-nr_10)_[1102866,1108905]... *
+>Cluster 781
+0	6033nt, >chromosome_12_(dbseq-nr_11)_[4544779,4550811]... *
+>Cluster 782
+0	6029nt, >chromosome_11_(dbseq-nr_10)_[3643776,3649804]... *
+>Cluster 783
+0	6022nt, >chromosome_6_(dbseq-nr_5)_[4625207,4631228]... *
+>Cluster 784
+0	6019nt, >chromosome_1_(dbseq-nr_0)_[4731457,4737475]... *
+>Cluster 785
+0	6015nt, >chromosome_9_(dbseq-nr_8)_[5530702,5536716]... *
+>Cluster 786
+0	6008nt, >chromosome_1_(dbseq-nr_0)_[1409412,1415419]... *
+>Cluster 787
+0	6005nt, >chromosome_1_(dbseq-nr_0)_[1003452,1009456]... *
+>Cluster 788
+0	6003nt, >chromosome_1_(dbseq-nr_0)_[68640,74642]... *
+>Cluster 789
+0	6002nt, >chromosome_9_(dbseq-nr_8)_[8404909,8410910]... *
+>Cluster 790
+0	5995nt, >chromosome_12_(dbseq-nr_11)_[228010,234004]... *
+>Cluster 791
+0	5993nt, >chromosome_7_(dbseq-nr_6)_[5878864,5884856]... *
+>Cluster 792
+0	5932nt, >chromosome_1_(dbseq-nr_0)_[1592551,1598482]... at +/99.28%
+1	5930nt, >chromosome_1_(dbseq-nr_0)_[1906849,1912778]... at +/99.70%
+2	5930nt, >chromosome_1_(dbseq-nr_0)_[1915857,1921786]... at -/99.48%
+3	5935nt, >chromosome_2_(dbseq-nr_1)_[5479194,5485128]... at -/99.75%
+4	5975nt, >chromosome_4_(dbseq-nr_3)_[7879327,7885301]... *
+5	5963nt, >chromosome_5_(dbseq-nr_4)_[1144832,1150794]... at +/99.48%
+6	5932nt, >chromosome_5_(dbseq-nr_4)_[6175305,6181236]... at +/99.85%
+>Cluster 793
+0	5972nt, >chromosome_9_(dbseq-nr_8)_[3695364,3701335]... *
+>Cluster 794
+0	5963nt, >chromosome_12_(dbseq-nr_11)_[1663693,1669655]... *
+>Cluster 795
+0	5959nt, >chromosome_6_(dbseq-nr_5)_[3724181,3730139]... *
+>Cluster 796
+0	5944nt, >chromosome_5_(dbseq-nr_4)_[157637,163580]... *
+>Cluster 797
+0	5943nt, >chromosome_9_(dbseq-nr_8)_[10239139,10245081]... *
+>Cluster 798
+0	5934nt, >chromosome_11_(dbseq-nr_10)_[1834342,1840275]... *
+>Cluster 799
+0	5932nt, >chromosome_7_(dbseq-nr_6)_[773729,779660]... *
+>Cluster 800
+0	5931nt, >chromosome_10_(dbseq-nr_9)_[2662265,2668195]... *
+>Cluster 801
+0	5928nt, >scaffold_27_(dbseq-nr_26)_[562,6489]... *
+>Cluster 802
+0	5919nt, >chromosome_4_(dbseq-nr_3)_[9275239,9281157]... *
+1	5862nt, >chromosome_6_(dbseq-nr_5)_[84227,90088]... at +/95.19%
+>Cluster 803
+0	5906nt, >chromosome_3_(dbseq-nr_2)_[5263714,5269619]... *
+>Cluster 804
+0	5892nt, >chromosome_5_(dbseq-nr_4)_[4474028,4479919]... *
+>Cluster 805
+0	5883nt, >chromosome_3_(dbseq-nr_2)_[6422252,6428134]... *
+>Cluster 806
+0	5874nt, >chromosome_3_(dbseq-nr_2)_[2147208,2153081]... *
+>Cluster 807
+0	5873nt, >chromosome_9_(dbseq-nr_8)_[3051448,3057320]... *
+>Cluster 808
+0	5869nt, >chromosome_6_(dbseq-nr_5)_[3561422,3567290]... *
+>Cluster 809
+0	5868nt, >chromosome_4_(dbseq-nr_3)_[5768953,5774820]... *
+>Cluster 810
+0	5868nt, >chromosome_9_(dbseq-nr_8)_[1510880,1516747]... *
+>Cluster 811
+0	5868nt, >chromosome_9_(dbseq-nr_8)_[4075332,4081199]... *
+>Cluster 812
+0	5867nt, >chromosome_6_(dbseq-nr_5)_[6988305,6994171]... *
+>Cluster 813
+0	5866nt, >chromosome_9_(dbseq-nr_8)_[3493759,3499624]... *
+>Cluster 814
+0	5860nt, >chromosome_10_(dbseq-nr_9)_[3845772,3851631]... *
+>Cluster 815
+0	5851nt, >chromosome_2_(dbseq-nr_1)_[5243701,5249551]... *
+>Cluster 816
+0	5850nt, >chromosome_9_(dbseq-nr_8)_[4720209,4726058]... *
+>Cluster 817
+0	5849nt, >chromosome_9_(dbseq-nr_8)_[243662,249510]... *
+>Cluster 818
+0	5845nt, >chromosome_9_(dbseq-nr_8)_[3176876,3182720]... *
+>Cluster 819
+0	5840nt, >chromosome_9_(dbseq-nr_8)_[1461039,1466878]... *
+>Cluster 820
+0	5837nt, >chromosome_4_(dbseq-nr_3)_[7326884,7332720]... *
+>Cluster 821
+0	5827nt, >chromosome_9_(dbseq-nr_8)_[4126960,4132786]... *
+>Cluster 822
+0	5824nt, >chromosome_5_(dbseq-nr_4)_[6459081,6464904]... at +/95.96%
+1	5825nt, >chromosome_7_(dbseq-nr_6)_[5818383,5824207]... *
+2	5796nt, >chromosome_9_(dbseq-nr_8)_[7323095,7328890]... at +/99.48%
+3	5825nt, >chromosome_9_(dbseq-nr_8)_[9353933,9359757]... at -/99.38%
+>Cluster 823
+0	5815nt, >chromosome_7_(dbseq-nr_6)_[3843265,3849079]... *
+>Cluster 824
+0	5814nt, >chromosome_7_(dbseq-nr_6)_[3710177,3715990]... *
+>Cluster 825
+0	5813nt, >chromosome_11_(dbseq-nr_10)_[2549251,2555063]... *
+>Cluster 826
+0	5809nt, >chromosome_9_(dbseq-nr_8)_[1483046,1488854]... *
+1	5721nt, >chromosome_9_(dbseq-nr_8)_[5637974,5643694]... at -/95.82%
+>Cluster 827
+0	5806nt, >chromosome_6_(dbseq-nr_5)_[6362491,6368296]... *
+>Cluster 828
+0	5799nt, >chromosome_3_(dbseq-nr_2)_[7465414,7471212]... at +/99.26%
+1	5802nt, >chromosome_9_(dbseq-nr_8)_[3243655,3249456]... at +/99.28%
+2	5798nt, >chromosome_9_(dbseq-nr_8)_[3742836,3748633]... at +/99.38%
+3	5805nt, >chromosome_9_(dbseq-nr_8)_[10756660,10762464]... *
+4	5798nt, >chromosome_10_(dbseq-nr_9)_[2694110,2699907]... at -/99.15%
+5	5797nt, >chromosome_10_(dbseq-nr_9)_[4943624,4949420]... at +/99.26%
+>Cluster 829
+0	5802nt, >chromosome_5_(dbseq-nr_4)_[6884146,6889947]... *
+1	5784nt, >chromosome_9_(dbseq-nr_8)_[4944119,4949902]... at -/99.07%
+2	5779nt, >chromosome_9_(dbseq-nr_8)_[5657259,5663037]... at -/99.29%
+3	5788nt, >chromosome_11_(dbseq-nr_10)_[19527,25314]... at -/98.98%
+4	5781nt, >chromosome_11_(dbseq-nr_10)_[4649849,4655629]... at +/98.98%
+5	5783nt, >chromosome_12_(dbseq-nr_11)_[2350188,2355970]... at +/99.00%
+>Cluster 830
+0	5802nt, >chromosome_9_(dbseq-nr_8)_[3569973,3575774]... *
+>Cluster 831
+0	5794nt, >chromosome_2_(dbseq-nr_1)_[6034180,6039973]... *
+>Cluster 832
+0	5790nt, >chromosome_5_(dbseq-nr_4)_[5861354,5867143]... *
+>Cluster 833
+0	5790nt, >chromosome_9_(dbseq-nr_8)_[8868079,8873868]... *
+>Cluster 834
+0	5788nt, >chromosome_7_(dbseq-nr_6)_[3325166,3330953]... *
+>Cluster 835
+0	5774nt, >chromosome_2_(dbseq-nr_1)_[2259664,2265437]... *
+>Cluster 836
+0	5766nt, >chromosome_4_(dbseq-nr_3)_[3644742,3650507]... *
+>Cluster 837
+0	5765nt, >chromosome_3_(dbseq-nr_2)_[6127789,6133553]... *
+>Cluster 838
+0	5759nt, >chromosome_8_(dbseq-nr_7)_[401287,407045]... *
+>Cluster 839
+0	5756nt, >chromosome_5_(dbseq-nr_4)_[486694,492449]... *
+>Cluster 840
+0	5756nt, >chromosome_11_(dbseq-nr_10)_[4299620,4305375]... *
+>Cluster 841
+0	5749nt, >chromosome_1_(dbseq-nr_0)_[1582447,1588195]... *
+>Cluster 842
+0	5744nt, >chromosome_1_(dbseq-nr_0)_[866673,872416]... *
+>Cluster 843
+0	5730nt, >chromosome_2_(dbseq-nr_1)_[2618497,2624226]... *
+>Cluster 844
+0	5730nt, >chromosome_10_(dbseq-nr_9)_[430643,436372]... *
+>Cluster 845
+0	5726nt, >chromosome_9_(dbseq-nr_8)_[6511333,6517058]... *
+>Cluster 846
+0	5714nt, >chromosome_6_(dbseq-nr_5)_[4086516,4092229]... *
+>Cluster 847
+0	5712nt, >chromosome_1_(dbseq-nr_0)_[3516869,3522580]... *
+>Cluster 848
+0	5712nt, >chromosome_6_(dbseq-nr_5)_[5983874,5989585]... *
+>Cluster 849
+0	5710nt, >chromosome_9_(dbseq-nr_8)_[3665237,3670946]... *
+>Cluster 850
+0	5707nt, >chromosome_11_(dbseq-nr_10)_[181016,186722]... *
+>Cluster 851
+0	5687nt, >chromosome_3_(dbseq-nr_2)_[1848545,1854231]... *
+>Cluster 852
+0	5684nt, >chromosome_1_(dbseq-nr_0)_[1617208,1622891]... *
+>Cluster 853
+0	5679nt, >chromosome_4_(dbseq-nr_3)_[640132,645810]... *
+1	5274nt, >chromosome_8_(dbseq-nr_7)_[639088,644361]... at -/96.13%
+>Cluster 854
+0	5678nt, >chromosome_7_(dbseq-nr_6)_[5910239,5915916]... *
+>Cluster 855
+0	5675nt, >chromosome_9_(dbseq-nr_8)_[9856402,9862076]... *
+>Cluster 856
+0	5674nt, >chromosome_9_(dbseq-nr_8)_[441438,447111]... *
+>Cluster 857
+0	5634nt, >chromosome_2_(dbseq-nr_1)_[86262,91895]... at +/99.27%
+1	5664nt, >chromosome_9_(dbseq-nr_8)_[5029344,5035007]... *
+>Cluster 858
+0	5663nt, >chromosome_4_(dbseq-nr_3)_[2034578,2040240]... *
+>Cluster 859
+0	5661nt, >chromosome_7_(dbseq-nr_6)_[574702,580362]... *
+>Cluster 860
+0	5657nt, >chromosome_9_(dbseq-nr_8)_[9274307,9279963]... *
+>Cluster 861
+0	5649nt, >chromosome_7_(dbseq-nr_6)_[2956367,2962015]... *
+>Cluster 862
+0	5649nt, >chromosome_12_(dbseq-nr_11)_[2449494,2455142]... *
+>Cluster 863
+0	5640nt, >chromosome_11_(dbseq-nr_10)_[4386998,4392637]... *
+>Cluster 864
+0	5632nt, >chromosome_5_(dbseq-nr_4)_[4409303,4414934]... *
+>Cluster 865
+0	5626nt, >chromosome_1_(dbseq-nr_0)_[651111,656736]... *
+>Cluster 866
+0	5619nt, >chromosome_12_(dbseq-nr_11)_[1365583,1371201]... *
+>Cluster 867
+0	5618nt, >chromosome_7_(dbseq-nr_6)_[3024839,3030456]... *
+>Cluster 868
+0	5617nt, >chromosome_12_(dbseq-nr_11)_[1092478,1098094]... *
+>Cluster 869
+0	5591nt, >chromosome_3_(dbseq-nr_2)_[3369266,3374856]... at -/99.91%
+1	5594nt, >chromosome_4_(dbseq-nr_3)_[2045908,2051501]... at -/99.21%
+2	5586nt, >chromosome_4_(dbseq-nr_3)_[3239718,3245303]... at -/99.93%
+3	5609nt, >chromosome_4_(dbseq-nr_3)_[3498801,3504409]... *
+4	5589nt, >chromosome_6_(dbseq-nr_5)_[6063218,6068806]... at +/99.91%
+5	5588nt, >chromosome_9_(dbseq-nr_8)_[8941044,8946631]... at +/99.95%
+>Cluster 870
+0	5605nt, >chromosome_12_(dbseq-nr_11)_[3460887,3466491]... *
+>Cluster 871
+0	5592nt, >chromosome_5_(dbseq-nr_4)_[6631058,6636649]... *
+>Cluster 872
+0	5574nt, >chromosome_9_(dbseq-nr_8)_[4590930,4596503]... *
+>Cluster 873
+0	5569nt, >chromosome_7_(dbseq-nr_6)_[2273575,2279143]... *
+>Cluster 874
+0	5565nt, >chromosome_10_(dbseq-nr_9)_[3374583,3380147]... *
+>Cluster 875
+0	5562nt, >chromosome_2_(dbseq-nr_1)_[4252417,4257978]... *
+>Cluster 876
+0	5561nt, >chromosome_7_(dbseq-nr_6)_[2850009,2855569]... *
+>Cluster 877
+0	5555nt, >chromosome_9_(dbseq-nr_8)_[8587722,8593276]... *
+>Cluster 878
+0	5551nt, >chromosome_9_(dbseq-nr_8)_[1568218,1573768]... *
+>Cluster 879
+0	5548nt, >chromosome_9_(dbseq-nr_8)_[9341713,9347260]... *
+>Cluster 880
+0	5535nt, >chromosome_2_(dbseq-nr_1)_[4337218,4342752]... *
+>Cluster 881
+0	5533nt, >chromosome_7_(dbseq-nr_6)_[4695538,4701070]... *
+>Cluster 882
+0	5533nt, >chromosome_10_(dbseq-nr_9)_[3596983,3602515]... *
+>Cluster 883
+0	5530nt, >chromosome_9_(dbseq-nr_8)_[7820770,7826299]... *
+>Cluster 884
+0	5521nt, >chromosome_10_(dbseq-nr_9)_[4909998,4915518]... *
+>Cluster 885
+0	5518nt, >chromosome_10_(dbseq-nr_9)_[161466,166983]... *
+>Cluster 886
+0	5516nt, >chromosome_9_(dbseq-nr_8)_[2136766,2142281]... *
+>Cluster 887
+0	5502nt, >chromosome_10_(dbseq-nr_9)_[1648490,1653991]... *
+>Cluster 888
+0	5500nt, >chromosome_8_(dbseq-nr_7)_[2685467,2690966]... *
+>Cluster 889
+0	5498nt, >chromosome_9_(dbseq-nr_8)_[3460161,3465658]... *
+>Cluster 890
+0	5491nt, >chromosome_7_(dbseq-nr_6)_[4808706,4814196]... *
+>Cluster 891
+0	5489nt, >chromosome_2_(dbseq-nr_1)_[575864,581352]... *
+>Cluster 892
+0	5485nt, >chromosome_12_(dbseq-nr_11)_[21436,26920]... *
+>Cluster 893
+0	5482nt, >chromosome_11_(dbseq-nr_10)_[150826,156307]... *
+>Cluster 894
+0	5478nt, >chromosome_9_(dbseq-nr_8)_[595839,601316]... *
+>Cluster 895
+0	5476nt, >chromosome_4_(dbseq-nr_3)_[1352420,1357895]... *
+>Cluster 896
+0	5470nt, >chromosome_2_(dbseq-nr_1)_[4780529,4785998]... *
+>Cluster 897
+0	5466nt, >chromosome_8_(dbseq-nr_7)_[2026597,2032062]... *
+>Cluster 898
+0	5465nt, >chromosome_2_(dbseq-nr_1)_[6351663,6357127]... *
+>Cluster 899
+0	5463nt, >chromosome_9_(dbseq-nr_8)_[4321991,4327453]... *
+>Cluster 900
+0	5462nt, >chromosome_6_(dbseq-nr_5)_[15812,21273]... *
+>Cluster 901
+0	5454nt, >chromosome_7_(dbseq-nr_6)_[350124,355577]... *
+>Cluster 902
+0	5452nt, >chromosome_6_(dbseq-nr_5)_[6821309,6826760]... *
+>Cluster 903
+0	5444nt, >chromosome_11_(dbseq-nr_10)_[1582237,1587680]... *
+>Cluster 904
+0	5429nt, >chromosome_3_(dbseq-nr_2)_[1398972,1404400]... *
+>Cluster 905
+0	5425nt, >chromosome_10_(dbseq-nr_9)_[4367646,4373070]... *
+>Cluster 906
+0	5422nt, >chromosome_1_(dbseq-nr_0)_[1441417,1446838]... *
+>Cluster 907
+0	5421nt, >chromosome_3_(dbseq-nr_2)_[6290151,6295571]... *
+>Cluster 908
+0	5419nt, >chromosome_5_(dbseq-nr_4)_[6751156,6756574]... *
+>Cluster 909
+0	5411nt, >chromosome_7_(dbseq-nr_6)_[1806054,1811464]... *
+>Cluster 910
+0	5410nt, >chromosome_3_(dbseq-nr_2)_[7169230,7174639]... *
+>Cluster 911
+0	5409nt, >chromosome_5_(dbseq-nr_4)_[4218007,4223415]... *
+>Cluster 912
+0	5404nt, >chromosome_6_(dbseq-nr_5)_[4911777,4917180]... *
+>Cluster 913
+0	5398nt, >chromosome_7_(dbseq-nr_6)_[2623857,2629254]... *
+>Cluster 914
+0	5383nt, >chromosome_6_(dbseq-nr_5)_[921916,927298]... *
+>Cluster 915
+0	5378nt, >chromosome_3_(dbseq-nr_2)_[980097,985474]... *
+>Cluster 916
+0	5370nt, >chromosome_7_(dbseq-nr_6)_[2544899,2550268]... *
+>Cluster 917
+0	5370nt, >chromosome_10_(dbseq-nr_9)_[2045623,2050992]... *
+>Cluster 918
+0	5346nt, >chromosome_4_(dbseq-nr_3)_[8443841,8449186]... *
+>Cluster 919
+0	5340nt, >chromosome_8_(dbseq-nr_7)_[3006271,3011610]... *
+>Cluster 920
+0	5338nt, >chromosome_6_(dbseq-nr_5)_[5928300,5933637]... *
+>Cluster 921
+0	5313nt, >chromosome_2_(dbseq-nr_1)_[2388925,2394237]... at -/99.55%
+1	5330nt, >chromosome_4_(dbseq-nr_3)_[4021780,4027109]... *
+>Cluster 922
+0	5323nt, >chromosome_5_(dbseq-nr_4)_[6730136,6735458]... *
+>Cluster 923
+0	5321nt, >chromosome_7_(dbseq-nr_6)_[497661,502981]... *
+>Cluster 924
+0	5315nt, >chromosome_9_(dbseq-nr_8)_[8911816,8917130]... *
+>Cluster 925
+0	5314nt, >chromosome_4_(dbseq-nr_3)_[7552092,7557405]... *
+>Cluster 926
+0	5307nt, >chromosome_11_(dbseq-nr_10)_[1128549,1133855]... *
+>Cluster 927
+0	5297nt, >chromosome_1_(dbseq-nr_0)_[3200674,3205970]... *
+>Cluster 928
+0	5284nt, >chromosome_5_(dbseq-nr_4)_[306444,311727]... *
+>Cluster 929
+0	5283nt, >chromosome_4_(dbseq-nr_3)_[377749,383031]... *
+>Cluster 930
+0	5274nt, >chromosome_9_(dbseq-nr_8)_[4220966,4226239]... *
+>Cluster 931
+0	5269nt, >chromosome_4_(dbseq-nr_3)_[5278826,5284094]... *
+>Cluster 932
+0	5269nt, >chromosome_4_(dbseq-nr_3)_[7859001,7864269]... *
+>Cluster 933
+0	5263nt, >chromosome_4_(dbseq-nr_3)_[2862524,2867786]... *
+>Cluster 934
+0	5262nt, >chromosome_9_(dbseq-nr_8)_[3407374,3412635]... *
+>Cluster 935
+0	5261nt, >chromosome_9_(dbseq-nr_8)_[3136413,3141673]... *
+>Cluster 936
+0	5260nt, >chromosome_12_(dbseq-nr_11)_[4222354,4227613]... *
+>Cluster 937
+0	5246nt, >chromosome_1_(dbseq-nr_0)_[1865398,1870643]... at -/99.60%
+1	5253nt, >chromosome_2_(dbseq-nr_1)_[5500474,5505726]... *
+2	5230nt, >chromosome_3_(dbseq-nr_2)_[3357637,3362866]... at -/98.91%
+3	5224nt, >chromosome_5_(dbseq-nr_4)_[3853613,3858836]... at +/98.85%
+4	5247nt, >chromosome_6_(dbseq-nr_5)_[65505,70751]... at -/99.68%
+5	5225nt, >chromosome_7_(dbseq-nr_6)_[6234999,6240223]... at +/98.35%
+6	5227nt, >chromosome_9_(dbseq-nr_8)_[2226087,2231313]... at -/98.18%
+>Cluster 938
+0	5217nt, >chromosome_4_(dbseq-nr_3)_[10680052,10685268]... *
+>Cluster 939
+0	5211nt, >chromosome_4_(dbseq-nr_3)_[862696,867906]... *
+>Cluster 940
+0	5210nt, >chromosome_1_(dbseq-nr_0)_[4325938,4331147]... *
+>Cluster 941
+0	5178nt, >chromosome_2_(dbseq-nr_1)_[3798165,3803342]... *
+>Cluster 942
+0	5176nt, >chromosome_5_(dbseq-nr_4)_[397613,402788]... *
+>Cluster 943
+0	5172nt, >chromosome_10_(dbseq-nr_9)_[3784590,3789761]... *
+>Cluster 944
+0	5171nt, >chromosome_6_(dbseq-nr_5)_[27790,32960]... *
+>Cluster 945
+0	5169nt, >chromosome_4_(dbseq-nr_3)_[3771543,3776711]... *
+>Cluster 946
+0	5169nt, >chromosome_9_(dbseq-nr_8)_[10421013,10426181]... *
+>Cluster 947
+0	5167nt, >chromosome_8_(dbseq-nr_7)_[3118883,3124049]... *
+>Cluster 948
+0	5165nt, >chromosome_7_(dbseq-nr_6)_[5804811,5809975]... *
+>Cluster 949
+0	5161nt, >chromosome_7_(dbseq-nr_6)_[5064093,5069253]... *
+>Cluster 950
+0	5155nt, >chromosome_7_(dbseq-nr_6)_[1314823,1319977]... *
+>Cluster 951
+0	5124nt, >chromosome_2_(dbseq-nr_1)_[6506615,6511738]... at +/99.47%
+1	5126nt, >chromosome_3_(dbseq-nr_2)_[2881453,2886578]... at -/99.43%
+2	5123nt, >chromosome_3_(dbseq-nr_2)_[3961794,3966916]... at +/99.47%
+3	5121nt, >chromosome_3_(dbseq-nr_2)_[4775431,4780551]... at -/99.49%
+4	5153nt, >chromosome_4_(dbseq-nr_3)_[4524988,4530140]... *
+5	5127nt, >chromosome_5_(dbseq-nr_4)_[7132830,7137956]... at -/99.53%
+6	5120nt, >chromosome_7_(dbseq-nr_6)_[2922296,2927415]... at +/99.55%
+7	5124nt, >chromosome_8_(dbseq-nr_7)_[307033,312156]... at +/99.45%
+8	5129nt, >chromosome_8_(dbseq-nr_7)_[716440,721568]... at +/99.45%
+9	5136nt, >chromosome_8_(dbseq-nr_7)_[2006730,2011865]... at -/99.57%
+10	5125nt, >chromosome_9_(dbseq-nr_8)_[3832033,3837157]... at +/99.73%
+11	5017nt, >chromosome_10_(dbseq-nr_9)_[10082,15098]... at +/99.70%
+12	5118nt, >chromosome_11_(dbseq-nr_10)_[1674362,1679479]... at +/99.51%
+>Cluster 952
+0	5153nt, >chromosome_7_(dbseq-nr_6)_[1953150,1958302]... *
+>Cluster 953
+0	5151nt, >chromosome_7_(dbseq-nr_6)_[4367024,4372174]... *
+>Cluster 954
+0	5150nt, >chromosome_7_(dbseq-nr_6)_[2895131,2900280]... *
+>Cluster 955
+0	5150nt, >chromosome_11_(dbseq-nr_10)_[4320429,4325578]... *
+>Cluster 956
+0	5149nt, >chromosome_10_(dbseq-nr_9)_[4148775,4153923]... *
+>Cluster 957
+0	5130nt, >chromosome_6_(dbseq-nr_5)_[2648150,2653279]... *
+>Cluster 958
+0	5130nt, >chromosome_10_(dbseq-nr_9)_[3544496,3549625]... *
+>Cluster 959
+0	5125nt, >chromosome_1_(dbseq-nr_0)_[1708509,1713633]... *
+>Cluster 960
+0	5119nt, >chromosome_9_(dbseq-nr_8)_[7099587,7104705]... *
+>Cluster 961
+0	5113nt, >chromosome_8_(dbseq-nr_7)_[3401485,3406597]... *
+>Cluster 962
+0	5085nt, >chromosome_2_(dbseq-nr_1)_[2134564,2139648]... at +/98.82%
+1	5102nt, >chromosome_5_(dbseq-nr_4)_[4443773,4448874]... *
+>Cluster 963
+0	5099nt, >chromosome_4_(dbseq-nr_3)_[9092088,9097186]... *
+>Cluster 964
+0	5095nt, >chromosome_6_(dbseq-nr_5)_[1917808,1922902]... *
+>Cluster 965
+0	5095nt, >chromosome_8_(dbseq-nr_7)_[1356045,1361139]... *
+>Cluster 966
+0	5094nt, >chromosome_10_(dbseq-nr_9)_[313990,319083]... *
+>Cluster 967
+0	5093nt, >chromosome_9_(dbseq-nr_8)_[3283656,3288748]... *
+>Cluster 968
+0	5070nt, >chromosome_7_(dbseq-nr_6)_[820457,825526]... *
+>Cluster 969
+0	5060nt, >chromosome_6_(dbseq-nr_5)_[4498515,4503574]... *
+>Cluster 970
+0	5054nt, >chromosome_10_(dbseq-nr_9)_[4389819,4394872]... *
+>Cluster 971
+0	5050nt, >chromosome_9_(dbseq-nr_8)_[222660,227709]... *
+>Cluster 972
+0	5049nt, >chromosome_9_(dbseq-nr_8)_[8905489,8910537]... *
+>Cluster 973
+0	5040nt, >chromosome_9_(dbseq-nr_8)_[8574704,8579743]... *
+>Cluster 974
+0	5031nt, >chromosome_5_(dbseq-nr_4)_[6353271,6358301]... *
+>Cluster 975
+0	5029nt, >chromosome_7_(dbseq-nr_6)_[2497557,2502585]... *
+>Cluster 976
+0	5025nt, >chromosome_2_(dbseq-nr_1)_[6828748,6833772]... *
+>Cluster 977
+0	5024nt, >chromosome_4_(dbseq-nr_3)_[9884945,9889968]... *
+1	5007nt, >chromosome_9_(dbseq-nr_8)_[1126390,1131396]... at -/99.94%
+2	5011nt, >chromosome_12_(dbseq-nr_11)_[3185987,3190997]... at +/99.94%
+>Cluster 978
+0	5021nt, >chromosome_6_(dbseq-nr_5)_[1485858,1490878]... *
+>Cluster 979
+0	5019nt, >chromosome_4_(dbseq-nr_3)_[141195,146213]... *
+>Cluster 980
+0	5018nt, >chromosome_8_(dbseq-nr_7)_[2126527,2131544]... *
+>Cluster 981
+0	5016nt, >chromosome_6_(dbseq-nr_5)_[4715213,4720228]... *
+>Cluster 982
+0	5016nt, >chromosome_8_(dbseq-nr_7)_[1959702,1964717]... *
+>Cluster 983
+0	5013nt, >chromosome_9_(dbseq-nr_8)_[1613102,1618114]... *
+>Cluster 984
+0	5003nt, >chromosome_2_(dbseq-nr_1)_[7802752,7807754]... *
+>Cluster 985
+0	5001nt, >chromosome_4_(dbseq-nr_3)_[400151,405151]... *
+>Cluster 986
+0	4997nt, >chromosome_9_(dbseq-nr_8)_[8633173,8638169]... *
+>Cluster 987
+0	4990nt, >chromosome_9_(dbseq-nr_8)_[4872399,4877388]... *
+>Cluster 988
+0	4982nt, >chromosome_7_(dbseq-nr_6)_[2733103,2738084]... *
+>Cluster 989
+0	4954nt, >chromosome_4_(dbseq-nr_3)_[966005,970958]... at +/97.76%
+1	4936nt, >chromosome_5_(dbseq-nr_4)_[611590,616525]... at +/97.79%
+2	4980nt, >chromosome_5_(dbseq-nr_4)_[726172,731151]... *
+3	4909nt, >chromosome_5_(dbseq-nr_4)_[5843750,5848658]... at +/97.86%
+4	4911nt, >chromosome_7_(dbseq-nr_6)_[4997405,5002315]... at -/95.68%
+5	4948nt, >chromosome_10_(dbseq-nr_9)_[2614226,2619173]... at -/97.84%
+6	4913nt, >chromosome_10_(dbseq-nr_9)_[3427964,3432876]... at +/97.82%
+>Cluster 990
+0	4971nt, >chromosome_1_(dbseq-nr_0)_[103331,108301]... *
+>Cluster 991
+0	4969nt, >chromosome_9_(dbseq-nr_8)_[8480797,8485765]... *
+>Cluster 992
+0	4964nt, >chromosome_6_(dbseq-nr_5)_[342312,347275]... *
+>Cluster 993
+0	4962nt, >chromosome_7_(dbseq-nr_6)_[841805,846766]... *
+>Cluster 994
+0	4955nt, >chromosome_8_(dbseq-nr_7)_[2637135,2642089]... *
+>Cluster 995
+0	4942nt, >chromosome_4_(dbseq-nr_3)_[9527136,9532077]... *
+>Cluster 996
+0	4930nt, >chromosome_7_(dbseq-nr_6)_[3725725,3730654]... *
+>Cluster 997
+0	4925nt, >chromosome_9_(dbseq-nr_8)_[1806402,1811326]... *
+>Cluster 998
+0	4918nt, >chromosome_1_(dbseq-nr_0)_[1897339,1902256]... *
+>Cluster 999
+0	4916nt, >chromosome_11_(dbseq-nr_10)_[3207892,3212807]... *
+>Cluster 1000
+0	4911nt, >chromosome_3_(dbseq-nr_2)_[3375016,3379926]... *
+>Cluster 1001
+0	4909nt, >chromosome_5_(dbseq-nr_4)_[3041087,3045995]... *
+>Cluster 1002
+0	4906nt, >chromosome_6_(dbseq-nr_5)_[1022583,1027488]... *
+>Cluster 1003
+0	4905nt, >chromosome_7_(dbseq-nr_6)_[3360241,3365145]... *
+>Cluster 1004
+0	4900nt, >chromosome_1_(dbseq-nr_0)_[1470519,1475418]... *
+>Cluster 1005
+0	4899nt, >chromosome_3_(dbseq-nr_2)_[693344,698242]... *
+>Cluster 1006
+0	4899nt, >chromosome_6_(dbseq-nr_5)_[4313695,4318593]... *
+>Cluster 1007
+0	4896nt, >chromosome_12_(dbseq-nr_11)_[3934315,3939210]... *
+>Cluster 1008
+0	4892nt, >chromosome_12_(dbseq-nr_11)_[3819903,3824794]... *
+>Cluster 1009
+0	4890nt, >chromosome_6_(dbseq-nr_5)_[6906722,6911611]... *
+>Cluster 1010
+0	4886nt, >chromosome_3_(dbseq-nr_2)_[475756,480641]... *
+>Cluster 1011
+0	4885nt, >chromosome_3_(dbseq-nr_2)_[7419679,7424563]... *
+>Cluster 1012
+0	4884nt, >chromosome_2_(dbseq-nr_1)_[7708973,7713856]... *
+>Cluster 1013
+0	4883nt, >chromosome_11_(dbseq-nr_10)_[2113133,2118015]... *
+>Cluster 1014
+0	4876nt, >chromosome_5_(dbseq-nr_4)_[6924805,6929680]... *
+>Cluster 1015
+0	4868nt, >chromosome_7_(dbseq-nr_6)_[3032595,3037462]... *
+>Cluster 1016
+0	4723nt, >chromosome_2_(dbseq-nr_1)_[4054026,4058748]... at -/99.87%
+1	4865nt, >chromosome_6_(dbseq-nr_5)_[3913153,3918017]... *
+2	4724nt, >chromosome_8_(dbseq-nr_7)_[3498463,3503186]... at -/99.89%
+>Cluster 1017
+0	4857nt, >chromosome_3_(dbseq-nr_2)_[440179,445035]... *
+>Cluster 1018
+0	4853nt, >chromosome_12_(dbseq-nr_11)_[1405749,1410601]... *
+>Cluster 1019
+0	4849nt, >chromosome_2_(dbseq-nr_1)_[7179993,7184841]... *
+>Cluster 1020
+0	4849nt, >chromosome_8_(dbseq-nr_7)_[183722,188570]... *
+>Cluster 1021
+0	4848nt, >chromosome_2_(dbseq-nr_1)_[2508346,2513193]... *
+>Cluster 1022
+0	4845nt, >chromosome_12_(dbseq-nr_11)_[4915850,4920694]... *
+>Cluster 1023
+0	4819nt, >chromosome_11_(dbseq-nr_10)_[1159593,1164411]... *
+>Cluster 1024
+0	4816nt, >chromosome_3_(dbseq-nr_2)_[7476837,7481652]... *
+>Cluster 1025
+0	4814nt, >chromosome_7_(dbseq-nr_6)_[3055099,3059912]... *
+>Cluster 1026
+0	4812nt, >chromosome_2_(dbseq-nr_1)_[5268938,5273749]... *
+>Cluster 1027
+0	4808nt, >chromosome_11_(dbseq-nr_10)_[1911609,1916416]... *
+>Cluster 1028
+0	4801nt, >chromosome_3_(dbseq-nr_2)_[387092,391892]... *
+>Cluster 1029
+0	4797nt, >chromosome_2_(dbseq-nr_1)_[1250122,1254918]... *
+>Cluster 1030
+0	4791nt, >chromosome_8_(dbseq-nr_7)_[3836420,3841210]... *
+>Cluster 1031
+0	4788nt, >chromosome_6_(dbseq-nr_5)_[3344063,3348850]... *
+>Cluster 1032
+0	4785nt, >chromosome_1_(dbseq-nr_0)_[4108420,4113204]... *
+>Cluster 1033
+0	4783nt, >chromosome_4_(dbseq-nr_3)_[1259944,1264726]... *
+>Cluster 1034
+0	4783nt, >chromosome_7_(dbseq-nr_6)_[149700,154482]... *
+>Cluster 1035
+0	4776nt, >chromosome_1_(dbseq-nr_0)_[4157736,4162511]... *
+>Cluster 1036
+0	4773nt, >chromosome_3_(dbseq-nr_2)_[6802918,6807690]... *
+1	4753nt, >chromosome_8_(dbseq-nr_7)_[3936450,3941202]... at -/99.85%
+2	4766nt, >chromosome_9_(dbseq-nr_8)_[6025096,6029861]... at -/99.54%
+>Cluster 1037
+0	4770nt, >chromosome_12_(dbseq-nr_11)_[865807,870576]... *
+>Cluster 1038
+0	4769nt, >chromosome_2_(dbseq-nr_1)_[7937115,7941883]... *
+>Cluster 1039
+0	4755nt, >chromosome_9_(dbseq-nr_8)_[100154,104908]... *
+>Cluster 1040
+0	4752nt, >chromosome_2_(dbseq-nr_1)_[491851,496602]... *
+>Cluster 1041
+0	4752nt, >chromosome_6_(dbseq-nr_5)_[3805191,3809942]... *
+>Cluster 1042
+0	4748nt, >chromosome_2_(dbseq-nr_1)_[3365924,3370671]... *
+>Cluster 1043
+0	4747nt, >chromosome_3_(dbseq-nr_2)_[38142,42888]... *
+>Cluster 1044
+0	4744nt, >chromosome_7_(dbseq-nr_6)_[3539156,3543899]... *
+>Cluster 1045
+0	4744nt, >chromosome_11_(dbseq-nr_10)_[4064740,4069483]... *
+>Cluster 1046
+0	4731nt, >chromosome_7_(dbseq-nr_6)_[4913916,4918646]... *
+>Cluster 1047
+0	4728nt, >chromosome_12_(dbseq-nr_11)_[4884434,4889161]... *
+>Cluster 1048
+0	4725nt, >chromosome_10_(dbseq-nr_9)_[2182515,2187239]... *
+>Cluster 1049
+0	4696nt, >chromosome_9_(dbseq-nr_8)_[1990033,1994728]... *
+>Cluster 1050
+0	4689nt, >chromosome_9_(dbseq-nr_8)_[4608781,4613469]... *
+>Cluster 1051
+0	4686nt, >chromosome_4_(dbseq-nr_3)_[4329698,4334383]... *
+>Cluster 1052
+0	4686nt, >chromosome_5_(dbseq-nr_4)_[81771,86456]... *
+>Cluster 1053
+0	4685nt, >chromosome_10_(dbseq-nr_9)_[438506,443190]... *
+>Cluster 1054
+0	4667nt, >chromosome_10_(dbseq-nr_9)_[3438750,3443416]... *
+>Cluster 1055
+0	4661nt, >chromosome_4_(dbseq-nr_3)_[10150906,10155566]... *
+>Cluster 1056
+0	4659nt, >chromosome_2_(dbseq-nr_1)_[7592290,7596948]... *
+>Cluster 1057
+0	4659nt, >chromosome_7_(dbseq-nr_6)_[3657746,3662404]... *
+>Cluster 1058
+0	4658nt, >chromosome_9_(dbseq-nr_8)_[1972965,1977622]... *
+>Cluster 1059
+0	4642nt, >chromosome_7_(dbseq-nr_6)_[411514,416155]... *
+>Cluster 1060
+0	4641nt, >chromosome_9_(dbseq-nr_8)_[9426428,9431068]... *
+>Cluster 1061
+0	4639nt, >chromosome_6_(dbseq-nr_5)_[6719520,6724158]... *
+>Cluster 1062
+0	4638nt, >chromosome_7_(dbseq-nr_6)_[5792484,5797121]... *
+>Cluster 1063
+0	4634nt, >chromosome_9_(dbseq-nr_8)_[115309,119942]... *
+>Cluster 1064
+0	4632nt, >chromosome_8_(dbseq-nr_7)_[3189974,3194605]... *
+>Cluster 1065
+0	4627nt, >chromosome_4_(dbseq-nr_3)_[940540,945166]... *
+>Cluster 1066
+0	4624nt, >chromosome_5_(dbseq-nr_4)_[4287120,4291743]... *
+>Cluster 1067
+0	4618nt, >chromosome_7_(dbseq-nr_6)_[4114280,4118897]... *
+>Cluster 1068
+0	4614nt, >chromosome_7_(dbseq-nr_6)_[326722,331335]... *
+>Cluster 1069
+0	4614nt, >chromosome_11_(dbseq-nr_10)_[1049102,1053715]... *
+>Cluster 1070
+0	4610nt, >chromosome_3_(dbseq-nr_2)_[7690678,7695287]... *
+>Cluster 1071
+0	4607nt, >chromosome_7_(dbseq-nr_6)_[1965305,1969911]... *
+>Cluster 1072
+0	4594nt, >chromosome_9_(dbseq-nr_8)_[5958408,5963001]... at -/99.61%
+1	4602nt, >chromosome_11_(dbseq-nr_10)_[4701565,4706166]... *
+>Cluster 1073
+0	4594nt, >chromosome_11_(dbseq-nr_10)_[548793,553386]... *
+>Cluster 1074
+0	4591nt, >chromosome_11_(dbseq-nr_10)_[1778841,1783431]... *
+>Cluster 1075
+0	4589nt, >chromosome_7_(dbseq-nr_6)_[5839457,5844045]... *
+>Cluster 1076
+0	4588nt, >chromosome_7_(dbseq-nr_6)_[4329939,4334526]... *
+>Cluster 1077
+0	4584nt, >chromosome_9_(dbseq-nr_8)_[9043803,9048386]... *
+>Cluster 1078
+0	4581nt, >chromosome_3_(dbseq-nr_2)_[2778404,2782984]... *
+>Cluster 1079
+0	4580nt, >chromosome_2_(dbseq-nr_1)_[3300299,3304878]... *
+>Cluster 1080
+0	4580nt, >chromosome_11_(dbseq-nr_10)_[1338531,1343110]... *
+>Cluster 1081
+0	4548nt, >chromosome_4_(dbseq-nr_3)_[7098951,7103498]... at -/99.91%
+1	4569nt, >chromosome_12_(dbseq-nr_11)_[3392558,3397126]... *
+>Cluster 1082
+0	4567nt, >chromosome_2_(dbseq-nr_1)_[3804493,3809059]... *
+>Cluster 1083
+0	4561nt, >chromosome_6_(dbseq-nr_5)_[1438630,1443190]... *
+>Cluster 1084
+0	4559nt, >chromosome_3_(dbseq-nr_2)_[3854703,3859261]... *
+>Cluster 1085
+0	4551nt, >chromosome_4_(dbseq-nr_3)_[1052482,1057032]... *
+>Cluster 1086
+0	4551nt, >chromosome_6_(dbseq-nr_5)_[6557549,6562099]... *
+>Cluster 1087
+0	4543nt, >chromosome_2_(dbseq-nr_1)_[1828939,1833481]... *
+>Cluster 1088
+0	4543nt, >chromosome_5_(dbseq-nr_4)_[71794,76336]... *
+>Cluster 1089
+0	4538nt, >chromosome_7_(dbseq-nr_6)_[704892,709429]... *
+>Cluster 1090
+0	4534nt, >chromosome_8_(dbseq-nr_7)_[1093545,1098078]... *
+>Cluster 1091
+0	4533nt, >chromosome_7_(dbseq-nr_6)_[4633124,4637656]... *
+>Cluster 1092
+0	4531nt, >chromosome_9_(dbseq-nr_8)_[4214270,4218800]... *
+>Cluster 1093
+0	4529nt, >chromosome_8_(dbseq-nr_7)_[1121630,1126158]... *
+>Cluster 1094
+0	4526nt, >chromosome_6_(dbseq-nr_5)_[1262277,1266802]... *
+>Cluster 1095
+0	4526nt, >chromosome_10_(dbseq-nr_9)_[3230554,3235079]... *
+>Cluster 1096
+0	4519nt, >chromosome_6_(dbseq-nr_5)_[6511212,6515730]... *
+>Cluster 1097
+0	4516nt, >chromosome_3_(dbseq-nr_2)_[604302,608817]... *
+>Cluster 1098
+0	4507nt, >chromosome_6_(dbseq-nr_5)_[2516081,2520587]... at +/99.36%
+1	4515nt, >chromosome_9_(dbseq-nr_8)_[5867739,5872253]... at +/99.20%
+2	4516nt, >chromosome_12_(dbseq-nr_11)_[794287,798802]... *
+>Cluster 1099
+0	4511nt, >chromosome_12_(dbseq-nr_11)_[4688468,4692978]... *
+>Cluster 1100
+0	4507nt, >chromosome_7_(dbseq-nr_6)_[660799,665305]... *
+>Cluster 1101
+0	4484nt, >chromosome_9_(dbseq-nr_8)_[2410909,2415392]... at -/99.82%
+1	4484nt, >chromosome_10_(dbseq-nr_9)_[47078,51561]... at -/99.73%
+2	4507nt, >chromosome_10_(dbseq-nr_9)_[358938,363444]... *
+3	4487nt, >chromosome_11_(dbseq-nr_10)_[1972596,1977082]... at +/99.89%
+4	4506nt, >chromosome_12_(dbseq-nr_11)_[1210857,1215362]... at +/99.60%
+>Cluster 1102
+0	4503nt, >chromosome_8_(dbseq-nr_7)_[3922649,3927151]... *
+>Cluster 1103
+0	4502nt, >chromosome_3_(dbseq-nr_2)_[7157128,7161629]... *
+>Cluster 1104
+0	4501nt, >chromosome_5_(dbseq-nr_4)_[4508218,4512718]... *
+>Cluster 1105
+0	4497nt, >chromosome_1_(dbseq-nr_0)_[2963385,2967881]... *
+>Cluster 1106
+0	4497nt, >chromosome_7_(dbseq-nr_6)_[5007802,5012298]... *
+>Cluster 1107
+0	4492nt, >chromosome_8_(dbseq-nr_7)_[1428113,1432604]... *
+>Cluster 1108
+0	4492nt, >chromosome_9_(dbseq-nr_8)_[7970051,7974542]... *
+>Cluster 1109
+0	4487nt, >chromosome_5_(dbseq-nr_4)_[4631289,4635775]... *
+>Cluster 1110
+0	4480nt, >chromosome_9_(dbseq-nr_8)_[8535716,8540195]... *
+>Cluster 1111
+0	4475nt, >chromosome_5_(dbseq-nr_4)_[2823249,2827723]... *
+>Cluster 1112
+0	4470nt, >chromosome_10_(dbseq-nr_9)_[4162891,4167360]... *
+>Cluster 1113
+0	4465nt, >chromosome_7_(dbseq-nr_6)_[3701858,3706322]... *
+>Cluster 1114
+0	4459nt, >chromosome_9_(dbseq-nr_8)_[3562425,3566883]... *
+>Cluster 1115
+0	4454nt, >chromosome_3_(dbseq-nr_2)_[5311108,5315561]... *
+>Cluster 1116
+0	4448nt, >chromosome_1_(dbseq-nr_0)_[3887338,3891785]... *
+>Cluster 1117
+0	4445nt, >chromosome_9_(dbseq-nr_8)_[9146187,9150631]... *
+>Cluster 1118
+0	4444nt, >chromosome_6_(dbseq-nr_5)_[3877578,3882021]... *
+>Cluster 1119
+0	4440nt, >chromosome_2_(dbseq-nr_1)_[6553037,6557476]... *
+>Cluster 1120
+0	4434nt, >chromosome_4_(dbseq-nr_3)_[4420719,4425152]... *
+>Cluster 1121
+0	4432nt, >chromosome_7_(dbseq-nr_6)_[5445874,5450305]... *
+>Cluster 1122
+0	4417nt, >chromosome_9_(dbseq-nr_8)_[6275154,6279570]... *
+>Cluster 1123
+0	4414nt, >chromosome_6_(dbseq-nr_5)_[6647322,6651735]... *
+>Cluster 1124
+0	4413nt, >chromosome_3_(dbseq-nr_2)_[4498893,4503305]... *
+>Cluster 1125
+0	4402nt, >chromosome_1_(dbseq-nr_0)_[3536351,3540752]... *
+>Cluster 1126
+0	4401nt, >chromosome_8_(dbseq-nr_7)_[2726132,2730532]... *
+>Cluster 1127
+0	4386nt, >chromosome_5_(dbseq-nr_4)_[5192730,5197115]... *
+>Cluster 1128
+0	4384nt, >chromosome_7_(dbseq-nr_6)_[4155278,4159661]... *
+>Cluster 1129
+0	4366nt, >chromosome_5_(dbseq-nr_4)_[736536,740901]... *
+>Cluster 1130
+0	4356nt, >chromosome_2_(dbseq-nr_1)_[3204404,3208759]... *
+>Cluster 1131
+0	4356nt, >chromosome_7_(dbseq-nr_6)_[558946,563301]... *
+>Cluster 1132
+0	4348nt, >chromosome_4_(dbseq-nr_3)_[7584696,7589043]... *
+>Cluster 1133
+0	4343nt, >chromosome_7_(dbseq-nr_6)_[2569123,2573465]... *
+>Cluster 1134
+0	4342nt, >chromosome_6_(dbseq-nr_5)_[5655706,5660047]... *
+>Cluster 1135
+0	4336nt, >chromosome_11_(dbseq-nr_10)_[2226900,2231235]... *
+>Cluster 1136
+0	4320nt, >chromosome_10_(dbseq-nr_9)_[902125,906444]... *
+>Cluster 1137
+0	4314nt, >chromosome_2_(dbseq-nr_1)_[1110252,1114565]... *
+>Cluster 1138
+0	4306nt, >chromosome_12_(dbseq-nr_11)_[345793,350098]... *
+>Cluster 1139
+0	4291nt, >chromosome_9_(dbseq-nr_8)_[1847611,1851901]... *
+>Cluster 1140
+0	4284nt, >chromosome_12_(dbseq-nr_11)_[62601,66884]... *
+>Cluster 1141
+0	4276nt, >chromosome_1_(dbseq-nr_0)_[62902,67177]... *
+>Cluster 1142
+0	4272nt, >chromosome_12_(dbseq-nr_11)_[1322970,1327241]... *
+>Cluster 1143
+0	4271nt, >chromosome_10_(dbseq-nr_9)_[3693740,3698010]... *
+>Cluster 1144
+0	4249nt, >chromosome_2_(dbseq-nr_1)_[3411762,3416010]... *
+>Cluster 1145
+0	4248nt, >chromosome_10_(dbseq-nr_9)_[4581253,4585500]... *
+>Cluster 1146
+0	4240nt, >chromosome_8_(dbseq-nr_7)_[95563,99802]... *
+>Cluster 1147
+0	4235nt, >chromosome_3_(dbseq-nr_2)_[6900944,6905178]... *
+>Cluster 1148
+0	4233nt, >chromosome_2_(dbseq-nr_1)_[4692334,4696566]... *
+>Cluster 1149
+0	4233nt, >chromosome_3_(dbseq-nr_2)_[1087347,1091579]... *
+>Cluster 1150
+0	4231nt, >chromosome_3_(dbseq-nr_2)_[1731885,1736115]... *
+>Cluster 1151
+0	4228nt, >chromosome_4_(dbseq-nr_3)_[7911521,7915748]... *
+>Cluster 1152
+0	4226nt, >chromosome_5_(dbseq-nr_4)_[4749986,4754211]... *
+>Cluster 1153
+0	4224nt, >chromosome_4_(dbseq-nr_3)_[9299104,9303327]... *
+>Cluster 1154
+0	4224nt, >chromosome_6_(dbseq-nr_5)_[6464843,6469066]... *
+>Cluster 1155
+0	4223nt, >chromosome_4_(dbseq-nr_3)_[1508018,1512240]... *
+>Cluster 1156
+0	4220nt, >chromosome_3_(dbseq-nr_2)_[1179192,1183411]... *
+>Cluster 1157
+0	4219nt, >chromosome_4_(dbseq-nr_3)_[10658073,10662291]... *
+>Cluster 1158
+0	4217nt, >chromosome_7_(dbseq-nr_6)_[3439499,3443715]... *
+>Cluster 1159
+0	4216nt, >chromosome_4_(dbseq-nr_3)_[9430753,9434968]... *
+>Cluster 1160
+0	4209nt, >chromosome_2_(dbseq-nr_1)_[1320287,1324495]... *
+>Cluster 1161
+0	4205nt, >chromosome_7_(dbseq-nr_6)_[2512254,2516458]... *
+>Cluster 1162
+0	4200nt, >chromosome_10_(dbseq-nr_9)_[2057357,2061556]... *
+>Cluster 1163
+0	4199nt, >chromosome_2_(dbseq-nr_1)_[280491,284689]... *
+>Cluster 1164
+0	4194nt, >chromosome_8_(dbseq-nr_7)_[2091719,2095912]... *
+>Cluster 1165
+0	4191nt, >chromosome_4_(dbseq-nr_3)_[6116378,6120568]... *
+>Cluster 1166
+0	4190nt, >chromosome_2_(dbseq-nr_1)_[4914788,4918977]... *
+>Cluster 1167
+0	4176nt, >chromosome_9_(dbseq-nr_8)_[2995983,3000158]... *
+>Cluster 1168
+0	4175nt, >chromosome_1_(dbseq-nr_0)_[1806369,1810543]... *
+>Cluster 1169
+0	4175nt, >chromosome_4_(dbseq-nr_3)_[4951204,4955378]... *
+>Cluster 1170
+0	4171nt, >chromosome_3_(dbseq-nr_2)_[7268477,7272647]... *
+>Cluster 1171
+0	4167nt, >chromosome_11_(dbseq-nr_10)_[3769639,3773805]... *
+>Cluster 1172
+0	4157nt, >chromosome_3_(dbseq-nr_2)_[4476588,4480744]... *
+>Cluster 1173
+0	4155nt, >chromosome_5_(dbseq-nr_4)_[2243408,2247562]... *
+>Cluster 1174
+0	4150nt, >chromosome_9_(dbseq-nr_8)_[3125620,3129769]... *
+>Cluster 1175
+0	4143nt, >chromosome_4_(dbseq-nr_3)_[1156546,1160688]... *
+>Cluster 1176
+0	4142nt, >chromosome_6_(dbseq-nr_5)_[1541940,1546081]... *
+>Cluster 1177
+0	4141nt, >chromosome_4_(dbseq-nr_3)_[73794,77934]... *
+>Cluster 1178
+0	4139nt, >chromosome_6_(dbseq-nr_5)_[5808919,5813057]... *
+>Cluster 1179
+0	4128nt, >chromosome_3_(dbseq-nr_2)_[6793085,6797212]... *
+>Cluster 1180
+0	4128nt, >chromosome_8_(dbseq-nr_7)_[547384,551511]... *
+>Cluster 1181
+0	4127nt, >chromosome_5_(dbseq-nr_4)_[6184586,6188712]... *
+>Cluster 1182
+0	4107nt, >chromosome_4_(dbseq-nr_3)_[10906541,10910647]... *
+>Cluster 1183
+0	4106nt, >chromosome_5_(dbseq-nr_4)_[6855973,6860078]... *
+>Cluster 1184
+0	4103nt, >chromosome_5_(dbseq-nr_4)_[925225,929327]... *
+>Cluster 1185
+0	4099nt, >chromosome_9_(dbseq-nr_8)_[8657223,8661321]... *
+>Cluster 1186
+0	4095nt, >chromosome_4_(dbseq-nr_3)_[10526822,10530916]... *
+>Cluster 1187
+0	4093nt, >chromosome_2_(dbseq-nr_1)_[7688217,7692309]... *
+>Cluster 1188
+0	4077nt, >chromosome_11_(dbseq-nr_10)_[1473509,1477585]... *
+>Cluster 1189
+0	4076nt, >chromosome_1_(dbseq-nr_0)_[3422504,3426579]... *
+>Cluster 1190
+0	4072nt, >chromosome_9_(dbseq-nr_8)_[6812316,6816387]... *
+>Cluster 1191
+0	4071nt, >chromosome_7_(dbseq-nr_6)_[1704273,1708343]... *
+>Cluster 1192
+0	4061nt, >chromosome_12_(dbseq-nr_11)_[1382324,1386384]... *
+>Cluster 1193
+0	4057nt, >chromosome_3_(dbseq-nr_2)_[4566298,4570354]... *
+>Cluster 1194
+0	4053nt, >chromosome_4_(dbseq-nr_3)_[10488622,10492674]... *
+>Cluster 1195
+0	4041nt, >chromosome_7_(dbseq-nr_6)_[521766,525806]... *
+>Cluster 1196
+0	4037nt, >chromosome_9_(dbseq-nr_8)_[8049523,8053559]... *
+>Cluster 1197
+0	4034nt, >chromosome_6_(dbseq-nr_5)_[5349229,5353262]... *
+>Cluster 1198
+0	4033nt, >chromosome_7_(dbseq-nr_6)_[598650,602682]... *
+>Cluster 1199
+0	4032nt, >chromosome_4_(dbseq-nr_3)_[4358004,4362035]... *
+>Cluster 1200
+0	4030nt, >chromosome_2_(dbseq-nr_1)_[630997,635026]... *
+>Cluster 1201
+0	4029nt, >chromosome_1_(dbseq-nr_0)_[2186692,2190720]... *
+>Cluster 1202
+0	4026nt, >chromosome_8_(dbseq-nr_7)_[364839,368864]... *
+>Cluster 1203
+0	4024nt, >chromosome_4_(dbseq-nr_3)_[1886929,1890952]... *
+>Cluster 1204
+0	4019nt, >chromosome_2_(dbseq-nr_1)_[3926718,3930736]... *
+>Cluster 1205
+0	4012nt, >chromosome_3_(dbseq-nr_2)_[5228496,5232507]... *
+>Cluster 1206
+0	4003nt, >chromosome_7_(dbseq-nr_6)_[4463491,4467493]... *
+>Cluster 1207
+0	4000nt, >chromosome_1_(dbseq-nr_0)_[907440,911439]... *
+>Cluster 1208
+0	3989nt, >chromosome_4_(dbseq-nr_3)_[8203181,8207169]... *
+>Cluster 1209
+0	3986nt, >chromosome_7_(dbseq-nr_6)_[4532829,4536814]... *
+>Cluster 1210
+0	3985nt, >chromosome_1_(dbseq-nr_0)_[170932,174916]... *
+>Cluster 1211
+0	3983nt, >chromosome_5_(dbseq-nr_4)_[6714436,6718418]... *
+>Cluster 1212
+0	3979nt, >chromosome_6_(dbseq-nr_5)_[6536679,6540657]... *
+>Cluster 1213
+0	3976nt, >chromosome_5_(dbseq-nr_4)_[5622378,5626353]... *
+>Cluster 1214
+0	3975nt, >chromosome_8_(dbseq-nr_7)_[890399,894373]... *
+>Cluster 1215
+0	3975nt, >chromosome_11_(dbseq-nr_10)_[436438,440412]... *
+>Cluster 1216
+0	3970nt, >chromosome_10_(dbseq-nr_9)_[263791,267760]... *
+>Cluster 1217
+0	3961nt, >chromosome_9_(dbseq-nr_8)_[9703438,9707398]... *
+>Cluster 1218
+0	3960nt, >chromosome_9_(dbseq-nr_8)_[9666409,9670368]... *
+>Cluster 1219
+0	3957nt, >chromosome_6_(dbseq-nr_5)_[290588,294544]... *
+>Cluster 1220
+0	3948nt, >chromosome_2_(dbseq-nr_1)_[7878685,7882632]... *
+>Cluster 1221
+0	3940nt, >chromosome_5_(dbseq-nr_4)_[2538463,2542402]... *
+>Cluster 1222
+0	3936nt, >chromosome_3_(dbseq-nr_2)_[6486162,6490097]... *
+>Cluster 1223
+0	3932nt, >chromosome_4_(dbseq-nr_3)_[687243,691174]... *
+>Cluster 1224
+0	3929nt, >chromosome_9_(dbseq-nr_8)_[7330277,7334205]... *
+>Cluster 1225
+0	3928nt, >chromosome_9_(dbseq-nr_8)_[8018066,8021993]... *
+>Cluster 1226
+0	3921nt, >chromosome_7_(dbseq-nr_6)_[3474459,3478379]... *
+>Cluster 1227
+0	3918nt, >chromosome_2_(dbseq-nr_1)_[8081357,8085274]... *
+>Cluster 1228
+0	3907nt, >chromosome_12_(dbseq-nr_11)_[1354259,1358165]... *
+>Cluster 1229
+0	3899nt, >chromosome_7_(dbseq-nr_6)_[3922331,3926229]... *
+>Cluster 1230
+0	3898nt, >chromosome_5_(dbseq-nr_4)_[1385674,1389571]... *
+>Cluster 1231
+0	3896nt, >chromosome_6_(dbseq-nr_5)_[5307902,5311797]... *
+>Cluster 1232
+0	3882nt, >chromosome_4_(dbseq-nr_3)_[7348419,7352300]... *
+>Cluster 1233
+0	3873nt, >chromosome_8_(dbseq-nr_7)_[967790,971662]... *
+>Cluster 1234
+0	3872nt, >chromosome_8_(dbseq-nr_7)_[2893493,2897364]... *
+>Cluster 1235
+0	3866nt, >chromosome_11_(dbseq-nr_10)_[121231,125096]... *
+>Cluster 1236
+0	3863nt, >chromosome_4_(dbseq-nr_3)_[10837883,10841745]... *
+>Cluster 1237
+0	3862nt, >chromosome_3_(dbseq-nr_2)_[6002054,6005915]... *
+>Cluster 1238
+0	3861nt, >chromosome_11_(dbseq-nr_10)_[4529252,4533112]... *
+>Cluster 1239
+0	3852nt, >chromosome_7_(dbseq-nr_6)_[3310600,3314451]... *
+>Cluster 1240
+0	3849nt, >chromosome_9_(dbseq-nr_8)_[8502164,8506012]... *
+>Cluster 1241
+0	3840nt, >chromosome_10_(dbseq-nr_9)_[3705403,3709242]... *
+>Cluster 1242
+0	3838nt, >chromosome_12_(dbseq-nr_11)_[1930886,1934723]... *
+>Cluster 1243
+0	3836nt, >chromosome_12_(dbseq-nr_11)_[687316,691151]... *
+>Cluster 1244
+0	3835nt, >chromosome_4_(dbseq-nr_3)_[8403589,8407423]... *
+>Cluster 1245
+0	3832nt, >chromosome_9_(dbseq-nr_8)_[422090,425921]... *
+>Cluster 1246
+0	3829nt, >chromosome_3_(dbseq-nr_2)_[813522,817350]... *
+>Cluster 1247
+0	3828nt, >chromosome_1_(dbseq-nr_0)_[4419769,4423596]... *
+>Cluster 1248
+0	3827nt, >chromosome_9_(dbseq-nr_8)_[484870,488696]... *
+>Cluster 1249
+0	3825nt, >chromosome_6_(dbseq-nr_5)_[4001851,4005675]... *
+>Cluster 1250
+0	3823nt, >chromosome_11_(dbseq-nr_10)_[3500913,3504735]... *
+>Cluster 1251
+0	3811nt, >chromosome_5_(dbseq-nr_4)_[289329,293139]... *
+>Cluster 1252
+0	3807nt, >chromosome_12_(dbseq-nr_11)_[2930423,2934229]... *
+>Cluster 1253
+0	3803nt, >chromosome_7_(dbseq-nr_6)_[1961163,1964965]... *
+>Cluster 1254
+0	3796nt, >chromosome_2_(dbseq-nr_1)_[1445875,1449670]... *
+>Cluster 1255
+0	3794nt, >chromosome_7_(dbseq-nr_6)_[2907681,2911474]... *
+>Cluster 1256
+0	3792nt, >chromosome_11_(dbseq-nr_10)_[657789,661580]... *
+>Cluster 1257
+0	3791nt, >chromosome_6_(dbseq-nr_5)_[6395174,6398964]... *
+>Cluster 1258
+0	3789nt, >chromosome_6_(dbseq-nr_5)_[2511826,2515614]... *
+>Cluster 1259
+0	3789nt, >chromosome_7_(dbseq-nr_6)_[5428904,5432692]... *
+>Cluster 1260
+0	3778nt, >chromosome_10_(dbseq-nr_9)_[2985580,2989357]... *
+>Cluster 1261
+0	3777nt, >chromosome_7_(dbseq-nr_6)_[5464803,5468579]... *
+>Cluster 1262
+0	3767nt, >chromosome_5_(dbseq-nr_4)_[113419,117185]... *
+>Cluster 1263
+0	3762nt, >chromosome_7_(dbseq-nr_6)_[2985025,2988786]... *
+>Cluster 1264
+0	3760nt, >chromosome_1_(dbseq-nr_0)_[584507,588266]... *
+>Cluster 1265
+0	3750nt, >chromosome_5_(dbseq-nr_4)_[4803463,4807212]... *
+>Cluster 1266
+0	3748nt, >chromosome_7_(dbseq-nr_6)_[3869541,3873288]... *
+>Cluster 1267
+0	3746nt, >chromosome_10_(dbseq-nr_9)_[32764,36509]... *
+>Cluster 1268
+0	3744nt, >chromosome_12_(dbseq-nr_11)_[1873395,1877138]... *
+>Cluster 1269
+0	3740nt, >chromosome_9_(dbseq-nr_8)_[8607954,8611693]... *
+>Cluster 1270
+0	3739nt, >chromosome_5_(dbseq-nr_4)_[188099,191837]... *
+>Cluster 1271
+0	3732nt, >chromosome_12_(dbseq-nr_11)_[1567194,1570925]... *
+>Cluster 1272
+0	3729nt, >chromosome_4_(dbseq-nr_3)_[1487268,1490996]... *
+>Cluster 1273
+0	3728nt, >chromosome_7_(dbseq-nr_6)_[3987429,3991156]... *
+>Cluster 1274
+0	3727nt, >chromosome_4_(dbseq-nr_3)_[8880381,8884107]... *
+>Cluster 1275
+0	3725nt, >chromosome_2_(dbseq-nr_1)_[3518091,3521815]... *
+>Cluster 1276
+0	3721nt, >chromosome_3_(dbseq-nr_2)_[3272689,3276409]... *
+>Cluster 1277
+0	3713nt, >chromosome_8_(dbseq-nr_7)_[4049473,4053185]... *
+>Cluster 1278
+0	3708nt, >chromosome_4_(dbseq-nr_3)_[9235793,9239500]... *
+>Cluster 1279
+0	3708nt, >chromosome_9_(dbseq-nr_8)_[5157199,5160906]... *
+>Cluster 1280
+0	3702nt, >chromosome_3_(dbseq-nr_2)_[1972073,1975774]... *
+>Cluster 1281
+0	3699nt, >chromosome_9_(dbseq-nr_8)_[4477194,4480892]... *
+>Cluster 1282
+0	3692nt, >chromosome_7_(dbseq-nr_6)_[295101,298792]... *
+>Cluster 1283
+0	3692nt, >chromosome_8_(dbseq-nr_7)_[395911,399602]... *
+>Cluster 1284
+0	3688nt, >chromosome_3_(dbseq-nr_2)_[1606187,1609874]... *
+>Cluster 1285
+0	3684nt, >chromosome_11_(dbseq-nr_10)_[328805,332488]... *
+>Cluster 1286
+0	3682nt, >chromosome_3_(dbseq-nr_2)_[500472,504153]... *
+>Cluster 1287
+0	3676nt, >chromosome_4_(dbseq-nr_3)_[88496,92171]... *
+>Cluster 1288
+0	3675nt, >chromosome_4_(dbseq-nr_3)_[7279928,7283602]... *
+>Cluster 1289
+0	3672nt, >chromosome_5_(dbseq-nr_4)_[6360689,6364360]... *
+>Cluster 1290
+0	3670nt, >chromosome_4_(dbseq-nr_3)_[4262939,4266608]... *
+>Cluster 1291
+0	3668nt, >chromosome_1_(dbseq-nr_0)_[1893423,1897090]... *
+>Cluster 1292
+0	3668nt, >chromosome_4_(dbseq-nr_3)_[1621805,1625472]... *
+>Cluster 1293
+0	3665nt, >chromosome_4_(dbseq-nr_3)_[6840145,6843809]... *
+>Cluster 1294
+0	3664nt, >chromosome_7_(dbseq-nr_6)_[3420621,3424284]... *
+>Cluster 1295
+0	3658nt, >chromosome_7_(dbseq-nr_6)_[3781827,3785484]... *
+>Cluster 1296
+0	3658nt, >chromosome_12_(dbseq-nr_11)_[2029241,2032898]... *
+>Cluster 1297
+0	3655nt, >chromosome_4_(dbseq-nr_3)_[3095692,3099346]... *
+>Cluster 1298
+0	3655nt, >chromosome_12_(dbseq-nr_11)_[4867029,4870683]... *
+>Cluster 1299
+0	3654nt, >chromosome_3_(dbseq-nr_2)_[974753,978406]... *
+>Cluster 1300
+0	3653nt, >chromosome_6_(dbseq-nr_5)_[4852939,4856591]... *
+>Cluster 1301
+0	3652nt, >chromosome_2_(dbseq-nr_1)_[3539964,3543615]... *
+>Cluster 1302
+0	3651nt, >chromosome_9_(dbseq-nr_8)_[9065139,9068789]... *
+>Cluster 1303
+0	3642nt, >chromosome_5_(dbseq-nr_4)_[4230953,4234594]... *
+>Cluster 1304
+0	3641nt, >chromosome_7_(dbseq-nr_6)_[1257113,1260753]... *
+>Cluster 1305
+0	3641nt, >chromosome_7_(dbseq-nr_6)_[3395804,3399444]... *
+>Cluster 1306
+0	3640nt, >chromosome_3_(dbseq-nr_2)_[3391746,3395385]... *
+>Cluster 1307
+0	3638nt, >chromosome_4_(dbseq-nr_3)_[7766679,7770316]... *
+>Cluster 1308
+0	3638nt, >scaffold_76_(dbseq-nr_75)_[1308,4945]... *
+>Cluster 1309
+0	3633nt, >chromosome_9_(dbseq-nr_8)_[8685261,8688893]... *
+>Cluster 1310
+0	3622nt, >chromosome_4_(dbseq-nr_3)_[6826842,6830463]... *
+>Cluster 1311
+0	3621nt, >chromosome_5_(dbseq-nr_4)_[5128721,5132341]... *
+>Cluster 1312
+0	3616nt, >chromosome_5_(dbseq-nr_4)_[4928040,4931655]... *
+>Cluster 1313
+0	3615nt, >chromosome_3_(dbseq-nr_2)_[6529798,6533412]... *
+>Cluster 1314
+0	3615nt, >chromosome_4_(dbseq-nr_3)_[121492,125106]... *
+>Cluster 1315
+0	3609nt, >chromosome_9_(dbseq-nr_8)_[4366128,4369736]... *
+>Cluster 1316
+0	3605nt, >chromosome_4_(dbseq-nr_3)_[4011010,4014614]... *
+>Cluster 1317
+0	3602nt, >chromosome_8_(dbseq-nr_7)_[4104553,4108154]... *
+>Cluster 1318
+0	3599nt, >chromosome_12_(dbseq-nr_11)_[1286739,1290337]... *
+>Cluster 1319
+0	3591nt, >chromosome_10_(dbseq-nr_9)_[2709392,2712982]... *
+>Cluster 1320
+0	3585nt, >chromosome_5_(dbseq-nr_4)_[1040121,1043705]... *
+>Cluster 1321
+0	3584nt, >chromosome_4_(dbseq-nr_3)_[4270104,4273687]... *
+>Cluster 1322
+0	3578nt, >chromosome_7_(dbseq-nr_6)_[1944446,1948023]... *
+>Cluster 1323
+0	3574nt, >chromosome_4_(dbseq-nr_3)_[1681527,1685100]... *
+>Cluster 1324
+0	3570nt, >chromosome_2_(dbseq-nr_1)_[7210335,7213904]... *
+>Cluster 1325
+0	3569nt, >chromosome_4_(dbseq-nr_3)_[7127637,7131205]... *
+>Cluster 1326
+0	3563nt, >chromosome_5_(dbseq-nr_4)_[2289385,2292947]... *
+>Cluster 1327
+0	3561nt, >chromosome_5_(dbseq-nr_4)_[6947684,6951244]... *
+>Cluster 1328
+0	3559nt, >chromosome_3_(dbseq-nr_2)_[5259360,5262918]... *
+>Cluster 1329
+0	3554nt, >chromosome_4_(dbseq-nr_3)_[2995636,2999189]... *
+>Cluster 1330
+0	3553nt, >chromosome_4_(dbseq-nr_3)_[10994476,10998028]... *
+>Cluster 1331
+0	3549nt, >chromosome_8_(dbseq-nr_7)_[2761448,2764996]... *
+>Cluster 1332
+0	3548nt, >chromosome_5_(dbseq-nr_4)_[3620487,3624034]... *
+>Cluster 1333
+0	3527nt, >chromosome_4_(dbseq-nr_3)_[6048874,6052400]... *
+>Cluster 1334
+0	3524nt, >chromosome_10_(dbseq-nr_9)_[1312603,1316126]... *
+>Cluster 1335
+0	3517nt, >chromosome_9_(dbseq-nr_8)_[9776071,9779587]... *
+>Cluster 1336
+0	3510nt, >chromosome_1_(dbseq-nr_0)_[2172184,2175693]... *
+>Cluster 1337
+0	3509nt, >chromosome_9_(dbseq-nr_8)_[2057817,2061325]... *
+>Cluster 1338
+0	3497nt, >chromosome_2_(dbseq-nr_1)_[7160558,7164054]... *
+>Cluster 1339
+0	3490nt, >chromosome_8_(dbseq-nr_7)_[1566233,1569722]... *
+>Cluster 1340
+0	3486nt, >chromosome_3_(dbseq-nr_2)_[7980071,7983556]... *
+>Cluster 1341
+0	3484nt, >chromosome_3_(dbseq-nr_2)_[6152238,6155721]... *
+>Cluster 1342
+0	3482nt, >chromosome_12_(dbseq-nr_11)_[3863942,3867423]... *
+>Cluster 1343
+0	3464nt, >chromosome_10_(dbseq-nr_9)_[416137,419600]... *
+>Cluster 1344
+0	3450nt, >chromosome_4_(dbseq-nr_3)_[4203805,4207254]... *
+>Cluster 1345
+0	3448nt, >chromosome_8_(dbseq-nr_7)_[2376339,2379786]... *
+>Cluster 1346
+0	3436nt, >chromosome_3_(dbseq-nr_2)_[6966332,6969767]... *
+>Cluster 1347
+0	3434nt, >chromosome_10_(dbseq-nr_9)_[85706,89139]... *
+>Cluster 1348
+0	3428nt, >chromosome_3_(dbseq-nr_2)_[2157597,2161024]... *
+>Cluster 1349
+0	3426nt, >chromosome_7_(dbseq-nr_6)_[3668008,3671433]... *
+>Cluster 1350
+0	3424nt, >chromosome_7_(dbseq-nr_6)_[338502,341925]... *
+>Cluster 1351
+0	3415nt, >chromosome_11_(dbseq-nr_10)_[167682,171096]... *
+>Cluster 1352
+0	3414nt, >chromosome_9_(dbseq-nr_8)_[9812120,9815533]... *
+>Cluster 1353
+0	3401nt, >chromosome_1_(dbseq-nr_0)_[1991139,1994539]... *
+>Cluster 1354
+0	3395nt, >chromosome_7_(dbseq-nr_6)_[4561333,4564727]... *
+>Cluster 1355
+0	3392nt, >chromosome_10_(dbseq-nr_9)_[3413159,3416550]... *
+>Cluster 1356
+0	3389nt, >chromosome_10_(dbseq-nr_9)_[4735108,4738496]... *
+>Cluster 1357
+0	3387nt, >chromosome_7_(dbseq-nr_6)_[2877012,2880398]... *
+>Cluster 1358
+0	3386nt, >chromosome_7_(dbseq-nr_6)_[5856768,5860153]... *
+>Cluster 1359
+0	3380nt, >chromosome_4_(dbseq-nr_3)_[2505061,2508440]... *
+>Cluster 1360
+0	3377nt, >chromosome_2_(dbseq-nr_1)_[5365643,5369019]... *
+>Cluster 1361
+0	3375nt, >chromosome_6_(dbseq-nr_5)_[759183,762557]... *
+>Cluster 1362
+0	3371nt, >chromosome_3_(dbseq-nr_2)_[1670122,1673492]... *
+>Cluster 1363
+0	3353nt, >chromosome_1_(dbseq-nr_0)_[198192,201544]... *
+>Cluster 1364
+0	3353nt, >chromosome_7_(dbseq-nr_6)_[1158667,1162019]... *
+>Cluster 1365
+0	3349nt, >chromosome_3_(dbseq-nr_2)_[7091528,7094876]... *
+>Cluster 1366
+0	3331nt, >chromosome_4_(dbseq-nr_3)_[9339522,9342852]... *
+>Cluster 1367
+0	3329nt, >chromosome_1_(dbseq-nr_0)_[3251036,3254364]... *
+>Cluster 1368
+0	3328nt, >chromosome_1_(dbseq-nr_0)_[1388233,1391560]... *
+>Cluster 1369
+0	3326nt, >chromosome_2_(dbseq-nr_1)_[832641,835966]... *
+>Cluster 1370
+0	3324nt, >chromosome_2_(dbseq-nr_1)_[7548896,7552219]... *
+>Cluster 1371
+0	3324nt, >chromosome_7_(dbseq-nr_6)_[6163236,6166559]... *
+>Cluster 1372
+0	3314nt, >chromosome_4_(dbseq-nr_3)_[10628959,10632272]... *
+>Cluster 1373
+0	3312nt, >chromosome_8_(dbseq-nr_7)_[3711418,3714729]... *
+>Cluster 1374
+0	3309nt, >chromosome_2_(dbseq-nr_1)_[6597335,6600643]... *
+>Cluster 1375
+0	3308nt, >chromosome_5_(dbseq-nr_4)_[3289207,3292514]... *
+>Cluster 1376
+0	3307nt, >chromosome_5_(dbseq-nr_4)_[4677008,4680314]... *
+>Cluster 1377
+0	3307nt, >chromosome_7_(dbseq-nr_6)_[5383948,5387254]... *
+>Cluster 1378
+0	3305nt, >chromosome_2_(dbseq-nr_1)_[6164103,6167407]... *
+>Cluster 1379
+0	3300nt, >chromosome_8_(dbseq-nr_7)_[3914327,3917626]... *
+>Cluster 1380
+0	3294nt, >chromosome_7_(dbseq-nr_6)_[364649,367942]... *
+>Cluster 1381
+0	3281nt, >chromosome_2_(dbseq-nr_1)_[1038121,1041401]... *
+>Cluster 1382
+0	3279nt, >chromosome_7_(dbseq-nr_6)_[4405530,4408808]... *
+>Cluster 1383
+0	3277nt, >chromosome_10_(dbseq-nr_9)_[2593186,2596462]... *
+>Cluster 1384
+0	3275nt, >chromosome_2_(dbseq-nr_1)_[1305028,1308302]... *
+>Cluster 1385
+0	3262nt, >chromosome_9_(dbseq-nr_8)_[378658,381919]... *
+>Cluster 1386
+0	3259nt, >chromosome_9_(dbseq-nr_8)_[4934152,4937410]... *
+>Cluster 1387
+0	3253nt, >chromosome_9_(dbseq-nr_8)_[2928912,2932164]... *
+>Cluster 1388
+0	3246nt, >chromosome_10_(dbseq-nr_9)_[2290693,2293938]... *
+>Cluster 1389
+0	3234nt, >chromosome_8_(dbseq-nr_7)_[2605735,2608968]... *
+>Cluster 1390
+0	3234nt, >chromosome_9_(dbseq-nr_8)_[8862861,8866094]... *
+>Cluster 1391
+0	3225nt, >chromosome_9_(dbseq-nr_8)_[679468,682692]... *
+>Cluster 1392
+0	3223nt, >chromosome_11_(dbseq-nr_10)_[3538045,3541267]... *
+>Cluster 1393
+0	3212nt, >chromosome_3_(dbseq-nr_2)_[5245386,5248597]... *
+>Cluster 1394
+0	3211nt, >chromosome_4_(dbseq-nr_3)_[5132074,5135284]... *
+>Cluster 1395
+0	3211nt, >chromosome_4_(dbseq-nr_3)_[5706542,5709752]... *
+>Cluster 1396
+0	3204nt, >chromosome_3_(dbseq-nr_2)_[8033877,8037080]... *
+>Cluster 1397
+0	3200nt, >chromosome_2_(dbseq-nr_1)_[6168402,6171601]... *
+>Cluster 1398
+0	3200nt, >chromosome_10_(dbseq-nr_9)_[1417859,1421058]... *
+>Cluster 1399
+0	3196nt, >chromosome_12_(dbseq-nr_11)_[722672,725867]... *
+>Cluster 1400
+0	3194nt, >chromosome_1_(dbseq-nr_0)_[139075,142268]... *
+>Cluster 1401
+0	3194nt, >chromosome_9_(dbseq-nr_8)_[3005109,3008302]... *
+>Cluster 1402
+0	3194nt, >chromosome_10_(dbseq-nr_9)_[3247591,3250784]... *
+>Cluster 1403
+0	3189nt, >chromosome_7_(dbseq-nr_6)_[2431219,2434407]... *
+>Cluster 1404
+0	3174nt, >chromosome_3_(dbseq-nr_2)_[5414354,5417527]... *
+>Cluster 1405
+0	3170nt, >chromosome_1_(dbseq-nr_0)_[1848955,1852124]... *
+>Cluster 1406
+0	3162nt, >chromosome_8_(dbseq-nr_7)_[2702073,2705234]... *
+>Cluster 1407
+0	3154nt, >chromosome_9_(dbseq-nr_8)_[8813123,8816276]... *
+>Cluster 1408
+0	3146nt, >scaffold_28_(dbseq-nr_27)_[1625,4770]... *
+>Cluster 1409
+0	3145nt, >chromosome_8_(dbseq-nr_7)_[39743,42887]... *
+>Cluster 1410
+0	3144nt, >chromosome_6_(dbseq-nr_5)_[3460409,3463552]... *
+>Cluster 1411
+0	3144nt, >chromosome_9_(dbseq-nr_8)_[5739829,5742972]... *
+>Cluster 1412
+0	3143nt, >chromosome_10_(dbseq-nr_9)_[4183160,4186302]... *
+>Cluster 1413
+0	3136nt, >chromosome_3_(dbseq-nr_2)_[3472358,3475493]... *
+>Cluster 1414
+0	3135nt, >chromosome_6_(dbseq-nr_5)_[1733868,1737002]... *
+>Cluster 1415
+0	3129nt, >chromosome_4_(dbseq-nr_3)_[892797,895925]... *
+>Cluster 1416
+0	3128nt, >chromosome_9_(dbseq-nr_8)_[8210650,8213777]... *
+>Cluster 1417
+0	3125nt, >chromosome_4_(dbseq-nr_3)_[5256380,5259504]... *
+>Cluster 1418
+0	3123nt, >chromosome_5_(dbseq-nr_4)_[3318751,3321873]... *
+>Cluster 1419
+0	3123nt, >chromosome_9_(dbseq-nr_8)_[651932,655054]... *
+>Cluster 1420
+0	3105nt, >chromosome_3_(dbseq-nr_2)_[6050728,6053832]... *
+>Cluster 1421
+0	3105nt, >chromosome_11_(dbseq-nr_10)_[4435645,4438749]... *
+>Cluster 1422
+0	3104nt, >chromosome_7_(dbseq-nr_6)_[4599366,4602469]... *
+>Cluster 1423
+0	3098nt, >chromosome_2_(dbseq-nr_1)_[6444018,6447115]... *
+>Cluster 1424
+0	3095nt, >chromosome_12_(dbseq-nr_11)_[2831218,2834312]... *
+>Cluster 1425
+0	3088nt, >chromosome_1_(dbseq-nr_0)_[3314466,3317553]... *
+>Cluster 1426
+0	3088nt, >chromosome_8_(dbseq-nr_7)_[1809112,1812199]... *
+>Cluster 1427
+0	3080nt, >chromosome_10_(dbseq-nr_9)_[4286344,4289423]... *
+>Cluster 1428
+0	3079nt, >chromosome_11_(dbseq-nr_10)_[11829,14907]... *
+>Cluster 1429
+0	3057nt, >chromosome_9_(dbseq-nr_8)_[9224902,9227958]... *
+>Cluster 1430
+0	3055nt, >chromosome_5_(dbseq-nr_4)_[1711270,1714324]... *
+>Cluster 1431
+0	3053nt, >chromosome_7_(dbseq-nr_6)_[4864885,4867937]... *
+>Cluster 1432
+0	3045nt, >chromosome_10_(dbseq-nr_9)_[911855,914899]... *
+>Cluster 1433
+0	3040nt, >chromosome_1_(dbseq-nr_0)_[799336,802375]... *
+>Cluster 1434
+0	3033nt, >chromosome_3_(dbseq-nr_2)_[179317,182349]... *
+>Cluster 1435
+0	3032nt, >chromosome_7_(dbseq-nr_6)_[6197403,6200434]... *
+>Cluster 1436
+0	3031nt, >chromosome_6_(dbseq-nr_5)_[701700,704730]... *
+>Cluster 1437
+0	3031nt, >chromosome_7_(dbseq-nr_6)_[4011381,4014411]... *
+>Cluster 1438
+0	3024nt, >chromosome_9_(dbseq-nr_8)_[6480175,6483198]... *
+>Cluster 1439
+0	3021nt, >chromosome_9_(dbseq-nr_8)_[6389886,6392906]... *
+>Cluster 1440
+0	3014nt, >chromosome_3_(dbseq-nr_2)_[6737696,6740709]... *
+>Cluster 1441
+0	3009nt, >chromosome_8_(dbseq-nr_7)_[388541,391549]... *
+>Cluster 1442
+0	3002nt, >chromosome_6_(dbseq-nr_5)_[6158381,6161382]... *
+>Cluster 1443
+0	3001nt, >chromosome_4_(dbseq-nr_3)_[9400866,9403866]... *
+>Cluster 1444
+0	2936nt, >chromosome_1_(dbseq-nr_0)_[3902733,3905668]... at -/99.28%
+1	2982nt, >chromosome_2_(dbseq-nr_1)_[39598,42579]... at +/97.32%
+2	2953nt, >chromosome_5_(dbseq-nr_4)_[5759524,5762476]... at -/99.05%
+3	2990nt, >chromosome_12_(dbseq-nr_11)_[3664942,3667931]... *
+>Cluster 1445
+0	2989nt, >chromosome_2_(dbseq-nr_1)_[3067109,3070097]... *
+>Cluster 1446
+0	2977nt, >chromosome_7_(dbseq-nr_6)_[4092643,4095619]... *
+>Cluster 1447
+0	2970nt, >chromosome_10_(dbseq-nr_9)_[1464092,1467061]... *
+>Cluster 1448
+0	2957nt, >chromosome_3_(dbseq-nr_2)_[740240,743196]... *
+>Cluster 1449
+0	2954nt, >chromosome_7_(dbseq-nr_6)_[2184656,2187609]... *
+>Cluster 1450
+0	2945nt, >chromosome_11_(dbseq-nr_10)_[4370865,4373809]... *
+>Cluster 1451
+0	2944nt, >chromosome_2_(dbseq-nr_1)_[3742078,3745021]... *
+>Cluster 1452
+0	2942nt, >chromosome_7_(dbseq-nr_6)_[4470936,4473877]... *
+>Cluster 1453
+0	2934nt, >chromosome_12_(dbseq-nr_11)_[3436555,3439488]... *
+>Cluster 1454
+0	2933nt, >chromosome_4_(dbseq-nr_3)_[954699,957631]... *
+>Cluster 1455
+0	2929nt, >chromosome_2_(dbseq-nr_1)_[4160879,4163807]... *
+>Cluster 1456
+0	2918nt, >chromosome_1_(dbseq-nr_0)_[3148738,3151655]... *
+1	2897nt, >chromosome_10_(dbseq-nr_9)_[2439646,2442542]... at -/96.34%
+2	2774nt, >chromosome_10_(dbseq-nr_9)_[4780159,4782932]... at -/99.68%
+3	2877nt, >scaffold_25_(dbseq-nr_24)_[553,3429]... at +/96.63%
+>Cluster 1457
+0	2915nt, >chromosome_5_(dbseq-nr_4)_[131127,134041]... *
+>Cluster 1458
+0	2915nt, >chromosome_7_(dbseq-nr_6)_[3623725,3626639]... *
+>Cluster 1459
+0	2913nt, >chromosome_9_(dbseq-nr_8)_[9534790,9537702]... *
+>Cluster 1460
+0	2910nt, >chromosome_7_(dbseq-nr_6)_[4605135,4608044]... *
+>Cluster 1461
+0	2904nt, >chromosome_6_(dbseq-nr_5)_[6659994,6662897]... *
+>Cluster 1462
+0	2897nt, >chromosome_3_(dbseq-nr_2)_[6918385,6921281]... *
+>Cluster 1463
+0	2893nt, >chromosome_5_(dbseq-nr_4)_[12431,15323]... *
+>Cluster 1464
+0	2892nt, >chromosome_9_(dbseq-nr_8)_[3228042,3230933]... *
+>Cluster 1465
+0	2891nt, >chromosome_5_(dbseq-nr_4)_[4649315,4652205]... *
+>Cluster 1466
+0	2881nt, >chromosome_3_(dbseq-nr_2)_[3528837,3531717]... *
+>Cluster 1467
+0	2872nt, >chromosome_2_(dbseq-nr_1)_[3587884,3590755]... *
+>Cluster 1468
+0	2868nt, >chromosome_7_(dbseq-nr_6)_[2101722,2104589]... *
+>Cluster 1469
+0	2865nt, >chromosome_9_(dbseq-nr_8)_[8068436,8071300]... *
+>Cluster 1470
+0	2863nt, >chromosome_5_(dbseq-nr_4)_[6543591,6546453]... *
+>Cluster 1471
+0	2860nt, >chromosome_11_(dbseq-nr_10)_[4429768,4432627]... *
+>Cluster 1472
+0	2843nt, >chromosome_1_(dbseq-nr_0)_[4122768,4125610]... *
+>Cluster 1473
+0	2832nt, >chromosome_9_(dbseq-nr_8)_[10513915,10516746]... *
+>Cluster 1474
+0	2829nt, >chromosome_1_(dbseq-nr_0)_[3915470,3918298]... *
+1	2813nt, >chromosome_1_(dbseq-nr_0)_[3934308,3937120]... at -/99.29%
+>Cluster 1475
+0	2824nt, >chromosome_7_(dbseq-nr_6)_[4853579,4856402]... *
+>Cluster 1476
+0	2811nt, >chromosome_1_(dbseq-nr_0)_[1926311,1929121]... *
+1	2810nt, >chromosome_1_(dbseq-nr_0)_[3208397,3211206]... at -/99.57%
+2	2808nt, >chromosome_2_(dbseq-nr_1)_[54538,57345]... at +/99.50%
+3	2811nt, >chromosome_4_(dbseq-nr_3)_[9892905,9895715]... at +/99.96%
+4	2811nt, >chromosome_9_(dbseq-nr_8)_[3024475,3027285]... at +/99.96%
+>Cluster 1477
+0	2805nt, >chromosome_8_(dbseq-nr_7)_[1108940,1111744]... *
+>Cluster 1478
+0	2798nt, >chromosome_2_(dbseq-nr_1)_[3776421,3779218]... *
+>Cluster 1479
+0	2797nt, >chromosome_8_(dbseq-nr_7)_[3091883,3094679]... *
+>Cluster 1480
+0	2786nt, >chromosome_4_(dbseq-nr_3)_[4344983,4347768]... *
+>Cluster 1481
+0	2785nt, >chromosome_1_(dbseq-nr_0)_[3866247,3869031]... *
+>Cluster 1482
+0	2781nt, >chromosome_10_(dbseq-nr_9)_[3744951,3747731]... *
+>Cluster 1483
+0	2780nt, >chromosome_8_(dbseq-nr_7)_[304253,307032]... *
+>Cluster 1484
+0	2779nt, >chromosome_2_(dbseq-nr_1)_[32102,34880]... *
+>Cluster 1485
+0	2778nt, >chromosome_3_(dbseq-nr_2)_[928868,931645]... *
+>Cluster 1486
+0	2775nt, >chromosome_2_(dbseq-nr_1)_[1610038,1612812]... *
+>Cluster 1487
+0	2770nt, >chromosome_9_(dbseq-nr_8)_[1344658,1347427]... *
+>Cluster 1488
+0	2760nt, >chromosome_12_(dbseq-nr_11)_[2619991,2622750]... *
+>Cluster 1489
+0	2755nt, >chromosome_3_(dbseq-nr_2)_[7323623,7326377]... *
+>Cluster 1490
+0	2742nt, >chromosome_5_(dbseq-nr_4)_[4522378,4525119]... *
+>Cluster 1491
+0	2740nt, >chromosome_11_(dbseq-nr_10)_[4628445,4631184]... *
+>Cluster 1492
+0	2737nt, >chromosome_8_(dbseq-nr_7)_[1392372,1395108]... *
+>Cluster 1493
+0	2732nt, >chromosome_3_(dbseq-nr_2)_[7940563,7943294]... *
+>Cluster 1494
+0	2731nt, >chromosome_4_(dbseq-nr_3)_[7687610,7690340]... *
+>Cluster 1495
+0	2724nt, >chromosome_7_(dbseq-nr_6)_[943025,945748]... *
+>Cluster 1496
+0	2723nt, >chromosome_4_(dbseq-nr_3)_[1953308,1956030]... *
+>Cluster 1497
+0	2713nt, >chromosome_7_(dbseq-nr_6)_[2837309,2840021]... *
+>Cluster 1498
+0	2700nt, >chromosome_4_(dbseq-nr_3)_[6885550,6888249]... *
+>Cluster 1499
+0	2694nt, >chromosome_12_(dbseq-nr_11)_[1712350,1715043]... *
+>Cluster 1500
+0	2689nt, >chromosome_10_(dbseq-nr_9)_[2563021,2565709]... *
+>Cluster 1501
+0	2684nt, >chromosome_8_(dbseq-nr_7)_[2132558,2135241]... *
+>Cluster 1502
+0	2682nt, >chromosome_7_(dbseq-nr_6)_[5136658,5139339]... *
+>Cluster 1503
+0	2679nt, >chromosome_12_(dbseq-nr_11)_[2231186,2233864]... *
+>Cluster 1504
+0	2670nt, >chromosome_7_(dbseq-nr_6)_[4538859,4541528]... *
+>Cluster 1505
+0	2669nt, >chromosome_9_(dbseq-nr_8)_[10642440,10645108]... *
+>Cluster 1506
+0	2662nt, >chromosome_2_(dbseq-nr_1)_[1862460,1865121]... *
+>Cluster 1507
+0	2660nt, >chromosome_3_(dbseq-nr_2)_[5395790,5398449]... *
+>Cluster 1508
+0	2658nt, >chromosome_3_(dbseq-nr_2)_[7084955,7087612]... *
+>Cluster 1509
+0	2646nt, >chromosome_10_(dbseq-nr_9)_[4516201,4518846]... *
+>Cluster 1510
+0	2645nt, >chromosome_8_(dbseq-nr_7)_[2746910,2749554]... *
+>Cluster 1511
+0	2644nt, >chromosome_2_(dbseq-nr_1)_[2683218,2685861]... *
+>Cluster 1512
+0	2636nt, >chromosome_12_(dbseq-nr_11)_[821978,824613]... *
+>Cluster 1513
+0	2623nt, >chromosome_9_(dbseq-nr_8)_[2812299,2814921]... *
+>Cluster 1514
+0	2601nt, >chromosome_3_(dbseq-nr_2)_[451870,454470]... *
+>Cluster 1515
+0	2595nt, >chromosome_3_(dbseq-nr_2)_[7950401,7952995]... *
+>Cluster 1516
+0	2583nt, >chromosome_12_(dbseq-nr_11)_[4380490,4383072]... *
+>Cluster 1517
+0	2575nt, >chromosome_8_(dbseq-nr_7)_[3315875,3318449]... *
+>Cluster 1518
+0	2572nt, >chromosome_4_(dbseq-nr_3)_[7681507,7684078]... *
+>Cluster 1519
+0	2557nt, >chromosome_3_(dbseq-nr_2)_[6742809,6745365]... *
+>Cluster 1520
+0	2554nt, >chromosome_4_(dbseq-nr_3)_[1123333,1125886]... *
+>Cluster 1521
+0	2553nt, >chromosome_10_(dbseq-nr_9)_[1724835,1727387]... *
+>Cluster 1522
+0	2553nt, >chromosome_11_(dbseq-nr_10)_[4472497,4475049]... *
+>Cluster 1523
+0	2542nt, >chromosome_5_(dbseq-nr_4)_[5210959,5213500]... *
+>Cluster 1524
+0	2541nt, >chromosome_9_(dbseq-nr_8)_[8884551,8887091]... *
+>Cluster 1525
+0	2530nt, >chromosome_11_(dbseq-nr_10)_[2237354,2239883]... *
+>Cluster 1526
+0	2525nt, >chromosome_11_(dbseq-nr_10)_[529608,532132]... *
+>Cluster 1527
+0	2517nt, >chromosome_9_(dbseq-nr_8)_[2165058,2167574]... *
+>Cluster 1528
+0	2512nt, >chromosome_3_(dbseq-nr_2)_[6066367,6068878]... *
+>Cluster 1529
+0	2504nt, >chromosome_12_(dbseq-nr_11)_[778575,781078]... *
+>Cluster 1530
+0	2503nt, >chromosome_7_(dbseq-nr_6)_[4573617,4576119]... *
+>Cluster 1531
+0	2495nt, >chromosome_5_(dbseq-nr_4)_[4665836,4668330]... *
+>Cluster 1532
+0	2491nt, >chromosome_10_(dbseq-nr_9)_[3150790,3153280]... *
+>Cluster 1533
+0	2485nt, >chromosome_3_(dbseq-nr_2)_[7995307,7997791]... *
+>Cluster 1534
+0	2483nt, >chromosome_7_(dbseq-nr_6)_[3776658,3779140]... *
+>Cluster 1535
+0	2481nt, >chromosome_12_(dbseq-nr_11)_[1477658,1480138]... *
+>Cluster 1536
+0	2463nt, >chromosome_9_(dbseq-nr_8)_[7320632,7323094]... *
+>Cluster 1537
+0	2460nt, >chromosome_11_(dbseq-nr_10)_[931729,934188]... *
+>Cluster 1538
+0	2458nt, >chromosome_11_(dbseq-nr_10)_[653083,655540]... *
+>Cluster 1539
+0	2456nt, >chromosome_6_(dbseq-nr_5)_[5047566,5050021]... *
+>Cluster 1540
+0	2455nt, >chromosome_5_(dbseq-nr_4)_[6334068,6336522]... *
+>Cluster 1541
+0	2455nt, >chromosome_9_(dbseq-nr_8)_[10733238,10735692]... *
+>Cluster 1542
+0	2454nt, >chromosome_9_(dbseq-nr_8)_[9191719,9194172]... *
+>Cluster 1543
+0	2436nt, >chromosome_8_(dbseq-nr_7)_[2556,4991]... *
+>Cluster 1544
+0	2429nt, >chromosome_2_(dbseq-nr_1)_[1367525,1369953]... *
+>Cluster 1545
+0	2425nt, >chromosome_6_(dbseq-nr_5)_[6768835,6771259]... *
+>Cluster 1546
+0	2424nt, >chromosome_5_(dbseq-nr_4)_[7018122,7020545]... *
+>Cluster 1547
+0	2404nt, >chromosome_2_(dbseq-nr_1)_[1351393,1353796]... *
+>Cluster 1548
+0	2400nt, >chromosome_7_(dbseq-nr_6)_[3941065,3943464]... *
+>Cluster 1549
+0	2396nt, >chromosome_7_(dbseq-nr_6)_[1253160,1255555]... *
+>Cluster 1550
+0	2389nt, >chromosome_6_(dbseq-nr_5)_[6169187,6171575]... *
+>Cluster 1551
+0	2388nt, >chromosome_6_(dbseq-nr_5)_[5256047,5258434]... *
+>Cluster 1552
+0	2381nt, >chromosome_10_(dbseq-nr_9)_[5137091,5139471]... *
+>Cluster 1553
+0	2379nt, >chromosome_10_(dbseq-nr_9)_[2454048,2456426]... *
+>Cluster 1554
+0	2375nt, >chromosome_9_(dbseq-nr_8)_[4803075,4805449]... *
+>Cluster 1555
+0	2366nt, >chromosome_3_(dbseq-nr_2)_[7727773,7730138]... *
+>Cluster 1556
+0	2348nt, >chromosome_7_(dbseq-nr_6)_[2773660,2776007]... *
+>Cluster 1557
+0	2344nt, >chromosome_7_(dbseq-nr_6)_[3354051,3356394]... *
+>Cluster 1558
+0	2342nt, >chromosome_8_(dbseq-nr_7)_[1118042,1120383]... *
+>Cluster 1559
+0	2331nt, >chromosome_9_(dbseq-nr_8)_[7286537,7288867]... *
+>Cluster 1560
+0	2328nt, >chromosome_3_(dbseq-nr_2)_[1079090,1081417]... *
+>Cluster 1561
+0	2327nt, >chromosome_10_(dbseq-nr_9)_[2765279,2767605]... *
+>Cluster 1562
+0	2321nt, >chromosome_2_(dbseq-nr_1)_[2031494,2033814]... *
+>Cluster 1563
+0	2318nt, >chromosome_4_(dbseq-nr_3)_[4647038,4649355]... *
+>Cluster 1564
+0	2311nt, >chromosome_5_(dbseq-nr_4)_[6235319,6237629]... *
+>Cluster 1565
+0	2309nt, >chromosome_5_(dbseq-nr_4)_[362126,364434]... *
+>Cluster 1566
+0	2309nt, >chromosome_8_(dbseq-nr_7)_[2104895,2107203]... *
+>Cluster 1567
+0	2307nt, >chromosome_3_(dbseq-nr_2)_[2721748,2724054]... *
+>Cluster 1568
+0	2295nt, >chromosome_8_(dbseq-nr_7)_[1668125,1670419]... *
+>Cluster 1569
+0	2275nt, >chromosome_8_(dbseq-nr_7)_[331259,333533]... *
+>Cluster 1570
+0	2266nt, >chromosome_9_(dbseq-nr_8)_[8427413,8429678]... *
+>Cluster 1571
+0	2262nt, >scaffold_65_(dbseq-nr_64)_[14,2275]... *
+>Cluster 1572
+0	2256nt, >chromosome_1_(dbseq-nr_0)_[3115531,3117786]... *
+>Cluster 1573
+0	2252nt, >chromosome_5_(dbseq-nr_4)_[836316,838567]... *
+>Cluster 1574
+0	2251nt, >chromosome_4_(dbseq-nr_3)_[2692619,2694869]... *
+>Cluster 1575
+0	2245nt, >chromosome_4_(dbseq-nr_3)_[8709739,8711983]... *
+>Cluster 1576
+0	2243nt, >chromosome_2_(dbseq-nr_1)_[3391764,3394006]... *
+>Cluster 1577
+0	2243nt, >chromosome_11_(dbseq-nr_10)_[1195740,1197982]... *
+>Cluster 1578
+0	2240nt, >chromosome_6_(dbseq-nr_5)_[4364723,4366962]... *
+>Cluster 1579
+0	2239nt, >chromosome_9_(dbseq-nr_8)_[3506515,3508753]... *
+>Cluster 1580
+0	2234nt, >chromosome_5_(dbseq-nr_4)_[1956933,1959166]... *
+>Cluster 1581
+0	2234nt, >chromosome_12_(dbseq-nr_11)_[4875518,4877751]... *
+>Cluster 1582
+0	2228nt, >chromosome_7_(dbseq-nr_6)_[5726706,5728933]... *
+>Cluster 1583
+0	2227nt, >chromosome_7_(dbseq-nr_6)_[47164,49390]... *
+>Cluster 1584
+0	2223nt, >chromosome_5_(dbseq-nr_4)_[1660052,1662274]... *
+>Cluster 1585
+0	2223nt, >chromosome_7_(dbseq-nr_6)_[57890,60112]... *
+>Cluster 1586
+0	2218nt, >chromosome_11_(dbseq-nr_10)_[5792,8009]... *
+>Cluster 1587
+0	2214nt, >chromosome_12_(dbseq-nr_11)_[3597198,3599411]... *
+>Cluster 1588
+0	2207nt, >chromosome_7_(dbseq-nr_6)_[609911,612117]... *
+>Cluster 1589
+0	2198nt, >chromosome_2_(dbseq-nr_1)_[2197938,2200135]... *
+>Cluster 1590
+0	2194nt, >chromosome_8_(dbseq-nr_7)_[768934,771127]... *
+>Cluster 1591
+0	2193nt, >chromosome_3_(dbseq-nr_2)_[911318,913510]... *
+>Cluster 1592
+0	2179nt, >chromosome_1_(dbseq-nr_0)_[2062475,2064653]... *
+>Cluster 1593
+0	2179nt, >chromosome_7_(dbseq-nr_6)_[6044547,6046725]... *
+>Cluster 1594
+0	2173nt, >chromosome_4_(dbseq-nr_3)_[11030848,11033020]... *
+>Cluster 1595
+0	2169nt, >chromosome_9_(dbseq-nr_8)_[912452,914620]... *
+>Cluster 1596
+0	2166nt, >chromosome_5_(dbseq-nr_4)_[232604,234769]... *
+>Cluster 1597
+0	2151nt, >chromosome_9_(dbseq-nr_8)_[5940960,5943110]... *
+>Cluster 1598
+0	2149nt, >chromosome_12_(dbseq-nr_11)_[2585152,2587300]... *
+>Cluster 1599
+0	2145nt, >chromosome_9_(dbseq-nr_8)_[10222694,10224838]... *
+>Cluster 1600
+0	2142nt, >chromosome_4_(dbseq-nr_3)_[7675224,7677365]... *
+>Cluster 1601
+0	2140nt, >chromosome_4_(dbseq-nr_3)_[1080082,1082221]... *
+>Cluster 1602
+0	2139nt, >chromosome_8_(dbseq-nr_7)_[3700401,3702539]... *
+>Cluster 1603
+0	2138nt, >chromosome_12_(dbseq-nr_11)_[2285039,2287176]... *
+>Cluster 1604
+0	2136nt, >chromosome_7_(dbseq-nr_6)_[5413401,5415536]... *
+>Cluster 1605
+0	2133nt, >chromosome_9_(dbseq-nr_8)_[2957737,2959869]... *
+>Cluster 1606
+0	2130nt, >chromosome_9_(dbseq-nr_8)_[607658,609787]... *
+>Cluster 1607
+0	2130nt, >chromosome_12_(dbseq-nr_11)_[283624,285753]... *
+>Cluster 1608
+0	2129nt, >chromosome_7_(dbseq-nr_6)_[3562415,3564543]... *
+>Cluster 1609
+0	2128nt, >chromosome_9_(dbseq-nr_8)_[302642,304769]... *
+>Cluster 1610
+0	2118nt, >chromosome_4_(dbseq-nr_3)_[1528072,1530189]... *
+>Cluster 1611
+0	2117nt, >chromosome_9_(dbseq-nr_8)_[2624092,2626208]... *
+>Cluster 1612
+0	2115nt, >chromosome_7_(dbseq-nr_6)_[44646,46760]... *
+>Cluster 1613
+0	2112nt, >chromosome_11_(dbseq-nr_10)_[390913,393024]... *
+>Cluster 1614
+0	2110nt, >chromosome_5_(dbseq-nr_4)_[1026229,1028338]... *
+>Cluster 1615
+0	2109nt, >chromosome_2_(dbseq-nr_1)_[1995639,1997747]... *
+>Cluster 1616
+0	2109nt, >chromosome_7_(dbseq-nr_6)_[262179,264287]... *
+>Cluster 1617
+0	2104nt, >chromosome_3_(dbseq-nr_2)_[6980388,6982491]... *
+>Cluster 1618
+0	2100nt, >chromosome_10_(dbseq-nr_9)_[2946386,2948485]... *
+>Cluster 1619
+0	2089nt, >chromosome_7_(dbseq-nr_6)_[4872589,4874677]... *
+>Cluster 1620
+0	2080nt, >chromosome_5_(dbseq-nr_4)_[2029288,2031367]... *
+>Cluster 1621
+0	2076nt, >chromosome_8_(dbseq-nr_7)_[3744430,3746505]... *
+>Cluster 1622
+0	2063nt, >chromosome_4_(dbseq-nr_3)_[6399963,6402025]... *
+>Cluster 1623
+0	2061nt, >chromosome_7_(dbseq-nr_6)_[1566926,1568986]... *
+>Cluster 1624
+0	2061nt, >chromosome_9_(dbseq-nr_8)_[2954599,2956659]... *
+>Cluster 1625
+0	2059nt, >chromosome_6_(dbseq-nr_5)_[5071145,5073203]... *
+>Cluster 1626
+0	2057nt, >chromosome_7_(dbseq-nr_6)_[2657626,2659682]... *
+>Cluster 1627
+0	2054nt, >chromosome_1_(dbseq-nr_0)_[381474,383527]... *
+>Cluster 1628
+0	2050nt, >chromosome_10_(dbseq-nr_9)_[231743,233792]... *
+>Cluster 1629
+0	2046nt, >chromosome_1_(dbseq-nr_0)_[4256740,4258785]... *
+>Cluster 1630
+0	2045nt, >chromosome_4_(dbseq-nr_3)_[406926,408970]... *
+>Cluster 1631
+0	2043nt, >chromosome_1_(dbseq-nr_0)_[162656,164698]... *
+>Cluster 1632
+0	2039nt, >chromosome_7_(dbseq-nr_6)_[5124295,5126333]... *
+>Cluster 1633
+0	2038nt, >chromosome_7_(dbseq-nr_6)_[6139332,6141369]... *
+>Cluster 1634
+0	2029nt, >chromosome_7_(dbseq-nr_6)_[2074965,2076993]... *
+>Cluster 1635
+0	2022nt, >chromosome_7_(dbseq-nr_6)_[213147,215168]... *
+>Cluster 1636
+0	2015nt, >chromosome_6_(dbseq-nr_5)_[1923521,1925535]... *
+>Cluster 1637
+0	2012nt, >chromosome_7_(dbseq-nr_6)_[2755006,2757017]... *
+>Cluster 1638
+0	2000nt, >chromosome_5_(dbseq-nr_4)_[775046,777045]... *
+>Cluster 1639
+0	1997nt, >chromosome_3_(dbseq-nr_2)_[2187408,2189404]... *
+>Cluster 1640
+0	1992nt, >chromosome_4_(dbseq-nr_3)_[371384,373375]... *
+>Cluster 1641
+0	1984nt, >chromosome_5_(dbseq-nr_4)_[3221463,3223446]... *
+>Cluster 1642
+0	1983nt, >chromosome_5_(dbseq-nr_4)_[2200321,2202303]... *
+>Cluster 1643
+0	1979nt, >chromosome_4_(dbseq-nr_3)_[9466073,9468051]... *
+>Cluster 1644
+0	1976nt, >chromosome_3_(dbseq-nr_2)_[7746509,7748484]... *
+>Cluster 1645
+0	1973nt, >chromosome_9_(dbseq-nr_8)_[9609166,9611138]... *
+>Cluster 1646
+0	1970nt, >chromosome_7_(dbseq-nr_6)_[4040876,4042845]... *
+>Cluster 1647
+0	1969nt, >chromosome_3_(dbseq-nr_2)_[75408,77376]... *
+>Cluster 1648
+0	1968nt, >chromosome_2_(dbseq-nr_1)_[7434423,7436390]... *
+>Cluster 1649
+0	1966nt, >chromosome_8_(dbseq-nr_7)_[949463,951428]... *
+>Cluster 1650
+0	1956nt, >chromosome_4_(dbseq-nr_3)_[175648,177603]... *
+>Cluster 1651
+0	1956nt, >chromosome_10_(dbseq-nr_9)_[64408,66363]... *
+>Cluster 1652
+0	1950nt, >chromosome_2_(dbseq-nr_1)_[6471017,6472966]... *
+>Cluster 1653
+0	1949nt, >chromosome_4_(dbseq-nr_3)_[2761519,2763467]... *
+>Cluster 1654
+0	1945nt, >chromosome_6_(dbseq-nr_5)_[3398780,3400724]... *
+>Cluster 1655
+0	1943nt, >chromosome_8_(dbseq-nr_7)_[1658019,1659961]... *
+>Cluster 1656
+0	1942nt, >chromosome_1_(dbseq-nr_0)_[1981267,1983208]... *
+>Cluster 1657
+0	1940nt, >chromosome_1_(dbseq-nr_0)_[4498720,4500659]... *
+>Cluster 1658
+0	1937nt, >chromosome_4_(dbseq-nr_3)_[9584366,9586302]... *
+>Cluster 1659
+0	1930nt, >chromosome_5_(dbseq-nr_4)_[2316861,2318790]... *
+>Cluster 1660
+0	1928nt, >chromosome_3_(dbseq-nr_2)_[1562468,1564395]... *
+>Cluster 1661
+0	1924nt, >chromosome_9_(dbseq-nr_8)_[9514400,9516323]... *
+>Cluster 1662
+0	1899nt, >chromosome_2_(dbseq-nr_1)_[4158076,4159974]... *
+>Cluster 1663
+0	1890nt, >chromosome_2_(dbseq-nr_1)_[762902,764791]... *
+>Cluster 1664
+0	1879nt, >chromosome_7_(dbseq-nr_6)_[2323587,2325465]... *
+>Cluster 1665
+0	1878nt, >chromosome_2_(dbseq-nr_1)_[6497977,6499854]... *
+>Cluster 1666
+0	1877nt, >chromosome_4_(dbseq-nr_3)_[9744237,9746113]... *
+>Cluster 1667
+0	1873nt, >chromosome_11_(dbseq-nr_10)_[2059753,2061625]... *
+>Cluster 1668
+0	1872nt, >chromosome_2_(dbseq-nr_1)_[790444,792315]... *
+>Cluster 1669
+0	1870nt, >chromosome_3_(dbseq-nr_2)_[5076647,5078516]... *
+>Cluster 1670
+0	1867nt, >chromosome_11_(dbseq-nr_10)_[273238,275104]... *
+>Cluster 1671
+0	1865nt, >chromosome_6_(dbseq-nr_5)_[5550153,5552017]... *
+>Cluster 1672
+0	1864nt, >chromosome_4_(dbseq-nr_3)_[8699042,8700905]... *
+>Cluster 1673
+0	1860nt, >chromosome_4_(dbseq-nr_3)_[10291475,10293334]... *
+>Cluster 1674
+0	1860nt, >chromosome_5_(dbseq-nr_4)_[324493,326352]... *
+>Cluster 1675
+0	1854nt, >chromosome_3_(dbseq-nr_2)_[4974347,4976200]... *
+>Cluster 1676
+0	1854nt, >chromosome_9_(dbseq-nr_8)_[8057632,8059485]... *
+>Cluster 1677
+0	1842nt, >chromosome_7_(dbseq-nr_6)_[5111508,5113349]... *
+>Cluster 1678
+0	1839nt, >chromosome_3_(dbseq-nr_2)_[2072704,2074542]... *
+>Cluster 1679
+0	1836nt, >chromosome_2_(dbseq-nr_1)_[6331126,6332961]... *
+>Cluster 1680
+0	1836nt, >chromosome_10_(dbseq-nr_9)_[4214799,4216634]... *
+>Cluster 1681
+0	1834nt, >chromosome_5_(dbseq-nr_4)_[942771,944604]... *
+>Cluster 1682
+0	1832nt, >chromosome_4_(dbseq-nr_3)_[9737461,9739292]... *
+>Cluster 1683
+0	1829nt, >chromosome_5_(dbseq-nr_4)_[1966030,1967858]... *
+>Cluster 1684
+0	1827nt, >chromosome_1_(dbseq-nr_0)_[4986014,4987840]... *
+>Cluster 1685
+0	1825nt, >chromosome_7_(dbseq-nr_6)_[4428371,4430195]... *
+>Cluster 1686
+0	1819nt, >chromosome_11_(dbseq-nr_10)_[2731914,2733732]... *
+>Cluster 1687
+0	1817nt, >chromosome_2_(dbseq-nr_1)_[1657122,1658938]... *
+>Cluster 1688
+0	1816nt, >chromosome_3_(dbseq-nr_2)_[3731476,3733291]... *
+>Cluster 1689
+0	1816nt, >chromosome_7_(dbseq-nr_6)_[5199087,5200902]... *
+>Cluster 1690
+0	1815nt, >chromosome_4_(dbseq-nr_3)_[9391748,9393562]... *
+>Cluster 1691
+0	1814nt, >chromosome_2_(dbseq-nr_1)_[7773596,7775409]... *
+>Cluster 1692
+0	1543nt, >chromosome_4_(dbseq-nr_3)_[9890111,9891653]... at +/99.48%
+1	1804nt, >chromosome_7_(dbseq-nr_6)_[2518137,2519940]... at -/98.06%
+2	1806nt, >chromosome_9_(dbseq-nr_8)_[1505933,1507738]... at +/98.34%
+3	1806nt, >chromosome_9_(dbseq-nr_8)_[3173980,3175785]... at -/99.50%
+4	1812nt, >chromosome_9_(dbseq-nr_8)_[4806556,4808367]... *
+>Cluster 1693
+0	1809nt, >chromosome_3_(dbseq-nr_2)_[4701474,4703282]... *
+>Cluster 1694
+0	1806nt, >chromosome_7_(dbseq-nr_6)_[4458779,4460584]... *
+>Cluster 1695
+0	1803nt, >chromosome_3_(dbseq-nr_2)_[4826880,4828682]... *
+>Cluster 1696
+0	1799nt, >chromosome_5_(dbseq-nr_4)_[4484814,4486612]... *
+>Cluster 1697
+0	1798nt, >chromosome_5_(dbseq-nr_4)_[6820363,6822160]... *
+>Cluster 1698
+0	1797nt, >chromosome_9_(dbseq-nr_8)_[5114986,5116782]... *
+>Cluster 1699
+0	1794nt, >chromosome_7_(dbseq-nr_6)_[3585957,3587750]... *
+>Cluster 1700
+0	1794nt, >chromosome_11_(dbseq-nr_10)_[2284218,2286011]... *
+>Cluster 1701
+0	1792nt, >chromosome_9_(dbseq-nr_8)_[6532855,6534646]... *
+>Cluster 1702
+0	1790nt, >chromosome_7_(dbseq-nr_6)_[2337841,2339630]... *
+>Cluster 1703
+0	1790nt, >chromosome_9_(dbseq-nr_8)_[8080581,8082370]... *
+>Cluster 1704
+0	1787nt, >chromosome_2_(dbseq-nr_1)_[5315018,5316804]... *
+>Cluster 1705
+0	1775nt, >chromosome_7_(dbseq-nr_6)_[5370811,5372585]... *
+>Cluster 1706
+0	1755nt, >chromosome_2_(dbseq-nr_1)_[5249974,5251728]... at +/95.61%
+1	1770nt, >chromosome_9_(dbseq-nr_8)_[1493304,1495073]... *
+>Cluster 1707
+0	1769nt, >chromosome_4_(dbseq-nr_3)_[6969880,6971648]... *
+>Cluster 1708
+0	1768nt, >chromosome_4_(dbseq-nr_3)_[1697636,1699403]... *
+>Cluster 1709
+0	1765nt, >chromosome_9_(dbseq-nr_8)_[4633681,4635445]... *
+>Cluster 1710
+0	1764nt, >chromosome_6_(dbseq-nr_5)_[6451279,6453042]... *
+>Cluster 1711
+0	1763nt, >chromosome_11_(dbseq-nr_10)_[2577785,2579547]... *
+>Cluster 1712
+0	1761nt, >chromosome_2_(dbseq-nr_1)_[7260328,7262088]... *
+>Cluster 1713
+0	1760nt, >chromosome_7_(dbseq-nr_6)_[4545704,4547463]... *
+>Cluster 1714
+0	1756nt, >chromosome_5_(dbseq-nr_4)_[930415,932170]... *
+>Cluster 1715
+0	1752nt, >chromosome_9_(dbseq-nr_8)_[4913404,4915155]... *
+>Cluster 1716
+0	1750nt, >chromosome_4_(dbseq-nr_3)_[6261569,6263318]... *
+>Cluster 1717
+0	1747nt, >chromosome_2_(dbseq-nr_1)_[6714392,6716138]... *
+>Cluster 1718
+0	1747nt, >chromosome_3_(dbseq-nr_2)_[7080031,7081777]... *
+>Cluster 1719
+0	1744nt, >chromosome_4_(dbseq-nr_3)_[10847162,10848905]... *
+>Cluster 1720
+0	1721nt, >chromosome_2_(dbseq-nr_1)_[5937194,5938914]... *
+>Cluster 1721
+0	1716nt, >chromosome_4_(dbseq-nr_3)_[8133459,8135174]... *
+>Cluster 1722
+0	1715nt, >chromosome_11_(dbseq-nr_10)_[1306915,1308629]... *
+>Cluster 1723
+0	1712nt, >chromosome_2_(dbseq-nr_1)_[3333980,3335691]... *
+>Cluster 1724
+0	1700nt, >chromosome_9_(dbseq-nr_8)_[3163036,3164735]... *
+>Cluster 1725
+0	1698nt, >chromosome_4_(dbseq-nr_3)_[7695561,7697258]... *
+>Cluster 1726
+0	1693nt, >chromosome_2_(dbseq-nr_1)_[2823451,2825143]... *
+>Cluster 1727
+0	1687nt, >chromosome_7_(dbseq-nr_6)_[1829082,1830768]... *
+>Cluster 1728
+0	1683nt, >chromosome_8_(dbseq-nr_7)_[1267359,1269041]... *
+>Cluster 1729
+0	1680nt, >chromosome_7_(dbseq-nr_6)_[988557,990236]... *
+>Cluster 1730
+0	1679nt, >chromosome_10_(dbseq-nr_9)_[3686392,3688070]... *
+>Cluster 1731
+0	1676nt, >chromosome_11_(dbseq-nr_10)_[2398171,2399846]... *
+>Cluster 1732
+0	1675nt, >chromosome_2_(dbseq-nr_1)_[7902862,7904536]... *
+>Cluster 1733
+0	1658nt, >chromosome_3_(dbseq-nr_2)_[11342,12999]... *
+>Cluster 1734
+0	1658nt, >chromosome_8_(dbseq-nr_7)_[3199326,3200983]... *
+>Cluster 1735
+0	1657nt, >chromosome_4_(dbseq-nr_3)_[6824338,6825994]... *
+>Cluster 1736
+0	1653nt, >chromosome_6_(dbseq-nr_5)_[5792803,5794455]... *
+>Cluster 1737
+0	1651nt, >chromosome_11_(dbseq-nr_10)_[1022912,1024562]... *
+>Cluster 1738
+0	1651nt, >chromosome_12_(dbseq-nr_11)_[2711750,2713400]... *
+>Cluster 1739
+0	1649nt, >chromosome_6_(dbseq-nr_5)_[3170059,3171707]... *
+1	1644nt, >chromosome_6_(dbseq-nr_5)_[3180923,3182566]... at -/100.00%
+2	1649nt, >chromosome_6_(dbseq-nr_5)_[3185918,3187566]... at +/100.00%
+>Cluster 1740
+0	1646nt, >chromosome_3_(dbseq-nr_2)_[4712579,4714224]... *
+>Cluster 1741
+0	1645nt, >chromosome_1_(dbseq-nr_0)_[4675909,4677553]... *
+>Cluster 1742
+0	1644nt, >scaffold_24_(dbseq-nr_23)_[666,2309]... *
+>Cluster 1743
+0	1639nt, >chromosome_7_(dbseq-nr_6)_[314474,316112]... *
+>Cluster 1744
+0	1635nt, >chromosome_12_(dbseq-nr_11)_[2457980,2459614]... *
+>Cluster 1745
+0	1629nt, >chromosome_3_(dbseq-nr_2)_[8112332,8113960]... *
+>Cluster 1746
+0	1629nt, >chromosome_9_(dbseq-nr_8)_[10661485,10663113]... *
+>Cluster 1747
+0	1624nt, >chromosome_6_(dbseq-nr_5)_[6744062,6745685]... *
+>Cluster 1748
+0	1624nt, >chromosome_7_(dbseq-nr_6)_[3663539,3665162]... *
+>Cluster 1749
+0	1623nt, >chromosome_10_(dbseq-nr_9)_[4228736,4230358]... *
+>Cluster 1750
+0	1613nt, >chromosome_1_(dbseq-nr_0)_[3973513,3975125]... at +/99.13%
+1	1618nt, >chromosome_1_(dbseq-nr_0)_[4364382,4365999]... at -/98.70%
+2	1614nt, >chromosome_2_(dbseq-nr_1)_[3400857,3402470]... at +/99.07%
+3	1482nt, >chromosome_4_(dbseq-nr_3)_[10134834,10136315]... at +/98.72%
+4	1615nt, >chromosome_4_(dbseq-nr_3)_[10948109,10949723]... at -/98.82%
+5	1586nt, >chromosome_8_(dbseq-nr_7)_[599565,601150]... at +/97.16%
+6	1619nt, >chromosome_9_(dbseq-nr_8)_[1458854,1460472]... *
+>Cluster 1751
+0	1616nt, >chromosome_3_(dbseq-nr_2)_[332178,333793]... *
+>Cluster 1752
+0	1614nt, >chromosome_2_(dbseq-nr_1)_[3622431,3624044]... *
+>Cluster 1753
+0	1612nt, >chromosome_7_(dbseq-nr_6)_[3553886,3555497]... *
+>Cluster 1754
+0	1612nt, >chromosome_8_(dbseq-nr_7)_[3708215,3709826]... *
+>Cluster 1755
+0	1610nt, >chromosome_2_(dbseq-nr_1)_[6245568,6247177]... *
+>Cluster 1756
+0	1608nt, >chromosome_12_(dbseq-nr_11)_[3979132,3980739]... *
+>Cluster 1757
+0	1605nt, >chromosome_9_(dbseq-nr_8)_[10141508,10143112]... *
+>Cluster 1758
+0	1595nt, >chromosome_5_(dbseq-nr_4)_[3554280,3555874]... *
+>Cluster 1759
+0	1590nt, >chromosome_4_(dbseq-nr_3)_[5800350,5801939]... *
+>Cluster 1760
+0	1586nt, >chromosome_3_(dbseq-nr_2)_[6463535,6465120]... *
+>Cluster 1761
+0	1586nt, >chromosome_6_(dbseq-nr_5)_[4620292,4621877]... *
+>Cluster 1762
+0	1584nt, >chromosome_3_(dbseq-nr_2)_[8211414,8212997]... *
+>Cluster 1763
+0	1580nt, >chromosome_7_(dbseq-nr_6)_[5232116,5233695]... *
+>Cluster 1764
+0	1570nt, >chromosome_5_(dbseq-nr_4)_[5633559,5635128]... *
+>Cluster 1765
+0	1563nt, >chromosome_3_(dbseq-nr_2)_[13013,14575]... *
+>Cluster 1766
+0	1560nt, >chromosome_4_(dbseq-nr_3)_[9218441,9220000]... *
+>Cluster 1767
+0	1560nt, >chromosome_8_(dbseq-nr_7)_[3957583,3959142]... *
+1	1560nt, >scaffold_66_(dbseq-nr_65)_[21845,23404]... at -/100.00%
+>Cluster 1768
+0	1557nt, >chromosome_7_(dbseq-nr_6)_[455279,456835]... *
+>Cluster 1769
+0	1553nt, >chromosome_2_(dbseq-nr_1)_[3708323,3709875]... *
+>Cluster 1770
+0	1553nt, >chromosome_6_(dbseq-nr_5)_[4652698,4654250]... *
+>Cluster 1771
+0	1551nt, >chromosome_7_(dbseq-nr_6)_[5013294,5014844]... *
+>Cluster 1772
+0	1549nt, >chromosome_6_(dbseq-nr_5)_[2728416,2729964]... *
+>Cluster 1773
+0	1539nt, >chromosome_3_(dbseq-nr_2)_[5564613,5566151]... *
+>Cluster 1774
+0	1539nt, >chromosome_10_(dbseq-nr_9)_[1657763,1659301]... *
+>Cluster 1775
+0	1535nt, >chromosome_2_(dbseq-nr_1)_[5283342,5284876]... *
+>Cluster 1776
+0	1529nt, >chromosome_7_(dbseq-nr_6)_[2317915,2319443]... *
+>Cluster 1777
+0	1527nt, >chromosome_2_(dbseq-nr_1)_[5923955,5925481]... *
+>Cluster 1778
+0	1525nt, >chromosome_12_(dbseq-nr_11)_[2824510,2826034]... *
+>Cluster 1779
+0	1523nt, >chromosome_7_(dbseq-nr_6)_[2999786,3001308]... *
+>Cluster 1780
+0	1521nt, >chromosome_9_(dbseq-nr_8)_[1317906,1319426]... *
+>Cluster 1781
+0	1520nt, >chromosome_3_(dbseq-nr_2)_[8304795,8306314]... *
+>Cluster 1782
+0	1515nt, >chromosome_5_(dbseq-nr_4)_[2352856,2354370]... *
+>Cluster 1783
+0	1507nt, >chromosome_7_(dbseq-nr_6)_[6159688,6161194]... *
+>Cluster 1784
+0	1502nt, >chromosome_8_(dbseq-nr_7)_[3942782,3944283]... *
+>Cluster 1785
+0	1500nt, >chromosome_12_(dbseq-nr_11)_[3946172,3947671]... *
+>Cluster 1786
+0	1498nt, >chromosome_5_(dbseq-nr_4)_[7041198,7042695]... *
+>Cluster 1787
+0	1487nt, >chromosome_1_(dbseq-nr_0)_[3276929,3278415]... *
+1	1484nt, >chromosome_2_(dbseq-nr_1)_[7265008,7266491]... at -/98.38%
+>Cluster 1788
+0	1487nt, >chromosome_9_(dbseq-nr_8)_[4563345,4564831]... *
+>Cluster 1789
+0	1476nt, >chromosome_6_(dbseq-nr_5)_[1154972,1156447]... *
+>Cluster 1790
+0	1474nt, >chromosome_5_(dbseq-nr_4)_[887148,888621]... *
+>Cluster 1791
+0	1473nt, >chromosome_9_(dbseq-nr_8)_[5062001,5063473]... *
+>Cluster 1792
+0	1472nt, >chromosome_7_(dbseq-nr_6)_[4324380,4325851]... *
+>Cluster 1793
+0	1459nt, >chromosome_2_(dbseq-nr_1)_[312961,314419]... *
+>Cluster 1794
+0	1458nt, >chromosome_7_(dbseq-nr_6)_[1842474,1843931]... *
+>Cluster 1795
+0	1457nt, >chromosome_7_(dbseq-nr_6)_[2692304,2693760]... *
+>Cluster 1796
+0	1453nt, >chromosome_12_(dbseq-nr_11)_[2827600,2829052]... *
+>Cluster 1797
+0	1451nt, >chromosome_4_(dbseq-nr_3)_[2614123,2615573]... *
+>Cluster 1798
+0	1440nt, >chromosome_9_(dbseq-nr_8)_[8717706,8719145]... *
+>Cluster 1799
+0	1439nt, >scaffold_13_(dbseq-nr_12)_[2383,3821]... *
+>Cluster 1800
+0	1438nt, >chromosome_7_(dbseq-nr_6)_[1297398,1298835]... *
+>Cluster 1801
+0	1433nt, >chromosome_7_(dbseq-nr_6)_[42770,44202]... *
+>Cluster 1802
+0	1430nt, >chromosome_8_(dbseq-nr_7)_[3929714,3931143]... *
+>Cluster 1803
+0	1428nt, >chromosome_1_(dbseq-nr_0)_[4059782,4061209]... *
+1	1303nt, >chromosome_4_(dbseq-nr_3)_[791183,792485]... at -/95.47%
+2	1329nt, >chromosome_11_(dbseq-nr_10)_[3614831,3616159]... at -/96.24%
+>Cluster 1804
+0	1425nt, >chromosome_7_(dbseq-nr_6)_[4080461,4081885]... *
+>Cluster 1805
+0	1414nt, >chromosome_1_(dbseq-nr_0)_[2043139,2044552]... *
+>Cluster 1806
+0	1406nt, >chromosome_9_(dbseq-nr_8)_[1057042,1058447]... *
+>Cluster 1807
+0	1400nt, >chromosome_4_(dbseq-nr_3)_[725461,726860]... *
+>Cluster 1808
+0	1400nt, >chromosome_11_(dbseq-nr_10)_[2206951,2208350]... *
+>Cluster 1809
+0	1397nt, >chromosome_11_(dbseq-nr_10)_[268899,270295]... *
+>Cluster 1810
+0	1392nt, >chromosome_5_(dbseq-nr_4)_[8415,9806]... *
+>Cluster 1811
+0	1390nt, >chromosome_3_(dbseq-nr_2)_[2011220,2012609]... *
+>Cluster 1812
+0	1385nt, >chromosome_2_(dbseq-nr_1)_[5447696,5449080]... *
+>Cluster 1813
+0	1378nt, >chromosome_5_(dbseq-nr_4)_[4515326,4516703]... *
+>Cluster 1814
+0	1371nt, >chromosome_6_(dbseq-nr_5)_[1379637,1381007]... *
+>Cluster 1815
+0	1370nt, >chromosome_3_(dbseq-nr_2)_[6191000,6192369]... *
+>Cluster 1816
+0	1364nt, >chromosome_7_(dbseq-nr_6)_[901567,902930]... *
+>Cluster 1817
+0	1355nt, >chromosome_9_(dbseq-nr_8)_[180661,182015]... *
+>Cluster 1818
+0	1355nt, >chromosome_9_(dbseq-nr_8)_[3347113,3348467]... *
+>Cluster 1819
+0	1354nt, >chromosome_4_(dbseq-nr_3)_[4184501,4185854]... *
+>Cluster 1820
+0	1352nt, >chromosome_7_(dbseq-nr_6)_[4129540,4130891]... *
+>Cluster 1821
+0	1351nt, >chromosome_3_(dbseq-nr_2)_[4256874,4258224]... *
+>Cluster 1822
+0	1346nt, >chromosome_5_(dbseq-nr_4)_[939398,940743]... *
+>Cluster 1823
+0	1340nt, >chromosome_8_(dbseq-nr_7)_[2528676,2530015]... *
+>Cluster 1824
+0	1337nt, >chromosome_9_(dbseq-nr_8)_[10482417,10483753]... *
+1	1337nt, >chromosome_9_(dbseq-nr_8)_[10490692,10492028]... at -/100.00%
+2	1337nt, >chromosome_9_(dbseq-nr_8)_[10499017,10500353]... at +/100.00%
+>Cluster 1825
+0	1331nt, >chromosome_4_(dbseq-nr_3)_[4988232,4989562]... *
+>Cluster 1826
+0	1327nt, >chromosome_2_(dbseq-nr_1)_[2133058,2134384]... at +/99.02%
+1	1309nt, >chromosome_2_(dbseq-nr_1)_[3845996,3847304]... at -/98.93%
+2	1309nt, >chromosome_2_(dbseq-nr_1)_[8044834,8046142]... at +/98.55%
+3	1301nt, >chromosome_5_(dbseq-nr_4)_[472900,474200]... at -/99.15%
+4	1296nt, >chromosome_6_(dbseq-nr_5)_[3596253,3597548]... at +/99.15%
+5	1331nt, >chromosome_7_(dbseq-nr_6)_[638012,639342]... *
+6	1293nt, >chromosome_10_(dbseq-nr_9)_[2163277,2164569]... at -/99.30%
+>Cluster 1827
+0	1327nt, >chromosome_1_(dbseq-nr_0)_[4879442,4880768]... *
+>Cluster 1828
+0	1326nt, >chromosome_11_(dbseq-nr_10)_[2282883,2284208]... *
+>Cluster 1829
+0	1323nt, >chromosome_4_(dbseq-nr_3)_[6528690,6530012]... *
+>Cluster 1830
+0	1318nt, >chromosome_6_(dbseq-nr_5)_[146380,147697]... *
+>Cluster 1831
+0	1311nt, >chromosome_7_(dbseq-nr_6)_[6331022,6332332]... *
+>Cluster 1832
+0	1310nt, >chromosome_9_(dbseq-nr_8)_[9806234,9807543]... *
+>Cluster 1833
+0	1310nt, >chromosome_12_(dbseq-nr_11)_[2406536,2407845]... *
+>Cluster 1834
+0	1308nt, >chromosome_5_(dbseq-nr_4)_[1644131,1645438]... *
+>Cluster 1835
+0	1304nt, >chromosome_8_(dbseq-nr_7)_[1436533,1437836]... *
+>Cluster 1836
+0	1299nt, >chromosome_10_(dbseq-nr_9)_[4863353,4864651]... *
+>Cluster 1837
+0	1290nt, >chromosome_4_(dbseq-nr_3)_[9740299,9741588]... *
+>Cluster 1838
+0	1289nt, >chromosome_6_(dbseq-nr_5)_[5077627,5078915]... *
+>Cluster 1839
+0	1280nt, >chromosome_1_(dbseq-nr_0)_[219286,220565]... *
+>Cluster 1840
+0	1275nt, >chromosome_4_(dbseq-nr_3)_[7741976,7743250]... *
+>Cluster 1841
+0	1273nt, >chromosome_9_(dbseq-nr_8)_[1607566,1608838]... *
+>Cluster 1842
+0	1269nt, >chromosome_6_(dbseq-nr_5)_[960617,961885]... *
+>Cluster 1843
+0	1268nt, >chromosome_1_(dbseq-nr_0)_[3361619,3362886]... *
+>Cluster 1844
+0	1259nt, >chromosome_2_(dbseq-nr_1)_[1822441,1823699]... *
+>Cluster 1845
+0	1258nt, >chromosome_7_(dbseq-nr_6)_[971854,973111]... *
+>Cluster 1846
+0	1246nt, >chromosome_5_(dbseq-nr_4)_[1722973,1724218]... *
+>Cluster 1847
+0	1246nt, >chromosome_9_(dbseq-nr_8)_[2109694,2110939]... *
+>Cluster 1848
+0	1243nt, >chromosome_1_(dbseq-nr_0)_[3506723,3507965]... *
+>Cluster 1849
+0	1218nt, >chromosome_5_(dbseq-nr_4)_[1620399,1621616]... *
+>Cluster 1850
+0	1217nt, >chromosome_8_(dbseq-nr_7)_[3134888,3136104]... *
+>Cluster 1851
+0	1208nt, >chromosome_9_(dbseq-nr_8)_[1392250,1393457]... *
+>Cluster 1852
+0	1206nt, >chromosome_3_(dbseq-nr_2)_[4942463,4943668]... *
+>Cluster 1853
+0	1206nt, >chromosome_5_(dbseq-nr_4)_[3315218,3316423]... *
+>Cluster 1854
+0	1206nt, >chromosome_10_(dbseq-nr_9)_[5036879,5038084]... *
+>Cluster 1855
+0	1205nt, >chromosome_7_(dbseq-nr_6)_[4475507,4476711]... *
+>Cluster 1856
+0	1202nt, >chromosome_4_(dbseq-nr_3)_[10902989,10904190]... *
+>Cluster 1857
+0	1202nt, >chromosome_5_(dbseq-nr_4)_[703421,704622]... *
+>Cluster 1858
+0	1196nt, >chromosome_4_(dbseq-nr_3)_[9614742,9615937]... *
+>Cluster 1859
+0	1195nt, >chromosome_12_(dbseq-nr_11)_[2089943,2091137]... *
+>Cluster 1860
+0	1192nt, >chromosome_1_(dbseq-nr_0)_[3303024,3304215]... *
+>Cluster 1861
+0	1174nt, >chromosome_2_(dbseq-nr_1)_[7431272,7432445]... *
+>Cluster 1862
+0	1174nt, >chromosome_4_(dbseq-nr_3)_[11008738,11009911]... *
+>Cluster 1863
+0	1163nt, >chromosome_11_(dbseq-nr_10)_[2291820,2292982]... *
+>Cluster 1864
+0	1156nt, >chromosome_4_(dbseq-nr_3)_[9782171,9783326]... *
+>Cluster 1865
+0	1153nt, >chromosome_10_(dbseq-nr_9)_[2088466,2089618]... *
+>Cluster 1866
+0	1121nt, >chromosome_12_(dbseq-nr_11)_[1083749,1084869]... *
