@@ -12,7 +12,7 @@ ltrname = importltrname('ltrsequences_caecom1.txt');
 ltrlengths = importltrlength('ltrdata_caecom1.txt');
 
 %Import BLAST transcriptome matches
-BLASTresults = importdatablast('blastresultscaecom1.txt');
+BLASTresults = importdatablast('blastresultcaecom1.txt');
 
 %Import clustered LTRs
 cdhit = importdatacdhit('cdhitresultsaSaL70_caecom1.txt');

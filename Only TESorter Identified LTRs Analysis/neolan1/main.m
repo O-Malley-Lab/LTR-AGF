@@ -12,7 +12,7 @@ ltrname = importltrname('ltrsequences_neolan1.txt');
 ltrlengths = importltrlength('ltrdata_neolan1.txt');
 
 %Import BLAST transcriptome matches
-BLASTresults = importdatablast('blastresultsneolan1.txt');
+BLASTresults = importdatablast('blastresultneolan1.txt');
 
 %Import clustered LTRs
 cdhit = importdatacdhit('cdhitresultsaSaL70_neolan1.txt');
