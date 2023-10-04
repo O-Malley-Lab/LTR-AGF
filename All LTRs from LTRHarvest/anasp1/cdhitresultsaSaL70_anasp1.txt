@@ -1,0 +1,4370 @@
+>Cluster 0
+0	15690nt, >scaffold_29_(dbseq-nr_28)_[283321,299010]... *
+>Cluster 1
+0	15345nt, >scaffold_14_(dbseq-nr_13)_[331948,347292]... *
+>Cluster 2
+0	15182nt, >scaffold_175_(dbseq-nr_174)_[73446,88627]... *
+>Cluster 3
+0	15174nt, >scaffold_154_(dbseq-nr_153)_[61319,76492]... *
+>Cluster 4
+0	15165nt, >scaffold_3_(dbseq-nr_2)_[174484,189648]... *
+>Cluster 5
+0	15150nt, >scaffold_22_(dbseq-nr_21)_[114412,129561]... *
+>Cluster 6
+0	15146nt, >scaffold_48_(dbseq-nr_47)_[87978,103123]... *
+>Cluster 7
+0	15146nt, >scaffold_236_(dbseq-nr_235)_[79395,94540]... *
+>Cluster 8
+0	15081nt, >scaffold_376_(dbseq-nr_375)_[9621,24701]... *
+>Cluster 9
+0	15041nt, >scaffold_68_(dbseq-nr_67)_[134986,150026]... *
+>Cluster 10
+0	15024nt, >scaffold_192_(dbseq-nr_191)_[109294,124317]... *
+>Cluster 11
+0	15018nt, >scaffold_189_(dbseq-nr_188)_[106221,121238]... *
+>Cluster 12
+0	14983nt, >scaffold_7_(dbseq-nr_6)_[334034,349016]... *
+>Cluster 13
+0	14983nt, >scaffold_19_(dbseq-nr_18)_[66958,81940]... *
+>Cluster 14
+0	14964nt, >scaffold_257_(dbseq-nr_256)_[26615,41578]... *
+>Cluster 15
+0	14944nt, >scaffold_39_(dbseq-nr_38)_[168457,183400]... *
+>Cluster 16
+0	14930nt, >scaffold_21_(dbseq-nr_20)_[99287,114216]... *
+>Cluster 17
+0	14916nt, >scaffold_26_(dbseq-nr_25)_[16898,31813]... *
+>Cluster 18
+0	14911nt, >scaffold_399_(dbseq-nr_398)_[6942,21852]... *
+>Cluster 19
+0	14908nt, >scaffold_82_(dbseq-nr_81)_[133140,148047]... *
+>Cluster 20
+0	14880nt, >scaffold_468_(dbseq-nr_467)_[3502,18381]... *
+>Cluster 21
+0	14858nt, >scaffold_413_(dbseq-nr_412)_[42771,57628]... *
+>Cluster 22
+0	14851nt, >scaffold_39_(dbseq-nr_38)_[131863,146713]... *
+>Cluster 23
+0	14847nt, >scaffold_180_(dbseq-nr_179)_[91790,106636]... *
+>Cluster 24
+0	14823nt, >scaffold_161_(dbseq-nr_160)_[102858,117680]... *
+>Cluster 25
+0	14786nt, >scaffold_579_(dbseq-nr_578)_[5506,20291]... *
+>Cluster 26
+0	14742nt, >scaffold_266_(dbseq-nr_265)_[77642,92383]... *
+>Cluster 27
+0	14726nt, >scaffold_35_(dbseq-nr_34)_[266939,281664]... *
+>Cluster 28
+0	14680nt, >scaffold_162_(dbseq-nr_161)_[38609,53288]... *
+>Cluster 29
+0	14663nt, >scaffold_2_(dbseq-nr_1)_[72866,87528]... *
+>Cluster 30
+0	14655nt, >scaffold_318_(dbseq-nr_317)_[1106,15760]... *
+>Cluster 31
+0	14620nt, >scaffold_298_(dbseq-nr_297)_[41149,55768]... *
+>Cluster 32
+0	14614nt, >scaffold_22_(dbseq-nr_21)_[171776,186389]... *
+>Cluster 33
+0	14576nt, >scaffold_140_(dbseq-nr_139)_[103198,117773]... *
+>Cluster 34
+0	14571nt, >scaffold_127_(dbseq-nr_126)_[81721,96291]... *
+>Cluster 35
+0	14562nt, >scaffold_176_(dbseq-nr_175)_[7597,22158]... *
+>Cluster 36
+0	14551nt, >scaffold_447_(dbseq-nr_446)_[7658,22208]... *
+>Cluster 37
+0	14549nt, >scaffold_25_(dbseq-nr_24)_[267814,282362]... *
+>Cluster 38
+0	14521nt, >scaffold_84_(dbseq-nr_83)_[44786,59306]... *
+>Cluster 39
+0	14503nt, >scaffold_286_(dbseq-nr_285)_[311,14813]... *
+>Cluster 40
+0	14483nt, >scaffold_88_(dbseq-nr_87)_[69735,84217]... *
+>Cluster 41
+0	14478nt, >scaffold_56_(dbseq-nr_55)_[69412,83889]... *
+>Cluster 42
+0	14476nt, >scaffold_94_(dbseq-nr_93)_[163656,178131]... *
+>Cluster 43
+0	14406nt, >scaffold_104_(dbseq-nr_103)_[34971,49376]... *
+>Cluster 44
+0	14394nt, >scaffold_61_(dbseq-nr_60)_[74960,89353]... *
+>Cluster 45
+0	14377nt, >scaffold_503_(dbseq-nr_502)_[25281,39657]... *
+>Cluster 46
+0	14365nt, >scaffold_273_(dbseq-nr_272)_[50087,64451]... *
+>Cluster 47
+0	14360nt, >scaffold_514_(dbseq-nr_513)_[5217,19576]... *
+>Cluster 48
+0	14350nt, >scaffold_331_(dbseq-nr_330)_[17014,31363]... *
+>Cluster 49
+0	14336nt, >scaffold_51_(dbseq-nr_50)_[139390,153725]... *
+>Cluster 50
+0	14302nt, >scaffold_37_(dbseq-nr_36)_[64139,78440]... *
+>Cluster 51
+0	14284nt, >scaffold_30_(dbseq-nr_29)_[73883,88166]... *
+>Cluster 52
+0	14281nt, >scaffold_115_(dbseq-nr_114)_[50132,64412]... *
+>Cluster 53
+0	14272nt, >scaffold_278_(dbseq-nr_277)_[64208,78479]... *
+>Cluster 54
+0	14269nt, >scaffold_239_(dbseq-nr_238)_[69674,83942]... *
+>Cluster 55
+0	14267nt, >scaffold_349_(dbseq-nr_348)_[9561,23827]... *
+>Cluster 56
+0	14251nt, >scaffold_602_(dbseq-nr_601)_[4388,18638]... *
+>Cluster 57
+0	14239nt, >scaffold_139_(dbseq-nr_138)_[53679,67917]... *
+>Cluster 58
+0	14233nt, >scaffold_279_(dbseq-nr_278)_[21570,35802]... *
+>Cluster 59
+0	14225nt, >scaffold_309_(dbseq-nr_308)_[16845,31069]... *
+>Cluster 60
+0	14224nt, >scaffold_186_(dbseq-nr_185)_[89846,104069]... *
+>Cluster 61
+0	14210nt, >scaffold_63_(dbseq-nr_62)_[195717,209926]... *
+>Cluster 62
+0	14206nt, >scaffold_44_(dbseq-nr_43)_[91704,105909]... *
+>Cluster 63
+0	14198nt, >scaffold_14_(dbseq-nr_13)_[294163,308360]... *
+>Cluster 64
+0	14190nt, >scaffold_496_(dbseq-nr_495)_[6861,21050]... *
+>Cluster 65
+0	14181nt, >scaffold_76_(dbseq-nr_75)_[164646,178826]... *
+>Cluster 66
+0	14176nt, >scaffold_614_(dbseq-nr_613)_[726,14901]... *
+>Cluster 67
+0	14154nt, >scaffold_104_(dbseq-nr_103)_[58603,72756]... *
+>Cluster 68
+0	14129nt, >scaffold_173_(dbseq-nr_172)_[93933,108061]... *
+>Cluster 69
+0	14127nt, >scaffold_73_(dbseq-nr_72)_[59662,73788]... *
+>Cluster 70
+0	14124nt, >scaffold_73_(dbseq-nr_72)_[34030,48153]... *
+>Cluster 71
+0	14112nt, >scaffold_87_(dbseq-nr_86)_[95329,109440]... *
+>Cluster 72
+0	14103nt, >scaffold_88_(dbseq-nr_87)_[154460,168562]... *
+>Cluster 73
+0	14090nt, >scaffold_481_(dbseq-nr_480)_[2678,16767]... *
+>Cluster 74
+0	14048nt, >scaffold_172_(dbseq-nr_171)_[48432,62479]... *
+>Cluster 75
+0	14046nt, >scaffold_37_(dbseq-nr_36)_[2208,16253]... *
+>Cluster 76
+0	14043nt, >scaffold_338_(dbseq-nr_337)_[28510,42552]... *
+>Cluster 77
+0	14039nt, >scaffold_289_(dbseq-nr_288)_[3345,17383]... *
+>Cluster 78
+0	14021nt, >scaffold_18_(dbseq-nr_17)_[69134,83154]... *
+>Cluster 79
+0	14018nt, >scaffold_1_(dbseq-nr_0)_[286764,300781]... *
+>Cluster 80
+0	14008nt, >scaffold_26_(dbseq-nr_25)_[281335,295342]... *
+>Cluster 81
+0	14008nt, >scaffold_227_(dbseq-nr_226)_[36712,50719]... *
+>Cluster 82
+0	13997nt, >scaffold_261_(dbseq-nr_260)_[36490,50486]... *
+>Cluster 83
+0	13979nt, >scaffold_185_(dbseq-nr_184)_[83609,97587]... *
+>Cluster 84
+0	13970nt, >scaffold_639_(dbseq-nr_638)_[5761,19730]... *
+>Cluster 85
+0	13940nt, >scaffold_60_(dbseq-nr_59)_[85373,99312]... *
+>Cluster 86
+0	13922nt, >scaffold_71_(dbseq-nr_70)_[3626,17547]... *
+>Cluster 87
+0	13918nt, >scaffold_95_(dbseq-nr_94)_[28165,42082]... *
+>Cluster 88
+0	13912nt, >scaffold_52_(dbseq-nr_51)_[137661,151572]... *
+>Cluster 89
+0	13891nt, >scaffold_298_(dbseq-nr_297)_[6204,20094]... *
+>Cluster 90
+0	13883nt, >scaffold_51_(dbseq-nr_50)_[15477,29359]... *
+>Cluster 91
+0	13831nt, >scaffold_60_(dbseq-nr_59)_[21169,34999]... *
+>Cluster 92
+0	13827nt, >scaffold_229_(dbseq-nr_228)_[93609,107435]... *
+>Cluster 93
+0	13811nt, >scaffold_57_(dbseq-nr_56)_[112217,126027]... *
+>Cluster 94
+0	13803nt, >scaffold_285_(dbseq-nr_284)_[65331,79133]... *
+>Cluster 95
+0	13787nt, >scaffold_17_(dbseq-nr_16)_[8775,22561]... *
+>Cluster 96
+0	13787nt, >scaffold_408_(dbseq-nr_407)_[39436,53222]... *
+>Cluster 97
+0	13763nt, >scaffold_31_(dbseq-nr_30)_[271494,285256]... *
+>Cluster 98
+0	13752nt, >scaffold_338_(dbseq-nr_337)_[58152,71903]... *
+>Cluster 99
+0	13706nt, >scaffold_462_(dbseq-nr_461)_[26018,39723]... *
+>Cluster 100
+0	13681nt, >scaffold_55_(dbseq-nr_54)_[135961,149641]... *
+>Cluster 101
+0	13674nt, >scaffold_18_(dbseq-nr_17)_[301589,315262]... *
+>Cluster 102
+0	13663nt, >scaffold_80_(dbseq-nr_79)_[178562,192224]... *
+>Cluster 103
+0	13661nt, >scaffold_196_(dbseq-nr_195)_[8919,22579]... *
+>Cluster 104
+0	13655nt, >scaffold_383_(dbseq-nr_382)_[4276,17930]... *
+>Cluster 105
+0	13624nt, >scaffold_61_(dbseq-nr_60)_[35522,49145]... *
+>Cluster 106
+0	13622nt, >scaffold_565_(dbseq-nr_564)_[5872,19493]... *
+>Cluster 107
+0	13616nt, >scaffold_181_(dbseq-nr_180)_[27667,41282]... *
+>Cluster 108
+0	13610nt, >scaffold_44_(dbseq-nr_43)_[141853,155462]... *
+>Cluster 109
+0	13610nt, >scaffold_175_(dbseq-nr_174)_[38159,51768]... *
+>Cluster 110
+0	13582nt, >scaffold_176_(dbseq-nr_175)_[33157,46738]... *
+>Cluster 111
+0	13574nt, >scaffold_7_(dbseq-nr_6)_[78681,92254]... *
+>Cluster 112
+0	13562nt, >scaffold_148_(dbseq-nr_147)_[94223,107784]... *
+>Cluster 113
+0	13508nt, >scaffold_415_(dbseq-nr_414)_[22566,36073]... *
+>Cluster 114
+0	13480nt, >scaffold_78_(dbseq-nr_77)_[158593,172072]... *
+>Cluster 115
+0	13476nt, >scaffold_164_(dbseq-nr_163)_[25956,39431]... *
+>Cluster 116
+0	13462nt, >scaffold_437_(dbseq-nr_436)_[2206,15667]... *
+>Cluster 117
+0	13451nt, >scaffold_331_(dbseq-nr_330)_[60830,74280]... *
+>Cluster 118
+0	13402nt, >scaffold_169_(dbseq-nr_168)_[60940,74341]... *
+>Cluster 119
+0	13401nt, >scaffold_10_(dbseq-nr_9)_[267943,281343]... *
+>Cluster 120
+0	13376nt, >scaffold_121_(dbseq-nr_120)_[126867,140242]... *
+>Cluster 121
+0	13375nt, >scaffold_306_(dbseq-nr_305)_[54900,68274]... *
+>Cluster 122
+0	13373nt, >scaffold_261_(dbseq-nr_260)_[77204,90576]... *
+>Cluster 123
+0	13368nt, >scaffold_53_(dbseq-nr_52)_[217365,230732]... *
+>Cluster 124
+0	13352nt, >scaffold_217_(dbseq-nr_216)_[21793,35144]... *
+>Cluster 125
+0	13341nt, >scaffold_128_(dbseq-nr_127)_[7025,20365]... *
+>Cluster 126
+0	13328nt, >scaffold_44_(dbseq-nr_43)_[171149,184476]... *
+>Cluster 127
+0	13301nt, >scaffold_388_(dbseq-nr_387)_[37716,51016]... *
+>Cluster 128
+0	13300nt, >scaffold_300_(dbseq-nr_299)_[64715,78014]... *
+>Cluster 129
+0	13289nt, >scaffold_467_(dbseq-nr_466)_[13740,27028]... *
+>Cluster 130
+0	13286nt, >scaffold_569_(dbseq-nr_568)_[7800,21085]... *
+>Cluster 131
+0	13281nt, >scaffold_495_(dbseq-nr_494)_[4769,18049]... *
+>Cluster 132
+0	13275nt, >scaffold_294_(dbseq-nr_293)_[35338,48612]... *
+>Cluster 133
+0	13265nt, >scaffold_395_(dbseq-nr_394)_[19660,32924]... *
+>Cluster 134
+0	13260nt, >scaffold_267_(dbseq-nr_266)_[60524,73783]... *
+>Cluster 135
+0	13258nt, >scaffold_109_(dbseq-nr_108)_[103880,117137]... *
+>Cluster 136
+0	13244nt, >scaffold_60_(dbseq-nr_59)_[135548,148791]... *
+>Cluster 137
+0	13230nt, >scaffold_66_(dbseq-nr_65)_[26759,39988]... *
+>Cluster 138
+0	13216nt, >scaffold_144_(dbseq-nr_143)_[114257,127472]... *
+>Cluster 139
+0	13210nt, >scaffold_492_(dbseq-nr_491)_[7987,21196]... *
+>Cluster 140
+0	13180nt, >scaffold_191_(dbseq-nr_190)_[40515,53694]... *
+>Cluster 141
+0	13174nt, >scaffold_10_(dbseq-nr_9)_[66246,79419]... *
+>Cluster 142
+0	13166nt, >scaffold_244_(dbseq-nr_243)_[6817,19982]... *
+>Cluster 143
+0	13138nt, >scaffold_348_(dbseq-nr_347)_[43664,56801]... *
+>Cluster 144
+0	13107nt, >scaffold_33_(dbseq-nr_32)_[176874,189980]... *
+>Cluster 145
+0	13072nt, >scaffold_551_(dbseq-nr_550)_[7165,20236]... *
+>Cluster 146
+0	13071nt, >scaffold_474_(dbseq-nr_473)_[28623,41693]... *
+>Cluster 147
+0	13032nt, >scaffold_32_(dbseq-nr_31)_[194802,207833]... *
+>Cluster 148
+0	13003nt, >scaffold_49_(dbseq-nr_48)_[57214,70216]... *
+>Cluster 149
+0	12988nt, >scaffold_111_(dbseq-nr_110)_[35869,48856]... *
+>Cluster 150
+0	12981nt, >scaffold_64_(dbseq-nr_63)_[102823,115803]... *
+>Cluster 151
+0	12977nt, >scaffold_67_(dbseq-nr_66)_[150839,163815]... *
+>Cluster 152
+0	12962nt, >scaffold_16_(dbseq-nr_15)_[300032,312993]... *
+>Cluster 153
+0	12952nt, >scaffold_13_(dbseq-nr_12)_[182662,195613]... *
+>Cluster 154
+0	12951nt, >scaffold_210_(dbseq-nr_209)_[43872,56822]... *
+>Cluster 155
+0	12926nt, >scaffold_168_(dbseq-nr_167)_[112449,125374]... *
+>Cluster 156
+0	12917nt, >scaffold_386_(dbseq-nr_385)_[26082,38998]... *
+>Cluster 157
+0	12850nt, >scaffold_654_(dbseq-nr_653)_[1398,14247]... *
+>Cluster 158
+0	12810nt, >scaffold_6_(dbseq-nr_5)_[89430,102239]... *
+>Cluster 159
+0	12809nt, >scaffold_66_(dbseq-nr_65)_[115055,127863]... *
+>Cluster 160
+0	12798nt, >scaffold_152_(dbseq-nr_151)_[30268,43065]... *
+>Cluster 161
+0	12765nt, >scaffold_168_(dbseq-nr_167)_[81069,93833]... *
+>Cluster 162
+0	12754nt, >scaffold_77_(dbseq-nr_76)_[51578,64331]... *
+>Cluster 163
+0	12730nt, >scaffold_31_(dbseq-nr_30)_[36643,49372]... *
+>Cluster 164
+0	12718nt, >scaffold_466_(dbseq-nr_465)_[21532,34249]... *
+>Cluster 165
+0	12699nt, >scaffold_561_(dbseq-nr_560)_[6761,19459]... *
+>Cluster 166
+0	12696nt, >scaffold_249_(dbseq-nr_248)_[46535,59230]... *
+>Cluster 167
+0	12693nt, >scaffold_50_(dbseq-nr_49)_[72408,85100]... *
+>Cluster 168
+0	12692nt, >scaffold_54_(dbseq-nr_53)_[96501,109192]... *
+>Cluster 169
+0	12667nt, >scaffold_107_(dbseq-nr_106)_[69268,81934]... *
+>Cluster 170
+0	12656nt, >scaffold_109_(dbseq-nr_108)_[45173,57828]... *
+>Cluster 171
+0	12647nt, >scaffold_114_(dbseq-nr_113)_[15012,27658]... *
+>Cluster 172
+0	12637nt, >scaffold_656_(dbseq-nr_655)_[4800,17436]... *
+>Cluster 173
+0	12636nt, >scaffold_67_(dbseq-nr_66)_[177633,190268]... *
+>Cluster 174
+0	12632nt, >scaffold_123_(dbseq-nr_122)_[106437,119068]... *
+>Cluster 175
+0	12631nt, >scaffold_231_(dbseq-nr_230)_[42779,55409]... *
+>Cluster 176
+0	12628nt, >scaffold_83_(dbseq-nr_82)_[123347,135974]... *
+>Cluster 177
+0	12625nt, >scaffold_74_(dbseq-nr_73)_[62304,74928]... *
+>Cluster 178
+0	12625nt, >scaffold_113_(dbseq-nr_112)_[25741,38365]... *
+>Cluster 179
+0	12624nt, >scaffold_69_(dbseq-nr_68)_[92629,105252]... *
+>Cluster 180
+0	12620nt, >scaffold_144_(dbseq-nr_143)_[15470,28089]... *
+>Cluster 181
+0	12609nt, >scaffold_23_(dbseq-nr_22)_[211298,223906]... *
+>Cluster 182
+0	12584nt, >scaffold_31_(dbseq-nr_30)_[154881,167464]... *
+>Cluster 183
+0	12573nt, >scaffold_58_(dbseq-nr_57)_[76230,88802]... *
+>Cluster 184
+0	12523nt, >scaffold_260_(dbseq-nr_259)_[43550,56072]... *
+>Cluster 185
+0	12507nt, >scaffold_119_(dbseq-nr_118)_[130390,142896]... *
+>Cluster 186
+0	12503nt, >scaffold_341_(dbseq-nr_340)_[4172,16674]... *
+>Cluster 187
+0	12503nt, >scaffold_659_(dbseq-nr_658)_[4401,16903]... *
+>Cluster 188
+0	12491nt, >scaffold_203_(dbseq-nr_202)_[106580,119070]... *
+>Cluster 189
+0	12488nt, >scaffold_453_(dbseq-nr_452)_[112,12599]... *
+>Cluster 190
+0	12472nt, >scaffold_147_(dbseq-nr_146)_[44991,57462]... *
+>Cluster 191
+0	12470nt, >scaffold_63_(dbseq-nr_62)_[132680,145149]... *
+>Cluster 192
+0	12434nt, >scaffold_187_(dbseq-nr_186)_[24429,36862]... *
+>Cluster 193
+0	12429nt, >scaffold_159_(dbseq-nr_158)_[96277,108705]... *
+>Cluster 194
+0	12424nt, >scaffold_206_(dbseq-nr_205)_[42860,55283]... *
+>Cluster 195
+0	12414nt, >scaffold_25_(dbseq-nr_24)_[61468,73881]... *
+>Cluster 196
+0	12413nt, >scaffold_255_(dbseq-nr_254)_[17268,29680]... *
+>Cluster 197
+0	12341nt, >scaffold_40_(dbseq-nr_39)_[27434,39774]... *
+>Cluster 198
+0	12341nt, >scaffold_357_(dbseq-nr_356)_[22490,34830]... *
+>Cluster 199
+0	12339nt, >scaffold_35_(dbseq-nr_34)_[123031,135369]... *
+>Cluster 200
+0	12333nt, >scaffold_30_(dbseq-nr_29)_[2151,14483]... *
+>Cluster 201
+0	12327nt, >scaffold_244_(dbseq-nr_243)_[51443,63769]... *
+>Cluster 202
+0	12305nt, >scaffold_414_(dbseq-nr_413)_[42776,55080]... *
+>Cluster 203
+0	12299nt, >scaffold_26_(dbseq-nr_25)_[59223,71521]... *
+>Cluster 204
+0	12285nt, >scaffold_2_(dbseq-nr_1)_[276353,288637]... *
+>Cluster 205
+0	12285nt, >scaffold_66_(dbseq-nr_65)_[44920,57204]... *
+>Cluster 206
+0	12284nt, >scaffold_89_(dbseq-nr_88)_[4177,16460]... *
+>Cluster 207
+0	12271nt, >scaffold_4_(dbseq-nr_3)_[314442,326712]... *
+>Cluster 208
+0	12262nt, >scaffold_160_(dbseq-nr_159)_[73159,85420]... *
+>Cluster 209
+0	12258nt, >scaffold_298_(dbseq-nr_297)_[23835,36092]... *
+>Cluster 210
+0	12253nt, >scaffold_37_(dbseq-nr_36)_[239602,251854]... *
+>Cluster 211
+0	12243nt, >scaffold_384_(dbseq-nr_383)_[46659,58901]... *
+>Cluster 212
+0	12242nt, >scaffold_405_(dbseq-nr_404)_[2248,14489]... *
+>Cluster 213
+0	12236nt, >scaffold_706_(dbseq-nr_705)_[483,12718]... *
+>Cluster 214
+0	12229nt, >scaffold_122_(dbseq-nr_121)_[83887,96115]... *
+>Cluster 215
+0	12217nt, >scaffold_155_(dbseq-nr_154)_[115622,127838]... *
+>Cluster 216
+0	12187nt, >scaffold_8_(dbseq-nr_7)_[36340,48526]... *
+>Cluster 217
+0	12187nt, >scaffold_25_(dbseq-nr_24)_[311088,323274]... *
+>Cluster 218
+0	12175nt, >scaffold_185_(dbseq-nr_184)_[8812,20986]... *
+>Cluster 219
+0	12172nt, >scaffold_215_(dbseq-nr_214)_[4477,16648]... *
+>Cluster 220
+0	12144nt, >scaffold_121_(dbseq-nr_120)_[39678,51821]... *
+>Cluster 221
+0	12139nt, >scaffold_459_(dbseq-nr_458)_[9149,21287]... *
+>Cluster 222
+0	12130nt, >scaffold_240_(dbseq-nr_239)_[7150,19279]... *
+>Cluster 223
+0	12124nt, >scaffold_75_(dbseq-nr_74)_[146475,158598]... *
+>Cluster 224
+0	12114nt, >scaffold_148_(dbseq-nr_147)_[50870,62983]... *
+>Cluster 225
+0	12096nt, >scaffold_484_(dbseq-nr_483)_[14407,26502]... *
+>Cluster 226
+0	12094nt, >scaffold_205_(dbseq-nr_204)_[105434,117527]... *
+>Cluster 227
+0	12076nt, >scaffold_321_(dbseq-nr_320)_[42573,54648]... *
+>Cluster 228
+0	12072nt, >scaffold_34_(dbseq-nr_33)_[64105,76176]... *
+>Cluster 229
+0	12067nt, >scaffold_141_(dbseq-nr_140)_[90871,102937]... *
+>Cluster 230
+0	12060nt, >scaffold_83_(dbseq-nr_82)_[182846,194905]... *
+>Cluster 231
+0	12057nt, >scaffold_226_(dbseq-nr_225)_[3497,15553]... *
+>Cluster 232
+0	12018nt, >scaffold_229_(dbseq-nr_228)_[32182,44199]... *
+>Cluster 233
+0	11983nt, >scaffold_559_(dbseq-nr_558)_[1777,13759]... *
+>Cluster 234
+0	11975nt, >scaffold_53_(dbseq-nr_52)_[82326,94300]... *
+>Cluster 235
+0	11975nt, >scaffold_104_(dbseq-nr_103)_[101402,113376]... *
+>Cluster 236
+0	11972nt, >scaffold_436_(dbseq-nr_435)_[34194,46165]... *
+>Cluster 237
+0	11970nt, >scaffold_377_(dbseq-nr_376)_[51312,63281]... *
+>Cluster 238
+0	11947nt, >scaffold_192_(dbseq-nr_191)_[56858,68804]... *
+>Cluster 239
+0	11927nt, >scaffold_190_(dbseq-nr_189)_[53916,65842]... *
+>Cluster 240
+0	11921nt, >scaffold_189_(dbseq-nr_188)_[46753,58673]... *
+>Cluster 241
+0	11902nt, >scaffold_374_(dbseq-nr_373)_[48183,60084]... *
+>Cluster 242
+0	11883nt, >scaffold_220_(dbseq-nr_219)_[2954,14836]... *
+>Cluster 243
+0	11881nt, >scaffold_256_(dbseq-nr_255)_[88417,100297]... *
+>Cluster 244
+0	11873nt, >scaffold_30_(dbseq-nr_29)_[138355,150227]... *
+>Cluster 245
+0	11861nt, >scaffold_435_(dbseq-nr_434)_[29595,41455]... *
+>Cluster 246
+0	11830nt, >scaffold_168_(dbseq-nr_167)_[45692,57521]... *
+>Cluster 247
+0	11825nt, >scaffold_11_(dbseq-nr_10)_[188770,200594]... *
+>Cluster 248
+0	11806nt, >scaffold_20_(dbseq-nr_19)_[998,12803]... *
+>Cluster 249
+0	11764nt, >scaffold_38_(dbseq-nr_37)_[174465,186228]... *
+>Cluster 250
+0	11763nt, >scaffold_75_(dbseq-nr_74)_[106773,118535]... *
+>Cluster 251
+0	11758nt, >scaffold_30_(dbseq-nr_29)_[278280,290037]... *
+>Cluster 252
+0	11756nt, >scaffold_84_(dbseq-nr_83)_[60898,72653]... *
+>Cluster 253
+0	11731nt, >scaffold_563_(dbseq-nr_562)_[12489,24219]... *
+>Cluster 254
+0	11729nt, >scaffold_86_(dbseq-nr_85)_[15861,27589]... *
+>Cluster 255
+0	11717nt, >scaffold_95_(dbseq-nr_94)_[96210,107926]... *
+>Cluster 256
+0	11715nt, >scaffold_28_(dbseq-nr_27)_[69574,81288]... *
+>Cluster 257
+0	11712nt, >scaffold_41_(dbseq-nr_40)_[42949,54660]... *
+>Cluster 258
+0	11710nt, >scaffold_4_(dbseq-nr_3)_[201558,213267]... *
+>Cluster 259
+0	11685nt, >scaffold_327_(dbseq-nr_326)_[51417,63101]... *
+>Cluster 260
+0	11674nt, >scaffold_495_(dbseq-nr_494)_[29939,41612]... *
+>Cluster 261
+0	11647nt, >scaffold_405_(dbseq-nr_404)_[23729,35375]... *
+>Cluster 262
+0	11642nt, >scaffold_135_(dbseq-nr_134)_[135134,146775]... *
+>Cluster 263
+0	11638nt, >scaffold_307_(dbseq-nr_306)_[10034,21671]... *
+>Cluster 264
+0	11628nt, >scaffold_215_(dbseq-nr_214)_[98413,110040]... *
+>Cluster 265
+0	11624nt, >scaffold_110_(dbseq-nr_109)_[96309,107932]... *
+>Cluster 266
+0	11602nt, >scaffold_26_(dbseq-nr_25)_[198712,210313]... *
+>Cluster 267
+0	11598nt, >scaffold_133_(dbseq-nr_132)_[15093,26690]... *
+>Cluster 268
+0	11585nt, >scaffold_29_(dbseq-nr_28)_[987,12571]... *
+>Cluster 269
+0	11585nt, >scaffold_402_(dbseq-nr_401)_[46236,57820]... *
+>Cluster 270
+0	11584nt, >scaffold_419_(dbseq-nr_418)_[3926,15509]... *
+>Cluster 271
+0	11575nt, >scaffold_9_(dbseq-nr_8)_[135204,146778]... *
+>Cluster 272
+0	11555nt, >scaffold_234_(dbseq-nr_233)_[85308,96862]... *
+>Cluster 273
+0	11549nt, >scaffold_295_(dbseq-nr_294)_[65942,77490]... *
+>Cluster 274
+0	11533nt, >scaffold_476_(dbseq-nr_475)_[1166,12698]... *
+>Cluster 275
+0	11518nt, >scaffold_265_(dbseq-nr_264)_[8500,20017]... *
+>Cluster 276
+0	11514nt, >scaffold_262_(dbseq-nr_261)_[69717,81230]... *
+>Cluster 277
+0	11494nt, >scaffold_11_(dbseq-nr_10)_[261979,273472]... *
+>Cluster 278
+0	11472nt, >scaffold_17_(dbseq-nr_16)_[192279,203750]... *
+>Cluster 279
+0	11468nt, >scaffold_433_(dbseq-nr_432)_[40105,51572]... *
+>Cluster 280
+0	11464nt, >scaffold_244_(dbseq-nr_243)_[94254,105717]... *
+>Cluster 281
+0	11462nt, >scaffold_39_(dbseq-nr_38)_[105981,117442]... *
+>Cluster 282
+0	11433nt, >scaffold_37_(dbseq-nr_36)_[149658,161090]... *
+>Cluster 283
+0	11380nt, >scaffold_127_(dbseq-nr_126)_[138968,150347]... *
+>Cluster 284
+0	11375nt, >scaffold_4_(dbseq-nr_3)_[255192,266566]... *
+>Cluster 285
+0	11370nt, >scaffold_143_(dbseq-nr_142)_[537,11906]... *
+>Cluster 286
+0	11345nt, >scaffold_107_(dbseq-nr_106)_[136230,147574]... *
+>Cluster 287
+0	11339nt, >scaffold_71_(dbseq-nr_70)_[172697,184035]... *
+>Cluster 288
+0	11320nt, >scaffold_27_(dbseq-nr_26)_[185500,196819]... *
+>Cluster 289
+0	11304nt, >scaffold_573_(dbseq-nr_572)_[12511,23814]... *
+>Cluster 290
+0	11295nt, >scaffold_410_(dbseq-nr_409)_[45432,56726]... *
+>Cluster 291
+0	11286nt, >scaffold_332_(dbseq-nr_331)_[67549,78834]... *
+>Cluster 292
+0	11285nt, >scaffold_213_(dbseq-nr_212)_[38476,49760]... *
+>Cluster 293
+0	11269nt, >scaffold_280_(dbseq-nr_279)_[5449,16717]... *
+>Cluster 294
+0	11254nt, >scaffold_334_(dbseq-nr_333)_[38349,49602]... *
+>Cluster 295
+0	11252nt, >scaffold_367_(dbseq-nr_366)_[13119,24370]... *
+>Cluster 296
+0	11238nt, >scaffold_1_(dbseq-nr_0)_[486854,498091]... *
+>Cluster 297
+0	11236nt, >scaffold_703_(dbseq-nr_702)_[1874,13109]... *
+>Cluster 298
+0	11234nt, >scaffold_34_(dbseq-nr_33)_[243701,254934]... *
+>Cluster 299
+0	11232nt, >scaffold_116_(dbseq-nr_115)_[134979,146210]... *
+>Cluster 300
+0	11211nt, >scaffold_1_(dbseq-nr_0)_[140659,151869]... *
+>Cluster 301
+0	11211nt, >scaffold_73_(dbseq-nr_72)_[147437,158647]... *
+>Cluster 302
+0	11208nt, >scaffold_397_(dbseq-nr_396)_[26396,37603]... *
+>Cluster 303
+0	11199nt, >scaffold_247_(dbseq-nr_246)_[3155,14353]... *
+>Cluster 304
+0	11196nt, >scaffold_134_(dbseq-nr_133)_[30357,41552]... *
+>Cluster 305
+0	11187nt, >scaffold_252_(dbseq-nr_251)_[57554,68740]... *
+>Cluster 306
+0	11181nt, >scaffold_121_(dbseq-nr_120)_[75794,86974]... *
+>Cluster 307
+0	11172nt, >scaffold_71_(dbseq-nr_70)_[32302,43473]... *
+>Cluster 308
+0	11169nt, >scaffold_56_(dbseq-nr_55)_[48814,59982]... *
+>Cluster 309
+0	11165nt, >scaffold_319_(dbseq-nr_318)_[5,11169]... *
+>Cluster 310
+0	11161nt, >scaffold_109_(dbseq-nr_108)_[1668,12828]... *
+>Cluster 311
+0	11118nt, >scaffold_554_(dbseq-nr_553)_[6736,17853]... *
+>Cluster 312
+0	11112nt, >scaffold_699_(dbseq-nr_698)_[2886,13997]... *
+>Cluster 313
+0	11109nt, >scaffold_22_(dbseq-nr_21)_[319576,330684]... *
+>Cluster 314
+0	11077nt, >scaffold_236_(dbseq-nr_235)_[36197,47273]... *
+>Cluster 315
+0	11067nt, >scaffold_137_(dbseq-nr_136)_[1745,12811]... *
+>Cluster 316
+0	11052nt, >scaffold_32_(dbseq-nr_31)_[274696,285747]... *
+>Cluster 317
+0	11043nt, >scaffold_110_(dbseq-nr_109)_[65422,76464]... *
+>Cluster 318
+0	11038nt, >scaffold_264_(dbseq-nr_263)_[84975,96012]... *
+>Cluster 319
+0	11021nt, >scaffold_1_(dbseq-nr_0)_[11733,22753]... *
+>Cluster 320
+0	11016nt, >scaffold_48_(dbseq-nr_47)_[41152,52167]... *
+>Cluster 321
+0	11012nt, >scaffold_197_(dbseq-nr_196)_[62256,73267]... *
+>Cluster 322
+0	11009nt, >scaffold_11_(dbseq-nr_10)_[150918,161926]... *
+>Cluster 323
+0	11000nt, >scaffold_128_(dbseq-nr_127)_[62850,73849]... *
+>Cluster 324
+0	10983nt, >scaffold_179_(dbseq-nr_178)_[33813,44795]... *
+>Cluster 325
+0	10974nt, >scaffold_29_(dbseq-nr_28)_[161045,172018]... *
+>Cluster 326
+0	10956nt, >scaffold_531_(dbseq-nr_530)_[22117,33072]... *
+>Cluster 327
+0	10941nt, >scaffold_114_(dbseq-nr_113)_[117896,128836]... *
+>Cluster 328
+0	10941nt, >scaffold_276_(dbseq-nr_275)_[61062,72002]... *
+>Cluster 329
+0	10900nt, >scaffold_321_(dbseq-nr_320)_[4966,15865]... *
+>Cluster 330
+0	10882nt, >scaffold_435_(dbseq-nr_434)_[5200,16081]... *
+>Cluster 331
+0	10872nt, >scaffold_194_(dbseq-nr_193)_[100130,111001]... *
+>Cluster 332
+0	10867nt, >scaffold_232_(dbseq-nr_231)_[71469,82335]... *
+>Cluster 333
+0	10855nt, >scaffold_270_(dbseq-nr_269)_[25643,36497]... *
+>Cluster 334
+0	10851nt, >scaffold_2_(dbseq-nr_1)_[165500,176350]... *
+>Cluster 335
+0	10844nt, >scaffold_78_(dbseq-nr_77)_[12696,23539]... *
+>Cluster 336
+0	10841nt, >scaffold_13_(dbseq-nr_12)_[59527,70367]... *
+>Cluster 337
+0	10840nt, >scaffold_18_(dbseq-nr_17)_[210445,221284]... *
+>Cluster 338
+0	10823nt, >scaffold_47_(dbseq-nr_46)_[3743,14565]... *
+>Cluster 339
+0	10815nt, >scaffold_16_(dbseq-nr_15)_[317701,328515]... *
+>Cluster 340
+0	10797nt, >scaffold_394_(dbseq-nr_393)_[48460,59256]... *
+>Cluster 341
+0	10795nt, >scaffold_27_(dbseq-nr_26)_[51510,62304]... *
+>Cluster 342
+0	10785nt, >scaffold_365_(dbseq-nr_364)_[57144,67928]... *
+>Cluster 343
+0	10783nt, >scaffold_91_(dbseq-nr_90)_[140540,151322]... *
+>Cluster 344
+0	10772nt, >scaffold_353_(dbseq-nr_352)_[19733,30504]... *
+>Cluster 345
+0	10768nt, >scaffold_118_(dbseq-nr_117)_[129596,140363]... *
+>Cluster 346
+0	10751nt, >scaffold_8_(dbseq-nr_7)_[263570,274320]... *
+>Cluster 347
+0	10751nt, >scaffold_311_(dbseq-nr_310)_[49912,60662]... *
+>Cluster 348
+0	10738nt, >scaffold_222_(dbseq-nr_221)_[70814,81551]... *
+>Cluster 349
+0	10707nt, >scaffold_399_(dbseq-nr_398)_[32895,43601]... *
+>Cluster 350
+0	10691nt, >scaffold_6_(dbseq-nr_5)_[342658,353348]... *
+>Cluster 351
+0	10686nt, >scaffold_237_(dbseq-nr_236)_[38569,49254]... *
+>Cluster 352
+0	10685nt, >scaffold_91_(dbseq-nr_90)_[94859,105543]... *
+>Cluster 353
+0	10679nt, >scaffold_42_(dbseq-nr_41)_[8368,19046]... *
+>Cluster 354
+0	10675nt, >scaffold_141_(dbseq-nr_140)_[19216,29890]... *
+>Cluster 355
+0	10649nt, >scaffold_14_(dbseq-nr_13)_[173530,184178]... *
+>Cluster 356
+0	10618nt, >scaffold_542_(dbseq-nr_541)_[19683,30300]... *
+>Cluster 357
+0	10615nt, >scaffold_53_(dbseq-nr_52)_[169016,179630]... *
+>Cluster 358
+0	10595nt, >scaffold_171_(dbseq-nr_170)_[1188,11782]... *
+>Cluster 359
+0	10583nt, >scaffold_164_(dbseq-nr_163)_[45817,56399]... *
+>Cluster 360
+0	10550nt, >scaffold_4_(dbseq-nr_3)_[89921,100470]... *
+>Cluster 361
+0	10548nt, >scaffold_62_(dbseq-nr_61)_[132680,143227]... *
+>Cluster 362
+0	10535nt, >scaffold_337_(dbseq-nr_336)_[65649,76183]... *
+>Cluster 363
+0	10522nt, >scaffold_5_(dbseq-nr_4)_[252392,262913]... *
+>Cluster 364
+0	10509nt, >scaffold_23_(dbseq-nr_22)_[83147,93655]... *
+>Cluster 365
+0	10509nt, >scaffold_228_(dbseq-nr_227)_[53646,64154]... *
+>Cluster 366
+0	10501nt, >scaffold_10_(dbseq-nr_9)_[204118,214618]... *
+>Cluster 367
+0	10498nt, >scaffold_37_(dbseq-nr_36)_[120023,130520]... *
+>Cluster 368
+0	10488nt, >scaffold_287_(dbseq-nr_286)_[88,10575]... *
+>Cluster 369
+0	10466nt, >scaffold_521_(dbseq-nr_520)_[511,10976]... *
+>Cluster 370
+0	10448nt, >scaffold_427_(dbseq-nr_426)_[2732,13179]... *
+>Cluster 371
+0	10437nt, >scaffold_58_(dbseq-nr_57)_[161363,171799]... *
+>Cluster 372
+0	10436nt, >scaffold_31_(dbseq-nr_30)_[21869,32304]... *
+>Cluster 373
+0	10429nt, >scaffold_672_(dbseq-nr_671)_[5955,16383]... *
+>Cluster 374
+0	10416nt, >scaffold_5_(dbseq-nr_4)_[346733,357148]... *
+>Cluster 375
+0	10413nt, >scaffold_107_(dbseq-nr_106)_[49731,60143]... *
+>Cluster 376
+0	10401nt, >scaffold_429_(dbseq-nr_428)_[7904,18304]... *
+>Cluster 377
+0	10396nt, >scaffold_392_(dbseq-nr_391)_[20476,30871]... *
+>Cluster 378
+0	10342nt, >scaffold_110_(dbseq-nr_109)_[21352,31693]... *
+>Cluster 379
+0	10340nt, >scaffold_59_(dbseq-nr_58)_[113984,124323]... *
+>Cluster 380
+0	10334nt, >scaffold_41_(dbseq-nr_40)_[242119,252452]... *
+>Cluster 381
+0	10325nt, >scaffold_570_(dbseq-nr_569)_[14788,25112]... *
+>Cluster 382
+0	10322nt, >scaffold_20_(dbseq-nr_19)_[149518,159839]... *
+>Cluster 383
+0	10320nt, >scaffold_629_(dbseq-nr_628)_[2367,12686]... *
+>Cluster 384
+0	10290nt, >scaffold_487_(dbseq-nr_486)_[15558,25847]... *
+>Cluster 385
+0	10286nt, >scaffold_70_(dbseq-nr_69)_[5945,16230]... *
+>Cluster 386
+0	10272nt, >scaffold_218_(dbseq-nr_217)_[60497,70768]... *
+>Cluster 387
+0	10260nt, >scaffold_52_(dbseq-nr_51)_[100585,110844]... *
+>Cluster 388
+0	10259nt, >scaffold_671_(dbseq-nr_670)_[3471,13729]... *
+>Cluster 389
+0	10258nt, >scaffold_43_(dbseq-nr_42)_[105126,115383]... *
+>Cluster 390
+0	10244nt, >scaffold_91_(dbseq-nr_90)_[80926,91169]... *
+>Cluster 391
+0	10241nt, >scaffold_344_(dbseq-nr_343)_[59334,69574]... *
+>Cluster 392
+0	10230nt, >scaffold_31_(dbseq-nr_30)_[239618,249847]... *
+>Cluster 393
+0	10228nt, >scaffold_428_(dbseq-nr_427)_[32102,42329]... *
+>Cluster 394
+0	10217nt, >scaffold_124_(dbseq-nr_123)_[30910,41126]... *
+>Cluster 395
+0	10216nt, >scaffold_589_(dbseq-nr_588)_[14762,24977]... *
+>Cluster 396
+0	10214nt, >scaffold_710_(dbseq-nr_709)_[1285,11498]... *
+>Cluster 397
+0	10206nt, >scaffold_129_(dbseq-nr_128)_[65344,75549]... *
+>Cluster 398
+0	10201nt, >scaffold_215_(dbseq-nr_214)_[27112,37312]... *
+>Cluster 399
+0	10200nt, >scaffold_245_(dbseq-nr_244)_[52106,62305]... *
+>Cluster 400
+0	10194nt, >scaffold_420_(dbseq-nr_419)_[1191,11384]... *
+>Cluster 401
+0	10183nt, >scaffold_332_(dbseq-nr_331)_[29478,39660]... *
+>Cluster 402
+0	10166nt, >scaffold_290_(dbseq-nr_289)_[66629,76794]... *
+>Cluster 403
+0	10139nt, >scaffold_79_(dbseq-nr_78)_[86635,96773]... *
+>Cluster 404
+0	10109nt, >scaffold_203_(dbseq-nr_202)_[1178,11286]... *
+>Cluster 405
+0	10108nt, >scaffold_134_(dbseq-nr_133)_[57382,67489]... *
+>Cluster 406
+0	10102nt, >scaffold_1_(dbseq-nr_0)_[433224,443325]... *
+>Cluster 407
+0	10098nt, >scaffold_193_(dbseq-nr_192)_[51215,61312]... *
+>Cluster 408
+0	10078nt, >scaffold_243_(dbseq-nr_242)_[11782,21859]... *
+>Cluster 409
+0	10066nt, >scaffold_23_(dbseq-nr_22)_[301581,311646]... *
+>Cluster 410
+0	10065nt, >scaffold_61_(dbseq-nr_60)_[8060,18124]... *
+>Cluster 411
+0	10055nt, >scaffold_188_(dbseq-nr_187)_[16759,26813]... *
+>Cluster 412
+0	10054nt, >scaffold_209_(dbseq-nr_208)_[16338,26391]... *
+>Cluster 413
+0	10050nt, >scaffold_5_(dbseq-nr_4)_[232119,242168]... *
+>Cluster 414
+0	10045nt, >scaffold_201_(dbseq-nr_200)_[33632,43676]... *
+>Cluster 415
+0	10033nt, >scaffold_151_(dbseq-nr_150)_[64165,74197]... *
+>Cluster 416
+0	10015nt, >scaffold_358_(dbseq-nr_357)_[44017,54031]... *
+>Cluster 417
+0	10008nt, >scaffold_393_(dbseq-nr_392)_[21941,31948]... *
+>Cluster 418
+0	9983nt, >scaffold_485_(dbseq-nr_484)_[30969,40951]... *
+>Cluster 419
+0	9969nt, >scaffold_71_(dbseq-nr_70)_[134315,144283]... *
+>Cluster 420
+0	9949nt, >scaffold_112_(dbseq-nr_111)_[142828,152776]... *
+>Cluster 421
+0	9941nt, >scaffold_413_(dbseq-nr_412)_[11704,21644]... *
+>Cluster 422
+0	9938nt, >scaffold_33_(dbseq-nr_32)_[20819,30756]... *
+>Cluster 423
+0	9920nt, >scaffold_23_(dbseq-nr_22)_[146133,156052]... *
+>Cluster 424
+0	9902nt, >scaffold_8_(dbseq-nr_7)_[335426,345327]... *
+>Cluster 425
+0	9901nt, >scaffold_5_(dbseq-nr_4)_[32578,42478]... *
+>Cluster 426
+0	9895nt, >scaffold_12_(dbseq-nr_11)_[98721,108615]... *
+>Cluster 427
+0	9890nt, >scaffold_396_(dbseq-nr_395)_[29309,39198]... *
+>Cluster 428
+0	9887nt, >scaffold_108_(dbseq-nr_107)_[158714,168600]... *
+>Cluster 429
+0	9871nt, >scaffold_115_(dbseq-nr_114)_[106167,116037]... *
+>Cluster 430
+0	9863nt, >scaffold_70_(dbseq-nr_69)_[40755,50617]... *
+>Cluster 431
+0	9850nt, >scaffold_21_(dbseq-nr_20)_[285999,295848]... *
+>Cluster 432
+0	9843nt, >scaffold_420_(dbseq-nr_419)_[33856,43698]... *
+>Cluster 433
+0	9840nt, >scaffold_148_(dbseq-nr_147)_[21760,31599]... *
+>Cluster 434
+0	9839nt, >scaffold_13_(dbseq-nr_12)_[128162,138000]... *
+>Cluster 435
+0	9809nt, >scaffold_236_(dbseq-nr_235)_[9283,19091]... *
+>Cluster 436
+0	9799nt, >scaffold_101_(dbseq-nr_100)_[8534,18332]... *
+>Cluster 437
+0	9790nt, >scaffold_20_(dbseq-nr_19)_[180405,190194]... *
+>Cluster 438
+0	9786nt, >scaffold_96_(dbseq-nr_95)_[143238,153023]... *
+>Cluster 439
+0	9784nt, >scaffold_294_(dbseq-nr_293)_[64929,74712]... *
+>Cluster 440
+0	9767nt, >scaffold_440_(dbseq-nr_439)_[10960,20726]... *
+>Cluster 441
+0	9758nt, >scaffold_199_(dbseq-nr_198)_[67967,77724]... *
+>Cluster 442
+0	9753nt, >scaffold_148_(dbseq-nr_147)_[34152,43904]... *
+>Cluster 443
+0	9752nt, >scaffold_580_(dbseq-nr_579)_[3978,13729]... *
+>Cluster 444
+0	9751nt, >scaffold_140_(dbseq-nr_139)_[83203,92953]... *
+>Cluster 445
+0	9745nt, >scaffold_212_(dbseq-nr_211)_[3418,13162]... *
+>Cluster 446
+0	9745nt, >scaffold_283_(dbseq-nr_282)_[3054,12798]... *
+>Cluster 447
+0	9714nt, >scaffold_24_(dbseq-nr_23)_[268359,278072]... *
+>Cluster 448
+0	9710nt, >scaffold_509_(dbseq-nr_508)_[22853,32562]... *
+>Cluster 449
+0	9710nt, >scaffold_567_(dbseq-nr_566)_[3896,13605]... *
+>Cluster 450
+0	9709nt, >scaffold_221_(dbseq-nr_220)_[16030,25738]... *
+>Cluster 451
+0	9679nt, >scaffold_6_(dbseq-nr_5)_[109976,119654]... *
+>Cluster 452
+0	9673nt, >scaffold_306_(dbseq-nr_305)_[3089,12761]... *
+>Cluster 453
+0	9671nt, >scaffold_31_(dbseq-nr_30)_[71736,81406]... *
+>Cluster 454
+0	9654nt, >scaffold_117_(dbseq-nr_116)_[18961,28614]... *
+>Cluster 455
+0	9644nt, >scaffold_96_(dbseq-nr_95)_[169470,179113]... *
+>Cluster 456
+0	9642nt, >scaffold_112_(dbseq-nr_111)_[122933,132574]... *
+>Cluster 457
+0	9642nt, >scaffold_344_(dbseq-nr_343)_[35634,45275]... *
+>Cluster 458
+0	9628nt, >scaffold_371_(dbseq-nr_370)_[28493,38120]... *
+>Cluster 459
+0	9618nt, >scaffold_204_(dbseq-nr_203)_[26449,36066]... *
+>Cluster 460
+0	9606nt, >scaffold_74_(dbseq-nr_73)_[116497,126102]... *
+>Cluster 461
+0	9597nt, >scaffold_62_(dbseq-nr_61)_[122411,132007]... *
+>Cluster 462
+0	9582nt, >scaffold_179_(dbseq-nr_178)_[107251,116832]... *
+>Cluster 463
+0	9579nt, >scaffold_397_(dbseq-nr_396)_[5072,14650]... *
+>Cluster 464
+0	9572nt, >scaffold_502_(dbseq-nr_501)_[20010,29581]... *
+>Cluster 465
+0	9565nt, >scaffold_54_(dbseq-nr_53)_[153319,162883]... *
+>Cluster 466
+0	9553nt, >scaffold_9_(dbseq-nr_8)_[8468,18020]... *
+>Cluster 467
+0	9542nt, >scaffold_359_(dbseq-nr_358)_[34937,44478]... *
+>Cluster 468
+0	9536nt, >scaffold_61_(dbseq-nr_60)_[152092,161627]... *
+>Cluster 469
+0	9513nt, >scaffold_28_(dbseq-nr_27)_[3359,12871]... *
+>Cluster 470
+0	9509nt, >scaffold_412_(dbseq-nr_411)_[45137,54645]... *
+>Cluster 471
+0	9501nt, >scaffold_7_(dbseq-nr_6)_[269124,278624]... *
+>Cluster 472
+0	9494nt, >scaffold_391_(dbseq-nr_390)_[44259,53752]... *
+>Cluster 473
+0	9483nt, >scaffold_153_(dbseq-nr_152)_[91447,100929]... *
+>Cluster 474
+0	9482nt, >scaffold_193_(dbseq-nr_192)_[24282,33763]... *
+>Cluster 475
+0	9474nt, >scaffold_482_(dbseq-nr_481)_[16942,26415]... *
+>Cluster 476
+0	9461nt, >scaffold_52_(dbseq-nr_51)_[42372,51832]... *
+>Cluster 477
+0	9460nt, >scaffold_418_(dbseq-nr_417)_[23466,32925]... *
+>Cluster 478
+0	9447nt, >scaffold_29_(dbseq-nr_28)_[74096,83542]... *
+>Cluster 479
+0	9427nt, >scaffold_16_(dbseq-nr_15)_[91108,100534]... *
+>Cluster 480
+0	9402nt, >scaffold_277_(dbseq-nr_276)_[76540,85941]... *
+>Cluster 481
+0	9400nt, >scaffold_324_(dbseq-nr_323)_[2277,11676]... *
+>Cluster 482
+0	9386nt, >scaffold_21_(dbseq-nr_20)_[209233,218618]... *
+>Cluster 483
+0	9385nt, >scaffold_214_(dbseq-nr_213)_[64985,74369]... *
+>Cluster 484
+0	9366nt, >scaffold_78_(dbseq-nr_77)_[130418,139783]... *
+>Cluster 485
+0	9355nt, >scaffold_98_(dbseq-nr_97)_[154161,163515]... *
+>Cluster 486
+0	9350nt, >scaffold_248_(dbseq-nr_247)_[55837,65186]... *
+>Cluster 487
+0	9342nt, >scaffold_386_(dbseq-nr_385)_[333,9674]... *
+>Cluster 488
+0	9314nt, >scaffold_277_(dbseq-nr_276)_[14392,23705]... *
+>Cluster 489
+0	9300nt, >scaffold_62_(dbseq-nr_61)_[65112,74411]... *
+>Cluster 490
+0	9285nt, >scaffold_120_(dbseq-nr_119)_[105290,114574]... *
+>Cluster 491
+0	9275nt, >scaffold_345_(dbseq-nr_344)_[6572,15846]... *
+>Cluster 492
+0	9273nt, >scaffold_12_(dbseq-nr_11)_[71756,81028]... *
+>Cluster 493
+0	9270nt, >scaffold_611_(dbseq-nr_610)_[1302,10571]... *
+>Cluster 494
+0	9261nt, >scaffold_340_(dbseq-nr_339)_[27874,37134]... *
+>Cluster 495
+0	9260nt, >scaffold_39_(dbseq-nr_38)_[198778,208037]... *
+>Cluster 496
+0	9231nt, >scaffold_455_(dbseq-nr_454)_[23242,32472]... *
+>Cluster 497
+0	9224nt, >scaffold_53_(dbseq-nr_52)_[49072,58295]... *
+>Cluster 498
+0	9213nt, >scaffold_79_(dbseq-nr_78)_[42308,51520]... *
+>Cluster 499
+0	9210nt, >scaffold_590_(dbseq-nr_589)_[16743,25952]... *
+>Cluster 500
+0	9209nt, >scaffold_48_(dbseq-nr_47)_[132777,141985]... *
+>Cluster 501
+0	9188nt, >scaffold_50_(dbseq-nr_49)_[200172,209359]... *
+>Cluster 502
+0	9178nt, >scaffold_130_(dbseq-nr_129)_[73280,82457]... *
+>Cluster 503
+0	9177nt, >scaffold_178_(dbseq-nr_177)_[69403,78579]... *
+>Cluster 504
+0	9169nt, >scaffold_427_(dbseq-nr_426)_[41561,50729]... *
+>Cluster 505
+0	9162nt, >scaffold_92_(dbseq-nr_91)_[110485,119646]... *
+>Cluster 506
+0	9132nt, >scaffold_143_(dbseq-nr_142)_[60860,69991]... *
+>Cluster 507
+0	9102nt, >scaffold_45_(dbseq-nr_44)_[156948,166049]... *
+>Cluster 508
+0	9099nt, >scaffold_316_(dbseq-nr_315)_[66070,75168]... *
+>Cluster 509
+0	9097nt, >scaffold_78_(dbseq-nr_77)_[46776,55872]... *
+>Cluster 510
+0	9094nt, >scaffold_90_(dbseq-nr_89)_[73937,83030]... *
+>Cluster 511
+0	9086nt, >scaffold_163_(dbseq-nr_162)_[87551,96636]... *
+>Cluster 512
+0	9075nt, >scaffold_368_(dbseq-nr_367)_[24965,34039]... *
+>Cluster 513
+0	9053nt, >scaffold_50_(dbseq-nr_49)_[34922,43974]... *
+>Cluster 514
+0	9048nt, >scaffold_27_(dbseq-nr_26)_[172102,181149]... *
+>Cluster 515
+0	9030nt, >scaffold_28_(dbseq-nr_27)_[211336,220365]... *
+>Cluster 516
+0	9027nt, >scaffold_630_(dbseq-nr_629)_[7271,16297]... *
+>Cluster 517
+0	9026nt, >scaffold_3_(dbseq-nr_2)_[334594,343619]... *
+>Cluster 518
+0	9018nt, >scaffold_211_(dbseq-nr_210)_[99052,108069]... *
+>Cluster 519
+0	9017nt, >scaffold_55_(dbseq-nr_54)_[75999,85015]... *
+>Cluster 520
+0	9008nt, >scaffold_390_(dbseq-nr_389)_[29938,38945]... *
+>Cluster 521
+0	9008nt, >scaffold_491_(dbseq-nr_490)_[23841,32848]... *
+>Cluster 522
+0	9007nt, >scaffold_21_(dbseq-nr_20)_[42314,51320]... *
+>Cluster 523
+0	8953nt, >scaffold_29_(dbseq-nr_28)_[83733,92685]... *
+>Cluster 524
+0	8948nt, >scaffold_218_(dbseq-nr_217)_[101601,110548]... *
+>Cluster 525
+0	8918nt, >scaffold_151_(dbseq-nr_150)_[106363,115280]... *
+>Cluster 526
+0	8911nt, >scaffold_97_(dbseq-nr_96)_[170879,179789]... *
+>Cluster 527
+0	8910nt, >scaffold_18_(dbseq-nr_17)_[132174,141083]... *
+>Cluster 528
+0	8909nt, >scaffold_263_(dbseq-nr_262)_[75758,84666]... *
+>Cluster 529
+0	8901nt, >scaffold_103_(dbseq-nr_102)_[79441,88341]... *
+>Cluster 530
+0	8897nt, >scaffold_17_(dbseq-nr_16)_[304133,313029]... *
+>Cluster 531
+0	8897nt, >scaffold_131_(dbseq-nr_130)_[58677,67573]... *
+>Cluster 532
+0	8872nt, >scaffold_249_(dbseq-nr_248)_[76849,85720]... *
+>Cluster 533
+0	8871nt, >scaffold_147_(dbseq-nr_146)_[83522,92392]... *
+>Cluster 534
+0	8870nt, >scaffold_431_(dbseq-nr_430)_[2539,11408]... *
+>Cluster 535
+0	8869nt, >scaffold_32_(dbseq-nr_31)_[3598,12466]... *
+>Cluster 536
+0	8869nt, >scaffold_171_(dbseq-nr_170)_[113388,122256]... *
+>Cluster 537
+0	8866nt, >scaffold_239_(dbseq-nr_238)_[5637,14502]... *
+>Cluster 538
+0	8843nt, >scaffold_99_(dbseq-nr_98)_[34327,43169]... *
+>Cluster 539
+0	8834nt, >scaffold_11_(dbseq-nr_10)_[2204,11037]... *
+>Cluster 540
+0	8824nt, >scaffold_72_(dbseq-nr_71)_[100368,109191]... *
+>Cluster 541
+0	8822nt, >scaffold_403_(dbseq-nr_402)_[6459,15280]... *
+>Cluster 542
+0	8820nt, >scaffold_78_(dbseq-nr_77)_[174899,183718]... *
+>Cluster 543
+0	8811nt, >scaffold_13_(dbseq-nr_12)_[238978,247788]... *
+>Cluster 544
+0	8810nt, >scaffold_497_(dbseq-nr_496)_[17952,26761]... *
+>Cluster 545
+0	8775nt, >scaffold_335_(dbseq-nr_334)_[61059,69833]... *
+>Cluster 546
+0	8750nt, >scaffold_584_(dbseq-nr_583)_[15483,24232]... *
+>Cluster 547
+0	8743nt, >scaffold_117_(dbseq-nr_116)_[36539,45281]... *
+>Cluster 548
+0	8728nt, >scaffold_42_(dbseq-nr_41)_[255116,263843]... *
+>Cluster 549
+0	8714nt, >scaffold_402_(dbseq-nr_401)_[1001,9714]... *
+>Cluster 550
+0	8700nt, >scaffold_146_(dbseq-nr_145)_[131957,140656]... *
+>Cluster 551
+0	8685nt, >scaffold_99_(dbseq-nr_98)_[72262,80946]... *
+>Cluster 552
+0	8682nt, >scaffold_680_(dbseq-nr_679)_[3100,11781]... *
+>Cluster 553
+0	8680nt, >scaffold_49_(dbseq-nr_48)_[93470,102149]... *
+>Cluster 554
+0	8663nt, >scaffold_125_(dbseq-nr_124)_[42923,51585]... *
+>Cluster 555
+0	8647nt, >scaffold_370_(dbseq-nr_369)_[54379,63025]... *
+>Cluster 556
+0	8645nt, >scaffold_166_(dbseq-nr_165)_[118106,126750]... *
+>Cluster 557
+0	8636nt, >scaffold_27_(dbseq-nr_26)_[37099,45734]... *
+>Cluster 558
+0	8634nt, >scaffold_493_(dbseq-nr_492)_[2735,11368]... *
+>Cluster 559
+0	8633nt, >scaffold_261_(dbseq-nr_260)_[55284,63916]... *
+>Cluster 560
+0	8620nt, >scaffold_279_(dbseq-nr_278)_[59512,68131]... *
+>Cluster 561
+0	8615nt, >scaffold_465_(dbseq-nr_464)_[12018,20632]... *
+>Cluster 562
+0	8610nt, >scaffold_166_(dbseq-nr_165)_[21429,30038]... *
+>Cluster 563
+0	8608nt, >scaffold_136_(dbseq-nr_135)_[113217,121824]... *
+>Cluster 564
+0	8604nt, >scaffold_187_(dbseq-nr_186)_[85041,93644]... *
+>Cluster 565
+0	8596nt, >scaffold_431_(dbseq-nr_430)_[16841,25436]... *
+>Cluster 566
+0	8589nt, >scaffold_457_(dbseq-nr_456)_[32284,40872]... *
+>Cluster 567
+0	8572nt, >scaffold_47_(dbseq-nr_46)_[141311,149882]... *
+>Cluster 568
+0	8570nt, >scaffold_136_(dbseq-nr_135)_[18997,27566]... *
+>Cluster 569
+0	8567nt, >scaffold_239_(dbseq-nr_238)_[30401,38967]... *
+>Cluster 570
+0	8556nt, >scaffold_316_(dbseq-nr_315)_[54428,62983]... *
+>Cluster 571
+0	8551nt, >scaffold_649_(dbseq-nr_648)_[8616,17166]... *
+>Cluster 572
+0	8550nt, >scaffold_267_(dbseq-nr_266)_[29662,38211]... *
+>Cluster 573
+0	8545nt, >scaffold_324_(dbseq-nr_323)_[70250,78794]... *
+>Cluster 574
+0	8507nt, >scaffold_253_(dbseq-nr_252)_[11449,19955]... *
+>Cluster 575
+0	8499nt, >scaffold_544_(dbseq-nr_543)_[2338,10836]... *
+>Cluster 576
+0	8498nt, >scaffold_26_(dbseq-nr_25)_[95280,103777]... *
+>Cluster 577
+0	8435nt, >scaffold_47_(dbseq-nr_46)_[86285,94719]... *
+>Cluster 578
+0	8430nt, >scaffold_248_(dbseq-nr_247)_[515,8944]... *
+>Cluster 579
+0	8422nt, >scaffold_200_(dbseq-nr_199)_[52776,61197]... *
+>Cluster 580
+0	8411nt, >scaffold_10_(dbseq-nr_9)_[4743,13153]... *
+>Cluster 581
+0	8402nt, >scaffold_76_(dbseq-nr_75)_[134262,142663]... *
+>Cluster 582
+0	8390nt, >scaffold_107_(dbseq-nr_106)_[160093,168482]... *
+>Cluster 583
+0	8390nt, >scaffold_702_(dbseq-nr_701)_[2765,11154]... *
+>Cluster 584
+0	8379nt, >scaffold_9_(dbseq-nr_8)_[298186,306564]... *
+>Cluster 585
+0	8377nt, >scaffold_47_(dbseq-nr_46)_[239563,247939]... *
+>Cluster 586
+0	8375nt, >scaffold_666_(dbseq-nr_665)_[5190,13564]... *
+>Cluster 587
+0	8358nt, >scaffold_81_(dbseq-nr_80)_[57198,65555]... *
+>Cluster 588
+0	8346nt, >scaffold_380_(dbseq-nr_379)_[3225,11570]... *
+>Cluster 589
+0	8338nt, >scaffold_223_(dbseq-nr_222)_[31382,39719]... *
+>Cluster 590
+0	8326nt, >scaffold_15_(dbseq-nr_14)_[48108,56433]... *
+>Cluster 591
+0	8306nt, >scaffold_538_(dbseq-nr_537)_[10668,18973]... *
+>Cluster 592
+0	8284nt, >scaffold_59_(dbseq-nr_58)_[6189,14472]... *
+>Cluster 593
+0	8274nt, >scaffold_392_(dbseq-nr_391)_[50454,58727]... *
+>Cluster 594
+0	8270nt, >scaffold_40_(dbseq-nr_39)_[64913,73182]... *
+>Cluster 595
+0	8259nt, >scaffold_174_(dbseq-nr_173)_[16229,24487]... *
+>Cluster 596
+0	8253nt, >scaffold_535_(dbseq-nr_534)_[23963,32215]... *
+>Cluster 597
+0	8249nt, >scaffold_626_(dbseq-nr_625)_[11047,19295]... *
+>Cluster 598
+0	8247nt, >scaffold_211_(dbseq-nr_210)_[6936,15182]... *
+>Cluster 599
+0	8238nt, >scaffold_677_(dbseq-nr_676)_[5969,14206]... *
+>Cluster 600
+0	8228nt, >scaffold_484_(dbseq-nr_483)_[420,8647]... *
+>Cluster 601
+0	8218nt, >scaffold_120_(dbseq-nr_119)_[17410,25627]... *
+>Cluster 602
+0	8204nt, >scaffold_60_(dbseq-nr_59)_[209917,218120]... *
+>Cluster 603
+0	8186nt, >scaffold_23_(dbseq-nr_22)_[259378,267563]... *
+>Cluster 604
+0	8181nt, >scaffold_105_(dbseq-nr_104)_[98555,106735]... *
+>Cluster 605
+0	8181nt, >scaffold_152_(dbseq-nr_151)_[2647,10827]... *
+>Cluster 606
+0	8170nt, >scaffold_307_(dbseq-nr_306)_[60408,68577]... *
+>Cluster 607
+0	8151nt, >scaffold_18_(dbseq-nr_17)_[52434,60584]... *
+>Cluster 608
+0	8146nt, >scaffold_33_(dbseq-nr_32)_[214433,222578]... *
+>Cluster 609
+0	8143nt, >scaffold_33_(dbseq-nr_32)_[6241,14383]... *
+>Cluster 610
+0	8137nt, >scaffold_159_(dbseq-nr_158)_[128457,136593]... *
+>Cluster 611
+0	8133nt, >scaffold_31_(dbseq-nr_30)_[115335,123467]... *
+>Cluster 612
+0	8126nt, >scaffold_67_(dbseq-nr_66)_[122964,131089]... *
+>Cluster 613
+0	8114nt, >scaffold_18_(dbseq-nr_17)_[317263,325376]... *
+>Cluster 614
+0	8112nt, >scaffold_76_(dbseq-nr_75)_[54779,62890]... *
+>Cluster 615
+0	8107nt, >scaffold_275_(dbseq-nr_274)_[45143,53249]... *
+>Cluster 616
+0	8103nt, >scaffold_160_(dbseq-nr_159)_[115959,124061]... *
+>Cluster 617
+0	8082nt, >scaffold_15_(dbseq-nr_14)_[59628,67709]... *
+>Cluster 618
+0	8073nt, >scaffold_515_(dbseq-nr_514)_[8212,16284]... *
+>Cluster 619
+0	8062nt, >scaffold_574_(dbseq-nr_573)_[9920,17981]... *
+>Cluster 620
+0	8058nt, >scaffold_113_(dbseq-nr_112)_[54055,62112]... *
+>Cluster 621
+0	8054nt, >scaffold_421_(dbseq-nr_420)_[8482,16535]... *
+>Cluster 622
+0	8052nt, >scaffold_19_(dbseq-nr_18)_[41563,49614]... *
+>Cluster 623
+0	8041nt, >scaffold_605_(dbseq-nr_604)_[11925,19965]... *
+>Cluster 624
+0	8039nt, >scaffold_76_(dbseq-nr_75)_[71968,80006]... *
+>Cluster 625
+0	8023nt, >scaffold_504_(dbseq-nr_503)_[22220,30242]... *
+>Cluster 626
+0	8019nt, >scaffold_429_(dbseq-nr_428)_[27351,35369]... *
+>Cluster 627
+0	8006nt, >scaffold_98_(dbseq-nr_97)_[270,8275]... *
+>Cluster 628
+0	7988nt, >scaffold_529_(dbseq-nr_528)_[22132,30119]... *
+>Cluster 629
+0	7981nt, >scaffold_245_(dbseq-nr_244)_[83500,91480]... *
+>Cluster 630
+0	7976nt, >scaffold_136_(dbseq-nr_135)_[39875,47850]... *
+>Cluster 631
+0	7968nt, >scaffold_528_(dbseq-nr_527)_[20317,28284]... *
+>Cluster 632
+0	7957nt, >scaffold_31_(dbseq-nr_30)_[210148,218104]... *
+>Cluster 633
+0	7940nt, >scaffold_26_(dbseq-nr_25)_[252721,260660]... *
+>Cluster 634
+0	7938nt, >scaffold_220_(dbseq-nr_219)_[31221,39158]... *
+>Cluster 635
+0	7938nt, >scaffold_240_(dbseq-nr_239)_[100685,108622]... *
+>Cluster 636
+0	7937nt, >scaffold_92_(dbseq-nr_91)_[8152,16088]... *
+>Cluster 637
+0	7936nt, >scaffold_794_(dbseq-nr_793)_[246,8181]... *
+>Cluster 638
+0	7935nt, >scaffold_128_(dbseq-nr_127)_[92885,100819]... *
+>Cluster 639
+0	7931nt, >scaffold_250_(dbseq-nr_249)_[18436,26366]... *
+>Cluster 640
+0	7919nt, >scaffold_167_(dbseq-nr_166)_[26614,34532]... *
+>Cluster 641
+0	7909nt, >scaffold_14_(dbseq-nr_13)_[353211,361119]... *
+>Cluster 642
+0	7904nt, >scaffold_56_(dbseq-nr_55)_[102524,110427]... *
+>Cluster 643
+0	7900nt, >scaffold_29_(dbseq-nr_28)_[251272,259171]... *
+>Cluster 644
+0	7897nt, >scaffold_11_(dbseq-nr_10)_[344914,352810]... *
+>Cluster 645
+0	7897nt, >scaffold_45_(dbseq-nr_44)_[233807,241703]... *
+>Cluster 646
+0	7888nt, >scaffold_286_(dbseq-nr_285)_[76094,83981]... *
+>Cluster 647
+0	7872nt, >scaffold_470_(dbseq-nr_469)_[7190,15061]... *
+>Cluster 648
+0	7870nt, >scaffold_481_(dbseq-nr_480)_[28142,36011]... *
+>Cluster 649
+0	7867nt, >scaffold_778_(dbseq-nr_777)_[1153,9019]... *
+>Cluster 650
+0	7863nt, >scaffold_628_(dbseq-nr_627)_[2958,10820]... *
+>Cluster 651
+0	7853nt, >scaffold_50_(dbseq-nr_49)_[54689,62541]... *
+>Cluster 652
+0	7850nt, >scaffold_62_(dbseq-nr_61)_[18376,26225]... *
+>Cluster 653
+0	7841nt, >scaffold_25_(dbseq-nr_24)_[191598,199438]... *
+>Cluster 654
+0	7824nt, >scaffold_277_(dbseq-nr_276)_[43013,50836]... *
+>Cluster 655
+0	7809nt, >scaffold_219_(dbseq-nr_218)_[86702,94510]... *
+>Cluster 656
+0	7808nt, >scaffold_80_(dbseq-nr_79)_[36649,44456]... *
+>Cluster 657
+0	7799nt, >scaffold_448_(dbseq-nr_447)_[38425,46223]... *
+>Cluster 658
+0	7786nt, >scaffold_27_(dbseq-nr_26)_[291180,298965]... *
+>Cluster 659
+0	7748nt, >scaffold_212_(dbseq-nr_211)_[52296,60043]... *
+>Cluster 660
+0	7746nt, >scaffold_103_(dbseq-nr_102)_[46235,53980]... *
+>Cluster 661
+0	7739nt, >scaffold_428_(dbseq-nr_427)_[11427,19165]... *
+>Cluster 662
+0	7736nt, >scaffold_105_(dbseq-nr_104)_[33567,41302]... *
+>Cluster 663
+0	7735nt, >scaffold_471_(dbseq-nr_470)_[36159,43893]... *
+>Cluster 664
+0	7732nt, >scaffold_48_(dbseq-nr_47)_[9340,17071]... *
+>Cluster 665
+0	7723nt, >scaffold_199_(dbseq-nr_198)_[105790,113512]... *
+>Cluster 666
+0	7716nt, >scaffold_362_(dbseq-nr_361)_[38394,46109]... *
+>Cluster 667
+0	7712nt, >scaffold_32_(dbseq-nr_31)_[106893,114604]... *
+>Cluster 668
+0	7696nt, >scaffold_557_(dbseq-nr_556)_[533,8228]... *
+>Cluster 669
+0	7683nt, >scaffold_184_(dbseq-nr_183)_[35416,43098]... *
+>Cluster 670
+0	7682nt, >scaffold_733_(dbseq-nr_732)_[13,7694]... *
+>Cluster 671
+0	7665nt, >scaffold_405_(dbseq-nr_404)_[35476,43140]... *
+>Cluster 672
+0	7662nt, >scaffold_297_(dbseq-nr_296)_[7852,15513]... *
+>Cluster 673
+0	7660nt, >scaffold_612_(dbseq-nr_611)_[3631,11290]... *
+>Cluster 674
+0	7652nt, >scaffold_1_(dbseq-nr_0)_[174583,182234]... *
+>Cluster 675
+0	7649nt, >scaffold_18_(dbseq-nr_17)_[93641,101289]... *
+>Cluster 676
+0	7648nt, >scaffold_326_(dbseq-nr_325)_[49868,57515]... *
+1	6163nt, >scaffold_748_(dbseq-nr_747)_[132,6294]... at +/99.63%
+>Cluster 677
+0	7644nt, >scaffold_282_(dbseq-nr_281)_[75330,82973]... *
+>Cluster 678
+0	7639nt, >scaffold_65_(dbseq-nr_64)_[135061,142699]... *
+>Cluster 679
+0	7637nt, >scaffold_77_(dbseq-nr_76)_[93251,100887]... *
+>Cluster 680
+0	7633nt, >scaffold_41_(dbseq-nr_40)_[201273,208905]... *
+>Cluster 681
+0	7627nt, >scaffold_97_(dbseq-nr_96)_[79632,87258]... *
+>Cluster 682
+0	7626nt, >scaffold_5_(dbseq-nr_4)_[57403,65028]... *
+>Cluster 683
+0	7618nt, >scaffold_347_(dbseq-nr_346)_[62199,69816]... *
+>Cluster 684
+0	7614nt, >scaffold_242_(dbseq-nr_241)_[47354,54967]... *
+>Cluster 685
+0	7610nt, >scaffold_156_(dbseq-nr_155)_[36694,44303]... *
+>Cluster 686
+0	7608nt, >scaffold_13_(dbseq-nr_12)_[40438,48045]... *
+>Cluster 687
+0	7607nt, >scaffold_77_(dbseq-nr_76)_[157028,164634]... *
+>Cluster 688
+0	7603nt, >scaffold_506_(dbseq-nr_505)_[24175,31777]... *
+>Cluster 689
+0	7588nt, >scaffold_219_(dbseq-nr_218)_[4714,12301]... *
+>Cluster 690
+0	7586nt, >scaffold_47_(dbseq-nr_46)_[169008,176593]... *
+>Cluster 691
+0	7566nt, >scaffold_274_(dbseq-nr_273)_[34149,41714]... *
+>Cluster 692
+0	7566nt, >scaffold_342_(dbseq-nr_341)_[21529,29094]... *
+>Cluster 693
+0	7564nt, >scaffold_7_(dbseq-nr_6)_[1509,9072]... *
+>Cluster 694
+0	7556nt, >scaffold_50_(dbseq-nr_49)_[6975,14530]... *
+>Cluster 695
+0	7543nt, >scaffold_252_(dbseq-nr_251)_[26500,34042]... *
+>Cluster 696
+0	7527nt, >scaffold_571_(dbseq-nr_570)_[7887,15413]... *
+>Cluster 697
+0	7525nt, >scaffold_560_(dbseq-nr_559)_[2926,10450]... *
+>Cluster 698
+0	7522nt, >scaffold_196_(dbseq-nr_195)_[40260,47781]... *
+>Cluster 699
+0	7521nt, >scaffold_100_(dbseq-nr_99)_[10594,18114]... *
+>Cluster 700
+0	7513nt, >scaffold_140_(dbseq-nr_139)_[8779,16291]... *
+>Cluster 701
+0	7513nt, >scaffold_475_(dbseq-nr_474)_[32253,39765]... *
+>Cluster 702
+0	7511nt, >scaffold_371_(dbseq-nr_370)_[6862,14372]... *
+>Cluster 703
+0	7510nt, >scaffold_220_(dbseq-nr_219)_[93150,100659]... *
+>Cluster 704
+0	7492nt, >scaffold_2_(dbseq-nr_1)_[213601,221092]... *
+>Cluster 705
+0	7489nt, >scaffold_299_(dbseq-nr_298)_[33436,40924]... *
+>Cluster 706
+0	7475nt, >scaffold_87_(dbseq-nr_86)_[179128,186602]... *
+>Cluster 707
+0	7474nt, >scaffold_538_(dbseq-nr_537)_[2998,10471]... *
+>Cluster 708
+0	7465nt, >scaffold_273_(dbseq-nr_272)_[82489,89953]... *
+>Cluster 709
+0	7456nt, >scaffold_537_(dbseq-nr_536)_[3490,10945]... *
+>Cluster 710
+0	7452nt, >scaffold_158_(dbseq-nr_157)_[44007,51458]... *
+>Cluster 711
+0	7444nt, >scaffold_322_(dbseq-nr_321)_[68801,76244]... *
+>Cluster 712
+0	7440nt, >scaffold_263_(dbseq-nr_262)_[19457,26896]... *
+>Cluster 713
+0	7435nt, >scaffold_305_(dbseq-nr_304)_[12,7446]... *
+>Cluster 714
+0	7426nt, >scaffold_77_(dbseq-nr_76)_[125690,133115]... *
+>Cluster 715
+0	7425nt, >scaffold_303_(dbseq-nr_302)_[17878,25302]... *
+>Cluster 716
+0	7415nt, >scaffold_259_(dbseq-nr_258)_[48151,55565]... *
+>Cluster 717
+0	7414nt, >scaffold_111_(dbseq-nr_110)_[151366,158779]... *
+>Cluster 718
+0	7407nt, >scaffold_84_(dbseq-nr_83)_[95056,102462]... *
+>Cluster 719
+0	7400nt, >scaffold_117_(dbseq-nr_116)_[92512,99911]... *
+>Cluster 720
+0	7396nt, >scaffold_219_(dbseq-nr_218)_[19461,26856]... *
+>Cluster 721
+0	7394nt, >scaffold_35_(dbseq-nr_34)_[61679,69072]... at +/99.63%
+1	7380nt, >scaffold_553_(dbseq-nr_552)_[5843,13222]... at -/99.38%
+2	7396nt, >scaffold_616_(dbseq-nr_615)_[13542,20937]... *
+>Cluster 722
+0	7389nt, >scaffold_255_(dbseq-nr_254)_[92527,99915]... *
+>Cluster 723
+0	7386nt, >scaffold_127_(dbseq-nr_126)_[39599,46984]... *
+>Cluster 724
+0	7384nt, >scaffold_132_(dbseq-nr_131)_[99184,106567]... *
+>Cluster 725
+0	7378nt, >scaffold_369_(dbseq-nr_368)_[33438,40815]... *
+>Cluster 726
+0	7367nt, >scaffold_182_(dbseq-nr_181)_[35123,42489]... *
+>Cluster 727
+0	7340nt, >scaffold_89_(dbseq-nr_88)_[138211,145550]... *
+>Cluster 728
+0	7297nt, >scaffold_296_(dbseq-nr_295)_[75805,83101]... at -/96.75%
+1	7146nt, >scaffold_364_(dbseq-nr_363)_[52316,59461]... at +/96.54%
+2	7340nt, >scaffold_772_(dbseq-nr_771)_[1443,8782]... *
+>Cluster 729
+0	7339nt, >scaffold_44_(dbseq-nr_43)_[81320,88658]... *
+>Cluster 730
+0	7330nt, >scaffold_374_(dbseq-nr_373)_[8343,15672]... *
+>Cluster 731
+0	7299nt, >scaffold_273_(dbseq-nr_272)_[4524,11822]... at -/99.90%
+1	7305nt, >scaffold_426_(dbseq-nr_425)_[27404,34708]... *
+>Cluster 732
+0	7288nt, >scaffold_171_(dbseq-nr_170)_[33784,41071]... *
+>Cluster 733
+0	7286nt, >scaffold_403_(dbseq-nr_402)_[37118,44403]... *
+>Cluster 734
+0	7280nt, >scaffold_134_(dbseq-nr_133)_[141483,148762]... *
+>Cluster 735
+0	7268nt, >scaffold_74_(dbseq-nr_73)_[106627,113894]... *
+>Cluster 736
+0	7268nt, >scaffold_509_(dbseq-nr_508)_[3103,10370]... *
+>Cluster 737
+0	7266nt, >scaffold_319_(dbseq-nr_318)_[46545,53810]... *
+>Cluster 738
+0	7262nt, >scaffold_417_(dbseq-nr_416)_[44567,51828]... *
+>Cluster 739
+0	7257nt, >scaffold_98_(dbseq-nr_97)_[123165,130421]... *
+>Cluster 740
+0	7255nt, >scaffold_29_(dbseq-nr_28)_[111510,118764]... *
+>Cluster 741
+0	7248nt, >scaffold_318_(dbseq-nr_317)_[64229,71476]... *
+>Cluster 742
+0	7246nt, >scaffold_390_(dbseq-nr_389)_[8818,16063]... *
+>Cluster 743
+0	7245nt, >scaffold_62_(dbseq-nr_61)_[97371,104615]... *
+>Cluster 744
+0	7242nt, >scaffold_422_(dbseq-nr_421)_[13205,20446]... *
+>Cluster 745
+0	7242nt, >scaffold_434_(dbseq-nr_433)_[40609,47850]... *
+>Cluster 746
+0	7240nt, >scaffold_144_(dbseq-nr_143)_[65497,72736]... *
+>Cluster 747
+0	7239nt, >scaffold_142_(dbseq-nr_141)_[76383,83621]... *
+>Cluster 748
+0	7237nt, >scaffold_415_(dbseq-nr_414)_[11679,18915]... *
+>Cluster 749
+0	7232nt, >scaffold_240_(dbseq-nr_239)_[54340,61571]... *
+>Cluster 750
+0	7228nt, >scaffold_27_(dbseq-nr_26)_[105334,112561]... *
+>Cluster 751
+0	7226nt, >scaffold_434_(dbseq-nr_433)_[16130,23355]... *
+>Cluster 752
+0	7223nt, >scaffold_35_(dbseq-nr_34)_[92982,100204]... *
+>Cluster 753
+0	7223nt, >scaffold_39_(dbseq-nr_38)_[242121,249343]... *
+>Cluster 754
+0	7216nt, >scaffold_53_(dbseq-nr_52)_[201154,208369]... *
+>Cluster 755
+0	7211nt, >scaffold_246_(dbseq-nr_245)_[26401,33611]... *
+>Cluster 756
+0	7204nt, >scaffold_38_(dbseq-nr_37)_[265734,272937]... *
+>Cluster 757
+0	7197nt, >scaffold_234_(dbseq-nr_233)_[74683,81879]... *
+>Cluster 758
+0	7186nt, >scaffold_396_(dbseq-nr_395)_[42528,49713]... *
+>Cluster 759
+0	7180nt, >scaffold_153_(dbseq-nr_152)_[48690,55869]... *
+>Cluster 760
+0	7172nt, >scaffold_158_(dbseq-nr_157)_[74049,81220]... *
+>Cluster 761
+0	7172nt, >scaffold_322_(dbseq-nr_321)_[9366,16537]... *
+>Cluster 762
+0	7172nt, >scaffold_451_(dbseq-nr_450)_[13864,21035]... *
+>Cluster 763
+0	7159nt, >scaffold_422_(dbseq-nr_421)_[4625,11783]... *
+>Cluster 764
+0	7152nt, >scaffold_20_(dbseq-nr_19)_[88313,95464]... *
+>Cluster 765
+0	7126nt, >scaffold_451_(dbseq-nr_450)_[29216,36341]... *
+>Cluster 766
+0	7114nt, >scaffold_165_(dbseq-nr_164)_[68435,75548]... *
+>Cluster 767
+0	7114nt, >scaffold_664_(dbseq-nr_663)_[1665,8778]... *
+>Cluster 768
+0	7106nt, >scaffold_223_(dbseq-nr_222)_[102699,109804]... *
+>Cluster 769
+0	7103nt, >scaffold_134_(dbseq-nr_133)_[43735,50837]... *
+>Cluster 770
+0	7093nt, >scaffold_362_(dbseq-nr_361)_[49596,56688]... *
+>Cluster 771
+0	7089nt, >scaffold_9_(dbseq-nr_8)_[82493,89581]... *
+>Cluster 772
+0	7080nt, >scaffold_438_(dbseq-nr_437)_[38140,45219]... *
+>Cluster 773
+0	7076nt, >scaffold_10_(dbseq-nr_9)_[350425,357500]... *
+>Cluster 774
+0	7075nt, >scaffold_129_(dbseq-nr_128)_[125109,132183]... *
+>Cluster 775
+0	7059nt, >scaffold_200_(dbseq-nr_199)_[91394,98452]... *
+>Cluster 776
+0	7058nt, >scaffold_460_(dbseq-nr_459)_[11046,18103]... *
+>Cluster 777
+0	7054nt, >scaffold_226_(dbseq-nr_225)_[66564,73617]... *
+>Cluster 778
+0	7038nt, >scaffold_26_(dbseq-nr_25)_[260693,267730]... at +/99.84%
+1	7045nt, >scaffold_178_(dbseq-nr_177)_[119294,126338]... *
+2	7036nt, >scaffold_287_(dbseq-nr_286)_[78802,85837]... at +/99.03%
+3	7038nt, >scaffold_598_(dbseq-nr_597)_[5375,12412]... at -/99.94%
+4	7044nt, >scaffold_669_(dbseq-nr_668)_[8415,15458]... at +/98.98%
+>Cluster 779
+0	5772nt, >scaffold_18_(dbseq-nr_17)_[364,6135]... at +/98.37%
+1	7043nt, >scaffold_33_(dbseq-nr_32)_[120594,127636]... *
+2	5768nt, >scaffold_304_(dbseq-nr_303)_[52951,58718]... at +/98.42%
+3	6807nt, >scaffold_401_(dbseq-nr_400)_[30298,37104]... at +/99.44%
+>Cluster 780
+0	7034nt, >scaffold_149_(dbseq-nr_148)_[94659,101692]... *
+>Cluster 781
+0	7032nt, >scaffold_69_(dbseq-nr_68)_[186938,193969]... *
+>Cluster 782
+0	7024nt, >scaffold_125_(dbseq-nr_124)_[102818,109841]... *
+>Cluster 783
+0	7020nt, >scaffold_34_(dbseq-nr_33)_[139682,146701]... *
+>Cluster 784
+0	7019nt, >scaffold_485_(dbseq-nr_484)_[16039,23057]... *
+>Cluster 785
+0	7018nt, >scaffold_41_(dbseq-nr_40)_[137586,144603]... *
+>Cluster 786
+0	7017nt, >scaffold_540_(dbseq-nr_539)_[6392,13408]... *
+>Cluster 787
+0	7009nt, >scaffold_214_(dbseq-nr_213)_[46204,53212]... *
+>Cluster 788
+0	7000nt, >scaffold_216_(dbseq-nr_215)_[109563,116562]... *
+1	6999nt, >scaffold_700_(dbseq-nr_699)_[3250,10248]... at -/97.56%
+>Cluster 789
+0	6992nt, >scaffold_61_(dbseq-nr_60)_[101734,108725]... *
+>Cluster 790
+0	6988nt, >scaffold_406_(dbseq-nr_405)_[23130,30117]... *
+>Cluster 791
+0	6982nt, >scaffold_375_(dbseq-nr_374)_[47509,54490]... *
+>Cluster 792
+0	6981nt, >scaffold_37_(dbseq-nr_36)_[188885,195865]... *
+>Cluster 793
+0	6978nt, >scaffold_225_(dbseq-nr_224)_[63476,70453]... *
+>Cluster 794
+0	6976nt, >scaffold_180_(dbseq-nr_179)_[25494,32469]... *
+>Cluster 795
+0	6960nt, >scaffold_178_(dbseq-nr_177)_[21399,28358]... *
+>Cluster 796
+0	6958nt, >scaffold_224_(dbseq-nr_223)_[46729,53686]... *
+>Cluster 797
+0	6950nt, >scaffold_56_(dbseq-nr_55)_[198206,205155]... *
+>Cluster 798
+0	6948nt, >scaffold_252_(dbseq-nr_251)_[669,7616]... *
+>Cluster 799
+0	6770nt, >scaffold_97_(dbseq-nr_96)_[4569,11338]... at -/99.65%
+1	6947nt, >scaffold_536_(dbseq-nr_535)_[21550,28496]... *
+>Cluster 800
+0	6944nt, >scaffold_26_(dbseq-nr_25)_[131922,138865]... *
+>Cluster 801
+0	6935nt, >scaffold_58_(dbseq-nr_57)_[4502,11436]... *
+>Cluster 802
+0	6933nt, >scaffold_353_(dbseq-nr_352)_[33922,40854]... *
+>Cluster 803
+0	6926nt, >scaffold_253_(dbseq-nr_252)_[205,7130]... *
+>Cluster 804
+0	6922nt, >scaffold_436_(dbseq-nr_435)_[17498,24419]... *
+>Cluster 805
+0	6918nt, >scaffold_130_(dbseq-nr_129)_[21757,28674]... *
+>Cluster 806
+0	6918nt, >scaffold_233_(dbseq-nr_232)_[21448,28365]... *
+>Cluster 807
+0	6910nt, >scaffold_178_(dbseq-nr_177)_[10683,17592]... *
+>Cluster 808
+0	6906nt, >scaffold_140_(dbseq-nr_139)_[139746,146651]... *
+>Cluster 809
+0	6906nt, >scaffold_235_(dbseq-nr_234)_[38261,45166]... *
+>Cluster 810
+0	6905nt, >scaffold_19_(dbseq-nr_18)_[279287,286191]... *
+>Cluster 811
+0	6904nt, >scaffold_254_(dbseq-nr_253)_[63272,70175]... *
+>Cluster 812
+0	6901nt, >scaffold_246_(dbseq-nr_245)_[99100,106000]... *
+>Cluster 813
+0	6889nt, >scaffold_80_(dbseq-nr_79)_[80026,86914]... *
+1	6880nt, >scaffold_208_(dbseq-nr_207)_[3306,10185]... at -/99.74%
+>Cluster 814
+0	6880nt, >scaffold_2_(dbseq-nr_1)_[294069,300948]... *
+>Cluster 815
+0	6879nt, >scaffold_311_(dbseq-nr_310)_[2191,9069]... *
+>Cluster 816
+0	6876nt, >scaffold_201_(dbseq-nr_200)_[16173,23048]... *
+>Cluster 817
+0	6874nt, >scaffold_345_(dbseq-nr_344)_[18898,25771]... *
+>Cluster 818
+0	6866nt, >scaffold_30_(dbseq-nr_29)_[29706,36571]... *
+>Cluster 819
+0	6843nt, >scaffold_282_(dbseq-nr_281)_[2070,8912]... *
+>Cluster 820
+0	6831nt, >scaffold_30_(dbseq-nr_29)_[108167,114997]... *
+>Cluster 821
+0	6823nt, >scaffold_478_(dbseq-nr_477)_[9426,16248]... *
+>Cluster 822
+0	6822nt, >scaffold_59_(dbseq-nr_58)_[97494,104315]... *
+>Cluster 823
+0	6817nt, >scaffold_248_(dbseq-nr_247)_[22625,29441]... *
+>Cluster 824
+0	6806nt, >scaffold_268_(dbseq-nr_267)_[72222,79027]... *
+>Cluster 825
+0	6805nt, >scaffold_115_(dbseq-nr_114)_[23933,30737]... *
+>Cluster 826
+0	6793nt, >scaffold_137_(dbseq-nr_136)_[72305,79097]... *
+>Cluster 827
+0	6790nt, >scaffold_214_(dbseq-nr_213)_[102601,109390]... *
+>Cluster 828
+0	6788nt, >scaffold_58_(dbseq-nr_57)_[202803,209590]... *
+>Cluster 829
+0	6788nt, >scaffold_480_(dbseq-nr_479)_[26195,32982]... *
+>Cluster 830
+0	6784nt, >scaffold_489_(dbseq-nr_488)_[6600,13383]... *
+>Cluster 831
+0	6779nt, >scaffold_575_(dbseq-nr_574)_[10929,17707]... *
+>Cluster 832
+0	6768nt, >scaffold_35_(dbseq-nr_34)_[234021,240788]... *
+>Cluster 833
+0	6762nt, >scaffold_30_(dbseq-nr_29)_[206816,213577]... *
+>Cluster 834
+0	6760nt, >scaffold_89_(dbseq-nr_88)_[25508,32267]... *
+>Cluster 835
+0	6748nt, >scaffold_14_(dbseq-nr_13)_[38795,45542]... *
+>Cluster 836
+0	6742nt, >scaffold_75_(dbseq-nr_74)_[64725,71466]... *
+>Cluster 837
+0	6741nt, >scaffold_22_(dbseq-nr_21)_[215008,221748]... *
+>Cluster 838
+0	6721nt, >scaffold_9_(dbseq-nr_8)_[236518,243238]... *
+>Cluster 839
+0	6676nt, >scaffold_389_(dbseq-nr_388)_[3519,10194]... at -/95.37%
+1	6716nt, >scaffold_390_(dbseq-nr_389)_[47619,54334]... *
+2	6688nt, >scaffold_557_(dbseq-nr_556)_[19276,25963]... at -/99.69%
+3	6588nt, >scaffold_574_(dbseq-nr_573)_[3037,9624]... at +/95.34%
+>Cluster 840
+0	6710nt, >scaffold_262_(dbseq-nr_261)_[11523,18232]... *
+>Cluster 841
+0	6689nt, >scaffold_36_(dbseq-nr_35)_[206321,213009]... *
+>Cluster 842
+0	6689nt, >scaffold_42_(dbseq-nr_41)_[194386,201074]... *
+>Cluster 843
+0	6677nt, >scaffold_285_(dbseq-nr_284)_[44016,50692]... *
+>Cluster 844
+0	6667nt, >scaffold_75_(dbseq-nr_74)_[17802,24468]... *
+>Cluster 845
+0	6656nt, >scaffold_27_(dbseq-nr_26)_[240164,246819]... *
+>Cluster 846
+0	6651nt, >scaffold_251_(dbseq-nr_250)_[80450,87100]... *
+>Cluster 847
+0	6650nt, >scaffold_227_(dbseq-nr_226)_[84076,90725]... *
+>Cluster 848
+0	6644nt, >scaffold_133_(dbseq-nr_132)_[26801,33444]... *
+>Cluster 849
+0	6642nt, >scaffold_563_(dbseq-nr_562)_[716,7357]... *
+>Cluster 850
+0	6623nt, >scaffold_45_(dbseq-nr_44)_[93397,100019]... *
+>Cluster 851
+0	6614nt, >scaffold_49_(dbseq-nr_48)_[233406,240019]... *
+>Cluster 852
+0	6607nt, >scaffold_177_(dbseq-nr_176)_[110123,116729]... *
+>Cluster 853
+0	6583nt, >scaffold_82_(dbseq-nr_81)_[167715,174297]... *
+>Cluster 854
+0	6580nt, >scaffold_196_(dbseq-nr_195)_[51210,57789]... *
+>Cluster 855
+0	6577nt, >scaffold_302_(dbseq-nr_301)_[34428,41004]... *
+>Cluster 856
+0	6576nt, >scaffold_252_(dbseq-nr_251)_[72522,79097]... *
+>Cluster 857
+0	6561nt, >scaffold_45_(dbseq-nr_44)_[59691,66251]... *
+>Cluster 858
+0	6561nt, >scaffold_85_(dbseq-nr_84)_[155918,162478]... *
+>Cluster 859
+0	6550nt, >scaffold_814_(dbseq-nr_813)_[551,7100]... *
+>Cluster 860
+0	6545nt, >scaffold_14_(dbseq-nr_13)_[272711,279255]... *
+>Cluster 861
+0	6539nt, >scaffold_541_(dbseq-nr_540)_[21080,27618]... *
+>Cluster 862
+0	6534nt, >scaffold_422_(dbseq-nr_421)_[34687,41220]... *
+>Cluster 863
+0	6533nt, >scaffold_66_(dbseq-nr_65)_[186586,193118]... *
+>Cluster 864
+0	6527nt, >scaffold_43_(dbseq-nr_42)_[199463,205989]... *
+>Cluster 865
+0	6520nt, >scaffold_39_(dbseq-nr_38)_[33957,40476]... *
+>Cluster 866
+0	6515nt, >scaffold_87_(dbseq-nr_86)_[42011,48525]... *
+>Cluster 867
+0	6445nt, >scaffold_149_(dbseq-nr_148)_[109282,115726]... at -/95.38%
+1	6513nt, >scaffold_322_(dbseq-nr_321)_[48209,54721]... *
+2	6486nt, >scaffold_511_(dbseq-nr_510)_[19624,26109]... at -/95.84%
+>Cluster 868
+0	6513nt, >scaffold_522_(dbseq-nr_521)_[1235,7747]... *
+>Cluster 869
+0	6509nt, >scaffold_763_(dbseq-nr_762)_[8,6516]... *
+>Cluster 870
+0	6508nt, >scaffold_130_(dbseq-nr_129)_[133122,139629]... *
+>Cluster 871
+0	6503nt, >scaffold_193_(dbseq-nr_192)_[76045,82547]... *
+>Cluster 872
+0	6502nt, >scaffold_99_(dbseq-nr_98)_[109218,115719]... *
+>Cluster 873
+0	6500nt, >scaffold_219_(dbseq-nr_218)_[103254,109753]... *
+1	6483nt, >scaffold_646_(dbseq-nr_645)_[10488,16970]... at +/99.81%
+>Cluster 874
+0	6498nt, >scaffold_264_(dbseq-nr_263)_[3911,10408]... *
+>Cluster 875
+0	6495nt, >scaffold_281_(dbseq-nr_280)_[40122,46616]... *
+>Cluster 876
+0	6485nt, >scaffold_368_(dbseq-nr_367)_[7701,14185]... *
+>Cluster 877
+0	6481nt, >scaffold_170_(dbseq-nr_169)_[123142,129622]... *
+>Cluster 878
+0	6480nt, >scaffold_312_(dbseq-nr_311)_[60280,66759]... *
+>Cluster 879
+0	6477nt, >scaffold_829_(dbseq-nr_828)_[214,6690]... *
+>Cluster 880
+0	6467nt, >scaffold_566_(dbseq-nr_565)_[11404,17870]... *
+>Cluster 881
+0	6464nt, >scaffold_103_(dbseq-nr_102)_[111807,118270]... *
+>Cluster 882
+0	6457nt, >scaffold_30_(dbseq-nr_29)_[150563,157019]... *
+1	6272nt, >scaffold_484_(dbseq-nr_483)_[38919,45190]... at +/99.74%
+>Cluster 883
+0	6425nt, >scaffold_274_(dbseq-nr_273)_[24581,31005]... *
+>Cluster 884
+0	6416nt, >scaffold_373_(dbseq-nr_372)_[54309,60724]... *
+>Cluster 885
+0	6415nt, >scaffold_379_(dbseq-nr_378)_[32460,38874]... *
+>Cluster 886
+0	6405nt, >scaffold_105_(dbseq-nr_104)_[114640,121044]... *
+>Cluster 887
+0	6399nt, >scaffold_163_(dbseq-nr_162)_[247,6645]... *
+>Cluster 888
+0	6385nt, >scaffold_25_(dbseq-nr_24)_[3905,10289]... *
+>Cluster 889
+0	6372nt, >scaffold_600_(dbseq-nr_599)_[4082,10453]... *
+>Cluster 890
+0	6369nt, >scaffold_159_(dbseq-nr_158)_[43045,49413]... *
+>Cluster 891
+0	6368nt, >scaffold_8_(dbseq-nr_7)_[56808,63175]... *
+>Cluster 892
+0	6368nt, >scaffold_60_(dbseq-nr_59)_[176101,182468]... *
+>Cluster 893
+0	6367nt, >scaffold_256_(dbseq-nr_255)_[53695,60061]... *
+>Cluster 894
+0	6355nt, >scaffold_63_(dbseq-nr_62)_[48206,54560]... *
+1	6351nt, >scaffold_409_(dbseq-nr_408)_[45787,52137]... at -/99.81%
+2	6351nt, >scaffold_448_(dbseq-nr_447)_[15691,22041]... at +/99.72%
+3	6354nt, >scaffold_580_(dbseq-nr_579)_[18213,24566]... at +/99.69%
+>Cluster 895
+0	6346nt, >scaffold_221_(dbseq-nr_220)_[94100,100445]... *
+>Cluster 896
+0	6343nt, >scaffold_70_(dbseq-nr_69)_[118567,124909]... *
+>Cluster 897
+0	6342nt, >scaffold_124_(dbseq-nr_123)_[121279,127620]... *
+>Cluster 898
+0	6332nt, >scaffold_272_(dbseq-nr_271)_[65176,71507]... *
+>Cluster 899
+0	6329nt, >scaffold_307_(dbseq-nr_306)_[47191,53519]... *
+>Cluster 900
+0	6325nt, >scaffold_539_(dbseq-nr_538)_[28188,34512]... *
+>Cluster 901
+0	6304nt, >scaffold_48_(dbseq-nr_47)_[208663,214966]... *
+>Cluster 902
+0	6291nt, >scaffold_6_(dbseq-nr_5)_[15507,21797]... *
+>Cluster 903
+0	6291nt, >scaffold_116_(dbseq-nr_115)_[24537,30827]... *
+>Cluster 904
+0	6291nt, >scaffold_232_(dbseq-nr_231)_[28234,34524]... *
+>Cluster 905
+0	6287nt, >scaffold_98_(dbseq-nr_97)_[67809,74095]... *
+>Cluster 906
+0	6281nt, >scaffold_135_(dbseq-nr_134)_[7248,13528]... *
+>Cluster 907
+0	6276nt, >scaffold_385_(dbseq-nr_384)_[30798,37073]... *
+>Cluster 908
+0	6260nt, >scaffold_375_(dbseq-nr_374)_[4058,10317]... *
+>Cluster 909
+0	6258nt, >scaffold_190_(dbseq-nr_189)_[13614,19871]... *
+>Cluster 910
+0	6256nt, >scaffold_19_(dbseq-nr_18)_[316148,322403]... *
+>Cluster 911
+0	6253nt, >scaffold_533_(dbseq-nr_532)_[21617,27869]... *
+>Cluster 912
+0	6246nt, >scaffold_63_(dbseq-nr_62)_[100302,106547]... *
+>Cluster 913
+0	6245nt, >scaffold_81_(dbseq-nr_80)_[107839,114083]... *
+>Cluster 914
+0	6243nt, >scaffold_157_(dbseq-nr_156)_[135846,142088]... *
+>Cluster 915
+0	6242nt, >scaffold_461_(dbseq-nr_460)_[23116,29357]... *
+>Cluster 916
+0	6228nt, >scaffold_133_(dbseq-nr_132)_[104375,110602]... *
+>Cluster 917
+0	6227nt, >scaffold_320_(dbseq-nr_319)_[6247,12473]... *
+>Cluster 918
+0	6226nt, >scaffold_291_(dbseq-nr_290)_[28582,34807]... *
+>Cluster 919
+0	6220nt, >scaffold_134_(dbseq-nr_133)_[113669,119888]... *
+>Cluster 920
+0	6205nt, >scaffold_118_(dbseq-nr_117)_[44071,50275]... *
+>Cluster 921
+0	6196nt, >scaffold_259_(dbseq-nr_258)_[5540,11735]... *
+>Cluster 922
+0	6190nt, >scaffold_209_(dbseq-nr_208)_[39010,45199]... *
+>Cluster 923
+0	6183nt, >scaffold_10_(dbseq-nr_9)_[82457,88639]... *
+>Cluster 924
+0	6179nt, >scaffold_380_(dbseq-nr_379)_[39333,45511]... *
+>Cluster 925
+0	6172nt, >scaffold_604_(dbseq-nr_603)_[16606,22777]... *
+>Cluster 926
+0	6172nt, >scaffold_708_(dbseq-nr_707)_[4543,10714]... *
+>Cluster 927
+0	6171nt, >scaffold_290_(dbseq-nr_289)_[55930,62100]... *
+>Cluster 928
+0	6163nt, >scaffold_154_(dbseq-nr_153)_[111579,117741]... *
+>Cluster 929
+0	6157nt, >scaffold_224_(dbseq-nr_223)_[91449,97605]... *
+>Cluster 930
+0	6156nt, >scaffold_412_(dbseq-nr_411)_[20688,26843]... *
+>Cluster 931
+0	6153nt, >scaffold_44_(dbseq-nr_43)_[24872,31024]... *
+>Cluster 932
+0	6114nt, >scaffold_149_(dbseq-nr_148)_[8744,14857]... at +/96.14%
+1	6152nt, >scaffold_548_(dbseq-nr_547)_[13316,19467]... *
+>Cluster 933
+0	6144nt, >scaffold_591_(dbseq-nr_590)_[13,6156]... *
+>Cluster 934
+0	6137nt, >scaffold_199_(dbseq-nr_198)_[15849,21985]... *
+>Cluster 935
+0	6098nt, >scaffold_249_(dbseq-nr_248)_[98016,104113]... *
+>Cluster 936
+0	6096nt, >scaffold_105_(dbseq-nr_104)_[3590,9685]... *
+>Cluster 937
+0	6091nt, >scaffold_500_(dbseq-nr_499)_[6543,12633]... *
+>Cluster 938
+0	6085nt, >scaffold_5_(dbseq-nr_4)_[169160,175244]... *
+>Cluster 939
+0	6083nt, >scaffold_19_(dbseq-nr_18)_[245194,251276]... *
+>Cluster 940
+0	6081nt, >scaffold_534_(dbseq-nr_533)_[26069,32149]... *
+>Cluster 941
+0	6066nt, >scaffold_276_(dbseq-nr_275)_[41555,47620]... *
+>Cluster 942
+0	6066nt, >scaffold_498_(dbseq-nr_497)_[32055,38120]... *
+>Cluster 943
+0	6059nt, >scaffold_4_(dbseq-nr_3)_[333816,339874]... *
+>Cluster 944
+0	6049nt, >scaffold_510_(dbseq-nr_509)_[24858,30906]... *
+>Cluster 945
+0	6047nt, >scaffold_3_(dbseq-nr_2)_[136784,142830]... *
+>Cluster 946
+0	6046nt, >scaffold_364_(dbseq-nr_363)_[45291,51336]... *
+>Cluster 947
+0	6045nt, >scaffold_712_(dbseq-nr_711)_[5590,11634]... *
+>Cluster 948
+0	6042nt, >scaffold_715_(dbseq-nr_714)_[74,6115]... *
+>Cluster 949
+0	6025nt, >scaffold_42_(dbseq-nr_41)_[73422,79446]... *
+>Cluster 950
+0	6022nt, >scaffold_381_(dbseq-nr_380)_[37019,43040]... *
+>Cluster 951
+0	6011nt, >scaffold_340_(dbseq-nr_339)_[4093,10103]... *
+>Cluster 952
+0	6010nt, >scaffold_296_(dbseq-nr_295)_[54847,60856]... *
+>Cluster 953
+0	6008nt, >scaffold_33_(dbseq-nr_32)_[150602,156609]... *
+>Cluster 954
+0	6006nt, >scaffold_121_(dbseq-nr_120)_[59939,65944]... *
+>Cluster 955
+0	5992nt, >scaffold_27_(dbseq-nr_26)_[8385,14376]... *
+>Cluster 956
+0	5989nt, >scaffold_78_(dbseq-nr_77)_[32913,38901]... *
+>Cluster 957
+0	5972nt, >scaffold_35_(dbseq-nr_34)_[179012,184983]... *
+>Cluster 958
+0	5965nt, >scaffold_309_(dbseq-nr_308)_[69188,75152]... *
+>Cluster 959
+0	5960nt, >scaffold_505_(dbseq-nr_504)_[8079,14038]... *
+>Cluster 960
+0	5958nt, >scaffold_545_(dbseq-nr_544)_[21918,27875]... *
+>Cluster 961
+0	5951nt, >scaffold_356_(dbseq-nr_355)_[28184,34134]... *
+>Cluster 962
+0	5942nt, >scaffold_767_(dbseq-nr_766)_[3302,9243]... *
+>Cluster 963
+0	5939nt, >scaffold_479_(dbseq-nr_478)_[9892,15830]... *
+>Cluster 964
+0	5934nt, >scaffold_430_(dbseq-nr_429)_[16931,22864]... *
+>Cluster 965
+0	5933nt, >scaffold_255_(dbseq-nr_254)_[68741,74673]... *
+>Cluster 966
+0	5919nt, >scaffold_133_(dbseq-nr_132)_[47664,53582]... *
+>Cluster 967
+0	5917nt, >scaffold_22_(dbseq-nr_21)_[80755,86671]... *
+>Cluster 968
+0	5906nt, >scaffold_12_(dbseq-nr_11)_[179165,185070]... *
+>Cluster 969
+0	5905nt, >scaffold_96_(dbseq-nr_95)_[131008,136912]... *
+>Cluster 970
+0	5899nt, >scaffold_272_(dbseq-nr_271)_[79353,85251]... *
+>Cluster 971
+0	5894nt, >scaffold_363_(dbseq-nr_362)_[47692,53585]... *
+>Cluster 972
+0	5891nt, >scaffold_323_(dbseq-nr_322)_[31088,36978]... *
+>Cluster 973
+0	5872nt, >scaffold_365_(dbseq-nr_364)_[31554,37425]... *
+>Cluster 974
+0	5869nt, >scaffold_6_(dbseq-nr_5)_[227435,233303]... *
+>Cluster 975
+0	5869nt, >scaffold_61_(dbseq-nr_60)_[177516,183384]... *
+>Cluster 976
+0	5865nt, >scaffold_245_(dbseq-nr_244)_[22650,28514]... *
+>Cluster 977
+0	5864nt, >scaffold_684_(dbseq-nr_683)_[1302,7165]... *
+>Cluster 978
+0	5859nt, >scaffold_442_(dbseq-nr_441)_[3882,9740]... *
+>Cluster 979
+0	5838nt, >scaffold_61_(dbseq-nr_60)_[197772,203609]... *
+>Cluster 980
+0	5826nt, >scaffold_316_(dbseq-nr_315)_[7880,13705]... *
+>Cluster 981
+0	5823nt, >scaffold_256_(dbseq-nr_255)_[807,6629]... *
+>Cluster 982
+0	5818nt, >scaffold_48_(dbseq-nr_47)_[111625,117442]... *
+>Cluster 983
+0	5812nt, >scaffold_389_(dbseq-nr_388)_[52298,58109]... *
+>Cluster 984
+0	5788nt, >scaffold_341_(dbseq-nr_340)_[63921,69708]... *
+>Cluster 985
+0	5780nt, >scaffold_14_(dbseq-nr_13)_[106021,111800]... *
+>Cluster 986
+0	5777nt, >scaffold_136_(dbseq-nr_135)_[66727,72503]... *
+>Cluster 987
+0	5757nt, >scaffold_10_(dbseq-nr_9)_[28908,34664]... *
+>Cluster 988
+0	5755nt, >scaffold_444_(dbseq-nr_443)_[14511,20265]... *
+>Cluster 989
+0	5752nt, >scaffold_447_(dbseq-nr_446)_[45212,50963]... *
+>Cluster 990
+0	5748nt, >scaffold_48_(dbseq-nr_47)_[237526,243273]... *
+>Cluster 991
+0	5748nt, >scaffold_439_(dbseq-nr_438)_[14386,20133]... *
+>Cluster 992
+0	5739nt, >scaffold_288_(dbseq-nr_287)_[35183,40921]... *
+>Cluster 993
+0	5738nt, >scaffold_291_(dbseq-nr_290)_[79578,85315]... *
+>Cluster 994
+0	5736nt, >scaffold_49_(dbseq-nr_48)_[199822,205557]... *
+>Cluster 995
+0	5722nt, >scaffold_253_(dbseq-nr_252)_[53138,58859]... *
+>Cluster 996
+0	5718nt, >scaffold_119_(dbseq-nr_118)_[82305,88022]... *
+>Cluster 997
+0	5717nt, >scaffold_54_(dbseq-nr_53)_[181028,186744]... *
+>Cluster 998
+0	5165nt, >scaffold_169_(dbseq-nr_168)_[22545,27709]... at -/96.42%
+1	5717nt, >scaffold_188_(dbseq-nr_187)_[121861,127577]... *
+>Cluster 999
+0	5713nt, >scaffold_1_(dbseq-nr_0)_[535087,540799]... *
+>Cluster 1000
+0	5710nt, >scaffold_19_(dbseq-nr_18)_[19803,25512]... *
+>Cluster 1001
+0	5701nt, >scaffold_284_(dbseq-nr_283)_[52766,58466]... *
+>Cluster 1002
+0	5693nt, >scaffold_99_(dbseq-nr_98)_[159079,164771]... *
+>Cluster 1003
+0	5689nt, >scaffold_133_(dbseq-nr_132)_[137622,143310]... *
+>Cluster 1004
+0	5685nt, >scaffold_615_(dbseq-nr_614)_[6441,12125]... *
+>Cluster 1005
+0	5665nt, >scaffold_183_(dbseq-nr_182)_[67292,72956]... *
+>Cluster 1006
+0	5663nt, >scaffold_100_(dbseq-nr_99)_[99475,105137]... *
+>Cluster 1007
+0	5652nt, >scaffold_77_(dbseq-nr_76)_[41862,47513]... *
+>Cluster 1008
+0	5652nt, >scaffold_336_(dbseq-nr_335)_[72892,78543]... *
+>Cluster 1009
+0	5650nt, >scaffold_542_(dbseq-nr_541)_[10875,16524]... *
+>Cluster 1010
+0	5639nt, >scaffold_126_(dbseq-nr_125)_[52434,58072]... *
+>Cluster 1011
+0	5636nt, >scaffold_34_(dbseq-nr_33)_[174259,179894]... *
+>Cluster 1012
+0	5636nt, >scaffold_293_(dbseq-nr_292)_[10079,15714]... *
+>Cluster 1013
+0	5627nt, >scaffold_154_(dbseq-nr_153)_[36213,41839]... *
+>Cluster 1014
+0	5621nt, >scaffold_225_(dbseq-nr_224)_[39930,45550]... *
+>Cluster 1015
+0	5614nt, >scaffold_92_(dbseq-nr_91)_[55270,60883]... *
+>Cluster 1016
+0	5612nt, >scaffold_23_(dbseq-nr_22)_[284264,289875]... *
+>Cluster 1017
+0	5595nt, >scaffold_275_(dbseq-nr_274)_[35370,40964]... *
+>Cluster 1018
+0	5582nt, >scaffold_234_(dbseq-nr_233)_[5724,11305]... *
+>Cluster 1019
+0	5576nt, >scaffold_155_(dbseq-nr_154)_[35937,41512]... *
+>Cluster 1020
+0	5575nt, >scaffold_366_(dbseq-nr_365)_[27305,32879]... *
+>Cluster 1021
+0	5571nt, >scaffold_288_(dbseq-nr_287)_[62292,67862]... *
+>Cluster 1022
+0	5571nt, >scaffold_301_(dbseq-nr_300)_[53573,59143]... *
+>Cluster 1023
+0	5562nt, >scaffold_669_(dbseq-nr_668)_[2815,8376]... *
+>Cluster 1024
+0	5553nt, >scaffold_4_(dbseq-nr_3)_[389244,394796]... *
+>Cluster 1025
+0	5551nt, >scaffold_194_(dbseq-nr_193)_[16625,22175]... *
+>Cluster 1026
+0	5546nt, >scaffold_518_(dbseq-nr_517)_[7572,13117]... *
+>Cluster 1027
+0	5545nt, >scaffold_520_(dbseq-nr_519)_[1843,7387]... *
+>Cluster 1028
+0	5540nt, >scaffold_91_(dbseq-nr_90)_[122040,127579]... *
+>Cluster 1029
+0	5532nt, >scaffold_116_(dbseq-nr_115)_[44649,50180]... *
+>Cluster 1030
+0	5532nt, >scaffold_135_(dbseq-nr_134)_[109072,114603]... *
+>Cluster 1031
+0	5527nt, >scaffold_43_(dbseq-nr_42)_[30665,36191]... *
+>Cluster 1032
+0	5517nt, >scaffold_52_(dbseq-nr_51)_[19962,25478]... *
+>Cluster 1033
+0	5503nt, >scaffold_44_(dbseq-nr_43)_[194949,200451]... *
+>Cluster 1034
+0	5500nt, >scaffold_189_(dbseq-nr_188)_[62539,68038]... *
+>Cluster 1035
+0	5495nt, >scaffold_40_(dbseq-nr_39)_[174969,180463]... *
+>Cluster 1036
+0	5492nt, >scaffold_42_(dbseq-nr_41)_[157250,162741]... *
+>Cluster 1037
+0	5489nt, >scaffold_28_(dbseq-nr_27)_[238533,244021]... *
+>Cluster 1038
+0	5486nt, >scaffold_9_(dbseq-nr_8)_[381750,387235]... *
+>Cluster 1039
+0	5483nt, >scaffold_115_(dbseq-nr_114)_[94695,100177]... *
+>Cluster 1040
+0	5483nt, >scaffold_178_(dbseq-nr_177)_[128105,133587]... *
+>Cluster 1041
+0	5474nt, >scaffold_67_(dbseq-nr_66)_[48470,53943]... *
+>Cluster 1042
+0	5472nt, >scaffold_7_(dbseq-nr_6)_[407810,413281]... *
+>Cluster 1043
+0	5469nt, >scaffold_136_(dbseq-nr_135)_[130840,136308]... *
+>Cluster 1044
+0	5468nt, >scaffold_2_(dbseq-nr_1)_[391961,397428]... *
+>Cluster 1045
+0	5467nt, >scaffold_6_(dbseq-nr_5)_[405002,410468]... *
+>Cluster 1046
+0	5467nt, >scaffold_119_(dbseq-nr_118)_[110509,115975]... *
+>Cluster 1047
+0	5456nt, >scaffold_371_(dbseq-nr_370)_[49488,54943]... *
+>Cluster 1048
+0	5456nt, >scaffold_430_(dbseq-nr_429)_[38407,43862]... *
+>Cluster 1049
+0	5443nt, >scaffold_125_(dbseq-nr_124)_[22053,27495]... *
+>Cluster 1050
+0	5260nt, >scaffold_458_(dbseq-nr_457)_[30151,35410]... at +/95.61%
+1	5443nt, >scaffold_467_(dbseq-nr_466)_[3365,8807]... *
+>Cluster 1051
+0	5438nt, >scaffold_32_(dbseq-nr_31)_[50451,55888]... *
+>Cluster 1052
+0	5433nt, >scaffold_26_(dbseq-nr_25)_[297450,302882]... *
+>Cluster 1053
+0	5433nt, >scaffold_226_(dbseq-nr_225)_[101736,107168]... *
+>Cluster 1054
+0	5426nt, >scaffold_346_(dbseq-nr_345)_[35828,41253]... *
+>Cluster 1055
+0	5421nt, >scaffold_358_(dbseq-nr_357)_[13031,18451]... *
+>Cluster 1056
+0	5416nt, >scaffold_513_(dbseq-nr_512)_[17722,23137]... *
+>Cluster 1057
+0	5395nt, >scaffold_162_(dbseq-nr_161)_[99845,105239]... *
+>Cluster 1058
+0	5391nt, >scaffold_225_(dbseq-nr_224)_[97967,103357]... *
+>Cluster 1059
+0	5383nt, >scaffold_314_(dbseq-nr_313)_[9780,15162]... *
+>Cluster 1060
+0	5370nt, >scaffold_165_(dbseq-nr_164)_[112797,118166]... *
+>Cluster 1061
+0	5366nt, >scaffold_16_(dbseq-nr_15)_[162431,167796]... *
+>Cluster 1062
+0	5360nt, >scaffold_223_(dbseq-nr_222)_[81024,86383]... *
+>Cluster 1063
+0	5349nt, >scaffold_3_(dbseq-nr_2)_[295128,300476]... *
+>Cluster 1064
+0	5345nt, >scaffold_191_(dbseq-nr_190)_[113256,118600]... *
+>Cluster 1065
+0	5345nt, >scaffold_467_(dbseq-nr_466)_[37833,43177]... *
+>Cluster 1066
+0	5334nt, >scaffold_231_(dbseq-nr_230)_[71688,77021]... *
+>Cluster 1067
+0	5332nt, >scaffold_20_(dbseq-nr_19)_[296111,301442]... *
+>Cluster 1068
+0	5330nt, >scaffold_27_(dbseq-nr_26)_[153438,158767]... *
+>Cluster 1069
+0	5330nt, >scaffold_216_(dbseq-nr_215)_[76165,81494]... *
+>Cluster 1070
+0	5330nt, >scaffold_353_(dbseq-nr_352)_[64148,69477]... *
+>Cluster 1071
+0	5330nt, >scaffold_524_(dbseq-nr_523)_[18995,24324]... *
+>Cluster 1072
+0	5317nt, >scaffold_668_(dbseq-nr_667)_[10332,15648]... *
+>Cluster 1073
+0	5314nt, >scaffold_24_(dbseq-nr_23)_[17096,22409]... *
+>Cluster 1074
+0	5309nt, >scaffold_384_(dbseq-nr_383)_[33442,38750]... *
+>Cluster 1075
+0	5303nt, >scaffold_414_(dbseq-nr_413)_[19735,25037]... *
+>Cluster 1076
+0	5303nt, >scaffold_488_(dbseq-nr_487)_[15929,21231]... *
+>Cluster 1077
+0	5301nt, >scaffold_157_(dbseq-nr_156)_[36289,41589]... *
+>Cluster 1078
+0	5301nt, >scaffold_400_(dbseq-nr_399)_[8857,14157]... *
+>Cluster 1079
+0	5290nt, >scaffold_183_(dbseq-nr_182)_[114097,119386]... *
+>Cluster 1080
+0	5288nt, >scaffold_11_(dbseq-nr_10)_[240973,246260]... *
+>Cluster 1081
+0	5286nt, >scaffold_44_(dbseq-nr_43)_[6622,11907]... *
+>Cluster 1082
+0	5284nt, >scaffold_241_(dbseq-nr_240)_[88683,93966]... *
+>Cluster 1083
+0	5284nt, >scaffold_259_(dbseq-nr_258)_[28813,34096]... *
+1	5279nt, >scaffold_348_(dbseq-nr_347)_[25073,30351]... at +/99.73%
+2	5220nt, >scaffold_549_(dbseq-nr_548)_[14044,19263]... at -/99.73%
+>Cluster 1084
+0	5279nt, >scaffold_446_(dbseq-nr_445)_[37292,42570]... *
+>Cluster 1085
+0	5277nt, >scaffold_21_(dbseq-nr_20)_[328351,333627]... *
+>Cluster 1086
+0	5275nt, >scaffold_691_(dbseq-nr_690)_[3823,9097]... *
+>Cluster 1087
+0	5269nt, >scaffold_352_(dbseq-nr_351)_[9775,15043]... *
+>Cluster 1088
+0	5265nt, >scaffold_33_(dbseq-nr_32)_[107341,112605]... *
+>Cluster 1089
+0	5255nt, >scaffold_36_(dbseq-nr_35)_[83678,88932]... *
+>Cluster 1090
+0	5251nt, >scaffold_333_(dbseq-nr_332)_[3028,8278]... *
+>Cluster 1091
+0	5246nt, >scaffold_154_(dbseq-nr_153)_[128954,134199]... *
+>Cluster 1092
+0	5243nt, >scaffold_379_(dbseq-nr_378)_[55187,60429]... *
+>Cluster 1093
+0	5243nt, >scaffold_581_(dbseq-nr_580)_[16447,21689]... *
+>Cluster 1094
+0	5243nt, >scaffold_737_(dbseq-nr_736)_[627,5869]... *
+>Cluster 1095
+0	5239nt, >scaffold_601_(dbseq-nr_600)_[1608,6846]... *
+>Cluster 1096
+0	5231nt, >scaffold_42_(dbseq-nr_41)_[30394,35624]... *
+>Cluster 1097
+0	5225nt, >scaffold_271_(dbseq-nr_270)_[89638,94862]... *
+>Cluster 1098
+0	5225nt, >scaffold_363_(dbseq-nr_362)_[58054,63278]... *
+>Cluster 1099
+0	5224nt, >scaffold_686_(dbseq-nr_685)_[4095,9318]... *
+>Cluster 1100
+0	5222nt, >scaffold_37_(dbseq-nr_36)_[261855,267076]... *
+>Cluster 1101
+0	5222nt, >scaffold_591_(dbseq-nr_590)_[15750,20971]... *
+>Cluster 1102
+0	5219nt, >scaffold_267_(dbseq-nr_266)_[88475,93693]... *
+>Cluster 1103
+0	5219nt, >scaffold_285_(dbseq-nr_284)_[17469,22687]... *
+>Cluster 1104
+0	5212nt, >scaffold_133_(dbseq-nr_132)_[77531,82742]... *
+>Cluster 1105
+0	5198nt, >scaffold_125_(dbseq-nr_124)_[151713,156910]... at +/96.23%
+1	5211nt, >scaffold_322_(dbseq-nr_321)_[32249,37459]... *
+>Cluster 1106
+0	5200nt, >scaffold_692_(dbseq-nr_691)_[1698,6897]... *
+>Cluster 1107
+0	5196nt, >scaffold_38_(dbseq-nr_37)_[212264,217459]... *
+>Cluster 1108
+0	5193nt, >scaffold_75_(dbseq-nr_74)_[178811,184003]... *
+>Cluster 1109
+0	5187nt, >scaffold_305_(dbseq-nr_304)_[45478,50664]... *
+>Cluster 1110
+0	5185nt, >scaffold_149_(dbseq-nr_148)_[45815,50999]... *
+>Cluster 1111
+0	5183nt, >scaffold_213_(dbseq-nr_212)_[74060,79242]... *
+>Cluster 1112
+0	5162nt, >scaffold_15_(dbseq-nr_14)_[182734,187895]... *
+>Cluster 1113
+0	5162nt, >scaffold_308_(dbseq-nr_307)_[25042,30203]... *
+>Cluster 1114
+0	5134nt, >scaffold_98_(dbseq-nr_97)_[56963,62096]... at -/97.47%
+1	4660nt, >scaffold_151_(dbseq-nr_150)_[135218,139877]... at -/99.64%
+2	5148nt, >scaffold_316_(dbseq-nr_315)_[1293,6440]... at -/97.63%
+3	5157nt, >scaffold_543_(dbseq-nr_542)_[24651,29807]... *
+4	5156nt, >scaffold_637_(dbseq-nr_636)_[15179,20334]... at +/98.14%
+>Cluster 1115
+0	5155nt, >scaffold_308_(dbseq-nr_307)_[55346,60500]... *
+>Cluster 1116
+0	5145nt, >scaffold_29_(dbseq-nr_28)_[137016,142160]... *
+>Cluster 1117
+0	5143nt, >scaffold_344_(dbseq-nr_343)_[9680,14822]... *
+>Cluster 1118
+0	5131nt, >scaffold_904_(dbseq-nr_903)_[5,5135]... *
+>Cluster 1119
+0	5127nt, >scaffold_96_(dbseq-nr_95)_[65436,70562]... *
+>Cluster 1120
+0	5126nt, >scaffold_585_(dbseq-nr_584)_[3526,8651]... *
+>Cluster 1121
+0	5124nt, >scaffold_16_(dbseq-nr_15)_[212692,217815]... *
+1	4763nt, >scaffold_110_(dbseq-nr_109)_[89222,93984]... at -/97.12%
+>Cluster 1122
+0	5124nt, >scaffold_235_(dbseq-nr_234)_[12795,17918]... *
+>Cluster 1123
+0	5120nt, >scaffold_362_(dbseq-nr_361)_[2563,7682]... *
+>Cluster 1124
+0	5119nt, >scaffold_34_(dbseq-nr_33)_[20777,25895]... *
+>Cluster 1125
+0	5113nt, >scaffold_361_(dbseq-nr_360)_[2544,7656]... *
+>Cluster 1126
+0	5111nt, >scaffold_79_(dbseq-nr_78)_[186860,191970]... *
+>Cluster 1127
+0	5110nt, >scaffold_40_(dbseq-nr_39)_[187481,192590]... *
+>Cluster 1128
+0	5094nt, >scaffold_14_(dbseq-nr_13)_[80934,86027]... *
+1	5084nt, >scaffold_731_(dbseq-nr_730)_[6237,11320]... at +/99.72%
+>Cluster 1129
+0	5089nt, >scaffold_3_(dbseq-nr_2)_[445110,450198]... *
+>Cluster 1130
+0	5088nt, >scaffold_162_(dbseq-nr_161)_[62333,67420]... *
+>Cluster 1131
+0	5083nt, >scaffold_24_(dbseq-nr_23)_[204544,209626]... *
+>Cluster 1132
+0	5074nt, >scaffold_206_(dbseq-nr_205)_[32199,37272]... *
+>Cluster 1133
+0	5063nt, >scaffold_56_(dbseq-nr_55)_[121546,126608]... *
+>Cluster 1134
+0	5058nt, >scaffold_304_(dbseq-nr_303)_[73474,78531]... *
+>Cluster 1135
+0	5056nt, >scaffold_121_(dbseq-nr_120)_[12932,17987]... *
+>Cluster 1136
+0	5051nt, >scaffold_20_(dbseq-nr_19)_[126499,131549]... *
+>Cluster 1137
+0	5048nt, >scaffold_760_(dbseq-nr_759)_[1305,6352]... *
+>Cluster 1138
+0	5041nt, >scaffold_160_(dbseq-nr_159)_[35317,40357]... *
+>Cluster 1139
+0	5039nt, >scaffold_313_(dbseq-nr_312)_[50384,55422]... *
+>Cluster 1140
+0	5037nt, >scaffold_118_(dbseq-nr_117)_[148572,153608]... *
+>Cluster 1141
+0	5032nt, >scaffold_6_(dbseq-nr_5)_[151568,156599]... *
+>Cluster 1142
+0	5019nt, >scaffold_862_(dbseq-nr_861)_[1161,6179]... *
+>Cluster 1143
+0	5010nt, >scaffold_572_(dbseq-nr_571)_[1126,6135]... *
+>Cluster 1144
+0	5004nt, >scaffold_183_(dbseq-nr_182)_[91824,96827]... *
+>Cluster 1145
+0	4998nt, >scaffold_146_(dbseq-nr_145)_[49691,54688]... *
+>Cluster 1146
+0	4990nt, >scaffold_469_(dbseq-nr_468)_[4506,9495]... *
+>Cluster 1147
+0	4981nt, >scaffold_96_(dbseq-nr_95)_[159696,164676]... *
+>Cluster 1148
+0	4980nt, >scaffold_213_(dbseq-nr_212)_[91409,96388]... *
+>Cluster 1149
+0	4978nt, >scaffold_723_(dbseq-nr_722)_[6909,11886]... *
+>Cluster 1150
+0	4977nt, >scaffold_736_(dbseq-nr_735)_[4309,9285]... *
+>Cluster 1151
+0	4974nt, >scaffold_73_(dbseq-nr_72)_[195028,200001]... *
+>Cluster 1152
+0	4971nt, >scaffold_250_(dbseq-nr_249)_[1677,6647]... *
+>Cluster 1153
+0	4966nt, >scaffold_129_(dbseq-nr_128)_[93359,98324]... *
+>Cluster 1154
+0	4965nt, >scaffold_17_(dbseq-nr_16)_[234206,239170]... *
+>Cluster 1155
+0	4953nt, >scaffold_401_(dbseq-nr_400)_[41279,46231]... *
+>Cluster 1156
+0	4952nt, >scaffold_54_(dbseq-nr_53)_[203517,208468]... *
+>Cluster 1157
+0	4950nt, >scaffold_363_(dbseq-nr_362)_[15727,20676]... *
+>Cluster 1158
+0	4948nt, >scaffold_377_(dbseq-nr_376)_[13016,17963]... *
+>Cluster 1159
+0	4943nt, >scaffold_407_(dbseq-nr_406)_[32641,37583]... *
+>Cluster 1160
+0	4934nt, >scaffold_240_(dbseq-nr_239)_[75011,79944]... *
+>Cluster 1161
+0	4929nt, >scaffold_45_(dbseq-nr_44)_[173294,178222]... *
+>Cluster 1162
+0	4929nt, >scaffold_76_(dbseq-nr_75)_[3712,8640]... *
+>Cluster 1163
+0	4929nt, >scaffold_546_(dbseq-nr_545)_[17370,22298]... *
+>Cluster 1164
+0	4927nt, >scaffold_67_(dbseq-nr_66)_[13077,18003]... *
+>Cluster 1165
+0	4916nt, >scaffold_132_(dbseq-nr_131)_[144952,149867]... *
+>Cluster 1166
+0	4904nt, >scaffold_444_(dbseq-nr_443)_[41728,46631]... *
+>Cluster 1167
+0	4894nt, >scaffold_72_(dbseq-nr_71)_[153820,158713]... *
+>Cluster 1168
+0	4893nt, >scaffold_18_(dbseq-nr_17)_[125065,129957]... *
+>Cluster 1169
+0	4893nt, >scaffold_150_(dbseq-nr_149)_[94789,99681]... *
+>Cluster 1170
+0	4888nt, >scaffold_753_(dbseq-nr_752)_[1765,6652]... *
+>Cluster 1171
+0	4885nt, >scaffold_212_(dbseq-nr_211)_[107632,112516]... *
+>Cluster 1172
+0	4883nt, >scaffold_81_(dbseq-nr_80)_[94726,99608]... *
+>Cluster 1173
+0	4876nt, >scaffold_97_(dbseq-nr_96)_[18396,23271]... *
+>Cluster 1174
+0	4875nt, >scaffold_245_(dbseq-nr_244)_[99357,104231]... *
+>Cluster 1175
+0	4873nt, >scaffold_20_(dbseq-nr_19)_[202027,206899]... *
+>Cluster 1176
+0	4859nt, >scaffold_55_(dbseq-nr_54)_[4090,8948]... *
+>Cluster 1177
+0	4848nt, >scaffold_24_(dbseq-nr_23)_[163083,167930]... *
+>Cluster 1178
+0	4848nt, >scaffold_218_(dbseq-nr_217)_[93999,98846]... *
+>Cluster 1179
+0	4843nt, >scaffold_322_(dbseq-nr_321)_[57406,62248]... *
+>Cluster 1180
+0	4839nt, >scaffold_523_(dbseq-nr_522)_[22072,26910]... *
+>Cluster 1181
+0	4833nt, >scaffold_501_(dbseq-nr_500)_[202,5034]... *
+>Cluster 1182
+0	4822nt, >scaffold_107_(dbseq-nr_106)_[100212,105033]... *
+>Cluster 1183
+0	4816nt, >scaffold_318_(dbseq-nr_317)_[37635,42450]... *
+>Cluster 1184
+0	4814nt, >scaffold_292_(dbseq-nr_291)_[49258,54071]... *
+>Cluster 1185
+0	4811nt, >scaffold_378_(dbseq-nr_377)_[647,5457]... *
+>Cluster 1186
+0	4810nt, >scaffold_22_(dbseq-nr_21)_[332846,337655]... *
+>Cluster 1187
+0	4804nt, >scaffold_624_(dbseq-nr_623)_[11218,16021]... *
+>Cluster 1188
+0	4797nt, >scaffold_333_(dbseq-nr_332)_[14334,19130]... *
+>Cluster 1189
+0	4781nt, >scaffold_28_(dbseq-nr_27)_[21503,26283]... *
+>Cluster 1190
+0	4772nt, >scaffold_721_(dbseq-nr_720)_[6089,10860]... *
+>Cluster 1191
+0	4758nt, >scaffold_17_(dbseq-nr_16)_[260595,265352]... *
+1	4749nt, >scaffold_305_(dbseq-nr_304)_[37759,42507]... at +/99.92%
+>Cluster 1192
+0	4757nt, >scaffold_279_(dbseq-nr_278)_[5145,9901]... *
+>Cluster 1193
+0	4756nt, >scaffold_62_(dbseq-nr_61)_[75630,80385]... *
+>Cluster 1194
+0	4754nt, >scaffold_131_(dbseq-nr_130)_[4640,9393]... *
+>Cluster 1195
+0	4749nt, >scaffold_122_(dbseq-nr_121)_[137425,142173]... *
+>Cluster 1196
+0	4728nt, >scaffold_38_(dbseq-nr_37)_[238327,243054]... *
+>Cluster 1197
+0	4725nt, >scaffold_36_(dbseq-nr_35)_[268376,273100]... *
+>Cluster 1198
+0	4719nt, >scaffold_8_(dbseq-nr_7)_[4100,8818]... *
+>Cluster 1199
+0	4709nt, >scaffold_225_(dbseq-nr_224)_[57364,62072]... *
+>Cluster 1200
+0	4708nt, >scaffold_1_(dbseq-nr_0)_[106933,111640]... *
+>Cluster 1201
+0	4704nt, >scaffold_167_(dbseq-nr_166)_[113890,118593]... *
+>Cluster 1202
+0	4685nt, >scaffold_100_(dbseq-nr_99)_[76986,81670]... *
+>Cluster 1203
+0	4678nt, >scaffold_141_(dbseq-nr_140)_[6227,10904]... *
+>Cluster 1204
+0	4663nt, >scaffold_32_(dbseq-nr_31)_[121633,126295]... *
+>Cluster 1205
+0	4659nt, >scaffold_43_(dbseq-nr_42)_[229508,234166]... *
+>Cluster 1206
+0	4655nt, >scaffold_27_(dbseq-nr_26)_[217802,222456]... *
+>Cluster 1207
+0	4650nt, >scaffold_450_(dbseq-nr_449)_[8658,13307]... *
+>Cluster 1208
+0	4626nt, >scaffold_618_(dbseq-nr_617)_[1109,5734]... *
+>Cluster 1209
+0	4624nt, >scaffold_11_(dbseq-nr_10)_[177890,182513]... *
+>Cluster 1210
+0	4609nt, >scaffold_74_(dbseq-nr_73)_[170756,175364]... *
+>Cluster 1211
+0	4605nt, >scaffold_246_(dbseq-nr_245)_[82737,87341]... *
+1	4517nt, >scaffold_660_(dbseq-nr_659)_[6978,11494]... at +/99.56%
+>Cluster 1212
+0	4603nt, >scaffold_29_(dbseq-nr_28)_[123392,127994]... *
+>Cluster 1213
+0	4601nt, >scaffold_209_(dbseq-nr_208)_[959,5559]... *
+>Cluster 1214
+0	4600nt, >scaffold_127_(dbseq-nr_126)_[29710,34309]... *
+>Cluster 1215
+0	4595nt, >scaffold_2_(dbseq-nr_1)_[487268,491862]... *
+>Cluster 1216
+0	4592nt, >scaffold_351_(dbseq-nr_350)_[3303,7894]... *
+>Cluster 1217
+0	4589nt, >scaffold_472_(dbseq-nr_471)_[17553,22141]... *
+>Cluster 1218
+0	4587nt, >scaffold_69_(dbseq-nr_68)_[17441,22027]... *
+>Cluster 1219
+0	4587nt, >scaffold_150_(dbseq-nr_149)_[69909,74495]... *
+>Cluster 1220
+0	4574nt, >scaffold_552_(dbseq-nr_551)_[27519,32092]... *
+>Cluster 1221
+0	4573nt, >scaffold_158_(dbseq-nr_157)_[14401,18973]... *
+>Cluster 1222
+0	4570nt, >scaffold_20_(dbseq-nr_19)_[142472,147041]... *
+>Cluster 1223
+0	4570nt, >scaffold_62_(dbseq-nr_61)_[110304,114873]... *
+>Cluster 1224
+0	4570nt, >scaffold_195_(dbseq-nr_194)_[2135,6704]... *
+>Cluster 1225
+0	4570nt, >scaffold_243_(dbseq-nr_242)_[49849,54418]... *
+>Cluster 1226
+0	4570nt, >scaffold_530_(dbseq-nr_529)_[2477,7046]... *
+>Cluster 1227
+0	4560nt, >scaffold_424_(dbseq-nr_423)_[19535,24094]... *
+>Cluster 1228
+0	4552nt, >scaffold_247_(dbseq-nr_246)_[80232,84783]... *
+>Cluster 1229
+0	4552nt, >scaffold_458_(dbseq-nr_457)_[43957,48508]... *
+>Cluster 1230
+0	4546nt, >scaffold_642_(dbseq-nr_641)_[1775,6320]... *
+>Cluster 1231
+0	4535nt, >scaffold_266_(dbseq-nr_265)_[66928,71462]... *
+>Cluster 1232
+0	4528nt, >scaffold_39_(dbseq-nr_38)_[56431,60958]... *
+>Cluster 1233
+0	4528nt, >scaffold_83_(dbseq-nr_82)_[140328,144855]... *
+>Cluster 1234
+0	4526nt, >scaffold_219_(dbseq-nr_218)_[79072,83597]... *
+>Cluster 1235
+0	4524nt, >scaffold_113_(dbseq-nr_112)_[85694,90217]... *
+>Cluster 1236
+0	4522nt, >scaffold_315_(dbseq-nr_314)_[52203,56724]... *
+>Cluster 1237
+0	4503nt, >scaffold_16_(dbseq-nr_15)_[151646,156148]... *
+>Cluster 1238
+0	4500nt, >scaffold_132_(dbseq-nr_131)_[65804,70303]... *
+>Cluster 1239
+0	4496nt, >scaffold_7_(dbseq-nr_6)_[287618,292113]... *
+>Cluster 1240
+0	4496nt, >scaffold_528_(dbseq-nr_527)_[1432,5927]... *
+>Cluster 1241
+0	4492nt, >scaffold_65_(dbseq-nr_64)_[82108,86599]... *
+>Cluster 1242
+0	4478nt, >scaffold_23_(dbseq-nr_22)_[238525,243002]... *
+>Cluster 1243
+0	4477nt, >scaffold_55_(dbseq-nr_54)_[33792,38268]... *
+>Cluster 1244
+0	4477nt, >scaffold_157_(dbseq-nr_156)_[108936,113412]... *
+>Cluster 1245
+0	4472nt, >scaffold_695_(dbseq-nr_694)_[6775,11246]... *
+>Cluster 1246
+0	4465nt, >scaffold_296_(dbseq-nr_295)_[27683,32147]... *
+>Cluster 1247
+0	4460nt, >scaffold_159_(dbseq-nr_158)_[69973,74432]... *
+>Cluster 1248
+0	4459nt, >scaffold_131_(dbseq-nr_130)_[86067,90525]... *
+>Cluster 1249
+0	4459nt, >scaffold_400_(dbseq-nr_399)_[577,5035]... *
+>Cluster 1250
+0	4455nt, >scaffold_315_(dbseq-nr_314)_[20465,24919]... *
+>Cluster 1251
+0	4454nt, >scaffold_118_(dbseq-nr_117)_[92973,97426]... *
+>Cluster 1252
+0	4449nt, >scaffold_623_(dbseq-nr_622)_[5059,9507]... *
+>Cluster 1253
+0	4440nt, >scaffold_231_(dbseq-nr_230)_[32662,37101]... *
+>Cluster 1254
+0	4438nt, >scaffold_916_(dbseq-nr_915)_[351,4788]... *
+>Cluster 1255
+0	4421nt, >scaffold_242_(dbseq-nr_241)_[23926,28346]... *
+>Cluster 1256
+0	4417nt, >scaffold_27_(dbseq-nr_26)_[138367,142783]... *
+>Cluster 1257
+0	4417nt, >scaffold_494_(dbseq-nr_493)_[35611,40027]... *
+>Cluster 1258
+0	4415nt, >scaffold_246_(dbseq-nr_245)_[62687,67101]... *
+>Cluster 1259
+0	4410nt, >scaffold_201_(dbseq-nr_200)_[64393,68802]... *
+>Cluster 1260
+0	4409nt, >scaffold_339_(dbseq-nr_338)_[14775,19183]... *
+>Cluster 1261
+0	4406nt, >scaffold_34_(dbseq-nr_33)_[155374,159779]... *
+>Cluster 1262
+0	4405nt, >scaffold_391_(dbseq-nr_390)_[18533,22937]... *
+>Cluster 1263
+0	4400nt, >scaffold_761_(dbseq-nr_760)_[419,4818]... *
+>Cluster 1264
+0	4395nt, >scaffold_304_(dbseq-nr_303)_[7441,11835]... *
+>Cluster 1265
+0	4368nt, >scaffold_45_(dbseq-nr_44)_[9131,13498]... *
+>Cluster 1266
+0	4366nt, >scaffold_219_(dbseq-nr_218)_[39828,44193]... *
+>Cluster 1267
+0	4357nt, >scaffold_116_(dbseq-nr_115)_[90726,95082]... *
+>Cluster 1268
+0	4352nt, >scaffold_68_(dbseq-nr_67)_[121357,125708]... *
+>Cluster 1269
+0	4350nt, >scaffold_553_(dbseq-nr_552)_[20706,25055]... *
+>Cluster 1270
+0	4349nt, >scaffold_555_(dbseq-nr_554)_[8333,12681]... *
+>Cluster 1271
+0	4348nt, >scaffold_264_(dbseq-nr_263)_[70220,74567]... *
+>Cluster 1272
+0	4344nt, >scaffold_515_(dbseq-nr_514)_[2262,6605]... *
+>Cluster 1273
+0	4318nt, >scaffold_36_(dbseq-nr_35)_[260369,264686]... *
+>Cluster 1274
+0	4313nt, >scaffold_273_(dbseq-nr_272)_[26751,31063]... *
+>Cluster 1275
+0	4312nt, >scaffold_76_(dbseq-nr_75)_[12218,16529]... *
+>Cluster 1276
+0	4312nt, >scaffold_205_(dbseq-nr_204)_[1577,5888]... *
+>Cluster 1277
+0	4309nt, >scaffold_292_(dbseq-nr_291)_[76064,80372]... *
+>Cluster 1278
+0	4309nt, >scaffold_327_(dbseq-nr_326)_[29419,33727]... *
+>Cluster 1279
+0	4305nt, >scaffold_150_(dbseq-nr_149)_[29046,33350]... *
+>Cluster 1280
+0	4303nt, >scaffold_3_(dbseq-nr_2)_[375309,379611]... *
+>Cluster 1281
+0	4303nt, >scaffold_471_(dbseq-nr_470)_[7110,11412]... *
+>Cluster 1282
+0	4292nt, >scaffold_689_(dbseq-nr_688)_[3890,8181]... *
+>Cluster 1283
+0	4289nt, >scaffold_50_(dbseq-nr_49)_[228376,232664]... *
+>Cluster 1284
+0	4285nt, >scaffold_162_(dbseq-nr_161)_[118445,122729]... *
+>Cluster 1285
+0	4281nt, >scaffold_711_(dbseq-nr_710)_[1127,5407]... *
+>Cluster 1286
+0	4272nt, >scaffold_93_(dbseq-nr_92)_[166877,171148]... *
+>Cluster 1287
+0	4267nt, >scaffold_260_(dbseq-nr_259)_[22771,27037]... *
+>Cluster 1288
+0	4263nt, >scaffold_105_(dbseq-nr_104)_[26466,30728]... *
+>Cluster 1289
+0	4240nt, >scaffold_269_(dbseq-nr_268)_[47032,51271]... *
+>Cluster 1290
+0	4233nt, >scaffold_487_(dbseq-nr_486)_[35386,39618]... *
+>Cluster 1291
+0	4232nt, >scaffold_143_(dbseq-nr_142)_[102354,106585]... *
+>Cluster 1292
+0	4220nt, >scaffold_144_(dbseq-nr_143)_[97236,101455]... *
+>Cluster 1293
+0	4218nt, >scaffold_162_(dbseq-nr_161)_[112058,116275]... *
+>Cluster 1294
+0	4215nt, >scaffold_378_(dbseq-nr_377)_[27360,31574]... at +/99.88%
+1	4218nt, >scaffold_490_(dbseq-nr_489)_[31067,35284]... *
+>Cluster 1295
+0	4217nt, >scaffold_532_(dbseq-nr_531)_[29714,33930]... *
+>Cluster 1296
+0	4212nt, >scaffold_63_(dbseq-nr_62)_[40736,44947]... *
+1	3785nt, >scaffold_582_(dbseq-nr_581)_[23200,26984]... at -/97.15%
+>Cluster 1297
+0	4206nt, >scaffold_620_(dbseq-nr_619)_[3305,7510]... *
+>Cluster 1298
+0	4199nt, >scaffold_67_(dbseq-nr_66)_[19590,23788]... *
+>Cluster 1299
+0	4197nt, >scaffold_141_(dbseq-nr_140)_[136812,141008]... *
+>Cluster 1300
+0	4196nt, >scaffold_197_(dbseq-nr_196)_[19550,23745]... *
+>Cluster 1301
+0	4185nt, >scaffold_786_(dbseq-nr_785)_[4060,8244]... *
+>Cluster 1302
+0	4180nt, >scaffold_372_(dbseq-nr_371)_[41581,45760]... *
+>Cluster 1303
+0	4179nt, >scaffold_132_(dbseq-nr_131)_[9619,13797]... *
+>Cluster 1304
+0	4159nt, >scaffold_278_(dbseq-nr_277)_[58613,62771]... *
+>Cluster 1305
+0	4155nt, >scaffold_51_(dbseq-nr_50)_[81412,85566]... *
+>Cluster 1306
+0	4151nt, >scaffold_135_(dbseq-nr_134)_[33349,37499]... *
+>Cluster 1307
+0	4150nt, >scaffold_612_(dbseq-nr_611)_[17518,21667]... *
+>Cluster 1308
+0	4146nt, >scaffold_200_(dbseq-nr_199)_[105936,110081]... *
+>Cluster 1309
+0	4144nt, >scaffold_14_(dbseq-nr_13)_[210255,214398]... *
+>Cluster 1310
+0	4140nt, >scaffold_159_(dbseq-nr_158)_[17984,22123]... *
+>Cluster 1311
+0	4140nt, >scaffold_432_(dbseq-nr_431)_[343,4482]... *
+>Cluster 1312
+0	4135nt, >scaffold_165_(dbseq-nr_164)_[28814,32948]... *
+>Cluster 1313
+0	4135nt, >scaffold_411_(dbseq-nr_410)_[38137,42271]... *
+1	3785nt, >scaffold_770_(dbseq-nr_769)_[6204,9988]... at +/99.60%
+>Cluster 1314
+0	4134nt, >scaffold_101_(dbseq-nr_100)_[23731,27864]... *
+>Cluster 1315
+0	4130nt, >scaffold_111_(dbseq-nr_110)_[163276,167405]... *
+>Cluster 1316
+0	4120nt, >scaffold_119_(dbseq-nr_118)_[9712,13831]... *
+>Cluster 1317
+0	4110nt, >scaffold_356_(dbseq-nr_355)_[23713,27822]... *
+>Cluster 1318
+0	4105nt, >scaffold_81_(dbseq-nr_80)_[71059,75163]... *
+>Cluster 1319
+0	4105nt, >scaffold_270_(dbseq-nr_269)_[80496,84600]... *
+>Cluster 1320
+0	4097nt, >scaffold_258_(dbseq-nr_257)_[723,4819]... *
+>Cluster 1321
+0	4089nt, >scaffold_216_(dbseq-nr_215)_[100365,104453]... *
+>Cluster 1322
+0	4085nt, >scaffold_33_(dbseq-nr_32)_[262327,266411]... *
+>Cluster 1323
+0	4072nt, >scaffold_225_(dbseq-nr_224)_[11029,15100]... *
+>Cluster 1324
+0	4071nt, >scaffold_68_(dbseq-nr_67)_[195243,199313]... *
+>Cluster 1325
+0	4054nt, >scaffold_56_(dbseq-nr_55)_[43318,47371]... *
+>Cluster 1326
+0	4038nt, >scaffold_50_(dbseq-nr_49)_[139484,143521]... *
+>Cluster 1327
+0	4036nt, >scaffold_56_(dbseq-nr_55)_[169972,174007]... *
+>Cluster 1328
+0	4033nt, >scaffold_713_(dbseq-nr_712)_[3364,7396]... *
+>Cluster 1329
+0	4031nt, >scaffold_164_(dbseq-nr_163)_[119167,123197]... *
+>Cluster 1330
+0	4029nt, >scaffold_4_(dbseq-nr_3)_[15081,19109]... *
+>Cluster 1331
+0	4026nt, >scaffold_160_(dbseq-nr_159)_[13867,17892]... *
+>Cluster 1332
+0	4019nt, >scaffold_50_(dbseq-nr_49)_[168463,172481]... *
+>Cluster 1333
+0	4017nt, >scaffold_367_(dbseq-nr_366)_[39437,43453]... *
+>Cluster 1334
+0	4014nt, >scaffold_233_(dbseq-nr_232)_[104872,108885]... *
+>Cluster 1335
+0	4013nt, >scaffold_355_(dbseq-nr_354)_[29532,33544]... *
+>Cluster 1336
+0	3994nt, >scaffold_797_(dbseq-nr_796)_[1554,5547]... *
+>Cluster 1337
+0	3990nt, >scaffold_253_(dbseq-nr_252)_[28651,32640]... *
+>Cluster 1338
+0	3988nt, >scaffold_160_(dbseq-nr_159)_[21539,25526]... *
+>Cluster 1339
+0	3980nt, >scaffold_1_(dbseq-nr_0)_[556457,560436]... *
+>Cluster 1340
+0	3959nt, >scaffold_353_(dbseq-nr_352)_[49522,53480]... *
+>Cluster 1341
+0	3956nt, >scaffold_347_(dbseq-nr_346)_[2273,6228]... *
+>Cluster 1342
+0	3953nt, >scaffold_333_(dbseq-nr_332)_[28372,32324]... *
+>Cluster 1343
+0	3950nt, >scaffold_313_(dbseq-nr_312)_[62424,66373]... *
+>Cluster 1344
+0	3945nt, >scaffold_336_(dbseq-nr_335)_[21983,25927]... *
+>Cluster 1345
+0	3944nt, >scaffold_415_(dbseq-nr_414)_[51871,55814]... *
+>Cluster 1346
+0	3943nt, >scaffold_361_(dbseq-nr_360)_[37912,41854]... *
+>Cluster 1347
+0	3940nt, >scaffold_444_(dbseq-nr_443)_[32176,36115]... *
+>Cluster 1348
+0	3938nt, >scaffold_49_(dbseq-nr_48)_[6979,10916]... *
+>Cluster 1349
+0	3938nt, >scaffold_82_(dbseq-nr_81)_[82021,85958]... *
+>Cluster 1350
+0	3933nt, >scaffold_867_(dbseq-nr_866)_[1349,5281]... *
+>Cluster 1351
+0	3932nt, >scaffold_158_(dbseq-nr_157)_[99725,103656]... *
+>Cluster 1352
+0	3932nt, >scaffold_362_(dbseq-nr_361)_[14590,18521]... *
+>Cluster 1353
+0	3929nt, >scaffold_329_(dbseq-nr_328)_[41387,45315]... *
+>Cluster 1354
+0	3926nt, >scaffold_395_(dbseq-nr_394)_[43741,47666]... *
+>Cluster 1355
+0	3923nt, >scaffold_10_(dbseq-nr_9)_[148253,152175]... *
+>Cluster 1356
+0	3922nt, >scaffold_160_(dbseq-nr_159)_[127516,131437]... *
+>Cluster 1357
+0	3922nt, >scaffold_343_(dbseq-nr_342)_[37600,41521]... *
+>Cluster 1358
+0	3921nt, >scaffold_322_(dbseq-nr_321)_[17178,21098]... *
+>Cluster 1359
+0	3917nt, >scaffold_4_(dbseq-nr_3)_[303923,307839]... *
+>Cluster 1360
+0	3915nt, >scaffold_23_(dbseq-nr_22)_[21284,25198]... *
+>Cluster 1361
+0	3915nt, >scaffold_393_(dbseq-nr_392)_[3017,6931]... *
+>Cluster 1362
+0	3910nt, >scaffold_263_(dbseq-nr_262)_[48425,52334]... *
+>Cluster 1363
+0	3906nt, >scaffold_8_(dbseq-nr_7)_[142412,146317]... *
+>Cluster 1364
+0	3902nt, >scaffold_70_(dbseq-nr_69)_[72845,76746]... *
+>Cluster 1365
+0	3891nt, >scaffold_356_(dbseq-nr_355)_[53983,57873]... *
+>Cluster 1366
+0	3885nt, >scaffold_342_(dbseq-nr_341)_[49437,53321]... *
+>Cluster 1367
+0	3877nt, >scaffold_268_(dbseq-nr_267)_[90042,93918]... *
+>Cluster 1368
+0	3870nt, >scaffold_726_(dbseq-nr_725)_[1217,5086]... *
+>Cluster 1369
+0	3867nt, >scaffold_368_(dbseq-nr_367)_[523,4389]... *
+>Cluster 1370
+0	3867nt, >scaffold_608_(dbseq-nr_607)_[8446,12312]... *
+>Cluster 1371
+0	3860nt, >scaffold_139_(dbseq-nr_138)_[77058,80917]... *
+>Cluster 1372
+0	3859nt, >scaffold_85_(dbseq-nr_84)_[23571,27429]... *
+>Cluster 1373
+0	3857nt, >scaffold_313_(dbseq-nr_312)_[75423,79279]... *
+>Cluster 1374
+0	3849nt, >scaffold_147_(dbseq-nr_146)_[106391,110239]... *
+>Cluster 1375
+0	3847nt, >scaffold_233_(dbseq-nr_232)_[30387,34233]... *
+>Cluster 1376
+0	3846nt, >scaffold_131_(dbseq-nr_130)_[108208,112053]... *
+>Cluster 1377
+0	3844nt, >scaffold_212_(dbseq-nr_211)_[71651,75494]... *
+>Cluster 1378
+0	3842nt, >scaffold_29_(dbseq-nr_28)_[41007,44848]... *
+>Cluster 1379
+0	3839nt, >scaffold_319_(dbseq-nr_318)_[78393,82231]... *
+>Cluster 1380
+0	3837nt, >scaffold_361_(dbseq-nr_360)_[9664,13500]... *
+>Cluster 1381
+0	3832nt, >scaffold_94_(dbseq-nr_93)_[150780,154611]... *
+>Cluster 1382
+0	3829nt, >scaffold_522_(dbseq-nr_521)_[30051,33879]... *
+>Cluster 1383
+0	3828nt, >scaffold_94_(dbseq-nr_93)_[69812,73639]... *
+>Cluster 1384
+0	3826nt, >scaffold_139_(dbseq-nr_138)_[17263,21088]... *
+>Cluster 1385
+0	3823nt, >scaffold_40_(dbseq-nr_39)_[205453,209275]... *
+>Cluster 1386
+0	3818nt, >scaffold_442_(dbseq-nr_441)_[41484,45301]... *
+>Cluster 1387
+0	3811nt, >scaffold_137_(dbseq-nr_136)_[139411,143221]... *
+>Cluster 1388
+0	3810nt, >scaffold_425_(dbseq-nr_424)_[44326,48135]... *
+>Cluster 1389
+0	3799nt, >scaffold_79_(dbseq-nr_78)_[116366,120164]... *
+>Cluster 1390
+0	3797nt, >scaffold_9_(dbseq-nr_8)_[48545,52341]... *
+>Cluster 1391
+0	3795nt, >scaffold_20_(dbseq-nr_19)_[256998,260792]... *
+>Cluster 1392
+0	3794nt, >scaffold_13_(dbseq-nr_12)_[295711,299504]... *
+>Cluster 1393
+0	3781nt, >scaffold_74_(dbseq-nr_73)_[143585,147365]... *
+>Cluster 1394
+0	3777nt, >scaffold_83_(dbseq-nr_82)_[5257,9033]... *
+>Cluster 1395
+0	3776nt, >scaffold_261_(dbseq-nr_260)_[19635,23410]... *
+>Cluster 1396
+0	3767nt, >scaffold_138_(dbseq-nr_137)_[130924,134690]... *
+>Cluster 1397
+0	3763nt, >scaffold_43_(dbseq-nr_42)_[61408,65170]... *
+>Cluster 1398
+0	3760nt, >scaffold_86_(dbseq-nr_85)_[120004,123763]... *
+>Cluster 1399
+0	3757nt, >scaffold_268_(dbseq-nr_267)_[8462,12218]... *
+>Cluster 1400
+0	3757nt, >scaffold_645_(dbseq-nr_644)_[672,4428]... *
+>Cluster 1401
+0	3753nt, >scaffold_146_(dbseq-nr_145)_[93375,97127]... *
+>Cluster 1402
+0	3749nt, >scaffold_449_(dbseq-nr_448)_[7387,11135]... *
+>Cluster 1403
+0	3743nt, >scaffold_72_(dbseq-nr_71)_[76830,80572]... *
+>Cluster 1404
+0	3740nt, >scaffold_230_(dbseq-nr_229)_[18294,22033]... *
+>Cluster 1405
+0	3736nt, >scaffold_222_(dbseq-nr_221)_[28936,32671]... *
+>Cluster 1406
+0	3736nt, >scaffold_300_(dbseq-nr_299)_[7074,10809]... *
+>Cluster 1407
+0	3732nt, >scaffold_176_(dbseq-nr_175)_[64252,67983]... *
+>Cluster 1408
+0	3718nt, >scaffold_360_(dbseq-nr_359)_[49151,52868]... *
+>Cluster 1409
+0	3711nt, >scaffold_222_(dbseq-nr_221)_[60630,64340]... *
+>Cluster 1410
+0	3691nt, >scaffold_310_(dbseq-nr_309)_[49632,53322]... *
+>Cluster 1411
+0	3690nt, >scaffold_417_(dbseq-nr_416)_[1201,4890]... *
+>Cluster 1412
+0	3686nt, >scaffold_89_(dbseq-nr_88)_[58211,61896]... *
+>Cluster 1413
+0	3680nt, >scaffold_249_(dbseq-nr_248)_[11240,14919]... *
+>Cluster 1414
+0	3669nt, >scaffold_63_(dbseq-nr_62)_[210695,214363]... *
+>Cluster 1415
+0	3655nt, >scaffold_16_(dbseq-nr_15)_[256915,260569]... *
+>Cluster 1416
+0	3653nt, >scaffold_155_(dbseq-nr_154)_[82066,85718]... *
+>Cluster 1417
+0	3653nt, >scaffold_241_(dbseq-nr_240)_[57012,60664]... *
+>Cluster 1418
+0	3647nt, >scaffold_22_(dbseq-nr_21)_[312536,316182]... *
+>Cluster 1419
+0	3640nt, >scaffold_5_(dbseq-nr_4)_[308089,311728]... *
+>Cluster 1420
+0	3640nt, >scaffold_56_(dbseq-nr_55)_[218570,222209]... *
+>Cluster 1421
+0	3626nt, >scaffold_40_(dbseq-nr_39)_[259300,262925]... *
+>Cluster 1422
+0	3621nt, >scaffold_112_(dbseq-nr_111)_[12831,16451]... *
+>Cluster 1423
+0	3613nt, >scaffold_421_(dbseq-nr_420)_[30703,34315]... *
+>Cluster 1424
+0	3600nt, >scaffold_211_(dbseq-nr_210)_[37067,40666]... *
+>Cluster 1425
+0	3599nt, >scaffold_779_(dbseq-nr_778)_[827,4425]... *
+>Cluster 1426
+0	3596nt, >scaffold_366_(dbseq-nr_365)_[100,3695]... *
+>Cluster 1427
+0	3592nt, >scaffold_124_(dbseq-nr_123)_[146556,150147]... *
+>Cluster 1428
+0	3590nt, >scaffold_216_(dbseq-nr_215)_[55538,59127]... *
+>Cluster 1429
+0	3588nt, >scaffold_43_(dbseq-nr_42)_[219703,223290]... *
+>Cluster 1430
+0	3585nt, >scaffold_254_(dbseq-nr_253)_[5870,9454]... *
+>Cluster 1431
+0	3578nt, >scaffold_255_(dbseq-nr_254)_[75715,79292]... *
+>Cluster 1432
+0	3572nt, >scaffold_227_(dbseq-nr_226)_[6192,9763]... *
+>Cluster 1433
+0	3572nt, >scaffold_425_(dbseq-nr_424)_[5886,9457]... *
+>Cluster 1434
+0	3568nt, >scaffold_180_(dbseq-nr_179)_[118067,121634]... *
+>Cluster 1435
+0	3552nt, >scaffold_63_(dbseq-nr_62)_[28439,31990]... *
+>Cluster 1436
+0	3552nt, >scaffold_211_(dbseq-nr_210)_[60804,64355]... *
+>Cluster 1437
+0	3551nt, >scaffold_106_(dbseq-nr_105)_[41425,44975]... *
+>Cluster 1438
+0	3549nt, >scaffold_488_(dbseq-nr_487)_[12176,15724]... *
+>Cluster 1439
+0	3546nt, >scaffold_42_(dbseq-nr_41)_[209894,213439]... *
+>Cluster 1440
+0	3544nt, >scaffold_292_(dbseq-nr_291)_[819,4362]... *
+>Cluster 1441
+0	3539nt, >scaffold_464_(dbseq-nr_463)_[44016,47554]... *
+>Cluster 1442
+0	3538nt, >scaffold_214_(dbseq-nr_213)_[9477,13014]... *
+>Cluster 1443
+0	3536nt, >scaffold_93_(dbseq-nr_92)_[86317,89852]... *
+>Cluster 1444
+0	3535nt, >scaffold_22_(dbseq-nr_21)_[246202,249736]... *
+>Cluster 1445
+0	3533nt, >scaffold_327_(dbseq-nr_326)_[15911,19443]... *
+>Cluster 1446
+0	3533nt, >scaffold_558_(dbseq-nr_557)_[11758,15290]... *
+>Cluster 1447
+0	3530nt, >scaffold_197_(dbseq-nr_196)_[100044,103573]... *
+>Cluster 1448
+0	3528nt, >scaffold_151_(dbseq-nr_150)_[7573,11100]... *
+>Cluster 1449
+0	3523nt, >scaffold_143_(dbseq-nr_142)_[19139,22661]... *
+>Cluster 1450
+0	3522nt, >scaffold_31_(dbseq-nr_30)_[5707,9228]... *
+>Cluster 1451
+0	3513nt, >scaffold_110_(dbseq-nr_109)_[130178,133690]... *
+>Cluster 1452
+0	3506nt, >scaffold_456_(dbseq-nr_455)_[37738,41243]... *
+>Cluster 1453
+0	3504nt, >scaffold_163_(dbseq-nr_162)_[55097,58600]... *
+>Cluster 1454
+0	3501nt, >scaffold_169_(dbseq-nr_168)_[92829,96329]... *
+>Cluster 1455
+0	3498nt, >scaffold_266_(dbseq-nr_265)_[53936,57433]... *
+>Cluster 1456
+0	3496nt, >scaffold_248_(dbseq-nr_247)_[41544,45039]... *
+>Cluster 1457
+0	3486nt, >scaffold_353_(dbseq-nr_352)_[10937,14422]... *
+>Cluster 1458
+0	3471nt, >scaffold_77_(dbseq-nr_76)_[71113,74583]... *
+>Cluster 1459
+0	3467nt, >scaffold_11_(dbseq-nr_10)_[206319,209785]... *
+>Cluster 1460
+0	3467nt, >scaffold_45_(dbseq-nr_44)_[116896,120362]... *
+>Cluster 1461
+0	3456nt, >scaffold_11_(dbseq-nr_10)_[117919,121374]... *
+>Cluster 1462
+0	3455nt, >scaffold_35_(dbseq-nr_34)_[26605,30059]... *
+>Cluster 1463
+0	3455nt, >scaffold_96_(dbseq-nr_95)_[3059,6513]... *
+>Cluster 1464
+0	3449nt, >scaffold_437_(dbseq-nr_436)_[39787,43235]... *
+>Cluster 1465
+0	3448nt, >scaffold_238_(dbseq-nr_237)_[28981,32428]... *
+>Cluster 1466
+0	3445nt, >scaffold_337_(dbseq-nr_336)_[26678,30122]... *
+>Cluster 1467
+0	3440nt, >scaffold_38_(dbseq-nr_37)_[35076,38515]... *
+>Cluster 1468
+0	3439nt, >scaffold_10_(dbseq-nr_9)_[95742,99180]... *
+>Cluster 1469
+0	3438nt, >scaffold_44_(dbseq-nr_43)_[159003,162440]... *
+>Cluster 1470
+0	3432nt, >scaffold_329_(dbseq-nr_328)_[11439,14870]... *
+>Cluster 1471
+0	3430nt, >scaffold_36_(dbseq-nr_35)_[3083,6512]... *
+>Cluster 1472
+0	3429nt, >scaffold_347_(dbseq-nr_346)_[14057,17485]... *
+>Cluster 1473
+0	3425nt, >scaffold_16_(dbseq-nr_15)_[53455,56879]... *
+>Cluster 1474
+0	3421nt, >scaffold_181_(dbseq-nr_180)_[104040,107460]... *
+>Cluster 1475
+0	3399nt, >scaffold_342_(dbseq-nr_341)_[16078,19476]... *
+>Cluster 1476
+0	3398nt, >scaffold_15_(dbseq-nr_14)_[288911,292308]... *
+>Cluster 1477
+0	3394nt, >scaffold_45_(dbseq-nr_44)_[279,3672]... *
+>Cluster 1478
+0	3389nt, >scaffold_75_(dbseq-nr_74)_[102076,105464]... *
+>Cluster 1479
+0	3379nt, >scaffold_123_(dbseq-nr_122)_[7033,10411]... *
+>Cluster 1480
+0	3376nt, >scaffold_1_(dbseq-nr_0)_[368503,371878]... *
+>Cluster 1481
+0	3373nt, >scaffold_28_(dbseq-nr_27)_[164868,168240]... *
+>Cluster 1482
+0	3363nt, >scaffold_137_(dbseq-nr_136)_[57059,60421]... *
+>Cluster 1483
+0	3360nt, >scaffold_11_(dbseq-nr_10)_[62792,66151]... *
+>Cluster 1484
+0	3359nt, >scaffold_129_(dbseq-nr_128)_[58830,62188]... *
+>Cluster 1485
+0	3356nt, >scaffold_178_(dbseq-nr_177)_[55802,59157]... *
+>Cluster 1486
+0	3345nt, >scaffold_230_(dbseq-nr_229)_[12416,15760]... *
+>Cluster 1487
+0	3341nt, >scaffold_373_(dbseq-nr_372)_[35988,39328]... *
+>Cluster 1488
+0	3336nt, >scaffold_80_(dbseq-nr_79)_[116917,120252]... *
+>Cluster 1489
+0	3335nt, >scaffold_176_(dbseq-nr_175)_[98461,101795]... *
+>Cluster 1490
+0	3335nt, >scaffold_443_(dbseq-nr_442)_[36585,39919]... *
+>Cluster 1491
+0	3333nt, >scaffold_185_(dbseq-nr_184)_[121855,125187]... *
+>Cluster 1492
+0	3330nt, >scaffold_719_(dbseq-nr_718)_[4609,7938]... *
+>Cluster 1493
+0	3328nt, >scaffold_31_(dbseq-nr_30)_[201374,204701]... *
+>Cluster 1494
+0	3327nt, >scaffold_47_(dbseq-nr_46)_[70936,74262]... *
+>Cluster 1495
+0	3327nt, >scaffold_383_(dbseq-nr_382)_[45460,48786]... *
+>Cluster 1496
+0	3325nt, >scaffold_345_(dbseq-nr_344)_[60251,63575]... *
+>Cluster 1497
+0	3325nt, >scaffold_345_(dbseq-nr_344)_[65146,68470]... *
+>Cluster 1498
+0	3287nt, >scaffold_43_(dbseq-nr_42)_[262317,265603]... at -/99.70%
+1	3321nt, >scaffold_84_(dbseq-nr_83)_[189592,192912]... *
+>Cluster 1499
+0	3321nt, >scaffold_123_(dbseq-nr_122)_[151688,155008]... *
+>Cluster 1500
+0	3319nt, >scaffold_249_(dbseq-nr_248)_[154,3472]... *
+>Cluster 1501
+0	3318nt, >scaffold_36_(dbseq-nr_35)_[106954,110271]... *
+>Cluster 1502
+0	3317nt, >scaffold_269_(dbseq-nr_268)_[82082,85398]... *
+>Cluster 1503
+0	3316nt, >scaffold_13_(dbseq-nr_12)_[205362,208677]... *
+>Cluster 1504
+0	3315nt, >scaffold_197_(dbseq-nr_196)_[2598,5912]... *
+>Cluster 1505
+0	3309nt, >scaffold_463_(dbseq-nr_462)_[44217,47525]... *
+>Cluster 1506
+0	3307nt, >scaffold_147_(dbseq-nr_146)_[38716,42022]... *
+>Cluster 1507
+0	3302nt, >scaffold_57_(dbseq-nr_56)_[190017,193318]... *
+>Cluster 1508
+0	3301nt, >scaffold_15_(dbseq-nr_14)_[97902,101202]... *
+>Cluster 1509
+0	3301nt, >scaffold_667_(dbseq-nr_666)_[8175,11475]... *
+>Cluster 1510
+0	3294nt, >scaffold_218_(dbseq-nr_217)_[111554,114847]... *
+>Cluster 1511
+0	3292nt, >scaffold_155_(dbseq-nr_154)_[3678,6969]... *
+>Cluster 1512
+0	3287nt, >scaffold_4_(dbseq-nr_3)_[220393,223679]... *
+>Cluster 1513
+0	3284nt, >scaffold_177_(dbseq-nr_176)_[72777,76060]... *
+>Cluster 1514
+0	3281nt, >scaffold_296_(dbseq-nr_295)_[11945,15225]... *
+>Cluster 1515
+0	3265nt, >scaffold_59_(dbseq-nr_58)_[168569,171833]... *
+>Cluster 1516
+0	3261nt, >scaffold_97_(dbseq-nr_96)_[59068,62328]... *
+>Cluster 1517
+0	3258nt, >scaffold_527_(dbseq-nr_526)_[29079,32336]... *
+>Cluster 1518
+0	3253nt, >scaffold_156_(dbseq-nr_155)_[132731,135983]... *
+>Cluster 1519
+0	3249nt, >scaffold_406_(dbseq-nr_405)_[51761,55009]... *
+1	3248nt, >scaffold_738_(dbseq-nr_737)_[7228,10475]... at +/99.94%
+>Cluster 1520
+0	3247nt, >scaffold_284_(dbseq-nr_283)_[12152,15398]... *
+>Cluster 1521
+0	3238nt, >scaffold_224_(dbseq-nr_223)_[11754,14991]... *
+>Cluster 1522
+0	3225nt, >scaffold_637_(dbseq-nr_636)_[4825,8049]... *
+>Cluster 1523
+0	3219nt, >scaffold_177_(dbseq-nr_176)_[58875,62093]... *
+>Cluster 1524
+0	3218nt, >scaffold_66_(dbseq-nr_65)_[67538,70755]... *
+>Cluster 1525
+0	3199nt, >scaffold_144_(dbseq-nr_143)_[143097,146295]... *
+>Cluster 1526
+0	3196nt, >scaffold_80_(dbseq-nr_79)_[146747,149942]... *
+>Cluster 1527
+0	3193nt, >scaffold_83_(dbseq-nr_82)_[56718,59910]... *
+>Cluster 1528
+0	3191nt, >scaffold_211_(dbseq-nr_210)_[74917,78107]... *
+>Cluster 1529
+0	3185nt, >scaffold_958_(dbseq-nr_957)_[181,3365]... *
+>Cluster 1530
+0	3183nt, >scaffold_72_(dbseq-nr_71)_[13889,17071]... *
+>Cluster 1531
+0	3182nt, >scaffold_148_(dbseq-nr_147)_[9633,12814]... *
+>Cluster 1532
+0	3182nt, >scaffold_445_(dbseq-nr_444)_[45151,48332]... *
+>Cluster 1533
+0	3173nt, >scaffold_342_(dbseq-nr_341)_[4071,7243]... *
+>Cluster 1534
+0	3170nt, >scaffold_34_(dbseq-nr_33)_[256902,260071]... *
+>Cluster 1535
+0	3170nt, >scaffold_727_(dbseq-nr_726)_[5,3174]... *
+>Cluster 1536
+0	3168nt, >scaffold_76_(dbseq-nr_75)_[18695,21862]... *
+>Cluster 1537
+0	3167nt, >scaffold_384_(dbseq-nr_383)_[5222,8388]... *
+>Cluster 1538
+0	3163nt, >scaffold_268_(dbseq-nr_267)_[37574,40736]... *
+>Cluster 1539
+0	3158nt, >scaffold_222_(dbseq-nr_221)_[52705,55862]... *
+>Cluster 1540
+0	3138nt, >scaffold_533_(dbseq-nr_532)_[18238,21375]... *
+>Cluster 1541
+0	3135nt, >scaffold_587_(dbseq-nr_586)_[4279,7413]... *
+>Cluster 1542
+0	3131nt, >scaffold_234_(dbseq-nr_233)_[38627,41757]... *
+>Cluster 1543
+0	3127nt, >scaffold_473_(dbseq-nr_472)_[35822,38948]... *
+>Cluster 1544
+0	3122nt, >scaffold_8_(dbseq-nr_7)_[192230,195351]... *
+>Cluster 1545
+0	3115nt, >scaffold_675_(dbseq-nr_674)_[772,3886]... *
+>Cluster 1546
+0	3112nt, >scaffold_1_(dbseq-nr_0)_[657510,660621]... *
+>Cluster 1547
+0	3111nt, >scaffold_39_(dbseq-nr_38)_[2920,6030]... *
+>Cluster 1548
+0	3108nt, >scaffold_46_(dbseq-nr_45)_[72854,75961]... *
+>Cluster 1549
+0	3104nt, >scaffold_150_(dbseq-nr_149)_[124096,127199]... *
+>Cluster 1550
+0	3099nt, >scaffold_111_(dbseq-nr_110)_[118802,121900]... *
+>Cluster 1551
+0	3092nt, >scaffold_510_(dbseq-nr_509)_[15235,18326]... *
+>Cluster 1552
+0	3089nt, >scaffold_326_(dbseq-nr_325)_[69073,72161]... *
+>Cluster 1553
+0	3088nt, >scaffold_492_(dbseq-nr_491)_[24982,28069]... *
+>Cluster 1554
+0	3076nt, >scaffold_458_(dbseq-nr_457)_[22638,25713]... *
+>Cluster 1555
+0	3068nt, >scaffold_24_(dbseq-nr_23)_[323537,326604]... *
+>Cluster 1556
+0	3061nt, >scaffold_124_(dbseq-nr_123)_[117859,120919]... *
+>Cluster 1557
+0	3058nt, >scaffold_171_(dbseq-nr_170)_[130293,133350]... *
+>Cluster 1558
+0	3054nt, >scaffold_259_(dbseq-nr_258)_[13560,16613]... *
+>Cluster 1559
+0	3053nt, >scaffold_5_(dbseq-nr_4)_[196608,199660]... *
+>Cluster 1560
+0	3053nt, >scaffold_651_(dbseq-nr_650)_[11428,14480]... *
+>Cluster 1561
+0	3042nt, >scaffold_68_(dbseq-nr_67)_[92943,95984]... *
+>Cluster 1562
+0	3040nt, >scaffold_898_(dbseq-nr_897)_[9,3048]... *
+>Cluster 1563
+0	3035nt, >scaffold_280_(dbseq-nr_279)_[87742,90776]... *
+>Cluster 1564
+0	3034nt, >scaffold_400_(dbseq-nr_399)_[43831,46864]... *
+>Cluster 1565
+0	3032nt, >scaffold_257_(dbseq-nr_256)_[56336,59367]... *
+>Cluster 1566
+0	3029nt, >scaffold_93_(dbseq-nr_92)_[127722,130750]... *
+>Cluster 1567
+0	3022nt, >scaffold_6_(dbseq-nr_5)_[167670,170691]... *
+>Cluster 1568
+0	3022nt, >scaffold_82_(dbseq-nr_81)_[175745,178766]... *
+>Cluster 1569
+0	3018nt, >scaffold_301_(dbseq-nr_300)_[22048,25065]... *
+>Cluster 1570
+0	3014nt, >scaffold_5_(dbseq-nr_4)_[434539,437552]... *
+>Cluster 1571
+0	3012nt, >scaffold_496_(dbseq-nr_495)_[39080,42091]... *
+>Cluster 1572
+0	3006nt, >scaffold_321_(dbseq-nr_320)_[75049,78054]... *
+>Cluster 1573
+0	3002nt, >scaffold_3_(dbseq-nr_2)_[156067,159068]... *
+>Cluster 1574
+0	2999nt, >scaffold_719_(dbseq-nr_718)_[32,3030]... *
+>Cluster 1575
+0	2994nt, >scaffold_128_(dbseq-nr_127)_[130507,133500]... *
+>Cluster 1576
+0	2992nt, >scaffold_47_(dbseq-nr_46)_[53631,56622]... *
+>Cluster 1577
+0	2988nt, >scaffold_4_(dbseq-nr_3)_[228494,231481]... *
+>Cluster 1578
+0	2971nt, >scaffold_416_(dbseq-nr_415)_[33170,36140]... *
+>Cluster 1579
+0	2964nt, >scaffold_12_(dbseq-nr_11)_[54441,57404]... *
+>Cluster 1580
+0	2955nt, >scaffold_2_(dbseq-nr_1)_[101809,104763]... *
+>Cluster 1581
+0	2950nt, >scaffold_325_(dbseq-nr_324)_[41601,44550]... *
+>Cluster 1582
+0	2938nt, >scaffold_336_(dbseq-nr_335)_[31850,34787]... *
+>Cluster 1583
+0	2937nt, >scaffold_29_(dbseq-nr_28)_[49560,52496]... *
+>Cluster 1584
+0	2935nt, >scaffold_163_(dbseq-nr_162)_[103850,106784]... *
+>Cluster 1585
+0	2931nt, >scaffold_70_(dbseq-nr_69)_[188408,191338]... *
+>Cluster 1586
+0	2928nt, >scaffold_536_(dbseq-nr_535)_[15988,18915]... *
+>Cluster 1587
+0	2925nt, >scaffold_88_(dbseq-nr_87)_[31333,34257]... *
+>Cluster 1588
+0	2922nt, >scaffold_121_(dbseq-nr_120)_[27026,29947]... *
+>Cluster 1589
+0	2912nt, >scaffold_688_(dbseq-nr_687)_[11845,14756]... *
+>Cluster 1590
+0	2910nt, >scaffold_12_(dbseq-nr_11)_[66971,69880]... *
+>Cluster 1591
+0	2907nt, >scaffold_366_(dbseq-nr_365)_[57477,60383]... *
+>Cluster 1592
+0	2904nt, >scaffold_638_(dbseq-nr_637)_[12348,15251]... *
+>Cluster 1593
+0	2899nt, >scaffold_44_(dbseq-nr_43)_[117846,120744]... *
+>Cluster 1594
+0	2890nt, >scaffold_77_(dbseq-nr_76)_[189682,192571]... *
+>Cluster 1595
+0	2890nt, >scaffold_401_(dbseq-nr_400)_[46269,49158]... *
+>Cluster 1596
+0	2890nt, >scaffold_597_(dbseq-nr_596)_[9026,11915]... *
+>Cluster 1597
+0	2887nt, >scaffold_315_(dbseq-nr_314)_[41965,44851]... *
+>Cluster 1598
+0	2879nt, >scaffold_19_(dbseq-nr_18)_[110316,113194]... *
+>Cluster 1599
+0	2873nt, >scaffold_330_(dbseq-nr_329)_[19037,21909]... *
+>Cluster 1600
+0	2868nt, >scaffold_148_(dbseq-nr_147)_[74360,77227]... *
+>Cluster 1601
+0	2868nt, >scaffold_633_(dbseq-nr_632)_[1338,4205]... *
+>Cluster 1602
+0	2867nt, >scaffold_82_(dbseq-nr_81)_[41778,44644]... *
+>Cluster 1603
+0	2867nt, >scaffold_323_(dbseq-nr_322)_[78593,81459]... *
+>Cluster 1604
+0	2865nt, >scaffold_198_(dbseq-nr_197)_[25912,28776]... *
+>Cluster 1605
+0	2864nt, >scaffold_18_(dbseq-nr_17)_[267808,270671]... *
+>Cluster 1606
+0	2864nt, >scaffold_237_(dbseq-nr_236)_[98523,101386]... *
+>Cluster 1607
+0	2854nt, >scaffold_490_(dbseq-nr_489)_[14405,17258]... *
+>Cluster 1608
+0	2832nt, >scaffold_30_(dbseq-nr_29)_[243288,246119]... *
+>Cluster 1609
+0	2831nt, >scaffold_61_(dbseq-nr_60)_[163215,166045]... *
+>Cluster 1610
+0	2828nt, >scaffold_174_(dbseq-nr_173)_[67418,70245]... *
+>Cluster 1611
+0	2820nt, >scaffold_350_(dbseq-nr_349)_[12971,15790]... *
+>Cluster 1612
+0	2817nt, >scaffold_1_(dbseq-nr_0)_[62782,65598]... *
+>Cluster 1613
+0	2816nt, >scaffold_7_(dbseq-nr_6)_[235248,238063]... *
+>Cluster 1614
+0	2812nt, >scaffold_68_(dbseq-nr_67)_[176348,179159]... *
+>Cluster 1615
+0	2811nt, >scaffold_42_(dbseq-nr_41)_[104332,107142]... *
+>Cluster 1616
+0	2811nt, >scaffold_125_(dbseq-nr_124)_[83728,86538]... *
+>Cluster 1617
+0	2808nt, >scaffold_404_(dbseq-nr_403)_[48917,51724]... *
+>Cluster 1618
+0	2807nt, >scaffold_208_(dbseq-nr_207)_[56446,59252]... *
+>Cluster 1619
+0	2799nt, >scaffold_133_(dbseq-nr_132)_[44826,47624]... *
+>Cluster 1620
+0	2798nt, >scaffold_70_(dbseq-nr_69)_[151335,154132]... *
+>Cluster 1621
+0	2792nt, >scaffold_46_(dbseq-nr_45)_[22565,25356]... *
+>Cluster 1622
+0	2791nt, >scaffold_307_(dbseq-nr_306)_[38252,41042]... *
+>Cluster 1623
+0	2782nt, >scaffold_537_(dbseq-nr_536)_[28329,31110]... *
+>Cluster 1624
+0	2777nt, >scaffold_200_(dbseq-nr_199)_[19966,22742]... *
+>Cluster 1625
+0	2772nt, >scaffold_236_(dbseq-nr_235)_[26703,29474]... *
+>Cluster 1626
+0	2765nt, >scaffold_264_(dbseq-nr_263)_[27805,30569]... *
+>Cluster 1627
+0	2763nt, >scaffold_173_(dbseq-nr_172)_[17802,20564]... *
+>Cluster 1628
+0	2760nt, >scaffold_477_(dbseq-nr_476)_[11976,14735]... *
+>Cluster 1629
+0	2759nt, >scaffold_92_(dbseq-nr_91)_[175949,178707]... *
+>Cluster 1630
+0	2753nt, >scaffold_177_(dbseq-nr_176)_[16732,19484]... *
+>Cluster 1631
+0	2750nt, >scaffold_179_(dbseq-nr_178)_[8238,10987]... *
+>Cluster 1632
+0	2739nt, >scaffold_158_(dbseq-nr_157)_[118454,121192]... *
+>Cluster 1633
+0	2720nt, >scaffold_544_(dbseq-nr_543)_[22458,25177]... *
+>Cluster 1634
+0	2716nt, >scaffold_100_(dbseq-nr_99)_[120855,123570]... *
+>Cluster 1635
+0	2713nt, >scaffold_271_(dbseq-nr_270)_[84310,87022]... *
+>Cluster 1636
+0	2711nt, >scaffold_661_(dbseq-nr_660)_[9469,12179]... *
+>Cluster 1637
+0	2709nt, >scaffold_22_(dbseq-nr_21)_[18650,21358]... *
+>Cluster 1638
+0	2704nt, >scaffold_281_(dbseq-nr_280)_[58838,61541]... *
+>Cluster 1639
+0	2701nt, >scaffold_456_(dbseq-nr_455)_[9322,12022]... *
+>Cluster 1640
+0	2692nt, >scaffold_75_(dbseq-nr_74)_[385,3076]... *
+>Cluster 1641
+0	2689nt, >scaffold_209_(dbseq-nr_208)_[95488,98176]... *
+>Cluster 1642
+0	2685nt, >scaffold_165_(dbseq-nr_164)_[48443,51127]... *
+>Cluster 1643
+0	2679nt, >scaffold_547_(dbseq-nr_546)_[9887,12565]... *
+>Cluster 1644
+0	2676nt, >scaffold_38_(dbseq-nr_37)_[193473,196148]... *
+>Cluster 1645
+0	2672nt, >scaffold_168_(dbseq-nr_167)_[66827,69498]... *
+>Cluster 1646
+0	2667nt, >scaffold_283_(dbseq-nr_282)_[68524,71190]... *
+>Cluster 1647
+0	2666nt, >scaffold_17_(dbseq-nr_16)_[77886,80551]... *
+>Cluster 1648
+0	2662nt, >scaffold_292_(dbseq-nr_291)_[44692,47353]... *
+>Cluster 1649
+0	2661nt, >scaffold_119_(dbseq-nr_118)_[62791,65451]... *
+>Cluster 1650
+0	2656nt, >scaffold_818_(dbseq-nr_817)_[683,3338]... *
+>Cluster 1651
+0	2655nt, >scaffold_122_(dbseq-nr_121)_[102999,105653]... *
+>Cluster 1652
+0	2653nt, >scaffold_204_(dbseq-nr_203)_[95301,97953]... *
+>Cluster 1653
+0	2651nt, >scaffold_58_(dbseq-nr_57)_[22529,25179]... *
+>Cluster 1654
+0	2643nt, >scaffold_44_(dbseq-nr_43)_[55158,57800]... *
+>Cluster 1655
+0	2636nt, >scaffold_592_(dbseq-nr_591)_[6085,8720]... *
+>Cluster 1656
+0	2632nt, >scaffold_733_(dbseq-nr_732)_[9315,11946]... *
+>Cluster 1657
+0	2628nt, >scaffold_8_(dbseq-nr_7)_[316482,319109]... *
+>Cluster 1658
+0	2628nt, >scaffold_590_(dbseq-nr_589)_[10220,12847]... *
+>Cluster 1659
+0	2627nt, >scaffold_64_(dbseq-nr_63)_[15076,17702]... *
+>Cluster 1660
+0	2621nt, >scaffold_96_(dbseq-nr_95)_[102689,105309]... *
+>Cluster 1661
+0	2612nt, >scaffold_287_(dbseq-nr_286)_[55057,57668]... *
+>Cluster 1662
+0	2601nt, >scaffold_91_(dbseq-nr_90)_[182693,185293]... at -/99.88%
+1	2606nt, >scaffold_370_(dbseq-nr_369)_[64024,66629]... *
+>Cluster 1663
+0	2588nt, >scaffold_51_(dbseq-nr_50)_[90924,93511]... *
+>Cluster 1664
+0	2588nt, >scaffold_263_(dbseq-nr_262)_[69032,71619]... *
+>Cluster 1665
+0	2575nt, >scaffold_483_(dbseq-nr_482)_[34513,37087]... *
+>Cluster 1666
+0	2570nt, >scaffold_342_(dbseq-nr_341)_[9123,11692]... *
+>Cluster 1667
+0	2569nt, >scaffold_114_(dbseq-nr_113)_[44521,47089]... *
+>Cluster 1668
+0	2568nt, >scaffold_127_(dbseq-nr_126)_[132887,135454]... *
+>Cluster 1669
+0	2564nt, >scaffold_536_(dbseq-nr_535)_[9129,11692]... *
+>Cluster 1670
+0	2562nt, >scaffold_190_(dbseq-nr_189)_[29287,31848]... *
+>Cluster 1671
+0	2561nt, >scaffold_99_(dbseq-nr_98)_[139557,142117]... *
+>Cluster 1672
+0	2560nt, >scaffold_113_(dbseq-nr_112)_[132183,134742]... *
+>Cluster 1673
+0	2554nt, >scaffold_88_(dbseq-nr_87)_[114922,117475]... *
+>Cluster 1674
+0	2543nt, >scaffold_22_(dbseq-nr_21)_[6826,9368]... *
+>Cluster 1675
+0	2542nt, >scaffold_724_(dbseq-nr_723)_[3314,5855]... *
+>Cluster 1676
+0	2534nt, >scaffold_304_(dbseq-nr_303)_[39766,42299]... *
+>Cluster 1677
+0	2533nt, >scaffold_126_(dbseq-nr_125)_[104609,107141]... *
+>Cluster 1678
+0	2526nt, >scaffold_72_(dbseq-nr_71)_[25675,28200]... *
+>Cluster 1679
+0	2526nt, >scaffold_83_(dbseq-nr_82)_[71841,74366]... *
+>Cluster 1680
+0	2525nt, >scaffold_5_(dbseq-nr_4)_[116890,119414]... *
+>Cluster 1681
+0	2521nt, >scaffold_67_(dbseq-nr_66)_[70130,72650]... *
+>Cluster 1682
+0	2515nt, >scaffold_145_(dbseq-nr_144)_[61081,63595]... *
+>Cluster 1683
+0	2510nt, >scaffold_582_(dbseq-nr_581)_[16699,19208]... *
+>Cluster 1684
+0	2507nt, >scaffold_536_(dbseq-nr_535)_[569,3075]... *
+>Cluster 1685
+0	2505nt, >scaffold_22_(dbseq-nr_21)_[148075,150579]... *
+>Cluster 1686
+0	2504nt, >scaffold_16_(dbseq-nr_15)_[276731,279234]... *
+>Cluster 1687
+0	2504nt, >scaffold_386_(dbseq-nr_385)_[16930,19433]... *
+>Cluster 1688
+0	2504nt, >scaffold_391_(dbseq-nr_390)_[57881,60384]... *
+>Cluster 1689
+0	2503nt, >scaffold_330_(dbseq-nr_329)_[3037,5539]... *
+>Cluster 1690
+0	2501nt, >scaffold_432_(dbseq-nr_431)_[13810,16310]... *
+>Cluster 1691
+0	2499nt, >scaffold_364_(dbseq-nr_363)_[21386,23884]... *
+>Cluster 1692
+0	2497nt, >scaffold_293_(dbseq-nr_292)_[61553,64049]... *
+>Cluster 1693
+0	2496nt, >scaffold_21_(dbseq-nr_20)_[117149,119644]... *
+>Cluster 1694
+0	2489nt, >scaffold_48_(dbseq-nr_47)_[204125,206613]... *
+>Cluster 1695
+0	2488nt, >scaffold_101_(dbseq-nr_100)_[64113,66600]... *
+>Cluster 1696
+0	2485nt, >scaffold_57_(dbseq-nr_56)_[36939,39423]... *
+>Cluster 1697
+0	2484nt, >scaffold_209_(dbseq-nr_208)_[88901,91384]... *
+>Cluster 1698
+0	2482nt, >scaffold_282_(dbseq-nr_281)_[44656,47137]... *
+>Cluster 1699
+0	2481nt, >scaffold_46_(dbseq-nr_45)_[94042,96522]... *
+>Cluster 1700
+0	2480nt, >scaffold_57_(dbseq-nr_56)_[13130,15609]... *
+>Cluster 1701
+0	2479nt, >scaffold_288_(dbseq-nr_287)_[24938,27416]... *
+>Cluster 1702
+0	2478nt, >scaffold_439_(dbseq-nr_438)_[583,3060]... *
+>Cluster 1703
+0	2472nt, >scaffold_400_(dbseq-nr_399)_[26141,28612]... *
+>Cluster 1704
+0	2466nt, >scaffold_368_(dbseq-nr_367)_[44656,47121]... *
+>Cluster 1705
+0	2458nt, >scaffold_527_(dbseq-nr_526)_[5332,7789]... *
+>Cluster 1706
+0	2454nt, >scaffold_81_(dbseq-nr_80)_[139439,141892]... *
+>Cluster 1707
+0	2451nt, >scaffold_120_(dbseq-nr_119)_[149229,151679]... *
+>Cluster 1708
+0	2448nt, >scaffold_10_(dbseq-nr_9)_[164017,166464]... *
+>Cluster 1709
+0	2441nt, >scaffold_90_(dbseq-nr_89)_[53475,55915]... *
+>Cluster 1710
+0	2433nt, >scaffold_145_(dbseq-nr_144)_[57448,59880]... *
+>Cluster 1711
+0	2431nt, >scaffold_6_(dbseq-nr_5)_[373995,376425]... *
+>Cluster 1712
+0	2430nt, >scaffold_18_(dbseq-nr_17)_[249204,251633]... *
+>Cluster 1713
+0	2430nt, >scaffold_133_(dbseq-nr_132)_[100727,103156]... *
+>Cluster 1714
+0	2427nt, >scaffold_376_(dbseq-nr_375)_[35542,37968]... *
+>Cluster 1715
+0	2422nt, >scaffold_606_(dbseq-nr_605)_[18724,21145]... *
+>Cluster 1716
+0	2419nt, >scaffold_40_(dbseq-nr_39)_[212495,214913]... *
+>Cluster 1717
+0	2416nt, >scaffold_1_(dbseq-nr_0)_[614712,617127]... *
+>Cluster 1718
+0	2406nt, >scaffold_874_(dbseq-nr_873)_[1857,4262]... *
+>Cluster 1719
+0	2398nt, >scaffold_115_(dbseq-nr_114)_[347,2744]... *
+>Cluster 1720
+0	2394nt, >scaffold_615_(dbseq-nr_614)_[19717,22110]... *
+>Cluster 1721
+0	2375nt, >scaffold_276_(dbseq-nr_275)_[17329,19703]... *
+>Cluster 1722
+0	2366nt, >scaffold_481_(dbseq-nr_480)_[20767,23132]... *
+>Cluster 1723
+0	2366nt, >scaffold_740_(dbseq-nr_739)_[277,2642]... *
+>Cluster 1724
+0	2362nt, >scaffold_634_(dbseq-nr_633)_[14478,16839]... *
+>Cluster 1725
+0	2359nt, >scaffold_16_(dbseq-nr_15)_[222266,224624]... *
+>Cluster 1726
+0	2359nt, >scaffold_106_(dbseq-nr_105)_[20677,23035]... *
+>Cluster 1727
+0	2354nt, >scaffold_195_(dbseq-nr_194)_[61886,64239]... *
+>Cluster 1728
+0	2353nt, >scaffold_335_(dbseq-nr_334)_[1691,4043]... *
+>Cluster 1729
+0	2345nt, >scaffold_186_(dbseq-nr_185)_[36256,38600]... *
+>Cluster 1730
+0	2342nt, >scaffold_337_(dbseq-nr_336)_[58925,61266]... *
+>Cluster 1731
+0	2338nt, >scaffold_242_(dbseq-nr_241)_[30782,33119]... *
+>Cluster 1732
+0	2304nt, >scaffold_308_(dbseq-nr_307)_[43814,46117]... at +/98.18%
+1	2331nt, >scaffold_317_(dbseq-nr_316)_[76435,78765]... *
+2	2323nt, >scaffold_694_(dbseq-nr_693)_[3630,5952]... at -/98.54%
+>Cluster 1733
+0	2330nt, >scaffold_426_(dbseq-nr_425)_[44931,47260]... *
+>Cluster 1734
+0	2330nt, >scaffold_489_(dbseq-nr_488)_[39806,42135]... *
+>Cluster 1735
+0	2322nt, >scaffold_297_(dbseq-nr_296)_[3884,6205]... *
+>Cluster 1736
+0	2322nt, >scaffold_490_(dbseq-nr_489)_[25756,28077]... *
+>Cluster 1737
+0	2320nt, >scaffold_516_(dbseq-nr_515)_[12678,14997]... *
+>Cluster 1738
+0	2310nt, >scaffold_85_(dbseq-nr_84)_[112305,114614]... *
+>Cluster 1739
+0	2303nt, >scaffold_207_(dbseq-nr_206)_[19954,22256]... *
+>Cluster 1740
+0	2298nt, >scaffold_106_(dbseq-nr_105)_[143003,145300]... *
+>Cluster 1741
+0	2295nt, >scaffold_140_(dbseq-nr_139)_[36432,38726]... *
+>Cluster 1742
+0	2279nt, >scaffold_314_(dbseq-nr_313)_[49278,51556]... *
+>Cluster 1743
+0	2278nt, >scaffold_228_(dbseq-nr_227)_[4563,6840]... *
+>Cluster 1744
+0	2102nt, >scaffold_316_(dbseq-nr_315)_[34006,36107]... at +/95.86%
+1	2275nt, >scaffold_534_(dbseq-nr_533)_[15019,17293]... *
+>Cluster 1745
+0	2270nt, >scaffold_226_(dbseq-nr_225)_[57930,60199]... *
+>Cluster 1746
+0	2270nt, >scaffold_272_(dbseq-nr_271)_[11519,13788]... *
+>Cluster 1747
+0	2269nt, >scaffold_10_(dbseq-nr_9)_[375716,377984]... *
+>Cluster 1748
+0	2262nt, >scaffold_13_(dbseq-nr_12)_[81225,83486]... *
+>Cluster 1749
+0	2262nt, >scaffold_82_(dbseq-nr_81)_[4633,6894]... *
+>Cluster 1750
+0	2258nt, >scaffold_219_(dbseq-nr_218)_[2031,4288]... *
+>Cluster 1751
+0	2258nt, >scaffold_459_(dbseq-nr_458)_[43137,45394]... *
+>Cluster 1752
+0	2256nt, >scaffold_399_(dbseq-nr_398)_[2039,4294]... *
+>Cluster 1753
+0	2253nt, >scaffold_171_(dbseq-nr_170)_[68123,70375]... *
+>Cluster 1754
+0	2252nt, >scaffold_198_(dbseq-nr_197)_[90606,92857]... *
+>Cluster 1755
+0	2252nt, >scaffold_258_(dbseq-nr_257)_[43718,45969]... *
+>Cluster 1756
+0	2245nt, >scaffold_780_(dbseq-nr_779)_[7255,9499]... *
+>Cluster 1757
+0	2240nt, >scaffold_465_(dbseq-nr_464)_[8059,10298]... *
+>Cluster 1758
+0	2239nt, >scaffold_190_(dbseq-nr_189)_[90872,93110]... *
+>Cluster 1759
+0	2233nt, >scaffold_43_(dbseq-nr_42)_[216565,218797]... *
+>Cluster 1760
+0	2232nt, >scaffold_606_(dbseq-nr_605)_[3967,6198]... *
+>Cluster 1761
+0	2223nt, >scaffold_28_(dbseq-nr_27)_[139692,141914]... *
+>Cluster 1762
+0	2222nt, >scaffold_62_(dbseq-nr_61)_[198317,200538]... *
+>Cluster 1763
+0	2219nt, >scaffold_208_(dbseq-nr_207)_[88948,91166]... *
+>Cluster 1764
+0	2219nt, >scaffold_516_(dbseq-nr_515)_[26677,28895]... *
+>Cluster 1765
+0	2218nt, >scaffold_620_(dbseq-nr_619)_[9253,11470]... *
+>Cluster 1766
+0	2206nt, >scaffold_259_(dbseq-nr_258)_[60477,62682]... *
+>Cluster 1767
+0	2200nt, >scaffold_129_(dbseq-nr_128)_[53920,56119]... *
+>Cluster 1768
+0	2195nt, >scaffold_98_(dbseq-nr_97)_[133498,135692]... *
+>Cluster 1769
+0	2194nt, >scaffold_24_(dbseq-nr_23)_[191356,193549]... *
+>Cluster 1770
+0	2186nt, >scaffold_92_(dbseq-nr_91)_[26739,28924]... *
+>Cluster 1771
+0	2175nt, >scaffold_239_(dbseq-nr_238)_[55280,57454]... *
+>Cluster 1772
+0	2171nt, >scaffold_335_(dbseq-nr_334)_[13053,15223]... *
+>Cluster 1773
+0	2171nt, >scaffold_757_(dbseq-nr_756)_[2664,4834]... *
+>Cluster 1774
+0	2170nt, >scaffold_33_(dbseq-nr_32)_[71365,73534]... *
+>Cluster 1775
+0	2170nt, >scaffold_110_(dbseq-nr_109)_[165697,167866]... *
+>Cluster 1776
+0	2168nt, >scaffold_330_(dbseq-nr_329)_[77807,79974]... *
+>Cluster 1777
+0	2166nt, >scaffold_291_(dbseq-nr_290)_[19370,21535]... *
+>Cluster 1778
+0	2164nt, >scaffold_59_(dbseq-nr_58)_[49786,51949]... *
+>Cluster 1779
+0	2151nt, >scaffold_122_(dbseq-nr_121)_[72307,74457]... *
+>Cluster 1780
+0	2147nt, >scaffold_37_(dbseq-nr_36)_[221504,223650]... *
+>Cluster 1781
+0	2137nt, >scaffold_637_(dbseq-nr_636)_[10730,12866]... *
+>Cluster 1782
+0	2136nt, >scaffold_292_(dbseq-nr_291)_[28340,30475]... *
+>Cluster 1783
+0	2135nt, >scaffold_155_(dbseq-nr_154)_[11569,13703]... *
+>Cluster 1784
+0	2129nt, >scaffold_21_(dbseq-nr_20)_[60111,62239]... *
+>Cluster 1785
+0	2123nt, >scaffold_26_(dbseq-nr_25)_[273037,275159]... *
+>Cluster 1786
+0	2123nt, >scaffold_175_(dbseq-nr_174)_[23978,26100]... *
+>Cluster 1787
+0	2122nt, >scaffold_159_(dbseq-nr_158)_[119273,121394]... *
+>Cluster 1788
+0	2118nt, >scaffold_769_(dbseq-nr_768)_[7763,9880]... *
+>Cluster 1789
+0	2112nt, >scaffold_102_(dbseq-nr_101)_[75652,77763]... *
+>Cluster 1790
+0	2110nt, >scaffold_444_(dbseq-nr_443)_[21990,24099]... *
+>Cluster 1791
+0	2107nt, >scaffold_352_(dbseq-nr_351)_[70975,73081]... *
+>Cluster 1792
+0	2102nt, >scaffold_207_(dbseq-nr_206)_[93065,95166]... *
+>Cluster 1793
+0	2101nt, >scaffold_479_(dbseq-nr_478)_[36438,38538]... *
+>Cluster 1794
+0	2097nt, >scaffold_152_(dbseq-nr_151)_[24544,26640]... *
+>Cluster 1795
+0	2092nt, >scaffold_76_(dbseq-nr_75)_[33953,36044]... *
+>Cluster 1796
+0	2080nt, >scaffold_463_(dbseq-nr_462)_[10507,12586]... *
+>Cluster 1797
+0	2077nt, >scaffold_527_(dbseq-nr_526)_[18330,20406]... *
+>Cluster 1798
+0	2076nt, >scaffold_107_(dbseq-nr_106)_[169615,171690]... *
+1	2023nt, >scaffold_615_(dbseq-nr_614)_[3753,5775]... at -/99.60%
+>Cluster 1799
+0	2072nt, >scaffold_123_(dbseq-nr_122)_[14873,16944]... *
+>Cluster 1800
+0	2070nt, >scaffold_39_(dbseq-nr_38)_[275792,277861]... *
+>Cluster 1801
+0	2056nt, >scaffold_266_(dbseq-nr_265)_[1458,3513]... *
+>Cluster 1802
+0	2048nt, >scaffold_234_(dbseq-nr_233)_[25567,27614]... *
+>Cluster 1803
+0	2048nt, >scaffold_684_(dbseq-nr_683)_[12369,14416]... *
+>Cluster 1804
+0	2047nt, >scaffold_776_(dbseq-nr_775)_[1269,3315]... *
+>Cluster 1805
+0	2046nt, >scaffold_133_(dbseq-nr_132)_[145104,147149]... *
+>Cluster 1806
+0	2044nt, >scaffold_559_(dbseq-nr_558)_[22578,24621]... *
+>Cluster 1807
+0	2042nt, >scaffold_402_(dbseq-nr_401)_[19148,21189]... *
+>Cluster 1808
+0	2035nt, >scaffold_56_(dbseq-nr_55)_[33251,35285]... *
+>Cluster 1809
+0	2029nt, >scaffold_281_(dbseq-nr_280)_[79030,81058]... *
+>Cluster 1810
+0	2028nt, >scaffold_86_(dbseq-nr_85)_[41225,43252]... *
+>Cluster 1811
+0	2027nt, >scaffold_276_(dbseq-nr_275)_[13030,15056]... *
+>Cluster 1812
+0	2026nt, >scaffold_18_(dbseq-nr_17)_[178077,180102]... *
+>Cluster 1813
+0	2023nt, >scaffold_25_(dbseq-nr_24)_[10880,12902]... *
+>Cluster 1814
+0	2003nt, >scaffold_66_(dbseq-nr_65)_[202608,204610]... at -/95.76%
+1	2020nt, >scaffold_175_(dbseq-nr_174)_[123120,125139]... *
+>Cluster 1815
+0	2019nt, >scaffold_52_(dbseq-nr_51)_[215383,217401]... *
+>Cluster 1816
+0	2006nt, >scaffold_650_(dbseq-nr_649)_[12582,14587]... *
+>Cluster 1817
+0	1997nt, >scaffold_1_(dbseq-nr_0)_[416806,418802]... *
+>Cluster 1818
+0	1997nt, >scaffold_233_(dbseq-nr_232)_[69058,71054]... *
+>Cluster 1819
+0	1996nt, >scaffold_456_(dbseq-nr_455)_[2344,4339]... *
+>Cluster 1820
+0	1995nt, >scaffold_599_(dbseq-nr_598)_[14895,16889]... *
+>Cluster 1821
+0	1994nt, >scaffold_92_(dbseq-nr_91)_[155167,157160]... *
+>Cluster 1822
+0	1994nt, >scaffold_184_(dbseq-nr_183)_[997,2990]... *
+>Cluster 1823
+0	1991nt, >scaffold_166_(dbseq-nr_165)_[62257,64247]... *
+>Cluster 1824
+0	1989nt, >scaffold_129_(dbseq-nr_128)_[138031,140019]... *
+>Cluster 1825
+0	1988nt, >scaffold_25_(dbseq-nr_24)_[263150,265137]... *
+>Cluster 1826
+0	1985nt, >scaffold_26_(dbseq-nr_25)_[233124,235108]... *
+>Cluster 1827
+0	1985nt, >scaffold_47_(dbseq-nr_46)_[131043,133027]... *
+>Cluster 1828
+0	1974nt, >scaffold_193_(dbseq-nr_192)_[111182,113155]... *
+>Cluster 1829
+0	1970nt, >scaffold_207_(dbseq-nr_206)_[106039,108008]... *
+>Cluster 1830
+0	1969nt, >scaffold_85_(dbseq-nr_84)_[186989,188957]... at -/99.64%
+1	1542nt, >scaffold_316_(dbseq-nr_315)_[37019,38560]... at -/99.03%
+2	1969nt, >scaffold_317_(dbseq-nr_316)_[57197,59165]... at +/99.44%
+3	1970nt, >scaffold_845_(dbseq-nr_844)_[1476,3445]... *
+>Cluster 1831
+0	1967nt, >scaffold_128_(dbseq-nr_127)_[149821,151787]... *
+>Cluster 1832
+0	1966nt, >scaffold_129_(dbseq-nr_128)_[144945,146910]... *
+>Cluster 1833
+0	1960nt, >scaffold_112_(dbseq-nr_111)_[75309,77268]... *
+>Cluster 1834
+0	1957nt, >scaffold_12_(dbseq-nr_11)_[301164,303120]... *
+>Cluster 1835
+0	1957nt, >scaffold_29_(dbseq-nr_28)_[242611,244567]... *
+>Cluster 1836
+0	1956nt, >scaffold_41_(dbseq-nr_40)_[121760,123715]... *
+>Cluster 1837
+0	1952nt, >scaffold_109_(dbseq-nr_108)_[78286,80237]... *
+>Cluster 1838
+0	1951nt, >scaffold_54_(dbseq-nr_53)_[9073,11023]... *
+>Cluster 1839
+0	1951nt, >scaffold_409_(dbseq-nr_408)_[1219,3169]... *
+>Cluster 1840
+0	1949nt, >scaffold_550_(dbseq-nr_549)_[24919,26867]... *
+>Cluster 1841
+0	1948nt, >scaffold_292_(dbseq-nr_291)_[41223,43170]... *
+>Cluster 1842
+0	1948nt, >scaffold_527_(dbseq-nr_526)_[16120,18067]... *
+>Cluster 1843
+0	1943nt, >scaffold_79_(dbseq-nr_78)_[29603,31545]... *
+>Cluster 1844
+0	1930nt, >scaffold_227_(dbseq-nr_226)_[70394,72323]... *
+>Cluster 1845
+0	1923nt, >scaffold_141_(dbseq-nr_140)_[145031,146953]... *
+>Cluster 1846
+0	1921nt, >scaffold_90_(dbseq-nr_89)_[144319,146239]... *
+>Cluster 1847
+0	1913nt, >scaffold_154_(dbseq-nr_153)_[85380,87292]... *
+>Cluster 1848
+0	1913nt, >scaffold_171_(dbseq-nr_170)_[57191,59103]... *
+>Cluster 1849
+0	1911nt, >scaffold_342_(dbseq-nr_341)_[39828,41738]... *
+>Cluster 1850
+0	1910nt, >scaffold_107_(dbseq-nr_106)_[5749,7658]... *
+>Cluster 1851
+0	1909nt, >scaffold_500_(dbseq-nr_499)_[19842,21750]... *
+>Cluster 1852
+0	1907nt, >scaffold_83_(dbseq-nr_82)_[275,2181]... *
+>Cluster 1853
+0	1904nt, >scaffold_79_(dbseq-nr_78)_[147057,148960]... *
+>Cluster 1854
+0	1897nt, >scaffold_4_(dbseq-nr_3)_[403657,405553]... *
+>Cluster 1855
+0	1894nt, >scaffold_36_(dbseq-nr_35)_[162686,164579]... at +/99.84%
+1	1897nt, >scaffold_603_(dbseq-nr_602)_[14322,16218]... *
+>Cluster 1856
+0	1810nt, >scaffold_264_(dbseq-nr_263)_[62428,64237]... at +/99.67%
+1	1891nt, >scaffold_455_(dbseq-nr_454)_[40748,42638]... *
+>Cluster 1857
+0	1886nt, >scaffold_408_(dbseq-nr_407)_[20024,21909]... *
+>Cluster 1858
+0	1885nt, >scaffold_62_(dbseq-nr_61)_[178395,180279]... *
+>Cluster 1859
+0	1882nt, >scaffold_328_(dbseq-nr_327)_[36106,37987]... *
+>Cluster 1860
+0	1875nt, >scaffold_297_(dbseq-nr_296)_[67012,68886]... *
+>Cluster 1861
+0	1872nt, >scaffold_40_(dbseq-nr_39)_[245773,247644]... *
+>Cluster 1862
+0	1870nt, >scaffold_59_(dbseq-nr_58)_[205505,207374]... *
+>Cluster 1863
+0	1867nt, >scaffold_73_(dbseq-nr_72)_[128097,129963]... *
+>Cluster 1864
+0	1862nt, >scaffold_243_(dbseq-nr_242)_[69531,71392]... *
+>Cluster 1865
+0	1858nt, >scaffold_57_(dbseq-nr_56)_[145106,146963]... *
+>Cluster 1866
+0	1855nt, >scaffold_161_(dbseq-nr_160)_[19431,21285]... *
+>Cluster 1867
+0	1854nt, >scaffold_18_(dbseq-nr_17)_[14775,16628]... *
+>Cluster 1868
+0	1646nt, >scaffold_55_(dbseq-nr_54)_[206593,208238]... at +/99.33%
+1	1850nt, >scaffold_151_(dbseq-nr_150)_[133325,135174]... at +/99.51%
+2	1852nt, >scaffold_241_(dbseq-nr_240)_[71932,73783]... at -/99.62%
+3	1848nt, >scaffold_296_(dbseq-nr_295)_[72068,73915]... at -/99.62%
+4	1850nt, >scaffold_364_(dbseq-nr_363)_[23973,25822]... at -/99.57%
+5	1849nt, >scaffold_439_(dbseq-nr_438)_[47230,49078]... at -/99.68%
+6	1849nt, >scaffold_442_(dbseq-nr_441)_[11397,13245]... at -/99.68%
+7	1854nt, >scaffold_456_(dbseq-nr_455)_[46117,47970]... *
+8	1761nt, >scaffold_489_(dbseq-nr_488)_[10,1770]... at +/99.77%
+9	1847nt, >scaffold_553_(dbseq-nr_552)_[15460,17306]... at +/99.62%
+10	1849nt, >scaffold_612_(dbseq-nr_611)_[13215,15063]... at -/99.68%
+11	1847nt, >scaffold_635_(dbseq-nr_634)_[6892,8738]... at +/99.57%
+12	1849nt, >scaffold_881_(dbseq-nr_880)_[1220,3068]... at +/99.57%
+13	1846nt, >scaffold_927_(dbseq-nr_926)_[474,2319]... at +/99.51%
+>Cluster 1869
+0	1854nt, >scaffold_678_(dbseq-nr_677)_[11685,13538]... *
+>Cluster 1870
+0	1852nt, >scaffold_196_(dbseq-nr_195)_[79324,81175]... *
+>Cluster 1871
+0	1844nt, >scaffold_171_(dbseq-nr_170)_[15637,17480]... *
+>Cluster 1872
+0	1843nt, >scaffold_271_(dbseq-nr_270)_[44518,46360]... *
+>Cluster 1873
+0	1842nt, >scaffold_174_(dbseq-nr_173)_[70999,72840]... *
+>Cluster 1874
+0	1841nt, >scaffold_616_(dbseq-nr_615)_[10118,11958]... *
+>Cluster 1875
+0	1828nt, >scaffold_181_(dbseq-nr_180)_[122478,124305]... *
+>Cluster 1876
+0	1827nt, >scaffold_204_(dbseq-nr_203)_[120691,122517]... *
+>Cluster 1877
+0	1825nt, >scaffold_506_(dbseq-nr_505)_[2259,4083]... *
+>Cluster 1878
+0	1825nt, >scaffold_732_(dbseq-nr_731)_[8528,10352]... *
+>Cluster 1879
+0	1824nt, >scaffold_8_(dbseq-nr_7)_[276092,277915]... *
+>Cluster 1880
+0	1822nt, >scaffold_200_(dbseq-nr_199)_[38172,39993]... *
+>Cluster 1881
+0	1820nt, >scaffold_194_(dbseq-nr_193)_[60184,62003]... *
+>Cluster 1882
+0	1816nt, >scaffold_11_(dbseq-nr_10)_[127660,129475]... *
+>Cluster 1883
+0	1815nt, >scaffold_404_(dbseq-nr_403)_[57746,59560]... *
+>Cluster 1884
+0	1814nt, >scaffold_311_(dbseq-nr_310)_[74309,76122]... *
+>Cluster 1885
+0	1813nt, >scaffold_118_(dbseq-nr_117)_[119896,121708]... *
+>Cluster 1886
+0	1807nt, >scaffold_71_(dbseq-nr_70)_[55267,57073]... *
+>Cluster 1887
+0	1801nt, >scaffold_408_(dbseq-nr_407)_[33009,34809]... *
+>Cluster 1888
+0	1800nt, >scaffold_283_(dbseq-nr_282)_[82586,84385]... *
+>Cluster 1889
+0	1797nt, >scaffold_15_(dbseq-nr_14)_[11357,13153]... *
+>Cluster 1890
+0	1790nt, >scaffold_212_(dbseq-nr_211)_[25693,27482]... *
+>Cluster 1891
+0	1786nt, >scaffold_168_(dbseq-nr_167)_[1219,3004]... *
+>Cluster 1892
+0	1778nt, >scaffold_32_(dbseq-nr_31)_[179870,181647]... *
+>Cluster 1893
+0	1777nt, >scaffold_490_(dbseq-nr_489)_[41198,42974]... *
+>Cluster 1894
+0	1766nt, >scaffold_821_(dbseq-nr_820)_[1791,3556]... *
+1	1760nt, >scaffold_855_(dbseq-nr_854)_[1857,3616]... at +/100.00%
+>Cluster 1895
+0	1757nt, >scaffold_173_(dbseq-nr_172)_[30411,32167]... *
+>Cluster 1896
+0	1755nt, >scaffold_91_(dbseq-nr_90)_[15582,17336]... *
+>Cluster 1897
+0	1754nt, >scaffold_13_(dbseq-nr_12)_[343655,345408]... *
+>Cluster 1898
+0	1753nt, >scaffold_304_(dbseq-nr_303)_[13761,15513]... *
+>Cluster 1899
+0	1733nt, >scaffold_28_(dbseq-nr_27)_[223656,225388]... *
+>Cluster 1900
+0	1732nt, >scaffold_800_(dbseq-nr_799)_[1947,3678]... *
+>Cluster 1901
+0	1731nt, >scaffold_82_(dbseq-nr_81)_[102708,104438]... *
+>Cluster 1902
+0	1731nt, >scaffold_131_(dbseq-nr_130)_[72026,73756]... *
+>Cluster 1903
+0	1724nt, >scaffold_529_(dbseq-nr_528)_[849,2572]... *
+>Cluster 1904
+0	1707nt, >scaffold_256_(dbseq-nr_255)_[39841,41547]... *
+>Cluster 1905
+0	1707nt, >scaffold_317_(dbseq-nr_316)_[2878,4584]... *
+>Cluster 1906
+0	1698nt, >scaffold_336_(dbseq-nr_335)_[2092,3789]... *
+>Cluster 1907
+0	1696nt, >scaffold_217_(dbseq-nr_216)_[80443,82138]... *
+>Cluster 1908
+0	1694nt, >scaffold_248_(dbseq-nr_247)_[52274,53967]... *
+>Cluster 1909
+0	1692nt, >scaffold_90_(dbseq-nr_89)_[179740,181431]... *
+>Cluster 1910
+0	1686nt, >scaffold_14_(dbseq-nr_13)_[74279,75964]... *
+>Cluster 1911
+0	1685nt, >scaffold_42_(dbseq-nr_41)_[57050,58734]... *
+>Cluster 1912
+0	1684nt, >scaffold_248_(dbseq-nr_247)_[29854,31537]... *
+>Cluster 1913
+0	1683nt, >scaffold_212_(dbseq-nr_211)_[43628,45310]... *
+>Cluster 1914
+0	1679nt, >scaffold_974_(dbseq-nr_973)_[635,2313]... *
+>Cluster 1915
+0	1673nt, >scaffold_16_(dbseq-nr_15)_[286445,288117]... *
+>Cluster 1916
+0	1673nt, >scaffold_125_(dbseq-nr_124)_[147829,149501]... *
+1	1664nt, >scaffold_241_(dbseq-nr_240)_[85643,87306]... at -/98.74%
+2	1659nt, >scaffold_344_(dbseq-nr_343)_[73649,75307]... at +/99.28%
+3	1407nt, >scaffold_511_(dbseq-nr_510)_[1934,3340]... at +/99.15%
+4	1671nt, >scaffold_581_(dbseq-nr_580)_[12550,14220]... at +/99.82%
+5	1652nt, >scaffold_607_(dbseq-nr_606)_[2212,3863]... at -/99.27%
+6	1665nt, >scaffold_741_(dbseq-nr_740)_[7820,9484]... at -/99.16%
+7	1658nt, >scaffold_815_(dbseq-nr_814)_[964,2621]... at -/99.10%
+>Cluster 1917
+0	1673nt, >scaffold_679_(dbseq-nr_678)_[9667,11339]... *
+1	1500nt, >scaffold_762_(dbseq-nr_761)_[5662,7161]... at +/98.73%
+>Cluster 1918
+0	1670nt, >scaffold_93_(dbseq-nr_92)_[18351,20020]... *
+>Cluster 1919
+0	1669nt, >scaffold_368_(dbseq-nr_367)_[65683,67351]... *
+>Cluster 1920
+0	1663nt, >scaffold_633_(dbseq-nr_632)_[14054,15716]... *
+>Cluster 1921
+0	1657nt, >scaffold_25_(dbseq-nr_24)_[43877,45533]... *
+>Cluster 1922
+0	1655nt, >scaffold_38_(dbseq-nr_37)_[21779,23433]... *
+>Cluster 1923
+0	1654nt, >scaffold_85_(dbseq-nr_84)_[89433,91086]... *
+>Cluster 1924
+0	1649nt, >scaffold_633_(dbseq-nr_632)_[10090,11738]... *
+>Cluster 1925
+0	1644nt, >scaffold_49_(dbseq-nr_48)_[221165,222808]... *
+>Cluster 1926
+0	1643nt, >scaffold_332_(dbseq-nr_331)_[4674,6316]... *
+>Cluster 1927
+0	1633nt, >scaffold_56_(dbseq-nr_55)_[215938,217570]... *
+>Cluster 1928
+0	1632nt, >scaffold_57_(dbseq-nr_56)_[19522,21153]... *
+>Cluster 1929
+0	1632nt, >scaffold_768_(dbseq-nr_767)_[1120,2751]... *
+>Cluster 1930
+0	1629nt, >scaffold_2_(dbseq-nr_1)_[18630,20258]... *
+>Cluster 1931
+0	1623nt, >scaffold_1_(dbseq-nr_0)_[103232,104854]... *
+>Cluster 1932
+0	1622nt, >scaffold_8_(dbseq-nr_7)_[68956,70577]... *
+>Cluster 1933
+0	1618nt, >scaffold_2_(dbseq-nr_1)_[430729,432346]... *
+>Cluster 1934
+0	1615nt, >scaffold_316_(dbseq-nr_315)_[15092,16706]... *
+>Cluster 1935
+0	1613nt, >scaffold_4_(dbseq-nr_3)_[242295,243907]... *
+>Cluster 1936
+0	1613nt, >scaffold_486_(dbseq-nr_485)_[27386,28998]... *
+>Cluster 1937
+0	1609nt, >scaffold_200_(dbseq-nr_199)_[84786,86394]... *
+>Cluster 1938
+0	1602nt, >scaffold_308_(dbseq-nr_307)_[69478,71079]... *
+>Cluster 1939
+0	1602nt, >scaffold_597_(dbseq-nr_596)_[5315,6916]... *
+>Cluster 1940
+0	1601nt, >scaffold_361_(dbseq-nr_360)_[49699,51299]... *
+>Cluster 1941
+0	1601nt, >scaffold_828_(dbseq-nr_827)_[4412,6012]... *
+>Cluster 1942
+0	1600nt, >scaffold_161_(dbseq-nr_160)_[121218,122817]... *
+>Cluster 1943
+0	1596nt, >scaffold_313_(dbseq-nr_312)_[60765,62360]... *
+>Cluster 1944
+0	1595nt, >scaffold_88_(dbseq-nr_87)_[496,2090]... *
+>Cluster 1945
+0	1593nt, >scaffold_139_(dbseq-nr_138)_[127823,129415]... *
+>Cluster 1946
+0	1592nt, >scaffold_27_(dbseq-nr_26)_[81862,83453]... *
+>Cluster 1947
+0	1591nt, >scaffold_12_(dbseq-nr_11)_[231229,232819]... *
+>Cluster 1948
+0	1589nt, >scaffold_243_(dbseq-nr_242)_[101849,103437]... *
+>Cluster 1949
+0	1584nt, >scaffold_224_(dbseq-nr_223)_[77552,79135]... *
+>Cluster 1950
+0	1579nt, >scaffold_396_(dbseq-nr_395)_[1629,3207]... *
+>Cluster 1951
+0	1257nt, >scaffold_219_(dbseq-nr_218)_[97018,98274]... at +/98.57%
+1	1576nt, >scaffold_1007_(dbseq-nr_1006)_[5,1580]... *
+>Cluster 1952
+0	1575nt, >scaffold_92_(dbseq-nr_91)_[96837,98411]... *
+>Cluster 1953
+0	1572nt, >scaffold_766_(dbseq-nr_765)_[175,1746]... *
+>Cluster 1954
+0	1566nt, >scaffold_408_(dbseq-nr_407)_[6270,7835]... *
+>Cluster 1955
+0	1555nt, >scaffold_26_(dbseq-nr_25)_[170593,172147]... *
+>Cluster 1956
+0	1553nt, >scaffold_263_(dbseq-nr_262)_[57141,58693]... *
+>Cluster 1957
+0	1550nt, >scaffold_251_(dbseq-nr_250)_[70584,72133]... *
+>Cluster 1958
+0	1474nt, >scaffold_19_(dbseq-nr_18)_[85150,86623]... at +/98.64%
+1	1538nt, >scaffold_19_(dbseq-nr_18)_[187609,189146]... at -/99.54%
+2	1546nt, >scaffold_117_(dbseq-nr_116)_[144302,145847]... *
+>Cluster 1959
+0	1546nt, >scaffold_129_(dbseq-nr_128)_[108356,109901]... *
+>Cluster 1960
+0	1545nt, >scaffold_16_(dbseq-nr_15)_[293382,294926]... *
+>Cluster 1961
+0	1545nt, >scaffold_746_(dbseq-nr_745)_[9226,10770]... *
+>Cluster 1962
+0	1544nt, >scaffold_149_(dbseq-nr_148)_[139372,140915]... *
+1	1544nt, >scaffold_686_(dbseq-nr_685)_[9324,10867]... at -/100.00%
+>Cluster 1963
+0	1539nt, >scaffold_237_(dbseq-nr_236)_[106358,107896]... *
+>Cluster 1964
+0	1537nt, >scaffold_523_(dbseq-nr_522)_[16685,18221]... *
+>Cluster 1965
+0	1536nt, >scaffold_97_(dbseq-nr_96)_[71225,72760]... *
+>Cluster 1966
+0	1536nt, >scaffold_260_(dbseq-nr_259)_[81560,83095]... *
+>Cluster 1967
+0	1533nt, >scaffold_365_(dbseq-nr_364)_[28347,29879]... *
+>Cluster 1968
+0	1530nt, >scaffold_138_(dbseq-nr_137)_[6868,8397]... *
+>Cluster 1969
+0	1526nt, >scaffold_258_(dbseq-nr_257)_[96795,98320]... *
+>Cluster 1970
+0	1524nt, >scaffold_387_(dbseq-nr_386)_[3030,4553]... *
+>Cluster 1971
+0	1523nt, >scaffold_121_(dbseq-nr_120)_[111746,113268]... *
+>Cluster 1972
+0	1514nt, >scaffold_108_(dbseq-nr_107)_[38880,40393]... *
+>Cluster 1973
+0	1513nt, >scaffold_627_(dbseq-nr_626)_[19709,21221]... *
+>Cluster 1974
+0	1505nt, >scaffold_12_(dbseq-nr_11)_[255599,257103]... *
+>Cluster 1975
+0	1505nt, >scaffold_532_(dbseq-nr_531)_[14805,16309]... *
+>Cluster 1976
+0	1502nt, >scaffold_512_(dbseq-nr_511)_[14076,15577]... *
+>Cluster 1977
+0	1498nt, >scaffold_32_(dbseq-nr_31)_[254217,255714]... *
+>Cluster 1978
+0	1400nt, >scaffold_678_(dbseq-nr_677)_[14645,16044]... at -/100.00%
+1	1496nt, >scaffold_684_(dbseq-nr_683)_[10432,11927]... *
+>Cluster 1979
+0	1495nt, >scaffold_730_(dbseq-nr_729)_[2807,4301]... *
+>Cluster 1980
+0	1493nt, >scaffold_128_(dbseq-nr_127)_[41713,43205]... *
+>Cluster 1981
+0	1490nt, >scaffold_30_(dbseq-nr_29)_[158228,159717]... *
+>Cluster 1982
+0	1487nt, >scaffold_452_(dbseq-nr_451)_[18004,19490]... *
+>Cluster 1983
+0	1486nt, >scaffold_3_(dbseq-nr_2)_[251800,253285]... *
+>Cluster 1984
+0	1484nt, >scaffold_243_(dbseq-nr_242)_[1610,3093]... *
+>Cluster 1985
+0	1483nt, >scaffold_49_(dbseq-nr_48)_[156741,158223]... *
+>Cluster 1986
+0	1482nt, >scaffold_35_(dbseq-nr_34)_[173232,174713]... *
+>Cluster 1987
+0	1481nt, >scaffold_152_(dbseq-nr_151)_[85610,87090]... *
+>Cluster 1988
+0	1475nt, >scaffold_653_(dbseq-nr_652)_[13851,15325]... *
+>Cluster 1989
+0	1474nt, >scaffold_11_(dbseq-nr_10)_[316768,318241]... *
+>Cluster 1990
+0	1472nt, >scaffold_58_(dbseq-nr_57)_[108826,110297]... *
+>Cluster 1991
+0	1468nt, >scaffold_207_(dbseq-nr_206)_[109932,111399]... *
+>Cluster 1992
+0	1467nt, >scaffold_150_(dbseq-nr_149)_[3071,4537]... *
+>Cluster 1993
+0	1464nt, >scaffold_514_(dbseq-nr_513)_[30748,32211]... *
+>Cluster 1994
+0	1460nt, >scaffold_180_(dbseq-nr_179)_[51414,52873]... *
+>Cluster 1995
+0	1453nt, >scaffold_503_(dbseq-nr_502)_[20048,21500]... *
+>Cluster 1996
+0	1452nt, >scaffold_149_(dbseq-nr_148)_[31752,33203]... *
+>Cluster 1997
+0	1447nt, >scaffold_354_(dbseq-nr_353)_[37833,39279]... *
+>Cluster 1998
+0	1445nt, >scaffold_54_(dbseq-nr_53)_[52072,53516]... *
+>Cluster 1999
+0	1445nt, >scaffold_302_(dbseq-nr_301)_[12150,13594]... *
+>Cluster 2000
+0	1442nt, >scaffold_1_(dbseq-nr_0)_[606621,608062]... *
+>Cluster 2001
+0	1441nt, >scaffold_539_(dbseq-nr_538)_[2394,3834]... *
+>Cluster 2002
+0	1440nt, >scaffold_36_(dbseq-nr_35)_[178614,180053]... *
+>Cluster 2003
+0	1440nt, >scaffold_40_(dbseq-nr_39)_[96729,98168]... *
+>Cluster 2004
+0	1439nt, >scaffold_569_(dbseq-nr_568)_[957,2395]... *
+>Cluster 2005
+0	1435nt, >scaffold_15_(dbseq-nr_14)_[142414,143848]... *
+>Cluster 2006
+0	1432nt, >scaffold_165_(dbseq-nr_164)_[83038,84469]... *
+>Cluster 2007
+0	1428nt, >scaffold_610_(dbseq-nr_609)_[950,2377]... *
+>Cluster 2008
+0	1424nt, >scaffold_220_(dbseq-nr_219)_[112690,114113]... *
+>Cluster 2009
+0	1421nt, >scaffold_134_(dbseq-nr_133)_[6070,7490]... *
+>Cluster 2010
+0	1420nt, >scaffold_13_(dbseq-nr_12)_[336624,338043]... *
+>Cluster 2011
+0	1418nt, >scaffold_127_(dbseq-nr_126)_[8818,10235]... *
+>Cluster 2012
+0	1412nt, >scaffold_194_(dbseq-nr_193)_[91497,92908]... *
+>Cluster 2013
+0	1408nt, >scaffold_98_(dbseq-nr_97)_[96962,98369]... *
+>Cluster 2014
+0	1405nt, >scaffold_195_(dbseq-nr_194)_[73515,74919]... *
+>Cluster 2015
+0	1403nt, >scaffold_480_(dbseq-nr_479)_[8752,10154]... *
+>Cluster 2016
+0	1400nt, >scaffold_456_(dbseq-nr_455)_[13195,14594]... *
+>Cluster 2017
+0	1397nt, >scaffold_172_(dbseq-nr_171)_[20951,22347]... *
+>Cluster 2018
+0	1397nt, >scaffold_1010_(dbseq-nr_1009)_[105,1501]... *
+>Cluster 2019
+0	1394nt, >scaffold_500_(dbseq-nr_499)_[38004,39397]... *
+>Cluster 2020
+0	1392nt, >scaffold_290_(dbseq-nr_289)_[48717,50108]... *
+>Cluster 2021
+0	1390nt, >scaffold_56_(dbseq-nr_55)_[141348,142737]... *
+>Cluster 2022
+0	1390nt, >scaffold_251_(dbseq-nr_250)_[5527,6916]... *
+>Cluster 2023
+0	1389nt, >scaffold_217_(dbseq-nr_216)_[50642,52030]... *
+>Cluster 2024
+0	1381nt, >scaffold_133_(dbseq-nr_132)_[42116,43496]... *
+>Cluster 2025
+0	1380nt, >scaffold_54_(dbseq-nr_53)_[127,1506]... *
+>Cluster 2026
+0	1380nt, >scaffold_64_(dbseq-nr_63)_[183020,184399]... *
+>Cluster 2027
+0	1379nt, >scaffold_527_(dbseq-nr_526)_[12856,14234]... *
+>Cluster 2028
+0	1374nt, >scaffold_284_(dbseq-nr_283)_[86013,87386]... *
+>Cluster 2029
+0	1373nt, >scaffold_242_(dbseq-nr_241)_[103250,104622]... *
+>Cluster 2030
+0	1367nt, >scaffold_23_(dbseq-nr_22)_[72623,73989]... *
+>Cluster 2031
+0	1365nt, >scaffold_153_(dbseq-nr_152)_[18030,19394]... *
+>Cluster 2032
+0	1363nt, >scaffold_69_(dbseq-nr_68)_[33502,34864]... *
+>Cluster 2033
+0	1362nt, >scaffold_115_(dbseq-nr_114)_[88509,89870]... *
+>Cluster 2034
+0	1361nt, >scaffold_16_(dbseq-nr_15)_[9028,10388]... *
+>Cluster 2035
+0	1358nt, >scaffold_777_(dbseq-nr_776)_[5012,6369]... *
+>Cluster 2036
+0	1356nt, >scaffold_550_(dbseq-nr_549)_[4403,5758]... *
+>Cluster 2037
+0	1356nt, >scaffold_678_(dbseq-nr_677)_[8036,9391]... *
+>Cluster 2038
+0	1355nt, >scaffold_199_(dbseq-nr_198)_[44148,45502]... *
+>Cluster 2039
+0	1352nt, >scaffold_780_(dbseq-nr_779)_[4907,6258]... *
+>Cluster 2040
+0	1346nt, >scaffold_135_(dbseq-nr_134)_[86822,88167]... *
+>Cluster 2041
+0	1346nt, >scaffold_647_(dbseq-nr_646)_[673,2018]... *
+>Cluster 2042
+0	1344nt, >scaffold_737_(dbseq-nr_736)_[10068,11411]... *
+>Cluster 2043
+0	1337nt, >scaffold_136_(dbseq-nr_135)_[33471,34807]... *
+>Cluster 2044
+0	1335nt, >scaffold_65_(dbseq-nr_64)_[9414,10748]... *
+>Cluster 2045
+0	1335nt, >scaffold_170_(dbseq-nr_169)_[46967,48301]... *
+>Cluster 2046
+0	1332nt, >scaffold_519_(dbseq-nr_518)_[9687,11018]... *
+>Cluster 2047
+0	1328nt, >scaffold_137_(dbseq-nr_136)_[128583,129910]... *
+>Cluster 2048
+0	1327nt, >scaffold_1_(dbseq-nr_0)_[351983,353309]... *
+>Cluster 2049
+0	1327nt, >scaffold_332_(dbseq-nr_331)_[13056,14382]... *
+>Cluster 2050
+0	1309nt, >scaffold_51_(dbseq-nr_50)_[188559,189867]... at -/98.70%
+1	1326nt, >scaffold_147_(dbseq-nr_146)_[13141,14466]... *
+>Cluster 2051
+0	1325nt, >scaffold_106_(dbseq-nr_105)_[112752,114076]... *
+>Cluster 2052
+0	1317nt, >scaffold_789_(dbseq-nr_788)_[2316,3632]... *
+>Cluster 2053
+0	1316nt, >scaffold_360_(dbseq-nr_359)_[66874,68189]... *
+>Cluster 2054
+0	1316nt, >scaffold_541_(dbseq-nr_540)_[10935,12250]... *
+>Cluster 2055
+0	1311nt, >scaffold_288_(dbseq-nr_287)_[81637,82947]... *
+>Cluster 2056
+0	1308nt, >scaffold_516_(dbseq-nr_515)_[30787,32094]... *
+>Cluster 2057
+0	1307nt, >scaffold_688_(dbseq-nr_687)_[8319,9625]... *
+>Cluster 2058
+0	1302nt, >scaffold_69_(dbseq-nr_68)_[66064,67365]... *
+>Cluster 2059
+0	1300nt, >scaffold_500_(dbseq-nr_499)_[16583,17882]... *
+>Cluster 2060
+0	1298nt, >scaffold_65_(dbseq-nr_64)_[13674,14971]... *
+>Cluster 2061
+0	1298nt, >scaffold_178_(dbseq-nr_177)_[29728,31025]... *
+>Cluster 2062
+0	1296nt, >scaffold_80_(dbseq-nr_79)_[100041,101336]... *
+>Cluster 2063
+0	1294nt, >scaffold_394_(dbseq-nr_393)_[14945,16238]... *
+1	1286nt, >scaffold_689_(dbseq-nr_688)_[11320,12605]... at +/100.00%
+>Cluster 2064
+0	1289nt, >scaffold_4_(dbseq-nr_3)_[158320,159608]... *
+>Cluster 2065
+0	1288nt, >scaffold_304_(dbseq-nr_303)_[27924,29211]... *
+>Cluster 2066
+0	1288nt, >scaffold_730_(dbseq-nr_729)_[6776,8063]... *
+>Cluster 2067
+0	1287nt, >scaffold_252_(dbseq-nr_251)_[7788,9074]... *
+>Cluster 2068
+0	1287nt, >scaffold_355_(dbseq-nr_354)_[64333,65619]... *
+>Cluster 2069
+0	1282nt, >scaffold_174_(dbseq-nr_173)_[122199,123480]... *
+>Cluster 2070
+0	1268nt, >scaffold_1_(dbseq-nr_0)_[222705,223972]... at +/98.90%
+1	1264nt, >scaffold_11_(dbseq-nr_10)_[104636,105899]... at +/98.81%
+2	1262nt, >scaffold_17_(dbseq-nr_16)_[113343,114604]... at +/98.57%
+3	1281nt, >scaffold_20_(dbseq-nr_19)_[140248,141528]... at +/98.52%
+4	1279nt, >scaffold_25_(dbseq-nr_24)_[120195,121473]... at +/97.34%
+5	1264nt, >scaffold_176_(dbseq-nr_175)_[129796,131059]... at -/98.50%
+6	1282nt, >scaffold_321_(dbseq-nr_320)_[23607,24888]... *
+7	1266nt, >scaffold_493_(dbseq-nr_492)_[35523,36788]... at +/98.10%
+8	1264nt, >scaffold_595_(dbseq-nr_594)_[17948,19211]... at +/98.42%
+9	1268nt, >scaffold_992_(dbseq-nr_991)_[633,1900]... at -/98.66%
+>Cluster 2071
+0	1279nt, >scaffold_143_(dbseq-nr_142)_[14143,15421]... *
+>Cluster 2072
+0	1279nt, >scaffold_406_(dbseq-nr_405)_[3270,4548]... *
+>Cluster 2073
+0	1277nt, >scaffold_856_(dbseq-nr_855)_[4797,6073]... *
+>Cluster 2074
+0	1276nt, >scaffold_268_(dbseq-nr_267)_[4694,5969]... *
+>Cluster 2075
+0	1276nt, >scaffold_775_(dbseq-nr_774)_[947,2222]... *
+>Cluster 2076
+0	1271nt, >scaffold_30_(dbseq-nr_29)_[162795,164065]... *
+>Cluster 2077
+0	1270nt, >scaffold_52_(dbseq-nr_51)_[231135,232404]... *
+>Cluster 2078
+0	1264nt, >scaffold_9_(dbseq-nr_8)_[198876,200139]... *
+>Cluster 2079
+0	1263nt, >scaffold_33_(dbseq-nr_32)_[162909,164171]... *
+>Cluster 2080
+0	1256nt, >scaffold_43_(dbseq-nr_42)_[145681,146936]... *
+>Cluster 2081
+0	1252nt, >scaffold_163_(dbseq-nr_162)_[29526,30777]... *
+>Cluster 2082
+0	1246nt, >scaffold_313_(dbseq-nr_312)_[59482,60727]... *
+>Cluster 2083
+0	1243nt, >scaffold_391_(dbseq-nr_390)_[23895,25137]... *
+>Cluster 2084
+0	1241nt, >scaffold_412_(dbseq-nr_411)_[11483,12723]... *
+>Cluster 2085
+0	1235nt, >scaffold_95_(dbseq-nr_94)_[6211,7445]... *
+1	1200nt, >scaffold_771_(dbseq-nr_770)_[4312,5511]... at +/95.33%
+>Cluster 2086
+0	1233nt, >scaffold_361_(dbseq-nr_360)_[46432,47664]... *
+>Cluster 2087
+0	1231nt, >scaffold_35_(dbseq-nr_34)_[9571,10801]... *
+>Cluster 2088
+0	1231nt, >scaffold_370_(dbseq-nr_369)_[4025,5255]... *
+>Cluster 2089
+0	1229nt, >scaffold_272_(dbseq-nr_271)_[42353,43581]... *
+>Cluster 2090
+0	1226nt, >scaffold_464_(dbseq-nr_463)_[8612,9837]... *
+>Cluster 2091
+0	1225nt, >scaffold_60_(dbseq-nr_59)_[11718,12942]... *
+>Cluster 2092
+0	1224nt, >scaffold_105_(dbseq-nr_104)_[47847,49070]... *
+>Cluster 2093
+0	1223nt, >scaffold_275_(dbseq-nr_274)_[8716,9938]... *
+>Cluster 2094
+0	1223nt, >scaffold_588_(dbseq-nr_587)_[13576,14798]... *
+>Cluster 2095
+0	1218nt, >scaffold_126_(dbseq-nr_125)_[27593,28810]... *
+>Cluster 2096
+0	1214nt, >scaffold_32_(dbseq-nr_31)_[92187,93400]... *
+>Cluster 2097
+0	1214nt, >scaffold_514_(dbseq-nr_513)_[37795,39008]... *
+>Cluster 2098
+0	1208nt, >scaffold_266_(dbseq-nr_265)_[93470,94677]... *
+>Cluster 2099
+0	1206nt, >scaffold_341_(dbseq-nr_340)_[24930,26135]... *
+>Cluster 2100
+0	1206nt, >scaffold_471_(dbseq-nr_470)_[20417,21622]... *
+>Cluster 2101
+0	1204nt, >scaffold_5_(dbseq-nr_4)_[163624,164827]... *
+>Cluster 2102
+0	1201nt, >scaffold_8_(dbseq-nr_7)_[233080,234280]... *
+>Cluster 2103
+0	1200nt, >scaffold_119_(dbseq-nr_118)_[92236,93435]... *
+>Cluster 2104
+0	1194nt, >scaffold_184_(dbseq-nr_183)_[56448,57641]... *
+>Cluster 2105
+0	1189nt, >scaffold_235_(dbseq-nr_234)_[93748,94936]... *
+>Cluster 2106
+0	1187nt, >scaffold_117_(dbseq-nr_116)_[73640,74826]... *
+>Cluster 2107
+0	1187nt, >scaffold_265_(dbseq-nr_264)_[70402,71588]... *
+>Cluster 2108
+0	1184nt, >scaffold_339_(dbseq-nr_338)_[62229,63412]... *
+>Cluster 2109
+0	1183nt, >scaffold_305_(dbseq-nr_304)_[54847,56029]... *
+>Cluster 2110
+0	1181nt, >scaffold_367_(dbseq-nr_366)_[28212,29392]... *
+>Cluster 2111
+0	1181nt, >scaffold_451_(dbseq-nr_450)_[26233,27413]... *
+>Cluster 2112
+0	1173nt, >scaffold_440_(dbseq-nr_439)_[44997,46169]... at -/96.68%
+1	1178nt, >scaffold_628_(dbseq-nr_627)_[12862,14039]... *
+>Cluster 2113
+0	1176nt, >scaffold_38_(dbseq-nr_37)_[54249,55424]... *
+>Cluster 2114
+0	1176nt, >scaffold_236_(dbseq-nr_235)_[62655,63830]... *
+>Cluster 2115
+0	1174nt, >scaffold_13_(dbseq-nr_12)_[17021,18194]... *
+>Cluster 2116
+0	1174nt, >scaffold_398_(dbseq-nr_397)_[48288,49461]... *
+>Cluster 2117
+0	1173nt, >scaffold_80_(dbseq-nr_79)_[88612,89784]... *
+>Cluster 2118
+0	1173nt, >scaffold_201_(dbseq-nr_200)_[29201,30373]... *
+>Cluster 2119
+0	1163nt, >scaffold_81_(dbseq-nr_80)_[136250,137412]... *
+>Cluster 2120
+0	1156nt, >scaffold_124_(dbseq-nr_123)_[91522,92677]... *
+>Cluster 2121
+0	1156nt, >scaffold_336_(dbseq-nr_335)_[67154,68309]... *
+>Cluster 2122
+0	1154nt, >scaffold_285_(dbseq-nr_284)_[6602,7755]... *
+>Cluster 2123
+0	1153nt, >scaffold_684_(dbseq-nr_683)_[8038,9190]... *
+>Cluster 2124
+0	1151nt, >scaffold_330_(dbseq-nr_329)_[50951,52101]... *
+>Cluster 2125
+0	1150nt, >scaffold_101_(dbseq-nr_100)_[152657,153806]... *
+>Cluster 2126
+0	1149nt, >scaffold_79_(dbseq-nr_78)_[54548,55696]... *
+>Cluster 2127
+0	1148nt, >scaffold_192_(dbseq-nr_191)_[22392,23539]... *
+>Cluster 2128
+0	1144nt, >scaffold_49_(dbseq-nr_48)_[28820,29963]... *
+>Cluster 2129
+0	1144nt, >scaffold_113_(dbseq-nr_112)_[20825,21968]... *
+>Cluster 2130
+0	1142nt, >scaffold_139_(dbseq-nr_138)_[87850,88991]... *
+>Cluster 2131
+0	1139nt, >scaffold_281_(dbseq-nr_280)_[32752,33890]... *
+>Cluster 2132
+0	1122nt, >scaffold_5_(dbseq-nr_4)_[300781,301902]... *
+>Cluster 2133
+0	1121nt, >scaffold_169_(dbseq-nr_168)_[136394,137514]... *
+>Cluster 2134
+0	1117nt, >scaffold_7_(dbseq-nr_6)_[361573,362689]... *
+>Cluster 2135
+0	1109nt, >scaffold_194_(dbseq-nr_193)_[42391,43499]... *
+>Cluster 2136
+0	1100nt, >scaffold_517_(dbseq-nr_516)_[6122,7221]... *
