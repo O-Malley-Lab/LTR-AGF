@@ -1,0 +1,559 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+scaffold_1006_(dbseq-nr_1005)_[16919,23965]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret INT|v_clade CHR|retroelement
+scaffold_101_(dbseq-nr_100)_[169452,175414]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|tork
+scaffold_101_(dbseq-nr_100)_[75717,81783]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|17_6 INT|gmr1
+scaffold_1029_(dbseq-nr_1028)_[5765,13132]	LTR	Copia	mixture	no	+	RT|copia RNaseH|sire
+scaffold_104_(dbseq-nr_103)_[125069,130829]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_104_(dbseq-nr_103)_[139248,150850]	LTR	Gypsy	mixture	no	+	RNaseH|pyret GAG|v_clade
+scaffold_104_(dbseq-nr_103)_[154848,162123]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_104_(dbseq-nr_103)_[162531,167430]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_104_(dbseq-nr_103)_[65843,75082]	LTR	Copia	copia	no	+	RT|copia RNaseH|copia
+scaffold_104_(dbseq-nr_103)_[93822,98805]	LTR	Copia	mixture	no	-	INT|tork RT|pseudovirus RNaseH|copia
+scaffold_1071_(dbseq-nr_1070)_[10606,18691]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_107_(dbseq-nr_106)_[59485,66751]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_10_(dbseq-nr_9)_[101991,108781]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_10_(dbseq-nr_9)_[119343,126809]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_10_(dbseq-nr_9)_[134148,140644]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|oryco RT|1731 RNaseH|copia
+scaffold_10_(dbseq-nr_9)_[147209,153332]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|codi_d
+scaffold_10_(dbseq-nr_9)_[159885,173085]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_10_(dbseq-nr_9)_[174027,180519]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_10_(dbseq-nr_9)_[188143,195637]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_10_(dbseq-nr_9)_[196461,204013]	LTR	Gypsy	mixture	no	+	GAG|TF RT|v_clade RNaseH|pyret INT|crm
+scaffold_10_(dbseq-nr_9)_[216856,221806]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|tork RT|1731 RNaseH|sire
+scaffold_10_(dbseq-nr_9)_[239128,246640]	LTR	Gypsy	reina	no	+	RT|reina
+scaffold_10_(dbseq-nr_9)_[412385,417403]	LTR	mixture	mixture	unknown	?	RNaseH|oryco AP|maggy
+scaffold_10_(dbseq-nr_9)_[55372,62274]	LTR	Gypsy	v_clade	no	-	AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_10_(dbseq-nr_9)_[73690,78643]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_10_(dbseq-nr_9)_[83272,95899]	LTR	Gypsy	v_clade	no	+	AP|ty1/copia INT|retrofit RT|v_clade RNaseH|v_clade
+scaffold_1108_(dbseq-nr_1107)_[824,15199]	LTR	Copia	oryco	no	-	RNaseH|oryco
+scaffold_1141_(dbseq-nr_1140)_[13796,20886]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|tat
+scaffold_115_(dbseq-nr_114)_[107557,114412]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_115_(dbseq-nr_114)_[154611,160626]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+scaffold_115_(dbseq-nr_114)_[25166,32522]	LTR	Gypsy	v_clade	no	-	AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_115_(dbseq-nr_114)_[34169,44166]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_115_(dbseq-nr_114)_[44395,53171]	LTR	Gypsy	v_clade	no	-	GAG|TF RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_115_(dbseq-nr_114)_[58876,65187]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|del INT|gmr1
+scaffold_115_(dbseq-nr_114)_[68000,76202]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_115_(dbseq-nr_114)_[8472,22610]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_1161_(dbseq-nr_1160)_[5136,18097]	LTR	Gypsy	v_clade	no	?	GAG|v_clade RNaseH|pyret RT|reina INT|v_clade
+scaffold_1172_(dbseq-nr_1171)_[8852,18158]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_1185_(dbseq-nr_1184)_[14068,21601]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_120_(dbseq-nr_119)_[133183,140195]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|del INT|gmr1
+scaffold_120_(dbseq-nr_119)_[146615,153333]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|del INT|tat
+scaffold_120_(dbseq-nr_119)_[161810,169112]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_1217_(dbseq-nr_1216)_[13941,21072]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret INT|v_clade CHR|all
+scaffold_1226_(dbseq-nr_1225)_[12938,18254]	LTR	Copia	copia	no	+	AP|ty1/copia INT|copia RT|tork RNaseH|copia
+scaffold_122_(dbseq-nr_121)_[106121,112960]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_122_(dbseq-nr_121)_[138039,143859]	LTR	Gypsy	v_clade	no	+	AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_122_(dbseq-nr_121)_[165342,172459]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_122_(dbseq-nr_121)_[19554,24499]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|tork RT|1731 RNaseH|sire
+scaffold_122_(dbseq-nr_121)_[27251,33761]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_122_(dbseq-nr_121)_[44417,52679]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_122_(dbseq-nr_121)_[72756,80010]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_1239_(dbseq-nr_1238)_[1917,9154]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_123_(dbseq-nr_122)_[56180,68904]	LTR	Gypsy	v_clade	no	?	AP|ty1/copia GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_1256_(dbseq-nr_1255)_[12730,18063]	LTR	Copia	copia	no	+	AP|ty1/copia INT|copia RT|hydra RNaseH|copia
+scaffold_1261_(dbseq-nr_1260)_[3233,10111]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_1267_(dbseq-nr_1266)_[12687,17996]	LTR	Copia	copia	no	+	AP|ty1/copia INT|copia RT|hydra RNaseH|copia
+scaffold_1270_(dbseq-nr_1269)_[13289,21221]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_127_(dbseq-nr_126)_[73532,79178]	LTR	Copia	mixture	no	-	INT|retrofit RT|sire RNaseH|copia
+scaffold_1305_(dbseq-nr_1304)_[7501,14781]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_1326_(dbseq-nr_1325)_[2038,9256]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_1326_(dbseq-nr_1325)_[9504,15361]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_1327_(dbseq-nr_1326)_[2440,14580]	LTR	Gypsy	v_clade	no	?	GAG|v_clade AP|v_clade RT|v_clade INT|v_clade CHR|retroelement RNaseH|pyret
+scaffold_134_(dbseq-nr_133)_[110294,116158]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|1731 RNaseH|codi_d
+scaffold_134_(dbseq-nr_133)_[20330,33914]	LTR	Gypsy	v_clade	no	?	RNaseH|v_clade RT|v_clade GAG|v_clade INT|v_clade AP|v_clade
+scaffold_134_(dbseq-nr_133)_[42106,49645]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_134_(dbseq-nr_133)_[53515,60786]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_1388_(dbseq-nr_1387)_[7442,19233]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_1393_(dbseq-nr_1392)_[5821,18322]	mixture	mixture	mixture	unknown	+	CHR|all INT|v_clade
+scaffold_1417_(dbseq-nr_1416)_[2175,10089]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+scaffold_144_(dbseq-nr_143)_[32471,39014]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_145_(dbseq-nr_144)_[101580,108045]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_145_(dbseq-nr_144)_[124624,131175]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|pyret INT|v_clade CHR|retroelement
+scaffold_145_(dbseq-nr_144)_[134328,141638]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_145_(dbseq-nr_144)_[143413,150150]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_145_(dbseq-nr_144)_[18635,24877]	LTR	Gypsy	pyret	no	+	AP|pyret RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_145_(dbseq-nr_144)_[2224,9093]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|copia
+scaffold_145_(dbseq-nr_144)_[56231,63269]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|gmr1
+scaffold_145_(dbseq-nr_144)_[74954,80223]	LTR	Copia	sire	no	-	INT|tork RT|sire RNaseH|sire
+scaffold_146_(dbseq-nr_145)_[153087,158749]	LTR	Copia	mixture	no	-	INT|retrofit RT|sire RNaseH|copia
+scaffold_1498_(dbseq-nr_1497)_[11637,18530]	LTR	Gypsy	mixture	no	+	RNaseH|pyret INT|maggy
+scaffold_1522_(dbseq-nr_1521)_[6160,13376]	LTR	Gypsy	v_clade	no	-	AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_1526_(dbseq-nr_1525)_[4380,19993]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_1537_(dbseq-nr_1536)_[7120,11456]	Unknown	unknown	cog5550	unknown	-	AP|cog5550
+scaffold_1546_(dbseq-nr_1545)_[11867,17177]	LTR	Copia	copia	no	+	INT|copia RT|hydra RNaseH|copia
+scaffold_1547_(dbseq-nr_1546)_[4703,9811]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_156_(dbseq-nr_155)_[51175,57719]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|copia
+scaffold_162_(dbseq-nr_161)_[139776,146918]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_1648_(dbseq-nr_1647)_[8220,15102]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_1659_(dbseq-nr_1658)_[8448,15476]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyret INT|maggy
+scaffold_1663_(dbseq-nr_1662)_[5624,17409]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_16_(dbseq-nr_15)_[322277,327925]	LTR	Copia	mixture	no	-	INT|retrofit RT|sire RNaseH|copia
+scaffold_1717_(dbseq-nr_1716)_[10914,18910]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_1726_(dbseq-nr_1725)_[10750,13800]	LTR	Gypsy	v_clade	no	-	GAG|v_clade
+scaffold_1732_(dbseq-nr_1731)_[7302,14560]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_173_(dbseq-nr_172)_[108290,113190]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_173_(dbseq-nr_172)_[63894,69664]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|sire
+scaffold_1753_(dbseq-nr_1752)_[7228,14479]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_178_(dbseq-nr_177)_[33759,40642]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_178_(dbseq-nr_177)_[93195,99765]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_1813_(dbseq-nr_1812)_[8506,14467]	LTR	Copia	tork	no	-	INT|tork RT|tork RNaseH|sire
+scaffold_1816_(dbseq-nr_1815)_[4408,11017]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|copia
+scaffold_1819_(dbseq-nr_1818)_[6629,12172]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_181_(dbseq-nr_180)_[101467,108700]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_181_(dbseq-nr_180)_[122021,127719]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_181_(dbseq-nr_180)_[20508,33763]	LTR	Gypsy	v_clade	no	-	INT|v_clade
+scaffold_181_(dbseq-nr_180)_[67150,74631]	LTR	Gypsy	v_clade	no	+	AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_182_(dbseq-nr_181)_[52585,60536]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|del INT|gmr1
+scaffold_183_(dbseq-nr_182)_[105536,112135]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_183_(dbseq-nr_182)_[72029,75951]	LTR	Copia	sire	no	-	RNaseH|sire
+scaffold_187_(dbseq-nr_186)_[51962,53771]	LTR	Copia	mixture	no	-	RT|tork RNaseH|sire
+scaffold_1895_(dbseq-nr_1894)_[4912,11973]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|tat
+scaffold_18_(dbseq-nr_17)_[112467,119474]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyret INT|maggy
+scaffold_18_(dbseq-nr_17)_[178198,188677]	LTR	Copia	mixture	no	-	RT|sire RNaseH|copia
+scaffold_18_(dbseq-nr_17)_[230745,236849]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|sire RNaseH|copia
+scaffold_18_(dbseq-nr_17)_[242004,247688]	LTR	Copia	pseudovirus	no	+	AP|pseudovirus INT|tork RT|pseudovirus RNaseH|copia
+scaffold_18_(dbseq-nr_17)_[271528,278785]	LTR	Gypsy	mixture	no	-	RT|del RNaseH|cer2-3 INT|412_mdg1
+scaffold_18_(dbseq-nr_17)_[286578,294954]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|17_6 INT|gmr1
+scaffold_18_(dbseq-nr_17)_[318857,326132]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_18_(dbseq-nr_17)_[366176,373188]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|gmr1
+scaffold_18_(dbseq-nr_17)_[89845,96336]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_1905_(dbseq-nr_1904)_[6103,14332]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|17_6 INT|gmr1
+scaffold_190_(dbseq-nr_189)_[106861,120786]	LTR	Gypsy	v_clade	no	+	GAG|v_clade AP|pyret RT|v_clade INT|v_clade CHR|retroelement RNaseH|pyret
+scaffold_190_(dbseq-nr_189)_[121897,127971]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|17_6 INT|gmr1
+scaffold_190_(dbseq-nr_189)_[128937,135894]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_191_(dbseq-nr_190)_[109600,116819]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_191_(dbseq-nr_190)_[119079,126181]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_1931_(dbseq-nr_1930)_[437,6094]	LTR	Copia	copia	no	-	RT|copia RNaseH|copia
+scaffold_1945_(dbseq-nr_1944)_[10316,17502]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_1955_(dbseq-nr_1954)_[10285,17456]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_195_(dbseq-nr_194)_[59580,68328]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|17_6 INT|gmr1
+scaffold_2014_(dbseq-nr_2013)_[2407,9247]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_201_(dbseq-nr_200)_[15042,21644]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_203_(dbseq-nr_202)_[30183,32458]	Unknown	unknown	ddi	unknown	+	AP|ddi
+scaffold_2041_(dbseq-nr_2040)_[10931,16826]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|del INT|gmr1
+scaffold_207_(dbseq-nr_206)_[105250,119720]	LTR	Copia	sire	no	+	RNaseH|sire
+scaffold_2085_(dbseq-nr_2084)_[6378,14332]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3
+scaffold_2099_(dbseq-nr_2098)_[10889,16787]	LTR	Gypsy	cer2-3	no	+	RT|cer2-3 RNaseH|cer2-3 INT|gmr1
+scaffold_2117_(dbseq-nr_2116)_[3263,9039]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|copia RT|tork RNaseH|sire
+scaffold_2134_(dbseq-nr_2133)_[8281,10467]	Unknown	unknown	all	unknown	+	CHR|all
+scaffold_2172_(dbseq-nr_2171)_[449,6110]	LTR	Copia	pseudovirus	no	-	AP|pseudovirus INT|tork RT|pseudovirus RNaseH|copia
+scaffold_2183_(dbseq-nr_2182)_[3778,10823]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|gmr1
+scaffold_2189_(dbseq-nr_2188)_[1676,16573]	LTR	Copia	tork	no	-	RNaseH|tork
+scaffold_21_(dbseq-nr_20)_[209621,215802]	LTR	Copia	oryco	no	+	RNaseH|oryco
+scaffold_21_(dbseq-nr_20)_[256818,263474]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_21_(dbseq-nr_20)_[318404,324923]	LTR	Gypsy	v_clade	no	-	AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_21_(dbseq-nr_20)_[349381,357021]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_21_(dbseq-nr_20)_[8265,14026]	LTR	Copia	sire	no	-	AP|copia INT|tork RT|sire RNaseH|sire
+scaffold_2200_(dbseq-nr_2199)_[8386,15263]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyret INT|maggy
+scaffold_2201_(dbseq-nr_2200)_[8397,16113]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_2233_(dbseq-nr_2232)_[8670,15692]	LTR	Gypsy	mixture	no	-	RT|v_clade RNaseH|pyret INT|maggy
+scaffold_2235_(dbseq-nr_2234)_[948,8555]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_223_(dbseq-nr_222)_[21070,27887]	LTR	Copia	copia	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|copia
+scaffold_227_(dbseq-nr_226)_[28866,36061]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_2290_(dbseq-nr_2289)_[6604,12448]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_234_(dbseq-nr_233)_[101697,107380]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_234_(dbseq-nr_233)_[14860,21398]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_234_(dbseq-nr_233)_[32310,38142]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+scaffold_234_(dbseq-nr_233)_[39575,44954]	LTR	Copia	mixture	no	+	RT|pseudovirus RNaseH|copia
+scaffold_234_(dbseq-nr_233)_[56231,64580]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|17_6 INT|gmr1
+scaffold_234_(dbseq-nr_233)_[67997,75288]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_234_(dbseq-nr_233)_[82555,89376]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_234_(dbseq-nr_233)_[89997,95764]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_235_(dbseq-nr_234)_[25067,30950]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|tork RT|copia RNaseH|sire
+scaffold_235_(dbseq-nr_234)_[65458,72769]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_235_(dbseq-nr_234)_[86425,93925]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_2369_(dbseq-nr_2368)_[4177,11431]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_237_(dbseq-nr_236)_[88982,96593]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_242_(dbseq-nr_241)_[46138,54099]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|tat
+scaffold_242_(dbseq-nr_241)_[54106,61534]	LTR	Gypsy	v_clade	no	+	AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_2456_(dbseq-nr_2455)_[7538,14789]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_2460_(dbseq-nr_2459)_[1054,8610]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_2472_(dbseq-nr_2471)_[6573,12535]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|tork
+scaffold_253_(dbseq-nr_252)_[90139,96195]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|tork
+scaffold_254_(dbseq-nr_253)_[12550,18171]	LTR	Copia	mixture	no	+	INT|retrofit RT|sire RNaseH|copia
+scaffold_2568_(dbseq-nr_2567)_[1641,6957]	LTR	Copia	copia	no	-	AP|ty1/copia INT|copia RT|hydra RNaseH|copia
+scaffold_256_(dbseq-nr_255)_[42144,47787]	LTR	Copia	mixture	no	-	INT|retrofit RT|sire RNaseH|copia
+scaffold_2578_(dbseq-nr_2577)_[1649,6963]	LTR	Copia	copia	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|copia
+scaffold_257_(dbseq-nr_256)_[17975,25387]	LTR	Gypsy	mixture	no	+	AP|17_6 RT|v_clade RNaseH|pyret INT|crm
+scaffold_257_(dbseq-nr_256)_[34327,41089]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_257_(dbseq-nr_256)_[52075,61193]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_257_(dbseq-nr_256)_[86438,93966]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_257_(dbseq-nr_256)_[96376,102145]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_2583_(dbseq-nr_2582)_[1749,6111]	LTR	Copia	oryco	no	+	AP|oryco
+scaffold_2598_(dbseq-nr_2597)_[1632,6850]	LTR	Copia	copia	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|copia
+scaffold_2613_(dbseq-nr_2612)_[571,6247]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_261_(dbseq-nr_260)_[9,7096]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_2631_(dbseq-nr_2630)_[544,6222]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_265_(dbseq-nr_264)_[99091,105948]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_26_(dbseq-nr_25)_[112541,119112]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_2707_(dbseq-nr_2706)_[7673,14417]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|maggy INT|v_clade CHR|retroelement
+scaffold_271_(dbseq-nr_270)_[18656,21583]	LTR	Copia	copia	no	+	INT|copia
+scaffold_271_(dbseq-nr_270)_[23842,29310]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|copia RT|tork RNaseH|sire
+scaffold_271_(dbseq-nr_270)_[37814,43322]	LTR	Copia	mixture	no	+	INT|retrofit RT|tork RNaseH|codi_d
+scaffold_271_(dbseq-nr_270)_[9039,16464]	LTR	Gypsy	v_clade	no	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade CHR|all
+scaffold_2725_(dbseq-nr_2724)_[7780,15056]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_2727_(dbseq-nr_2726)_[8505,15039]	LTR	Copia	mixture	no	+	AP|ty1/copia RNaseH|codi_d
+scaffold_272_(dbseq-nr_271)_[51183,58628]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_272_(dbseq-nr_271)_[61738,68602]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_2733_(dbseq-nr_2732)_[4489,11287]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyret
+scaffold_273_(dbseq-nr_272)_[12569,18537]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|412-mdg1 INT|gmr1
+scaffold_273_(dbseq-nr_272)_[24115,30678]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_273_(dbseq-nr_272)_[6989,12350]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_2758_(dbseq-nr_2757)_[1162,6433]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|oryco RT|pseudovirus RNaseH|copia
+scaffold_275_(dbseq-nr_274)_[18231,26955]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|17_6 INT|gmr1
+scaffold_275_(dbseq-nr_274)_[6363,13475]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_275_(dbseq-nr_274)_[66830,74198]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_275_(dbseq-nr_274)_[78613,86649]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_275_(dbseq-nr_274)_[93672,100263]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_276_(dbseq-nr_275)_[297,5192]	mixture	mixture	mixture	unknown	-	GAG|v_clade AP|maggy CHR|all
+scaffold_277_(dbseq-nr_276)_[41658,48494]	LTR	Gypsy	gmr1	no	+	RT|reina RNaseH|gmr1 INT|gmr1
+scaffold_277_(dbseq-nr_276)_[48612,56095]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_277_(dbseq-nr_276)_[5824,15536]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|tat
+scaffold_277_(dbseq-nr_276)_[58893,66167]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_277_(dbseq-nr_276)_[69403,78528]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|17_6 INT|gmr1
+scaffold_277_(dbseq-nr_276)_[83124,90608]	LTR	Gypsy	v_clade	no	-	AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_279_(dbseq-nr_278)_[61447,68673]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_279_(dbseq-nr_278)_[98327,106075]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_2803_(dbseq-nr_2802)_[6575,14291]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_2834_(dbseq-nr_2833)_[781,8116]	LTR	Copia	mixture	no	-	RT|copia RNaseH|sire
+scaffold_283_(dbseq-nr_282)_[19806,25562]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_283_(dbseq-nr_282)_[58045,65109]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|gypsy INT|tat
+scaffold_283_(dbseq-nr_282)_[9526,16991]	LTR	Gypsy	v_clade	no	-	AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_2849_(dbseq-nr_2848)_[801,8116]	LTR	Copia	mixture	no	-	RT|copia RNaseH|sire
+scaffold_286_(dbseq-nr_285)_[29916,33273]	LTR	Gypsy	reina	no	-	RT|reina
+scaffold_286_(dbseq-nr_285)_[5669,11983]	LTR	Gypsy	v_clade	no	-	AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_286_(dbseq-nr_285)_[76239,80276]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|pCretro
+scaffold_2872_(dbseq-nr_2871)_[771,8053]	LTR	Copia	mixture	no	-	RT|hydra RNaseH|sire
+scaffold_291_(dbseq-nr_290)_[29794,34913]	LTR	Gypsy	v_clade	no	+	AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_293_(dbseq-nr_292)_[95296,103193]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|tat
+scaffold_294_(dbseq-nr_293)_[17662,24239]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|copia
+scaffold_295_(dbseq-nr_294)_[10811,19150]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|codi_d
+scaffold_295_(dbseq-nr_294)_[21039,27310]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|pCretro RNaseH|codi_d
+scaffold_295_(dbseq-nr_294)_[4337,9314]	LTR	Copia	mixture	no	-	INT|retrofit RT|sire RNaseH|copia
+scaffold_295_(dbseq-nr_294)_[59883,66409]	LTR	Copia	sire	no	+	AP|ty1/copia INT|sire RT|tork RNaseH|sire
+scaffold_295_(dbseq-nr_294)_[66510,73114]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_295_(dbseq-nr_294)_[73774,81052]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_2981_(dbseq-nr_2980)_[1806,12451]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_2992_(dbseq-nr_2991)_[7873,13828]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|tork
+scaffold_299_(dbseq-nr_298)_[56184,62721]	LTR	Copia	mixture	no	-	AP|ty1/copia RNaseH|codi_d
+scaffold_299_(dbseq-nr_298)_[93861,100471]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|copia
+scaffold_3028_(dbseq-nr_3027)_[1625,6944]	LTR	Copia	copia	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|copia
+scaffold_3048_(dbseq-nr_3047)_[1682,6946]	LTR	Copia	copia	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|copia
+scaffold_304_(dbseq-nr_303)_[13200,20488]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_304_(dbseq-nr_303)_[24857,31728]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_310_(dbseq-nr_309)_[19657,27266]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_310_(dbseq-nr_309)_[87379,94683]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_315_(dbseq-nr_314)_[72484,87178]	LTR	Gypsy	v_clade	no	-	RNaseH|v_clade INT|v_clade CHR|all RT|v_clade
+scaffold_31_(dbseq-nr_30)_[132237,138255]	LTR	Copia	mixture	no	+	INT|tork RT|1731 RNaseH|sire
+scaffold_31_(dbseq-nr_30)_[173841,187364]	LTR	Copia	mixture	no	+	RT|tork RNaseH|sire
+scaffold_31_(dbseq-nr_30)_[191511,195050]	LTR	Gypsy	pyret	no	+	RNaseH|pyret
+scaffold_31_(dbseq-nr_30)_[212379,218962]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_31_(dbseq-nr_30)_[232168,239320]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_31_(dbseq-nr_30)_[262555,270416]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_31_(dbseq-nr_30)_[281018,287738]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_31_(dbseq-nr_30)_[9133,15494]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|codi_d
+scaffold_320_(dbseq-nr_319)_[1845,11066]	LTR	Gypsy	pyret	no	-	AP|pyret
+scaffold_320_(dbseq-nr_319)_[37284,43111]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_320_(dbseq-nr_319)_[43525,51148]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_320_(dbseq-nr_319)_[59435,66140]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_325_(dbseq-nr_324)_[84625,91885]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_326_(dbseq-nr_325)_[1062,7511]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_326_(dbseq-nr_325)_[10684,18761]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_326_(dbseq-nr_325)_[20532,28041]	LTR	Gypsy	v_clade	no	-	AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_326_(dbseq-nr_325)_[36825,44015]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_327_(dbseq-nr_326)_[13271,20674]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|tat
+scaffold_327_(dbseq-nr_326)_[31069,39078]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_327_(dbseq-nr_326)_[4356,11241]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_327_(dbseq-nr_326)_[50374,53677]	LTR	Copia	mixture	no	-	RT|tork RNaseH|sire
+scaffold_327_(dbseq-nr_326)_[66656,74986]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|1731 RNaseH|copia
+scaffold_327_(dbseq-nr_326)_[83375,90556]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_3297_(dbseq-nr_3296)_[1098,6345]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|oryco RT|tork RNaseH|copia
+scaffold_332_(dbseq-nr_331)_[17574,23886]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|del INT|tat
+scaffold_332_(dbseq-nr_331)_[23892,30379]	LTR	Gypsy	pyret	no	-	AP|pyret RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_332_(dbseq-nr_331)_[31853,40188]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|tat
+scaffold_332_(dbseq-nr_331)_[51188,65542]	LTR	Gypsy	v_clade	no	?	INT|v_clade RT|v_clade RNaseH|pyret
+scaffold_332_(dbseq-nr_331)_[6328,13263]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|1731 RNaseH|codi_d
+scaffold_3361_(dbseq-nr_3360)_[5753,12324]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|copia
+scaffold_338_(dbseq-nr_337)_[33375,40639]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_338_(dbseq-nr_337)_[65409,72120]	LTR	Gypsy	reina	no	-	RT|reina
+scaffold_338_(dbseq-nr_337)_[77353,84791]	LTR	Gypsy	v_clade	no	-	AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_3398_(dbseq-nr_3397)_[767,5105]	Unknown	unknown	cog5550	unknown	-	AP|cog5550
+scaffold_3402_(dbseq-nr_3401)_[1624,13586]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_346_(dbseq-nr_345)_[28565,35577]	LTR	Gypsy	mixture	no	-	RT|v_clade RNaseH|pyret INT|maggy
+scaffold_350_(dbseq-nr_349)_[10595,18150]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_3540_(dbseq-nr_3539)_[5497,12340]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret INT|v_clade CHR|retroelement
+scaffold_3596_(dbseq-nr_3595)_[5162,11735]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|copia
+scaffold_35_(dbseq-nr_34)_[125199,131495]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|sire RT|tork RNaseH|codi_d
+scaffold_35_(dbseq-nr_34)_[140194,147181]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|tork RT|sire RNaseH|codi_d
+scaffold_3605_(dbseq-nr_3604)_[238,5529]	LTR	Copia	copia	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|copia
+scaffold_3613_(dbseq-nr_3612)_[3023,10351]	LTR	Copia	mixture	no	+	RT|copia RNaseH|sire
+scaffold_3633_(dbseq-nr_3632)_[4499,11376]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyret INT|maggy
+scaffold_3635_(dbseq-nr_3634)_[6281,12230]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|tork
+scaffold_363_(dbseq-nr_362)_[72779,77450]	LTR	Copia	mixture	no	+	INT|retrofit RT|sire
+scaffold_364_(dbseq-nr_363)_[22518,28208]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_364_(dbseq-nr_363)_[67447,73124]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_366_(dbseq-nr_365)_[27899,33486]	LTR	Copia	mixture	no	-	INT|retrofit RT|sire RNaseH|copia
+scaffold_368_(dbseq-nr_367)_[22460,29730]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_368_(dbseq-nr_367)_[31251,38878]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_36_(dbseq-nr_35)_[196222,202293]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|tork
+scaffold_3773_(dbseq-nr_3772)_[4751,11313]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|copia
+scaffold_382_(dbseq-nr_381)_[68264,74825]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|tork RT|copia RNaseH|sire
+scaffold_383_(dbseq-nr_382)_[58792,66734]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|tork RT|sire RNaseH|copia
+scaffold_385_(dbseq-nr_384)_[4692,12173]	LTR	Copia	mixture	no	-	INT|retrofit RT|tork RNaseH|copia
+scaffold_3874_(dbseq-nr_3873)_[55,7029]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_39_(dbseq-nr_38)_[21360,28542]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_39_(dbseq-nr_38)_[65757,72511]	mixture	mixture	mixture	unknown	-	AP|dtg_ilg_template RT|reina RNaseH|osvaldo INT|tat
+scaffold_3_(dbseq-nr_2)_[101537,107170]	LTR	Copia	mixture	no	+	INT|retrofit RT|sire RNaseH|copia
+scaffold_404_(dbseq-nr_403)_[5251,11709]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|1731 RNaseH|sire
+scaffold_4051_(dbseq-nr_4050)_[3396,7885]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_409_(dbseq-nr_408)_[27954,41801]	LTR	Gypsy	v_clade	no	?	RT|v_clade INT|v_clade RNaseH|v_clade AP|v_clade GAG|v_clade
+scaffold_409_(dbseq-nr_408)_[42765,50241]	LTR	Gypsy	v_clade	no	+	AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_413_(dbseq-nr_412)_[2379,8250]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|tork
+scaffold_4160_(dbseq-nr_4159)_[6,6561]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyggy
+scaffold_417_(dbseq-nr_416)_[47774,54816]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_418_(dbseq-nr_417)_[9824,15504]	LTR	Copia	mixture	no	+	AP|pseudovirus INT|tork RT|sire RNaseH|copia
+scaffold_41_(dbseq-nr_40)_[131207,137716]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_420_(dbseq-nr_419)_[34809,40588]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|codi_d
+scaffold_420_(dbseq-nr_419)_[42849,52268]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_420_(dbseq-nr_419)_[59,11847]	LTR	Gypsy	reina	no	-	RT|reina
+scaffold_422_(dbseq-nr_421)_[10009,16889]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_422_(dbseq-nr_421)_[36625,46340]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_422_(dbseq-nr_421)_[5,2710]	LTR	mixture	mixture	unknown	+	INT|v_clade CHR|retroelement
+scaffold_422_(dbseq-nr_421)_[56996,64541]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_4237_(dbseq-nr_4236)_[578,6621]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_424_(dbseq-nr_423)_[11400,18633]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_427_(dbseq-nr_426)_[27451,33497]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_427_(dbseq-nr_426)_[7628,18704]	LTR	Gypsy	v_clade	no	-	GAG|v_clade AP|pyret INT|v_clade
+scaffold_42_(dbseq-nr_41)_[224530,233048]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|tat
+scaffold_42_(dbseq-nr_41)_[233686,241608]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_431_(dbseq-nr_430)_[14073,21122]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|del RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_431_(dbseq-nr_430)_[5859,12286]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_432_(dbseq-nr_431)_[41515,47343]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|tork RT|sire RNaseH|copia
+scaffold_442_(dbseq-nr_441)_[24347,31677]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_442_(dbseq-nr_441)_[36885,41250]	LTR	Gypsy	mixture	no	+	AP|pyret RT|v_clade
+scaffold_442_(dbseq-nr_441)_[46625,53223]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_443_(dbseq-nr_442)_[22887,28912]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|sire RT|tork RNaseH|codi_d
+scaffold_445_(dbseq-nr_444)_[25805,33394]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_445_(dbseq-nr_444)_[46390,53249]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|gmr1
+scaffold_445_(dbseq-nr_444)_[53497,60360]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|gypsy INT|gmr1
+scaffold_449_(dbseq-nr_448)_[56903,62767]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|tork
+scaffold_451_(dbseq-nr_450)_[33038,39124]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|sire RNaseH|tork
+scaffold_451_(dbseq-nr_450)_[55512,62546]	LTR	Gypsy	mixture	no	-	RT|v_clade RNaseH|pyret INT|maggy
+scaffold_457_(dbseq-nr_456)_[53006,60547]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_458_(dbseq-nr_457)_[13430,24733]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_458_(dbseq-nr_457)_[25930,32465]	mixture	mixture	mixture	unknown	-	AP|cog5550 RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_458_(dbseq-nr_457)_[37553,44035]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_45_(dbseq-nr_44)_[193327,200506]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_463_(dbseq-nr_462)_[44172,51417]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_470_(dbseq-nr_469)_[16636,23660]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_470_(dbseq-nr_469)_[32104,37741]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|sire RT|tork RNaseH|codi_d
+scaffold_4753_(dbseq-nr_4752)_[2120,10427]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_475_(dbseq-nr_474)_[24135,30286]	LTR	Gypsy	v_clade	no	-	GAG|v_clade AP|maggy RT|v_clade INT|v_clade CHR|retroelement
+scaffold_477_(dbseq-nr_476)_[52674,58324]	LTR	Copia	mixture	no	+	INT|retrofit RT|sire RNaseH|copia
+scaffold_485_(dbseq-nr_484)_[20877,29910]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_485_(dbseq-nr_484)_[6,4449]	LTR	Gypsy	v_clade	no	-	GAG|v_clade
+scaffold_485_(dbseq-nr_484)_[9048,19273]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_488_(dbseq-nr_487)_[28171,35716]	LTR	Gypsy	v_clade	no	-	GAG|TF RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_489_(dbseq-nr_488)_[254,8132]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|tork RT|1731 RNaseH|sire
+scaffold_489_(dbseq-nr_488)_[8781,13890]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_48_(dbseq-nr_47)_[227759,234340]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|copia
+scaffold_490_(dbseq-nr_489)_[20150,24232]	LTR	Gypsy	v_clade	no	-	AP|v_clade
+scaffold_490_(dbseq-nr_489)_[25360,32802]	LTR	Gypsy	v_clade	yes	-	GAG|TF AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_490_(dbseq-nr_489)_[40999,51603]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade
+scaffold_490_(dbseq-nr_489)_[7204,13909]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_4927_(dbseq-nr_4926)_[2415,8126]	LTR	Copia	mixture	no	-	INT|pseudovirus RT|sire RNaseH|copia
+scaffold_496_(dbseq-nr_495)_[7084,12058]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_4_(dbseq-nr_3)_[21107,26807]	LTR	Copia	mixture	no	+	INT|retrofit RT|sire RNaseH|copia
+scaffold_4_(dbseq-nr_3)_[71,7004]	LTR	Gypsy	v_clade	no	?	INT|v_clade RNaseH|pyret RT|v_clade CHR|all
+scaffold_500_(dbseq-nr_499)_[30965,45238]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_5035_(dbseq-nr_5034)_[430,5739]	LTR	Copia	copia	no	+	AP|ty1/copia INT|copia RT|hydra RNaseH|copia
+scaffold_504_(dbseq-nr_503)_[1164,8124]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_504_(dbseq-nr_503)_[22669,28991]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|tork RT|copia RNaseH|sire
+scaffold_504_(dbseq-nr_503)_[32947,40410]	LTR	Gypsy	v_clade	no	-	AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_504_(dbseq-nr_503)_[42049,52688]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_504_(dbseq-nr_503)_[8129,14209]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|17_6 INT|gmr1
+scaffold_506_(dbseq-nr_505)_[20505,27320]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_506_(dbseq-nr_505)_[37731,44907]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|del INT|gmr1
+scaffold_512_(dbseq-nr_511)_[21492,28304]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|oryco RT|sire RNaseH|tork
+scaffold_5145_(dbseq-nr_5144)_[1923,9096]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_5153_(dbseq-nr_5152)_[1159,5469]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_515_(dbseq-nr_514)_[42957,50190]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_5238_(dbseq-nr_5237)_[2352,6958]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_5277_(dbseq-nr_5276)_[249,4150]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_533_(dbseq-nr_532)_[35103,42589]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_533_(dbseq-nr_532)_[7290,17875]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyret INT|crm
+scaffold_535_(dbseq-nr_534)_[31388,41755]	LTR	Gypsy	v_clade	no	?	RNaseH|v_clade INT|v_clade CHR|all RT|v_clade
+scaffold_537_(dbseq-nr_536)_[28602,36160]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_539_(dbseq-nr_538)_[4139,15067]	Unknown	unknown	all	unknown	+	CHR|all
+scaffold_5408_(dbseq-nr_5407)_[127,7004]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyret INT|maggy
+scaffold_543_(dbseq-nr_542)_[31409,37380]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|tork
+scaffold_550_(dbseq-nr_549)_[19743,25936]	LTR	Copia	mixture	no	-	INT|retrofit RT|sire RNaseH|copia
+scaffold_5529_(dbseq-nr_5528)_[30,6356]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|maggy
+scaffold_5570_(dbseq-nr_5569)_[1636,6263]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_558_(dbseq-nr_557)_[38288,43608]	LTR	Copia	copia	no	+	AP|ty1/copia INT|copia RT|hydra RNaseH|copia
+scaffold_558_(dbseq-nr_557)_[4766,11370]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|copia
+scaffold_5613_(dbseq-nr_5612)_[287,5255]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_561_(dbseq-nr_560)_[17111,24058]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_561_(dbseq-nr_560)_[2166,9619]	LTR	Gypsy	v_clade	no	-	AP|17_6 RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_561_(dbseq-nr_560)_[34939,37988]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_5667_(dbseq-nr_5666)_[11,4577]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_5688_(dbseq-nr_5687)_[5049,7093]	Unknown	unknown	all	unknown	-	CHR|all
+scaffold_571_(dbseq-nr_570)_[22811,31043]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_576_(dbseq-nr_575)_[30717,36804]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|sire RNaseH|copia
+scaffold_5771_(dbseq-nr_5770)_[7,7629]	LTR	Gypsy	v_clade	no	-	GAG|v_clade
+scaffold_5774_(dbseq-nr_5773)_[202,6881]	LTR	Gypsy	v_clade	no	+	RT|reina RNaseH|v_clade INT|v_clade
+scaffold_5805_(dbseq-nr_5804)_[11,4597]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_586_(dbseq-nr_585)_[31563,38636]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|gmr1
+scaffold_588_(dbseq-nr_587)_[11522,25236]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_58_(dbseq-nr_57)_[88877,92936]	LTR	Gypsy	17_6	no	+	RNaseH|17_6
+scaffold_593_(dbseq-nr_592)_[21817,28066]	mixture	mixture	mixture	unknown	-	AP|cog5550 RT|17_6 RNaseH|del INT|gmr1
+scaffold_593_(dbseq-nr_592)_[9275,18585]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_594_(dbseq-nr_593)_[32925,39011]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|sire RNaseH|tork
+scaffold_5_(dbseq-nr_4)_[89741,95481]	LTR	Copia	tork	no	+	INT|tork RT|tork RNaseH|sire
+scaffold_604_(dbseq-nr_603)_[33957,41721]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_6108_(dbseq-nr_6107)_[380,4196]	LTR	Gypsy	v_clade	no	-	GAG|v_clade
+scaffold_6113_(dbseq-nr_6112)_[2304,6541]	LTR	mixture	mixture	unknown	?	RNaseH|oryco AP|maggy
+scaffold_615_(dbseq-nr_614)_[31620,39614]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|tat
+scaffold_616_(dbseq-nr_615)_[5390,11867]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyret INT|crm
+scaffold_61_(dbseq-nr_60)_[230313,237427]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_621_(dbseq-nr_620)_[1858,7680]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|tork RT|sire RNaseH|copia
+scaffold_621_(dbseq-nr_620)_[34181,41555]	LTR	Gypsy	v_clade	no	+	RT|pyret RNaseH|v_clade INT|v_clade
+scaffold_6270_(dbseq-nr_6269)_[5,4315]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+scaffold_62_(dbseq-nr_61)_[147902,153572]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_62_(dbseq-nr_61)_[182489,188748]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_62_(dbseq-nr_61)_[198617,207545]	LTR	Gypsy	v_clade	no	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret
+scaffold_62_(dbseq-nr_61)_[219345,226190]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_62_(dbseq-nr_61)_[96824,103026]	LTR	Copia	mixture	no	-	INT|retrofit RT|sire RNaseH|copia
+scaffold_63_(dbseq-nr_62)_[81720,88977]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_6487_(dbseq-nr_6486)_[63,4222]	LTR	Gypsy	v_clade	no	-	GAG|v_clade
+scaffold_64_(dbseq-nr_63)_[132700,140383]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_64_(dbseq-nr_63)_[150659,157199]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_64_(dbseq-nr_63)_[175459,182957]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_64_(dbseq-nr_63)_[204502,209479]	LTR	Copia	mixture	no	-	INT|retrofit RT|pseudovirus RNaseH|copia
+scaffold_64_(dbseq-nr_63)_[94546,101446]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_6551_(dbseq-nr_6550)_[805,5259]	LTR	Gypsy	v_clade	no	-	GAG|v_clade
+scaffold_658_(dbseq-nr_657)_[22635,34043]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_658_(dbseq-nr_657)_[6974,15608]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_659_(dbseq-nr_658)_[21043,28304]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_661_(dbseq-nr_660)_[12672,19960]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_661_(dbseq-nr_660)_[28121,33802]	LTR	Copia	mixture	no	+	AP|pseudovirus INT|tork RT|sire RNaseH|copia
+scaffold_667_(dbseq-nr_666)_[18579,25645]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|gmr1
+scaffold_669_(dbseq-nr_668)_[17687,26956]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_669_(dbseq-nr_668)_[9402,15049]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_695_(dbseq-nr_694)_[17626,32117]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_697_(dbseq-nr_696)_[23115,28544]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_702_(dbseq-nr_701)_[22304,27911]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_702_(dbseq-nr_701)_[27916,33878]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|412-mdg1 INT|gmr1
+scaffold_714_(dbseq-nr_713)_[5708,21389]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_736_(dbseq-nr_735)_[23371,30946]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|del INT|gmr1
+scaffold_73_(dbseq-nr_72)_[194699,200755]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|tork
+scaffold_73_(dbseq-nr_72)_[77573,82146]	LTR	Copia	mixture	no	-	AP|ty1/copia RT|hydra RNaseH|copia
+scaffold_747_(dbseq-nr_746)_[23717,30746]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyret INT|maggy
+scaffold_754_(dbseq-nr_753)_[10927,17481]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_757_(dbseq-nr_756)_[17832,24679]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|oryco RT|sire RNaseH|tork
+scaffold_75_(dbseq-nr_74)_[99913,105684]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|del RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_779_(dbseq-nr_778)_[14892,19958]	LTR	Gypsy	v_clade	no	+	GAG|TF RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_783_(dbseq-nr_782)_[23295,30469]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_785_(dbseq-nr_784)_[19257,25809]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_785_(dbseq-nr_784)_[642,7715]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|tat
+scaffold_7_(dbseq-nr_6)_[159046,172050]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_807_(dbseq-nr_806)_[21218,26987]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|sire
+scaffold_814_(dbseq-nr_813)_[12137,17122]	LTR	Copia	mixture	no	+	INT|retrofit RT|pseudovirus RNaseH|copia
+scaffold_814_(dbseq-nr_813)_[20450,27604]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_830_(dbseq-nr_829)_[8049,15678]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_84_(dbseq-nr_83)_[109850,118318]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_84_(dbseq-nr_83)_[124984,134536]	LTR	Gypsy	v_clade	no	-	GAG|v_clade
+scaffold_84_(dbseq-nr_83)_[139111,146674]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_84_(dbseq-nr_83)_[146718,153615]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_84_(dbseq-nr_83)_[153624,160483]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_84_(dbseq-nr_83)_[167281,178341]	LTR	Gypsy	v_clade	no	?	CHR|retroelement RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_84_(dbseq-nr_83)_[76035,81698]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|codi_d
+scaffold_853_(dbseq-nr_852)_[19555,25448]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|1731 RNaseH|sire
+scaffold_864_(dbseq-nr_863)_[6250,13665]	LTR	Gypsy	mixture	no	-	RT|17_6 RNaseH|cer2-3 INT|tat
+scaffold_866_(dbseq-nr_865)_[22858,28206]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_86_(dbseq-nr_85)_[41880,49806]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|tat
+scaffold_873_(dbseq-nr_872)_[14279,21536]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_8_(dbseq-nr_7)_[119603,125423]	LTR	Gypsy	pyret	no	-	RT|pyret
+scaffold_8_(dbseq-nr_7)_[13389,19357]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_8_(dbseq-nr_7)_[138952,148000]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_8_(dbseq-nr_7)_[165891,170825]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_8_(dbseq-nr_7)_[177190,182344]	LTR	Gypsy	v_clade	no	-	GAG|TF RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_8_(dbseq-nr_7)_[3201,10730]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_8_(dbseq-nr_7)_[335562,342035]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|athila INT|tat
+scaffold_8_(dbseq-nr_7)_[42374,48962]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_8_(dbseq-nr_7)_[56654,62433]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|sire
+scaffold_8_(dbseq-nr_7)_[69545,83010]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_8_(dbseq-nr_7)_[86239,93371]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret INT|v_clade CHR|all
+scaffold_8_(dbseq-nr_7)_[96097,102653]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_908_(dbseq-nr_907)_[7932,15219]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+scaffold_912_(dbseq-nr_911)_[19904,25701]	LTR	Copia	mixture	no	-	INT|tork RT|sire RNaseH|copia
+scaffold_919_(dbseq-nr_918)_[19852,25649]	LTR	Copia	mixture	no	-	INT|tork RT|sire RNaseH|copia
+scaffold_920_(dbseq-nr_919)_[19827,25624]	LTR	Copia	mixture	no	-	INT|tork RT|sire RNaseH|copia
+scaffold_924_(dbseq-nr_923)_[2086,9287]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|maggy RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_937_(dbseq-nr_936)_[3712,11332]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_948_(dbseq-nr_947)_[5126,9478]	Unknown	unknown	cog5550	unknown	+	AP|cog5550
+scaffold_95_(dbseq-nr_94)_[24746,39393]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_983_(dbseq-nr_982)_[5611,12131]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_989_(dbseq-nr_988)_[4681,12221]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_9_(dbseq-nr_8)_[374633,382510]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_3_(dbseq-nr_2)_[32804,34286]	LTR	Gypsy	unknown	none	?	none
+scaffold_8_(dbseq-nr_7)_[159992,161287]	LTR	Gypsy	unknown	none	?	none
+scaffold_26_(dbseq-nr_25)_[101075,102952]	LTR	Gypsy	unknown	none	?	none
+scaffold_43_(dbseq-nr_42)_[200332,202197]	LTR	Gypsy	unknown	none	?	none
+scaffold_45_(dbseq-nr_44)_[191131,192649]	LTR	Copia	unknown	none	?	none
+scaffold_61_(dbseq-nr_60)_[222953,224491]	LTR	Copia	unknown	none	?	none
+scaffold_80_(dbseq-nr_79)_[195397,197102]	LTR	Gypsy	unknown	none	?	none
+scaffold_108_(dbseq-nr_107)_[147268,149085]	LTR	Gypsy	unknown	none	?	none
+scaffold_134_(dbseq-nr_133)_[97924,99443]	LTR	Copia	unknown	none	?	none
+scaffold_134_(dbseq-nr_133)_[105994,107485]	LTR	Gypsy	unknown	none	?	none
+scaffold_167_(dbseq-nr_166)_[4542,6058]	LTR	Copia	unknown	none	?	none
+scaffold_181_(dbseq-nr_180)_[63854,65843]	LTR	Copia	unknown	none	?	none
+scaffold_183_(dbseq-nr_182)_[125415,126758]	LTR	Copia	unknown	none	?	none
+scaffold_199_(dbseq-nr_198)_[1125,3328]	LTR	Gypsy	unknown	none	?	none
+scaffold_257_(dbseq-nr_256)_[8762,10651]	LTR	Gypsy	unknown	none	?	none
+scaffold_257_(dbseq-nr_256)_[75062,77691]	LTR	Copia	unknown	none	?	none
+scaffold_262_(dbseq-nr_261)_[6510,8350]	LTR	Gypsy	unknown	none	?	none
+scaffold_283_(dbseq-nr_282)_[93212,95100]	LTR	Gypsy	unknown	none	?	none
+scaffold_326_(dbseq-nr_325)_[18876,20483]	LTR	Gypsy	unknown	none	?	none
+scaffold_327_(dbseq-nr_326)_[47058,48579]	LTR	Copia	unknown	none	?	none
+scaffold_337_(dbseq-nr_336)_[55766,57166]	LTR	Copia	unknown	none	?	none
+scaffold_358_(dbseq-nr_357)_[66649,68450]	LTR	Gypsy	unknown	none	?	none
+scaffold_517_(dbseq-nr_516)_[38310,40472]	LTR	Copia	unknown	none	?	none
+scaffold_571_(dbseq-nr_570)_[32062,34984]	LTR	Gypsy	unknown	none	?	none
+scaffold_599_(dbseq-nr_598)_[32055,33574]	LTR	Copia	unknown	none	?	none
+scaffold_607_(dbseq-nr_606)_[33975,35314]	LTR	Copia	unknown	none	?	none
+scaffold_616_(dbseq-nr_615)_[13084,14960]	LTR	Gypsy	unknown	none	?	none
+scaffold_825_(dbseq-nr_824)_[21225,22640]	LTR	Copia	unknown	none	?	none
+scaffold_827_(dbseq-nr_826)_[22847,24274]	LTR	Copia	unknown	none	?	none
+scaffold_1025_(dbseq-nr_1024)_[8341,10560]	LTR	Copia	unknown	none	?	none
+scaffold_1208_(dbseq-nr_1207)_[14638,15980]	LTR	Copia	unknown	none	?	none
+scaffold_1261_(dbseq-nr_1260)_[16187,18028]	LTR	Gypsy	unknown	none	?	none
+scaffold_1403_(dbseq-nr_1402)_[12096,13516]	LTR	Copia	unknown	none	?	none
+scaffold_1629_(dbseq-nr_1628)_[1467,6109]	LTR	Gypsy	unknown	none	?	none
+scaffold_1793_(dbseq-nr_1792)_[8,3440]	LTR	mixture	unknown	none	?	none
+scaffold_2146_(dbseq-nr_2145)_[865,2387]	LTR	Copia	unknown	none	?	none
+scaffold_2301_(dbseq-nr_2300)_[5738,7566]	LTR	Gypsy	unknown	none	?	none
+scaffold_2310_(dbseq-nr_2309)_[14993,16560]	LTR	Copia	unknown	none	?	none
+scaffold_2328_(dbseq-nr_2327)_[14752,16265]	LTR	Copia	unknown	none	?	none
+scaffold_2554_(dbseq-nr_2553)_[12619,14220]	LTR	Gypsy	unknown	none	?	none
+scaffold_3376_(dbseq-nr_3375)_[4320,5838]	LTR	Copia	unknown	none	?	none
+scaffold_3428_(dbseq-nr_3427)_[734,5042]	Unknown	unknown	unknown	none	?	none
+scaffold_3570_(dbseq-nr_3569)_[4528,6046]	LTR	Copia	unknown	none	?	none
+scaffold_3588_(dbseq-nr_3587)_[5553,7466]	LTR	Gypsy	unknown	none	?	none
+scaffold_4740_(dbseq-nr_4739)_[2694,3927]	LTR	Copia	unknown	none	?	none
+scaffold_4880_(dbseq-nr_4879)_[4498,6013]	LTR	Copia	unknown	none	?	none
+scaffold_4937_(dbseq-nr_4936)_[5,4657]	LTR	Gypsy	unknown	none	?	none
+scaffold_5000_(dbseq-nr_4999)_[4122,5632]	LTR	Copia	unknown	none	?	none
+scaffold_5076_(dbseq-nr_5075)_[3003,4384]	LTR	Copia	unknown	none	?	none
+scaffold_5375_(dbseq-nr_5374)_[1780,3122]	LTR	Copia	unknown	none	?	none
+scaffold_5555_(dbseq-nr_5554)_[5157,6673]	LTR	Copia	unknown	none	?	none
+scaffold_5817_(dbseq-nr_5816)_[11,1335]	LTR	Copia	unknown	none	?	none
+scaffold_5840_(dbseq-nr_5839)_[3180,7436]	LTR	Gypsy	unknown	none	?	none
+scaffold_5917_(dbseq-nr_5916)_[19,4035]	LTR	Gypsy	unknown	none	?	none
+scaffold_6219_(dbseq-nr_6218)_[2585,4060]	LTR	Copia	unknown	none	?	none
+scaffold_6434_(dbseq-nr_6433)_[5,4171]	LTR	Gypsy	unknown	none	?	none
+scaffold_6580_(dbseq-nr_6579)_[1598,3119]	LTR	Copia	unknown	none	?	none
+scaffold_6788_(dbseq-nr_6787)_[827,4588]	LTR	Gypsy	unknown	none	?	none
+scaffold_7039_(dbseq-nr_7038)_[18,3899]	LTR	Gypsy	unknown	none	?	none
