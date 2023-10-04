@@ -1,0 +1,27 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+c_7180000054064_(dbseq-nr_2328)_[228,4068]	LTR	Gypsy	v_clade	no	+	AP|pyret RT|v_clade RNaseH|v_clade
+c_7180000055372_(dbseq-nr_2869)_[120,5515]	LTR	unknown	retroviridae	unknown	+	ENV|retroviridae
+c_7180000056281_(dbseq-nr_3234)_[461,4176]	LTR	Gypsy	v_clade	no	+	GAG|v_clade AP|bel RT|v_clade
+c_7180000061914_(dbseq-nr_5573)_[12181,14861]	LTR	Gypsy	mixture	no	-	GAG|v_clade AP|reina
+c_7180000063220_(dbseq-nr_6107)_[4644,9336]	LTR	Gypsy	v_clade	no	-	AP|del RT|v_clade RNaseH|pyret INT|v_clade
+c_7180000066333_(dbseq-nr_7382)_[1059,5126]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|17_6
+c_7180000067056_(dbseq-nr_7703)_[185,4256]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|17_6
+c_7180000068960_(dbseq-nr_8478)_[803,8886]	LTR	Gypsy	v_clade	no	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade CHR|retroelement
+c_7180000069415_(dbseq-nr_8654)_[629,3948]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+c_7180000071657_(dbseq-nr_9489)_[988,6484]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|1731 RNaseH|tork
+c_7180000072938_(dbseq-nr_10004)_[798,2302]	LTR	Gypsy	v_clade	no	+	GAG|v_clade
+c_7180000073033_(dbseq-nr_10048)_[196,5124]	LTR	Gypsy	v_clade	no	-	AP|del RT|v_clade RNaseH|pyret INT|v_clade
+c_7180000073193_(dbseq-nr_10109)_[1639,14312]	LTR	Gypsy	mixture	no	?	RT|gypsy RNaseH|pyret
+c_7180000076043_(dbseq-nr_11256)_[79,2100]	LTR	Gypsy	cer2-3	no	+	RNaseH|cer2-3
+c_7180000077787_(dbseq-nr_11937)_[753,5329]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|sire RT|tork RNaseH|codi_d
+c_7180000079490_(dbseq-nr_12614)_[4109,7347]	LTR	Copia	pseudovirus	no	-	RT|pseudovirus
+c_7180000084177_(dbseq-nr_14436)_[1559,3976]	LTR	Copia	tork	no	-	INT|tork
+c_7180000086463_(dbseq-nr_15326)_[474,3763]	LTR	Copia	ty1/copia	no	+	AP|ty1/copia
+c_7180000090539_(dbseq-nr_16855)_[397,5354]	LTR	mixture	mixture	unknown	?	RNaseH|oryco RT|v_clade
+c_7180000093564_(dbseq-nr_17972)_[1947,4591]	LTR	Copia	copia	no	-	RNaseH|copia
+c_7180000095621_(dbseq-nr_18709)_[1594,4336]	LTR	Gypsy	mixture	no	+	GAG|v_clade AP|reina
+c_7180000096094_(dbseq-nr_18845)_[12,4072]	LTR	Gypsy	micropia_mdg3	no	-	AP|micropia_mdg3
+c_7180000096652_(dbseq-nr_19037)_[1266,3702]	LTR	Gypsy	v_clade	no	-	GAG|v_clade
+c_7180000096675_(dbseq-nr_19041)_[947,3023]	LTR	Gypsy	v_clade	no	+	INT|v_clade
+d_7180000052116_(dbseq-nr_29752)_[404,2219]	LTR	Gypsy	del	no	+	AP|del
+d_7180000055337_(dbseq-nr_32483)_[1397,7545]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|sire RNaseH|codi_d

@@ -1,0 +1,383 @@
+#TE	Order	Superfamily	Clade	Complete	Strand	Domains
+chromosome_10_(dbseq-nr_9)_[10082,15098]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|codi_d
+chromosome_10_(dbseq-nr_9)_[1142749,1149625]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|osvaldo INT|tat
+chromosome_10_(dbseq-nr_9)_[1648490,1653991]	LTR	Gypsy	athila	no	+	AP|athila
+chromosome_10_(dbseq-nr_9)_[177631,183691]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|codi_d
+chromosome_10_(dbseq-nr_9)_[2023314,2029351]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_10_(dbseq-nr_9)_[2614226,2619173]	LTR	Copia	sire	no	+	INT|tork RT|sire RNaseH|sire
+chromosome_10_(dbseq-nr_9)_[2694110,2699907]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_10_(dbseq-nr_9)_[3427964,3432876]	LTR	Copia	sire	no	-	INT|tork RT|sire RNaseH|sire
+chromosome_10_(dbseq-nr_9)_[401373,408559]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_10_(dbseq-nr_9)_[4148775,4153923]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|sire RT|1731 RNaseH|tork
+chromosome_10_(dbseq-nr_9)_[4156020,4162806]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|tat
+chromosome_10_(dbseq-nr_9)_[4175785,4182974]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_10_(dbseq-nr_9)_[4943624,4949420]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_11_(dbseq-nr_10)_[1102866,1108905]	LTR	Gypsy	v_clade	no	+	INT|v_clade
+chromosome_11_(dbseq-nr_10)_[1128549,1133855]	LTR	Copia	mixture	no	?	RNaseH|copia INT|retrofit
+chromosome_11_(dbseq-nr_10)_[125251,131486]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|tork RT|pseudovirus RNaseH|copia
+chromosome_11_(dbseq-nr_10)_[150826,156307]	LTR	Gypsy	mixture	no	+	RT|del RNaseH|a_clade INT|tat
+chromosome_11_(dbseq-nr_10)_[1674362,1679479]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_11_(dbseq-nr_10)_[167682,171096]	LTR	Copia	mixture	no	+	RT|sire RNaseH|copia
+chromosome_11_(dbseq-nr_10)_[181016,186722]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret INT|v_clade CHR|all
+chromosome_11_(dbseq-nr_10)_[19527,25314]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_11_(dbseq-nr_10)_[213351,220054]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|pyret INT|v_clade
+chromosome_11_(dbseq-nr_10)_[2577785,2579547]	LTR	Copia	1731	no	+	RNaseH|1731
+chromosome_11_(dbseq-nr_10)_[2610390,2623520]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_11_(dbseq-nr_10)_[360187,366906]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|pyret INT|v_clade
+chromosome_11_(dbseq-nr_10)_[3643776,3649804]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|pCretro RNaseH|sire
+chromosome_11_(dbseq-nr_10)_[414383,424435]	LTR	Gypsy	v_clade	no	-	GAG|v_clade
+chromosome_11_(dbseq-nr_10)_[4307706,4314457]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_11_(dbseq-nr_10)_[4406431,4414502]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_11_(dbseq-nr_10)_[4429768,4432627]	LTR	Gypsy	v_clade	no	+	GAG|v_clade AP|v_clade INT|v_clade
+chromosome_11_(dbseq-nr_10)_[4446324,4454070]	LTR	Gypsy	v_clade	no	-	AP|bel RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_11_(dbseq-nr_10)_[4649849,4655629]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_11_(dbseq-nr_10)_[471693,480075]	LTR	Copia	sire	no	-	RNaseH|sire
+chromosome_11_(dbseq-nr_10)_[826063,832150]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|codi_d
+chromosome_12_(dbseq-nr_11)_[1585769,1598979]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|pyret INT|v_clade
+chromosome_12_(dbseq-nr_11)_[1663693,1669655]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|tat
+chromosome_12_(dbseq-nr_11)_[1996323,2002680]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|tork
+chromosome_12_(dbseq-nr_11)_[220382,226841]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+chromosome_12_(dbseq-nr_11)_[2350188,2355970]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_12_(dbseq-nr_11)_[2449494,2455142]	LTR	Copia	sire	no	+	AP|ty1/copia INT|copia RT|sire RNaseH|sire
+chromosome_12_(dbseq-nr_11)_[294060,300948]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_12_(dbseq-nr_11)_[3185987,3190997]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_12_(dbseq-nr_11)_[710618,717194]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|pyret INT|v_clade
+chromosome_1_(dbseq-nr_0)_[1592551,1598482]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|pCretro RNaseH|sire
+chromosome_1_(dbseq-nr_0)_[1865398,1870643]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_1_(dbseq-nr_0)_[1906849,1912778]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|pCretro RNaseH|sire
+chromosome_1_(dbseq-nr_0)_[1915857,1921786]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|pCretro RNaseH|sire
+chromosome_1_(dbseq-nr_0)_[1939397,1946273]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|osvaldo INT|tat
+chromosome_1_(dbseq-nr_0)_[1965774,1972877]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_1_(dbseq-nr_0)_[2339271,2346456]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_1_(dbseq-nr_0)_[2424319,2435941]	LTR	mixture	mixture	unknown	+	AP|retrofit RT|reina RNaseH|pyret INT|v_clade
+chromosome_1_(dbseq-nr_0)_[3095971,3102521]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|del INT|gmr1
+chromosome_1_(dbseq-nr_0)_[3122412,3131352]	mixture	mixture	mixture	unknown	-	AP|cog5550 RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_1_(dbseq-nr_0)_[3133382,3140489]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|gypsy INT|tat
+chromosome_1_(dbseq-nr_0)_[3141291,3148733]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_1_(dbseq-nr_0)_[3158335,3165865]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_1_(dbseq-nr_0)_[3200674,3205970]	LTR	Gypsy	mixture	no	-	RT|v_clade RNaseH|pyret
+chromosome_1_(dbseq-nr_0)_[3257812,3266290]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_1_(dbseq-nr_0)_[3290270,3296979]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|del INT|gmr1
+chromosome_1_(dbseq-nr_0)_[3516869,3522580]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_1_(dbseq-nr_0)_[3536351,3540752]	LTR	Gypsy	mixture	no	-	RT|v_clade RNaseH|pyret INT|crm
+chromosome_1_(dbseq-nr_0)_[3543604,3550936]	mixture	mixture	mixture	unknown	-	AP|cog5550 RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_1_(dbseq-nr_0)_[3584869,3592597]	LTR	Copia	mixture	no	+	RT|pseudovirus RNaseH|codi_d
+chromosome_1_(dbseq-nr_0)_[3595748,3607963]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_1_(dbseq-nr_0)_[3611781,3618298]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|codi_d
+chromosome_1_(dbseq-nr_0)_[3620374,3632131]	LTR	Gypsy	pyggy	no	+	RNaseH|pyggy
+chromosome_1_(dbseq-nr_0)_[3838870,3853487]	LTR	Gypsy	v_clade	no	?	INT|v_clade GAG|v_clade RNaseH|v_clade RT|v_clade AP|ty1/copia
+chromosome_1_(dbseq-nr_0)_[3940919,3948081]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_1_(dbseq-nr_0)_[4166494,4173277]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_1_(dbseq-nr_0)_[4180607,4187822]	mixture	mixture	mixture	unknown	+	AP|cog5550 RT|reina RNaseH|17_6 INT|gmr1
+chromosome_1_(dbseq-nr_0)_[427244,436414]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_1_(dbseq-nr_0)_[4381370,4388065]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_1_(dbseq-nr_0)_[4391178,4398426]	Unknown	unknown	cog5550	unknown	+	AP|cog5550
+chromosome_1_(dbseq-nr_0)_[4426669,4433301]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|del INT|tat
+chromosome_1_(dbseq-nr_0)_[445451,452232]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_1_(dbseq-nr_0)_[68640,74642]	LTR	Copia	tork	yes	+	GAG|tork AP|ty1/copia INT|oryco RT|tork RNaseH|codi_d
+chromosome_2_(dbseq-nr_1)_[105736,118865]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_2_(dbseq-nr_1)_[1227219,1233489]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|1731 RNaseH|tork
+chromosome_2_(dbseq-nr_1)_[1237146,1244016]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_2_(dbseq-nr_1)_[1250122,1254918]	LTR	Copia	copia	no	+	INT|copia RT|copia RNaseH|copia
+chromosome_2_(dbseq-nr_1)_[1271562,1278661]	LTR	Gypsy	pyret	no	-	RT|pyret
+chromosome_2_(dbseq-nr_1)_[1330152,1339574]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_2_(dbseq-nr_1)_[2311378,2318862]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_2_(dbseq-nr_1)_[2329300,2338124]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_2_(dbseq-nr_1)_[2353366,2360101]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|tork
+chromosome_2_(dbseq-nr_1)_[2362471,2368742]	LTR	Copia	sire	no	-	AP|ty1/copia INT|retrofit RT|sire RNaseH|sire
+chromosome_2_(dbseq-nr_1)_[2373142,2381869]	LTR	Gypsy	mixture	no	+	AP|tat RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_2_(dbseq-nr_1)_[2388925,2394237]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_2_(dbseq-nr_1)_[2396546,2409496]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret INT|v_clade CHR|all
+chromosome_2_(dbseq-nr_1)_[3402522,3409678]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_2_(dbseq-nr_1)_[46081,52796]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|del INT|gmr1
+chromosome_2_(dbseq-nr_1)_[5231870,5243645]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_2_(dbseq-nr_1)_[5243701,5249551]	Unknown	unknown	cog5550	unknown	-	AP|cog5550
+chromosome_2_(dbseq-nr_1)_[5479194,5485128]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|pCretro RNaseH|sire
+chromosome_2_(dbseq-nr_1)_[5500474,5505726]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_2_(dbseq-nr_1)_[62937,71963]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_2_(dbseq-nr_1)_[6506615,6511738]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_2_(dbseq-nr_1)_[7639834,7646366]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|1731 RNaseH|sire
+chromosome_2_(dbseq-nr_1)_[77887,86258]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_2_(dbseq-nr_1)_[86262,91895]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_3_(dbseq-nr_2)_[1243100,1249400]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_3_(dbseq-nr_2)_[1254150,1266875]	mixture	mixture	mixture	unknown	-	RT|reina RNaseH|pyret INT|v_clade AP|cog5550
+chromosome_3_(dbseq-nr_2)_[1267119,1276103]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_3_(dbseq-nr_2)_[188971,197662]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+chromosome_3_(dbseq-nr_2)_[209306,216369]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_3_(dbseq-nr_2)_[256469,263099]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|tork RT|1731 RNaseH|sire
+chromosome_3_(dbseq-nr_2)_[266163,272799]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|oryco RT|tork RNaseH|copia
+chromosome_3_(dbseq-nr_2)_[2881453,2886578]	LTR	Copia	retrofit	no	-	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_3_(dbseq-nr_2)_[3357637,3362866]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_3_(dbseq-nr_2)_[3369266,3374856]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_3_(dbseq-nr_2)_[3375016,3379926]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_3_(dbseq-nr_2)_[3935243,3948168]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|gypsy INT|tat
+chromosome_3_(dbseq-nr_2)_[3961794,3966916]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_3_(dbseq-nr_2)_[411799,418438]	LTR	Copia	mixture	yes	-	GAG|tork AP|ty1/copia INT|oryco RT|pCretro RNaseH|codi_d
+chromosome_3_(dbseq-nr_2)_[469054,475623]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|1731 RNaseH|sire
+chromosome_3_(dbseq-nr_2)_[4775431,4780551]	LTR	Copia	retrofit	no	-	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_3_(dbseq-nr_2)_[5069145,5076283]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_3_(dbseq-nr_2)_[539142,545452]	LTR	Gypsy	v_clade	no	+	AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_3_(dbseq-nr_2)_[639231,645727]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_3_(dbseq-nr_2)_[6906688,6913902]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_3_(dbseq-nr_2)_[7465414,7471212]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_3_(dbseq-nr_2)_[7690678,7695287]	LTR	Copia	retrofit	no	-	AP|retrofit INT|retrofit RNaseH|sire
+chromosome_3_(dbseq-nr_2)_[7727773,7730138]	LTR	Gypsy	v_clade	no	-	INT|v_clade
+chromosome_3_(dbseq-nr_2)_[7730667,7739084]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_3_(dbseq-nr_2)_[7859977,7866854]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|osvaldo INT|tat
+chromosome_3_(dbseq-nr_2)_[7940563,7943294]	LTR	Copia	codi_d	no	+	RNaseH|codi_d
+chromosome_3_(dbseq-nr_2)_[8286240,8293045]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_4_(dbseq-nr_3)_[1052482,1057032]	LTR	Copia	sire	no	+	RNaseH|sire
+chromosome_4_(dbseq-nr_3)_[10927900,10934660]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_4_(dbseq-nr_3)_[10935718,10942790]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_4_(dbseq-nr_3)_[10958265,10965024]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_4_(dbseq-nr_3)_[1113501,1120623]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_4_(dbseq-nr_3)_[1416408,1429295]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_4_(dbseq-nr_3)_[1729957,1737124]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_4_(dbseq-nr_3)_[1914309,1920638]	LTR	Gypsy	v_clade	no	+	AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_4_(dbseq-nr_3)_[2034578,2040240]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_4_(dbseq-nr_3)_[2045908,2051501]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_4_(dbseq-nr_3)_[2105482,2115643]	LTR	Gypsy	v_clade	no	-	AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_4_(dbseq-nr_3)_[2118917,2125559]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_4_(dbseq-nr_3)_[2161953,2171538]	LTR	Copia	copia	no	?	RNaseH|copia RT|copia AP|ty1/copia
+chromosome_4_(dbseq-nr_3)_[2203903,2210803]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_4_(dbseq-nr_3)_[2243983,2250398]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|codi_d
+chromosome_4_(dbseq-nr_3)_[3239718,3245303]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_4_(dbseq-nr_3)_[3498801,3504409]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_4_(dbseq-nr_3)_[377749,383031]	LTR	Copia	copia	no	-	INT|tork RT|copia RNaseH|copia
+chromosome_4_(dbseq-nr_3)_[3987839,3994914]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_4_(dbseq-nr_3)_[400151,405151]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|sire
+chromosome_4_(dbseq-nr_3)_[4021780,4027109]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_4_(dbseq-nr_3)_[426840,433678]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_4_(dbseq-nr_3)_[4524988,4530140]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|copia RNaseH|copia
+chromosome_4_(dbseq-nr_3)_[5221071,5227585]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+chromosome_4_(dbseq-nr_3)_[640132,645810]	LTR	Copia	mixture	no	-	AP|pseudovirus INT|tork RT|sire RNaseH|copia
+chromosome_4_(dbseq-nr_3)_[7151727,7158841]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_4_(dbseq-nr_3)_[728876,737184]	LTR	Copia	mixture	no	?	RT|1731 RNaseH|copia AP|ty1/copia
+chromosome_4_(dbseq-nr_3)_[7879327,7885301]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|pCretro RNaseH|sire
+chromosome_4_(dbseq-nr_3)_[8686180,8693028]	LTR	Gypsy	mixture	no	+	RT|v_clade RNaseH|pyret INT|crm
+chromosome_4_(dbseq-nr_3)_[877992,884772]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_4_(dbseq-nr_3)_[958625,965522]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|tat
+chromosome_4_(dbseq-nr_3)_[966005,970958]	LTR	Copia	sire	no	-	INT|tork RT|sire RNaseH|sire
+chromosome_4_(dbseq-nr_3)_[9856028,9865166]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|tat
+chromosome_4_(dbseq-nr_3)_[985970,995311]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|tork RT|1731 RNaseH|copia
+chromosome_4_(dbseq-nr_3)_[9865267,9872578]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_4_(dbseq-nr_3)_[9875112,9882062]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_4_(dbseq-nr_3)_[9884945,9889968]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_5_(dbseq-nr_4)_[1144832,1150794]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|pCretro RNaseH|sire
+chromosome_5_(dbseq-nr_4)_[123469,129562]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|oryco RT|tork RNaseH|codi_d
+chromosome_5_(dbseq-nr_4)_[3853613,3858836]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_5_(dbseq-nr_4)_[5192730,5197115]	LTR	Copia	mixture	no	+	RT|copia RNaseH|sire
+chromosome_5_(dbseq-nr_4)_[5843750,5848658]	LTR	Copia	sire	no	-	INT|tork RT|sire RNaseH|sire
+chromosome_5_(dbseq-nr_4)_[611590,616525]	LTR	Copia	sire	no	-	INT|tork RT|sire RNaseH|sire
+chromosome_5_(dbseq-nr_4)_[6175305,6181236]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+chromosome_5_(dbseq-nr_4)_[6298489,6304555]	LTR	Caulimoviridae	caulimovirus	no	-	AP|caulimovirus
+chromosome_5_(dbseq-nr_4)_[6353271,6358301]	LTR	Gypsy	v_clade	no	+	GAG|TF RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_5_(dbseq-nr_4)_[6378569,6385348]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_5_(dbseq-nr_4)_[6394116,6400940]	LTR	Copia	pCretro	no	+	RT|pCretro
+chromosome_5_(dbseq-nr_4)_[6448827,6458581]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|v_clade INT|crm
+chromosome_5_(dbseq-nr_4)_[6459081,6464904]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret INT|v_clade CHR|all
+chromosome_5_(dbseq-nr_4)_[6465246,6472616]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|hydra RNaseH|tork
+chromosome_5_(dbseq-nr_4)_[6884146,6889947]	LTR	Copia	copia	no	+	AP|ty1/copia INT|copia RT|tork RNaseH|copia
+chromosome_5_(dbseq-nr_4)_[7063744,7071154]	LTR	Gypsy	v_clade	no	-	AP|bel RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_5_(dbseq-nr_4)_[7132830,7137956]	LTR	Copia	retrofit	no	-	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_5_(dbseq-nr_4)_[726172,731151]	LTR	Copia	sire	no	-	INT|tork RT|sire RNaseH|sire
+chromosome_6_(dbseq-nr_5)_[103508,109935]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|pCretro RNaseH|copia
+chromosome_6_(dbseq-nr_5)_[1049872,1056931]	mixture	mixture	mixture	unknown	+	AP|cog5550 RT|reina RNaseH|17_6 INT|gmr1
+chromosome_6_(dbseq-nr_5)_[1061521,1068277]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|pyret INT|v_clade
+chromosome_6_(dbseq-nr_5)_[3805191,3809942]	LTR	Copia	oryco	no	+	INT|oryco
+chromosome_6_(dbseq-nr_5)_[3815063,3825612]	LTR	mixture	mixture	unknown	?	RT|del RNaseH|v_clade AP|ty1/copia INT|copia
+chromosome_6_(dbseq-nr_5)_[3832965,3839438]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|tork
+chromosome_6_(dbseq-nr_5)_[3844456,3850734]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_6_(dbseq-nr_5)_[3867950,3874713]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_6_(dbseq-nr_5)_[3877578,3882021]	LTR	Copia	tork	no	-	RT|tork
+chromosome_6_(dbseq-nr_5)_[3883419,3893256]	LTR	Gypsy	mixture	no	+	RNaseH|pyret RT|reina INT|v_clade
+chromosome_6_(dbseq-nr_5)_[4057378,4063674]	LTR	Copia	copia	no	-	INT|copia RT|copia RNaseH|copia
+chromosome_6_(dbseq-nr_5)_[4313695,4318593]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RNaseH|sire
+chromosome_6_(dbseq-nr_5)_[4720392,4729050]	mixture	mixture	mixture	unknown	-	AP|cog5550 RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_6_(dbseq-nr_5)_[4729820,4736036]	mixture	mixture	mixture	unknown	-	AP|cog5550 RT|reina RNaseH|del INT|gmr1
+chromosome_6_(dbseq-nr_5)_[5595574,5602709]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|tork RT|1731 RNaseH|sire
+chromosome_6_(dbseq-nr_5)_[573870,580131]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_6_(dbseq-nr_5)_[5983874,5989585]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_6_(dbseq-nr_5)_[6063218,6068806]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_6_(dbseq-nr_5)_[6491466,6505185]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_6_(dbseq-nr_5)_[65505,70751]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_6_(dbseq-nr_5)_[6598793,6605093]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_6_(dbseq-nr_5)_[7034295,7041128]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_6_(dbseq-nr_5)_[769908,777094]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_6_(dbseq-nr_5)_[851603,858228]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|tat
+chromosome_6_(dbseq-nr_5)_[998112,1011793]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|crm GAG|v_clade
+chromosome_7_(dbseq-nr_6)_[115139,121872]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_7_(dbseq-nr_6)_[1771694,1781151]	LTR	Copia	tork	no	+	INT|tork RT|tork
+chromosome_7_(dbseq-nr_6)_[1812924,1819598]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_7_(dbseq-nr_6)_[1829082,1830768]	LTR	Gypsy	17_6	no	-	RNaseH|17_6
+chromosome_7_(dbseq-nr_6)_[2569123,2573465]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|17_6 INT|gmr1
+chromosome_7_(dbseq-nr_6)_[2641630,2649592]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+chromosome_7_(dbseq-nr_6)_[2922296,2927415]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_7_(dbseq-nr_6)_[295101,298792]	LTR	Copia	mixture	no	-	RT|copia RNaseH|codi_d
+chromosome_7_(dbseq-nr_6)_[3032595,3037462]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RNaseH|tork
+chromosome_7_(dbseq-nr_6)_[3080319,3086939]	LTR	Copia	copia	no	+	AP|ty1/copia INT|tork RT|copia RNaseH|copia
+chromosome_7_(dbseq-nr_6)_[3103261,3110366]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_7_(dbseq-nr_6)_[3245308,3251393]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|oryco RT|tork RNaseH|codi_d
+chromosome_7_(dbseq-nr_6)_[3338003,3346446]	LTR	Copia	pseudovirus	no	-	RT|pseudovirus
+chromosome_7_(dbseq-nr_6)_[3378357,3384807]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|pCretro RNaseH|sire
+chromosome_7_(dbseq-nr_6)_[3401720,3409311]	LTR	Gypsy	mixture	no	+	AP|17_6 RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_7_(dbseq-nr_6)_[3452035,3464054]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|gypsy INT|gmr1
+chromosome_7_(dbseq-nr_6)_[3478485,3484822]	LTR	Copia	copia	no	+	AP|ty1/copia INT|tork RT|copia RNaseH|copia
+chromosome_7_(dbseq-nr_6)_[3725725,3730654]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_7_(dbseq-nr_6)_[3767419,3773929]	LTR	Copia	copia	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|copia
+chromosome_7_(dbseq-nr_6)_[3781827,3785484]	LTR	Copia	mixture	no	-	RT|1731 RNaseH|copia
+chromosome_7_(dbseq-nr_6)_[3843265,3849079]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|pyret INT|v_clade
+chromosome_7_(dbseq-nr_6)_[3851757,3862983]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_7_(dbseq-nr_6)_[4367024,4372174]	LTR	Copia	sire	no	+	RT|sire RNaseH|sire
+chromosome_7_(dbseq-nr_6)_[4396726,4403460]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|sire RNaseH|tork
+chromosome_7_(dbseq-nr_6)_[4660101,4671251]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|codi_d
+chromosome_7_(dbseq-nr_6)_[4705780,4713112]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|tat
+chromosome_7_(dbseq-nr_6)_[4732853,4744389]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+chromosome_7_(dbseq-nr_6)_[4808706,4814196]	LTR	Copia	oryco	no	+	AP|ty1/copia INT|oryco RNaseH|oryco
+chromosome_7_(dbseq-nr_6)_[4985607,4991958]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_7_(dbseq-nr_6)_[4997405,5002315]	LTR	Copia	mixture	no	+	INT|tork RT|hydra RNaseH|sire
+chromosome_7_(dbseq-nr_6)_[5592179,5598732]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+chromosome_7_(dbseq-nr_6)_[5745612,5752166]	LTR	Copia	copia	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|copia
+chromosome_7_(dbseq-nr_6)_[5818383,5824207]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret INT|v_clade CHR|all
+chromosome_7_(dbseq-nr_6)_[6110198,6124910]	LTR	Gypsy	v_clade	no	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade
+chromosome_7_(dbseq-nr_6)_[6128471,6135607]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_7_(dbseq-nr_6)_[6183498,6196629]	LTR	Copia	tork	no	-	INT|tork
+chromosome_7_(dbseq-nr_6)_[6200439,6208911]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_7_(dbseq-nr_6)_[6219448,6227907]	LTR	Gypsy	mixture	no	+	AP|tat RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_7_(dbseq-nr_6)_[6234999,6240223]	LTR	Copia	copia	no	-	AP|ty1/copia INT|copia RT|tork RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[1011553,1018972]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_8_(dbseq-nr_7)_[1257860,1264320]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+chromosome_8_(dbseq-nr_7)_[1584719,1591878]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|tat
+chromosome_8_(dbseq-nr_7)_[1892304,1906777]	LTR	Gypsy	v_clade	no	-	RT|reina RNaseH|v_clade INT|v_clade
+chromosome_8_(dbseq-nr_7)_[1935360,1943708]	LTR	Gypsy	mixture	no	-	INT|a_clade RT|pyret
+chromosome_8_(dbseq-nr_7)_[1959702,1964717]	LTR	Copia	mixture	no	-	INT|retrofit RT|sire RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[1988872,1995303]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|tork RT|1731 RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[2006730,2011865]	LTR	Copia	retrofit	no	-	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[2126527,2131544]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|sire
+chromosome_8_(dbseq-nr_7)_[2132558,2135241]	LTR	Gypsy	v_clade	no	-	INT|v_clade
+chromosome_8_(dbseq-nr_7)_[2396133,2402772]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|1731 RNaseH|sire
+chromosome_8_(dbseq-nr_7)_[2440299,2446937]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|oryco RT|tork RNaseH|codi_d
+chromosome_8_(dbseq-nr_7)_[2702073,2705234]	LTR	Copia	copia	no	+	RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[2955445,2962012]	LTR	Copia	copia	no	+	AP|ty1/copia INT|tork RT|copia RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[3031493,3038923]	LTR	Copia	copia	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[3061242,3067580]	LTR	Copia	copia	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[307033,312156]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[3079034,3085381]	LTR	Copia	copia	no	+	AP|ty1/copia INT|tork RT|copia RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[3152763,3158953]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|sire
+chromosome_8_(dbseq-nr_7)_[3162014,3173983]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|gypsy INT|tat
+chromosome_8_(dbseq-nr_7)_[3199326,3200983]	LTR	Copia	ty1/copia	no	-	AP|ty1/copia
+chromosome_8_(dbseq-nr_7)_[3632380,3639521]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_8_(dbseq-nr_7)_[3656645,3664135]	LTR	Gypsy	mixture	no	+	AP|micropia_mdg3 RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_8_(dbseq-nr_7)_[3786676,3793133]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+chromosome_8_(dbseq-nr_7)_[401287,407045]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|tork RT|pseudovirus RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[433005,439400]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|1731 RNaseH|sire
+chromosome_8_(dbseq-nr_7)_[639088,644361]	LTR	Copia	mixture	no	+	AP|pseudovirus INT|tork RT|sire RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[716440,721568]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_8_(dbseq-nr_7)_[881943,888591]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|tat
+chromosome_8_(dbseq-nr_7)_[934995,949405]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_9_(dbseq-nr_8)_[10087,17154]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_9_(dbseq-nr_8)_[10264408,10276355]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|osvaldo INT|tat
+chromosome_9_(dbseq-nr_8)_[10388650,10395220]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_9_(dbseq-nr_8)_[10435929,10442331]	LTR	Copia	copia	no	+	AP|ty1/copia INT|tork RT|copia RNaseH|copia
+chromosome_9_(dbseq-nr_8)_[10642440,10645108]	LTR	Copia	retrofit	no	-	INT|retrofit
+chromosome_9_(dbseq-nr_8)_[10724299,10731426]	LTR	Gypsy	v_clade	no	-	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_9_(dbseq-nr_8)_[10744009,10751692]	mixture	mixture	mixture	unknown	-	INT|v_clade CHR|all
+chromosome_9_(dbseq-nr_8)_[10756660,10762464]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_9_(dbseq-nr_8)_[10793741,10800889]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|gypsy INT|tat
+chromosome_9_(dbseq-nr_8)_[10830291,10836526]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|osvaldo INT|tat
+chromosome_9_(dbseq-nr_8)_[1126390,1131396]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_9_(dbseq-nr_8)_[1461039,1466878]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_9_(dbseq-nr_8)_[1483046,1488854]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|412-mdg1 INT|tat
+chromosome_9_(dbseq-nr_8)_[17333,24526]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_9_(dbseq-nr_8)_[1806402,1811326]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|tat
+chromosome_9_(dbseq-nr_8)_[182573,188982]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+chromosome_9_(dbseq-nr_8)_[1885899,1892148]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|del INT|gmr1
+chromosome_9_(dbseq-nr_8)_[2020242,2031301]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_9_(dbseq-nr_8)_[2226087,2231313]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|tork RT|sire RNaseH|copia
+chromosome_9_(dbseq-nr_8)_[2844672,2856569]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|crm
+chromosome_9_(dbseq-nr_8)_[2886654,2893766]	LTR	Gypsy	reina	no	+	RT|reina
+chromosome_9_(dbseq-nr_8)_[2907326,2913597]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+chromosome_9_(dbseq-nr_8)_[2943162,2954111]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_9_(dbseq-nr_8)_[3051448,3057320]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_9_(dbseq-nr_8)_[3063165,3071994]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|tat
+chromosome_9_(dbseq-nr_8)_[3136413,3141673]	LTR	Copia	sire	no	+	AP|ty1/copia INT|copia RT|sire RNaseH|sire
+chromosome_9_(dbseq-nr_8)_[3176876,3182720]	Unknown	unknown	cog5550	unknown	+	AP|cog5550
+chromosome_9_(dbseq-nr_8)_[3197679,3205146]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_9_(dbseq-nr_8)_[3215467,3222143]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|pyret INT|v_clade
+chromosome_9_(dbseq-nr_8)_[3228042,3230933]	LTR	Gypsy	v_clade	no	-	RT|v_clade
+chromosome_9_(dbseq-nr_8)_[3243655,3249456]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_9_(dbseq-nr_8)_[3460161,3465658]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|tat
+chromosome_9_(dbseq-nr_8)_[3475801,3483343]	LTR	Gypsy	v_clade	no	+	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_9_(dbseq-nr_8)_[3484526,3491296]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|del INT|gmr1
+chromosome_9_(dbseq-nr_8)_[3493759,3499624]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_9_(dbseq-nr_8)_[3553424,3560273]	LTR	Gypsy	mixture	no	+	AP|athila RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_9_(dbseq-nr_8)_[3562425,3566883]	LTR	Gypsy	cer2-3	no	+	RNaseH|cer2-3
+chromosome_9_(dbseq-nr_8)_[3665237,3670946]	LTR	Copia	tork	no	-	INT|tork RT|tork RNaseH|copia
+chromosome_9_(dbseq-nr_8)_[3742836,3748633]	LTR	Copia	tork	no	+	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_9_(dbseq-nr_8)_[3832033,3837157]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit RT|tork RNaseH|copia
+chromosome_9_(dbseq-nr_8)_[4051036,4057664]	LTR	Gypsy	v_clade	no	+	RNaseH|v_clade INT|v_clade
+chromosome_9_(dbseq-nr_8)_[4075332,4081199]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|v_clade
+chromosome_9_(dbseq-nr_8)_[4088166,4101411]	LTR	Gypsy	v_clade	no	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade
+chromosome_9_(dbseq-nr_8)_[4697043,4703595]	LTR	Copia	tork	no	+	AP|ty1/copia INT|retrofit RT|tork RNaseH|tork
+chromosome_9_(dbseq-nr_8)_[4726995,4741068]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_9_(dbseq-nr_8)_[4752045,4759111]	mixture	mixture	mixture	unknown	+	AP|cog5550 RT|reina RNaseH|17_6 INT|gmr1
+chromosome_9_(dbseq-nr_8)_[4823689,4830359]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_9_(dbseq-nr_8)_[4832226,4839414]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_9_(dbseq-nr_8)_[4856623,4862841]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|sire RT|1731 RNaseH|codi_d
+chromosome_9_(dbseq-nr_8)_[4944119,4949902]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|sire
+chromosome_9_(dbseq-nr_8)_[4959103,4972455]	LTR	mixture	mixture	unknown	-	RT|reina RNaseH|tork
+chromosome_9_(dbseq-nr_8)_[4984783,4996864]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|del INT|tat
+chromosome_9_(dbseq-nr_8)_[5006074,5012605]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+chromosome_9_(dbseq-nr_8)_[5029344,5035007]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_9_(dbseq-nr_8)_[5050057,5057682]	LTR	Gypsy	v_clade	no	+	GAG|v_clade RT|v_clade RNaseH|v_clade INT|v_clade
+chromosome_9_(dbseq-nr_8)_[5465824,5472879]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_9_(dbseq-nr_8)_[5530702,5536716]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|gypsy INT|tat
+chromosome_9_(dbseq-nr_8)_[5637974,5643694]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|412-mdg1 INT|tat
+chromosome_9_(dbseq-nr_8)_[5644772,5651542]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|pyret INT|v_clade
+chromosome_9_(dbseq-nr_8)_[5657259,5663037]	LTR	Copia	tork	no	-	AP|ty1/copia INT|tork RT|tork RNaseH|copia
+chromosome_9_(dbseq-nr_8)_[5897813,5904874]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_9_(dbseq-nr_8)_[6796883,6803953]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|sire
+chromosome_9_(dbseq-nr_8)_[6898665,6905803]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_9_(dbseq-nr_8)_[7323095,7328890]	LTR	Gypsy	v_clade	yes	+	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret INT|v_clade CHR|all
+chromosome_9_(dbseq-nr_8)_[8574704,8579743]	LTR	Copia	retrofit	no	+	AP|retrofit INT|retrofit
+chromosome_9_(dbseq-nr_8)_[8587722,8593276]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_9_(dbseq-nr_8)_[8853148,8860208]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|v_clade INT|v_clade CHR|retroelement
+chromosome_9_(dbseq-nr_8)_[8899222,8905326]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|codi_d
+chromosome_9_(dbseq-nr_8)_[8911816,8917130]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|oryco RT|pCretro RNaseH|codi_d
+chromosome_9_(dbseq-nr_8)_[8941044,8946631]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+chromosome_9_(dbseq-nr_8)_[9353933,9359757]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|v_clade RT|v_clade RNaseH|pyret INT|v_clade CHR|all
+chromosome_9_(dbseq-nr_8)_[9360952,9371298]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_9_(dbseq-nr_8)_[9426428,9431068]	LTR	Copia	mixture	no	+	AP|ty1/copia INT|sire RT|1731 RNaseH|tork
+chromosome_9_(dbseq-nr_8)_[9522348,9528723]	LTR	Copia	copia	no	+	AP|ty1/copia INT|tork RT|copia RNaseH|copia
+chromosome_9_(dbseq-nr_8)_[9611482,9617844]	LTR	Copia	mixture	no	-	AP|ty1/copia INT|oryco RT|copia RNaseH|sire
+chromosome_9_(dbseq-nr_8)_[9908025,9918805]	LTR	Copia	copia	no	+	AP|ty1/copia INT|retrofit RT|copia RNaseH|copia
+scaffold_27_(dbseq-nr_26)_[12314,20152]	Unknown	unknown	cog5550	unknown	-	AP|cog5550
+scaffold_35_(dbseq-nr_34)_[8899,23265]	LTR	Gypsy	v_clade	yes	-	GAG|v_clade AP|pyret RT|v_clade RNaseH|v_clade INT|v_clade CHR|all
+scaffold_38_(dbseq-nr_37)_[16670,25597]	mixture	mixture	mixture	unknown	+	AP|cog5550 RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_38_(dbseq-nr_37)_[826,8025]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_38_(dbseq-nr_37)_[9350,16659]	LTR	Gypsy	mixture	no	-	RT|v_clade RNaseH|pyret INT|crm
+scaffold_41_(dbseq-nr_40)_[11939,19467]	LTR	Gypsy	v_clade	no	-	AP|bel RT|v_clade RNaseH|v_clade INT|v_clade
+scaffold_42_(dbseq-nr_41)_[5464,12933]	LTR	Gypsy	v_clade	no	-	RT|v_clade RNaseH|pyret INT|v_clade
+scaffold_57_(dbseq-nr_56)_[3170,11124]	LTR	Gypsy	mixture	no	-	RT|reina RNaseH|cer2-3 INT|gmr1
+scaffold_80_(dbseq-nr_79)_[1372,9841]	LTR	Gypsy	mixture	no	+	RT|reina RNaseH|cer2-3 INT|gmr1
+chromosome_1_(dbseq-nr_0)_[3276929,3278415]	LTR	Gypsy	unknown	none	?	none
+chromosome_2_(dbseq-nr_1)_[3411762,3416010]	LTR	Gypsy	unknown	none	?	none
+chromosome_2_(dbseq-nr_1)_[6471017,6472966]	Unknown	unknown	unknown	none	?	none
+chromosome_2_(dbseq-nr_1)_[7265008,7266491]	LTR	Gypsy	unknown	none	?	none
+chromosome_3_(dbseq-nr_2)_[1731885,1736115]	LTR	Gypsy	unknown	none	?	none
+chromosome_3_(dbseq-nr_2)_[3008609,3014972]	LTR	Gypsy	unknown	none	?	none
+chromosome_4_(dbseq-nr_3)_[1487268,1490996]	LTR	Gypsy	unknown	none	?	none
+chromosome_4_(dbseq-nr_3)_[10906541,10910647]	LTR	Gypsy	unknown	none	?	none
+chromosome_7_(dbseq-nr_6)_[1806054,1811464]	LTR	Gypsy	unknown	none	?	none
+chromosome_7_(dbseq-nr_6)_[2544899,2550268]	LTR	Gypsy	unknown	none	?	none
+chromosome_7_(dbseq-nr_6)_[3941065,3943464]	LTR	Gypsy	unknown	none	?	none
+chromosome_8_(dbseq-nr_7)_[949463,951428]	LTR	Gypsy	unknown	none	?	none
+chromosome_8_(dbseq-nr_7)_[2026597,2032062]	LTR	Gypsy	unknown	none	?	none
+chromosome_9_(dbseq-nr_8)_[2954599,2956659]	LTR	Gypsy	unknown	none	?	none
+chromosome_9_(dbseq-nr_8)_[3125620,3129769]	LTR	Gypsy	unknown	none	?	none
+chromosome_9_(dbseq-nr_8)_[3407374,3412635]	LTR	Gypsy	unknown	none	?	none
+chromosome_9_(dbseq-nr_8)_[5114986,5116782]	Unknown	unknown	unknown	none	?	none
+chromosome_9_(dbseq-nr_8)_[10782857,10791012]	LTR	Gypsy	unknown	none	?	none
+chromosome_10_(dbseq-nr_9)_[3374583,3380147]	LTR	Gypsy	unknown	none	?	none
+chromosome_12_(dbseq-nr_11)_[4884434,4889161]	LTR	Gypsy	unknown	none	?	none
+scaffold_76_(dbseq-nr_75)_[1308,4945]	LTR	Gypsy	unknown	none	?	none
