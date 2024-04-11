@@ -21,6 +21,9 @@ cdhit = importdatacdhit('cdhitresultsaSaL70_neosp1.txt');
 %Import LTR classification from TEsorter
 ltrclassification = importtesorter('tesorterresults_neosp1.txt');
 
+%Import BLAST results from promoters
+
+BLASTresults_promoters = importdata_promoters('shortened_querypromoter_dbneosp1.txt');
 
 %% function to match clustered ltr retrotransposons to rpkm values
 disp('Matching rpkm to LTRs in clusters')
@@ -29,6 +32,10 @@ clusteredltrs_rpkm = matchrpkmtoltr(BLASTresults, cdhit);
 %% matches clustered ltr retrotransposons to ltr data from ltrharvest
 disp('Matching LTR data to clusters')
 clusteredltrs_ltrdata = matchltrtodata(clusteredltrs_rpkm, ltrlengths, ltrname, ltrclassification);
+
+%% function to match clustered ltr retrotransposons to promoters 
+clusteredltrs_ltrdata = matchltrtopromoter(clusteredltrs_ltrdata, BLASTresults_promoters);
+
 
 %% counting clusters
 disp('Counting clusters')
